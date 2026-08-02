@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2036298575596982668",
+    "created_at": "2026-03-24T04:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T05:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036298575596982668"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036298575596982668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每天都看到有同类自杀好像已经成为了某种日常 固然悲伤 但更悲伤的是因为频率太高 现在看到已经几乎麻木了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2036298575596982668",
+        "created_at": "2026-03-24T04:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T05:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036298575596982668"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036298575596982668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天都看到有同类自杀好像已经成为了某种日常 固然悲伤 但更悲伤的是因为频率太高 现在看到已经几乎麻木了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035886196761542656/0cI4TLVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 221,
+          "like_count": 123,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 94
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,485 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079704570389786624",
+        "13_2079704570373058560"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2079704705790329015",
+    "created_at": "2026-07-21T23:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T23:56:24.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079702058819584356",
+      "2079704705790329015"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "反差"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8cOnDbmXqE",
+          "end": 50,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2079704705790329015/video/1",
+          "media_key": "13_2079704570389786624",
+          "start": 27,
+          "url": "https://t.co/8cOnDbmXqE"
+        },
+        {
+          "display_url": "pic.x.com/8cOnDbmXqE",
+          "end": 50,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2079704705790329015/video/1",
+          "media_key": "13_2079704570373058560",
+          "start": 27,
+          "url": "https://t.co/8cOnDbmXqE"
+        },
+        {
+          "display_url": "x.com/amber_medusozo…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/amber_medusozoa/status/2079665172751269985",
+          "start": 51,
+          "url": "https://t.co/petIBV0Hf0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079704705790329015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079665172751269985",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "平日里非常严格且性格超级差的英语老师败北之后 #反差 https://t.co/8cOnDbmXqE https://t.co/petIBV0Hf0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2951,
+        "height": 1714,
+        "media_key": "13_2079704570389786624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079704570389786624/img/IsHYpJ5pduhOiF-V.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079704570389786624/vid/avc1/480x638/h4ZX2qM_Rlqpo5zC.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079704570389786624/vid/avc1/1286x1714/csipignHt4IKywKh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079704570389786624/vid/avc1/720x958/tqwpPFa3MgpXjaqC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079704570389786624/pl/O1opkPO4q8jCioOo.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079704570389786624/vid/avc1/320x426/-R2q74dxZJap6gig.mp4"
+          }
+        ],
+        "width": 1286
+      },
+      {
+        "duration_ms": 3261,
+        "height": 3024,
+        "media_key": "13_2079704570373058560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079704570373058560/img/mqAvPIZSjSmsUy6Z.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079704570373058560/vid/avc1/2160x3024/BkBbuEX8a6MQ-az0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079704570373058560/pl/gTpCQju0Js1VTCqk.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079704570373058560/vid/avc1/480x672/P4B1_ide6OcNUoFH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079704570373058560/vid/avc1/720x1008/bOW5LmG-Jc4V3aVs.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079704570373058560/vid/avc1/320x448/KJIXznmOtH6haq9S.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079704570373058560/vid/avc1/1080x1512/AEq-umrq7lEdoZj-.mp4"
+          }
+        ],
+        "width": 2160
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079665168951234560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNx0c98XUAAh8pE.jpg",
+        "width": 1462
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079665168951164928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNx0c98WQAAwNRD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079665168955428864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNx0c99XUAAX7K4.jpg",
+        "width": 1462
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079702055019479040",
+            "3_2079702055015297024"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2079702058819584356",
+        "created_at": "2026-07-21T22:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T23:56:24.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079702058819584356",
+          "2079704705790329015"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gZ82A0gXLX",
+              "end": 50,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2079702058819584356/photo/1",
+              "media_key": "3_2079702055019479040",
+              "start": 27,
+              "url": "https://t.co/gZ82A0gXLX"
+            },
+            {
+              "display_url": "pic.x.com/gZ82A0gXLX",
+              "end": 50,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2079702058819584356/photo/1",
+              "media_key": "3_2079702055015297024",
+              "start": 27,
+              "url": "https://t.co/gZ82A0gXLX"
+            },
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2079665172751269985",
+              "start": 51,
+              "url": "https://t.co/petIBV0Hf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079702058819584356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 68,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079665172751269985",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "平日里非常严格且性格超级差的英语老师败北之后 #反差 https://t.co/gZ82A0gXLX https://t.co/petIBV0Hf0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079704570389786624",
+            "13_2079704570373058560"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2079704705790329015",
+        "created_at": "2026-07-21T23:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T23:56:24.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079702058819584356",
+          "2079704705790329015"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8cOnDbmXqE",
+              "end": 50,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2079704705790329015/video/1",
+              "media_key": "13_2079704570389786624",
+              "start": 27,
+              "url": "https://t.co/8cOnDbmXqE"
+            },
+            {
+              "display_url": "pic.x.com/8cOnDbmXqE",
+              "end": 50,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2079704705790329015/video/1",
+              "media_key": "13_2079704570373058560",
+              "start": 27,
+              "url": "https://t.co/8cOnDbmXqE"
+            },
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2079665172751269985",
+              "start": 51,
+              "url": "https://t.co/petIBV0Hf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079704705790329015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079665172751269985",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "平日里非常严格且性格超级差的英语老师败北之后 #反差 https://t.co/8cOnDbmXqE https://t.co/petIBV0Hf0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079665168951234560",
+            "3_2079665168951164928",
+            "3_2079665168955428864"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2079665172751269985",
+        "created_at": "2026-07-21T20:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T21:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079665172751269985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1362497240682483716",
+              "start": 17,
+              "username": "ZhaoXi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lCGUuq2v8n",
+              "end": 49,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2079665172751269985/photo/1",
+              "media_key": "3_2079665168951234560",
+              "start": 26,
+              "url": "https://t.co/lCGUuq2v8n"
+            },
+            {
+              "display_url": "pic.x.com/lCGUuq2v8n",
+              "end": 49,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2079665172751269985/photo/1",
+              "media_key": "3_2079665168951164928",
+              "start": 26,
+              "url": "https://t.co/lCGUuq2v8n"
+            },
+            {
+              "display_url": "pic.x.com/lCGUuq2v8n",
+              "end": 49,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2079665172751269985/photo/1",
+              "media_key": "3_2079665168955428864",
+              "start": 26,
+              "url": "https://t.co/lCGUuq2v8n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079665172751269985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 516,
+          "like_count": 42,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天又去当狗了 很开心\n\n🏠📷🪢 @ZhaoXi_ https://t.co/lCGUuq2v8n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "前世 @amber_toffee\n🏳️‍⚧️☭ she/her #药娘\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 76,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 53,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6872,
+          "following_count": 1168,
+          "like_count": 6853,
+          "listed_count": 10,
+          "media_count": 352,
+          "tweet_count": 3934
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

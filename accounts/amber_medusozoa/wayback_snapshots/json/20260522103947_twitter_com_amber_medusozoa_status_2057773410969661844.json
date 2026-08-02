@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2057765895921951218",
+    "created_at": "2026-05-22T10:39:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T11:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057773410969661844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1577604694759067656",
+          "start": 0,
+          "username": "Deliaforstar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057773410969661844",
+    "in_reply_to_user_id": "1577604694759067656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057769876492784104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Deliaforstar 没有捏 为什么问这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2057765895921951218",
+        "created_at": "2026-05-22T10:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057773410969661844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1577604694759067656",
+              "start": 0,
+              "username": "Deliaforstar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057773410969661844",
+        "in_reply_to_user_id": "1577604694759067656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057769876492784104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Deliaforstar 没有捏 为什么问这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577604694759067656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2057765895921951218",
+        "created_at": "2026-05-22T10:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057769876492784104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057769876492784104",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057765895921951218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa amber也是reddit鹅组常客？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/XWFKRZnw6Y"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2057203502472946047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057203465730801664/2vAIcjtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3812,
+          "following_count": 846,
+          "like_count": 3619,
+          "listed_count": 10,
+          "media_count": 58,
+          "tweet_count": 1583
+        },
+        "url": "https://t.co/XWFKRZnw6Y",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-05T10:21:06.000Z",
+        "description": "我在等待一个没有未来的结局",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "huafenchi.com",
+                "end": 23,
+                "expanded_url": "http://huafenchi.com",
+                "start": 0,
+                "url": "https://t.co/5DaDE3DF10"
+              }
+            ]
+          }
+        },
+        "id": "1577604694759067656",
+        "location": "yyf梦想豪宅的化粪池",
+        "name": "starstarstar",
+        "pinned_tweet_id": "1596024470690725889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045799713631518720/uv-tB0fQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 278,
+          "like_count": 1432,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 503
+        },
+        "url": "https://t.co/5DaDE3DF10",
+        "username": "Deliaforstar",
+        "verified": false
+      }
+    ]
+  }
+}

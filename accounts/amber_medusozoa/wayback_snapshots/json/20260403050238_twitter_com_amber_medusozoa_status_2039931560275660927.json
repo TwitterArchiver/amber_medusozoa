@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2039902384348913676",
+    "created_at": "2026-04-03T05:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T06:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039931560275660927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1564251283984650241",
+          "start": 0,
+          "username": "Citricat_miaow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039931560275660927",
+    "in_reply_to_user_id": "1564251283984650241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039931090186404222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citricat_miaow 我太笨了学不会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2039902384348913676",
+        "created_at": "2026-04-03T05:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T06:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039931560275660927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1564251283984650241",
+              "start": 0,
+              "username": "Citricat_miaow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039931560275660927",
+        "in_reply_to_user_id": "1564251283984650241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039931090186404222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citricat_miaow 我太笨了学不会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564251283984650241",
+        "conversation_id": "2039902384348913676",
+        "created_at": "2026-04-03T05:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T06:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039931090186404222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039931090186404222",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039902384348913676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 我认为amber当然很容易可以实现学会计算机的qwq，其实….."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2038459897726074909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 500,
+          "like_count": 926,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 596
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-29T13:59:12.000Z",
+        "description": "bisexual with gf,she/her, Language: Chinese, English, chiranny",
+        "id": "1564251283984650241",
+        "location": "Mitochondria ",
+        "name": "Citric acid",
+        "pinned_tweet_id": "1941305177346277612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663411578467938305/ypoACmu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 553,
+          "like_count": 11365,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 5344
+        },
+        "username": "Citricat_miaow",
+        "verified": false
+      }
+    ]
+  }
+}

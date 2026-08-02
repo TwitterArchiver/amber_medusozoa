@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051138603862921216"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2051138607256125768",
+    "created_at": "2026-05-04T03:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T04:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051138607256125768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 38,
+          "id": "1362497240682483716",
+          "start": 30,
+          "username": "ZhaoXi_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ht14AagVFq",
+          "end": 62,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2051138607256125768/photo/1",
+          "media_key": "3_2051138603862921216",
+          "start": 39,
+          "url": "https://t.co/Ht14AagVFq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051138607256125768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "女仆小姐的秋千\nthe maid’s swing\n\n🏠🪢📷 @ZhaoXi_ https://t.co/Ht14AagVFq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2051138607256125768].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2051138607256125768",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2051138607256125768"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051138603862921216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHcbsVxXEAAmff-.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🇨🇦 #多伦多 #药娘 #TS #trans \n💬 ¥150/240 ($30/50)\n🔞 nsfw only",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 3,
+                "tag": "多伦多"
+              },
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "药娘"
+              },
+              {
+                "end": 15,
+                "start": 12,
+                "tag": "TS"
+              },
+              {
+                "end": 22,
+                "start": 16,
+                "tag": "trans"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049527897036328960/hshFuKwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3471,
+          "following_count": 818,
+          "like_count": 3372,
+          "listed_count": 6,
+          "media_count": 31,
+          "tweet_count": 1371
+        },
+        "username": "amber_medusozoa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-18T20:20:43.000Z",
+        "description": "Switch(M), Shibari Only/碎碎念话痨bot/人在土伦土宅到失联/混乱邪恶同人女&菜鸡画手+摄影/CHN+ENG",
+        "id": "1362497240682483716",
+        "location": "大瀑布啊你全是水",
+        "name": "朝夕",
+        "pinned_tweet_id": "1688935996308500480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012652658029465601/VxvCsH7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48269,
+          "following_count": 363,
+          "like_count": 3274,
+          "listed_count": 85,
+          "media_count": 309,
+          "tweet_count": 3328
+        },
+        "username": "ZhaoXi_",
+        "verified": false
+      }
+    ]
+  }
+}

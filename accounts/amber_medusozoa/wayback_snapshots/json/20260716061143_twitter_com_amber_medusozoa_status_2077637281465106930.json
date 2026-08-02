@@ -1,0 +1,489 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Bumble",
+          "id": "1091831512075358208",
+          "name": "Bumble"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1220824190619545601",
+          "name": "Tinder"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Bumble",
+          "id": "1091831512075358208",
+          "name": "Bumble"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1220824190619545601",
+          "name": "Tinder"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1306207585117155328",
+          "name": "University of Melbourne"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1433125517692002306",
+          "name": "Dating Apps"
+        }
+      },
+      {
+        "domain": {
+          "description": "Colleges & universities around the world",
+          "id": "157",
+          "name": "Colleges & Universities"
+        },
+        "entity": {
+          "id": "1306207585117155328",
+          "name": "University of Melbourne"
+        }
+      }
+    ],
+    "conversation_id": "2077637281465106930",
+    "created_at": "2026-07-16T06:11:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T07:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077637281465106930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1845336403825262592",
+          "start": 3,
+          "username": "mlnlbtsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077637281465106930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077383925383786732",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mlnlbtsb: 墨尔本女孩们如果tinder/bumble 刷到一个自称wasian unimelb 姓名是4个字母的, RUN ASAP, RUN AS FAST AS U CAN,法友也不行, 炮友也不行, just run\n\n专骗留学生liar 他的detai…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Bumble",
+              "id": "1091831512075358208",
+              "name": "Bumble"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1220824190619545601",
+              "name": "Tinder"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bumble",
+              "id": "1091831512075358208",
+              "name": "Bumble"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220824190619545601",
+              "name": "Tinder"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1306207585117155328",
+              "name": "University of Melbourne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1433125517692002306",
+              "name": "Dating Apps"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1306207585117155328",
+              "name": "University of Melbourne"
+            }
+          }
+        ],
+        "conversation_id": "2077637281465106930",
+        "created_at": "2026-07-16T06:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T07:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077637281465106930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1845336403825262592",
+              "start": 3,
+              "username": "mlnlbtsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077637281465106930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077383925383786732",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mlnlbtsb: 墨尔本女孩们如果tinder/bumble 刷到一个自称wasian unimelb 姓名是4个字母的, RUN ASAP, RUN AS FAST AS U CAN,法友也不行, 炮友也不行, just run\n\n专骗留学生liar 他的detai…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845336403825262592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Bumble",
+              "id": "1091831512075358208",
+              "name": "Bumble"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1220824190619545601",
+              "name": "Tinder"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bumble",
+              "id": "1091831512075358208",
+              "name": "Bumble"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220824190619545601",
+              "name": "Tinder"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1306207585117155328",
+              "name": "University of Melbourne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1433125517692002306",
+              "name": "Dating Apps"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1306207585117155328",
+              "name": "University of Melbourne"
+            }
+          }
+        ],
+        "conversation_id": "2077383925383786732",
+        "created_at": "2026-07-15T13:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077383925383786732"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077383925383786732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1223,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "墨尔本女孩们如果tinder/bumble 刷到一个自称wasian unimelb 姓名是4个字母的, RUN ASAP, RUN AS FAST AS U CAN,法友也不行, 炮友也不行, just run\n\n专骗留学生liar 他的details上面没一个是真的\n\n如果有女孩不确定是不是她的话可以dm我问ig profile/tinder profile whatever just run"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n💖@amber_digit\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "amber_digit"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 70,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 47,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6589,
+          "following_count": 1095,
+          "like_count": 6370,
+          "listed_count": 11,
+          "media_count": 314,
+          "tweet_count": 3639
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-13T05:31:04.000Z",
+        "description": "什么都发一下 很社恐 我们在网上上用自己的面具人格相处好吗？",
+        "id": "1845336403825262592",
+        "name": "焦糖肥牛鹅肝寿司",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931739488730198017/TFfgcgQ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 166,
+          "like_count": 558,
+          "listed_count": 3,
+          "media_count": 164,
+          "tweet_count": 459
+        },
+        "url": "",
+        "username": "mlnlbtsb",
+        "verified": false
+      }
+    ]
+  }
+}

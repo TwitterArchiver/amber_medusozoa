@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "2046336003967717502",
+    "created_at": "2026-04-20T21:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T22:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046336003967717502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046336003967717502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046156357510824237",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: 五年以来，庇护所累计来来走走了大约七八百人。在这七八百人里面，有相当一部分人最终成功找到了工作并且外出租房。\n\n这其中虽然接近一半人最终都去了长三角和珠三角上班和创业。但是也仍然有相当一部分人留在了武汉上班工作。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2046336003967717502",
+        "created_at": "2026-04-20T21:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T22:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046336003967717502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300828282061877249",
+              "start": 3,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046336003967717502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046156357510824237",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HANLIANYI331: 五年以来，庇护所累计来来走走了大约七八百人。在这七八百人里面，有相当一部分人最终成功找到了工作并且外出租房。\n\n这其中虽然接近一半人最终都去了长三角和珠三角上班和创业。但是也仍然有相当一部分人留在了武汉上班工作。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2046156357510824237",
+        "created_at": "2026-04-20T09:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T10:16:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046155964152479841",
+          "2046156357510824237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1883862624405975448",
+              "start": 107,
+              "url": "https://t.co/qkkba5rDi7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046156357510824237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "五年以来，庇护所累计来来走走了大约七八百人。在这七八百人里面，有相当一部分人最终成功找到了工作并且外出租房。\n\n这其中虽然接近一半人最终都去了长三角和珠三角上班和创业。但是也仍然有相当一部分人留在了武汉上班工作。\n\n久而久之，武汉庇护所方圆二三十里地，囤积了越来越多曾经在庇护所住过的，如今在工作上班的人，租的房子，创业的项目。\n\n光是这些房子和项目的数量加起来，哪怕仅限我知道的，都有二十多个，一共也有几十号人了。\n\n也不知道如果庇护所在武汉继续这么开下去，最终会变成什么样子。\n\n但是武汉这个鬼地方，无论是就业环境还是创业环境，仍然还是太恶劣了。\n\n如果有机会，未来最好还是能够搬到珠三角去。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 20985,
+          "like_count": 177,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883862624405975448",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "五年以来，庇护所累计来来走走了大约七八百人。在这七八百人里面，有相当一部分人最终成功找到了工作并且外出租房。\n\n这其中虽然接近一半人最终都去了长三角和珠三角上班和创业。但是也仍然有相当一部分人留在了武汉上班工作。 https://t.co/qkkba5rDi7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/qBX9bbnFOS"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2428,
+          "following_count": 864,
+          "like_count": 2898,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 1977
+        },
+        "url": "https://t.co/qBX9bbnFOS",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 99,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 76,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40818,
+          "following_count": 3701,
+          "like_count": 1596,
+          "listed_count": 70,
+          "media_count": 390,
+          "tweet_count": 2824
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

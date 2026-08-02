@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2043195021445181474",
+    "created_at": "2026-04-12T05:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T06:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043195021445181474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "994051814667575296",
+          "start": 3,
+          "username": "troodonvet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043195021445181474",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7748
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042829220070723597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @troodonvet: Fun fact: the reason why HIV was associated with gays and lesbians is because they reported the disease. The disease affect…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2043195021445181474",
+        "created_at": "2026-04-12T05:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043195021445181474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "994051814667575296",
+              "start": 3,
+              "username": "troodonvet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043195021445181474",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7748
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042829220070723597",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @troodonvet: Fun fact: the reason why HIV was associated with gays and lesbians is because they reported the disease. The disease affect…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "994051814667575296",
+        "conversation_id": "2042829220070723597",
+        "created_at": "2026-04-11T04:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042829220070723597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/stonetoss/stat…",
+              "end": 300,
+              "expanded_url": "https://twitter.com/stonetoss/status/2041989175134548422",
+              "start": 277,
+              "url": "https://t.co/7bu5SQn3KF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042829220070723597",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2907,
+          "impression_count": 1105276,
+          "like_count": 62516,
+          "quote_count": 117,
+          "reply_count": 408,
+          "retweet_count": 7748
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041989175134548422",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Fun fact: the reason why HIV was associated with gays and lesbians is because they reported the disease. The disease affects everyone including the straights, but they kept it hidden because most of them get/spread the disease to their spouse because of cheating/prostitution. https://t.co/7bu5SQn3KF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2054,
+          "following_count": 721,
+          "like_count": 2025,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 1415
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-09T03:09:56.000Z",
+        "description": "A troodontid who tries to be the best at art and science! not really posting art much (sometimes post) and will retweet mostly science and art",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/troodonvet",
+                "end": 23,
+                "expanded_url": "https://vgen.co/troodonvet",
+                "start": 0,
+                "url": "https://t.co/lDeUOlGde2"
+              }
+            ]
+          }
+        },
+        "id": "994051814667575296",
+        "location": "Somewhere in Cretaceous Period",
+        "name": "TroodonVet (Comms open on VGen)",
+        "pinned_tweet_id": "1993537715049210050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1388129974654173184/YE5zSInV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5561,
+          "following_count": 7231,
+          "like_count": 526014,
+          "listed_count": 35,
+          "media_count": 3619,
+          "tweet_count": 116121
+        },
+        "url": "https://t.co/lDeUOlGde2",
+        "username": "troodonvet",
+        "verified": false
+      }
+    ]
+  }
+}

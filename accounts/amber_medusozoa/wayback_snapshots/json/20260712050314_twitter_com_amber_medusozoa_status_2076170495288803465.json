@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2076165933329260674",
+    "created_at": "2026-07-12T05:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T06:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076170495288803465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1928032155331887104",
+          "start": 0,
+          "username": "dringsim_"
+        },
+        {
+          "end": 20,
+          "id": "1713057998372020224",
+          "start": 11,
+          "username": "36127z11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076170495288803465",
+    "in_reply_to_user_id": "1928032155331887104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076167330317644258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dringsim_ @36127z11 是的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076167244611198976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAHG-VaIAAd5hI.jpg",
+        "width": 954
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076167270347448320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAHIeNaIAABqDl.jpg",
+        "width": 963
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2076165933329260674",
+        "created_at": "2026-07-12T05:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T06:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076170495288803465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1928032155331887104",
+              "start": 0,
+              "username": "dringsim_"
+            },
+            {
+              "end": 20,
+              "id": "1713057998372020224",
+              "start": 11,
+              "username": "36127z11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076170495288803465",
+        "in_reply_to_user_id": "1928032155331887104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076167330317644258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dringsim_ @36127z11 是的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076167244611198976",
+            "3_2076167270347448320"
+          ]
+        },
+        "author_id": "1928032155331887104",
+        "conversation_id": "2076165933329260674",
+        "created_at": "2026-07-12T04:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076167330317644258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1713057998372020224",
+              "start": 0,
+              "username": "36127z11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XBQ2Ti7jgk",
+              "end": 43,
+              "expanded_url": "https://x.com/dringsim_/status/2076167330317644258/photo/1",
+              "media_key": "3_2076167244611198976",
+              "start": 20,
+              "url": "https://t.co/XBQ2Ti7jgk"
+            },
+            {
+              "display_url": "pic.x.com/XBQ2Ti7jgk",
+              "end": 43,
+              "expanded_url": "https://x.com/dringsim_/status/2076167330317644258/photo/1",
+              "media_key": "3_2076167270347448320",
+              "start": 20,
+              "url": "https://t.co/XBQ2Ti7jgk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076167330317644258",
+        "in_reply_to_user_id": "1713057998372020224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076165933329260674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@36127z11 因为号被🐜🐲炸掉了 https://t.co/XBQ2Ti7jgk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n💖@amber_digit\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "amber_digit"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 70,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 47,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6483,
+          "following_count": 1063,
+          "like_count": 6008,
+          "listed_count": 11,
+          "media_count": 291,
+          "tweet_count": 3406
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-29T10:14:30.000Z",
+        "description": "上一个号已被🐜🐲拿下\n备用号：@dringsim0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "dringsim0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.wiktionary.org/wiki/Special:R…",
+                "end": 23,
+                "expanded_url": "https://en.wiktionary.org/wiki/Special:Random",
+                "start": 0,
+                "url": "https://t.co/JaMfcQIV43"
+              }
+            ]
+          }
+        },
+        "id": "1928032155331887104",
+        "location": "梦乡",
+        "name": "dringsim🏴‍☠️🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073764970865836032/mFXYhODi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 127,
+          "like_count": 482,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 50
+        },
+        "url": "https://t.co/JaMfcQIV43",
+        "username": "dringsim_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-14T05:04:00.000Z",
+        "description": "【Trigger warrning】彻底匿名化的抑郁情绪分享垢/药手帐、死日志、怪文书和生放送/诚实和敞开/全部内容直接进入公共领域（CC0）/AI training allowed",
+        "id": "1713057998372020224",
+        "name": "明天上课带紫砂泥",
+        "pinned_tweet_id": "1855134017903116370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713058636493414400/Ba9H8N52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 26,
+          "like_count": 2877,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1939
+        },
+        "url": "",
+        "username": "36127z11",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2043407254737588442",
+    "created_at": "2026-04-12T19:13:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T20:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043407254737588442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1832688819017277440",
+          "start": 3,
+          "username": "homeCollider"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043407254737588442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043383982042288482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @homeCollider: 有人私信问，我还是说下吧。这是我第一次做面向公众的项目。我做了一个根据过去推文（50 条）来提炼（蒸馏）画像并且依据这个画像部署 agent 的网站，与一般的部署网站不同的是，它是 serverless 的，但它也允许 agent 进行所谓…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2043407254737588442",
+        "created_at": "2026-04-12T19:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T20:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043407254737588442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1832688819017277440",
+              "start": 3,
+              "username": "homeCollider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043407254737588442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043383982042288482",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @homeCollider: 有人私信问，我还是说下吧。这是我第一次做面向公众的项目。我做了一个根据过去推文（50 条）来提炼（蒸馏）画像并且依据这个画像部署 agent 的网站，与一般的部署网站不同的是，它是 serverless 的，但它也允许 agent 进行所谓…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832688819017277440",
+        "conversation_id": "2043383982042288482",
+        "created_at": "2026-04-12T17:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043383982042288482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 148,
+              "id": "2040565175514779648",
+              "start": 136,
+              "username": "amber_digit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043383982042288482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 148,
+                "id": "2040565175514779648",
+                "start": 136,
+                "username": "amber_digit"
+              }
+            ]
+          },
+          "text": "有人私信问，我还是说下吧。这是我第一次做面向公众的项目。我做了一个根据过去推文（50 条）来提炼（蒸馏）画像并且依据这个画像部署 agent 的网站，与一般的部署网站不同的是，它是 serverless 的，但它也允许 agent 进行所谓 reinforce，一个例子是@amber_digit 。后来我想着带娱乐性质了解 transfeminine 的画像，开了个一个 repo 收集这些 prompt（时髦的说法是 skill）。由此，产生了争议。我在此一一澄清或表达歉意；如果产生了误会，都是我的问题。\n0. transfeminine-skills 已经归档也许会删除。有关于如何 serverless 蒸馏、部署、自动进化自己推特形象的 agent，的完整代码我已经开源在置顶。\n1. 很恐怖地被收集了信息。我的推文原文就是「评论任意内容会收集」，我应该考虑你的评论可能只是想表达意见。对此，我表达歉意，对不起。X 和 X API 的条款之一就是不能在不知情的情况下进行用户画像。你也可以随时联系我，从上述的仓库里删除你的画像。\n2. 这破 skill 不能替代我/朋友。很显然不能，我同意，你当然独特。所以简单一句话，我做的事情只是一个推特用户画像的粗略总结；这里面，没有人的 skill 被用来部署 agent 或产生内容。\n3. 项目写的很糙。我同意，因为是我第一次写这种规模的前端项目，其中很多的部分都是 vibe-coding 来的。我接受这种批评。\n4. 只是一段 markdown 不算 skill。可能不算吧，我不懂，我很多年不研究 AI 了，上次写 multi-agent 的东西还是 GPT-2 相关的。\n5. 恶俗。我没有看到蒸馏同事、前任这样的项目收到恶俗的评价，我觉得恶俗与否只在于你怎么用。但如果大家都觉得恶俗，那我郑重道歉，对不起。\n我会选一些人赠送 Premium，谨此表达歉意。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有人私信问，我还是说下吧。这是我第一次做面向公众的项目。我做了一个根据过去推文（50 条）来提炼（蒸馏）画像并且依据这个画像部署 agent 的网站，与一般的部署网站不同的是，它是 serverless 的，但它也允许 agent 进行所谓 reinforce，一个例子是@amber_digit 。后来我想着带娱乐性质了解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2051,
+          "following_count": 725,
+          "like_count": 2041,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 1431
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-08T07:54:25.000Z",
+        "description": "🏳️‍⚧️ MtF | 架构师 | 讼棍 | Quantic MBA '26 | 水母饲养员 | 神经罕见病患者\n- 部署你的 X Agent 账号: https://t.co/oxPjs4Nzen\n- 如果哪天我不在了，请忘记我，这是我的愿望。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jellyfishai.org",
+                "end": 99,
+                "expanded_url": "http://jellyfishai.org",
+                "start": 76,
+                "url": "https://t.co/oxPjs4Nzen"
+              }
+            ]
+          }
+        },
+        "id": "1832688819017277440",
+        "name": "家用粒子对撞机",
+        "pinned_tweet_id": "2043280317520482577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039767465450983424/yYDG7LJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 294,
+          "like_count": 1586,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 755
+        },
+        "username": "homeCollider",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2051887897637163376",
+    "created_at": "2026-05-06T04:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T05:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051887897637163376"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/khnh80044/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/khnh80044/status/2051580269430542390",
+          "start": 5,
+          "url": "https://t.co/A2v9Mf7rob"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051887897637163376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051580269430542390",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "学习一下 https://t.co/A2v9Mf7rob"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 183809,
+        "height": 972,
+        "media_key": "13_2051580141000880128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051580141000880128/img/LZjq06Pi1CAsr-7N.jpg",
+        "public_metrics": {
+          "view_count": 395557
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051580141000880128/vid/avc1/320x432/Bq0oJ3wBbyo6rHGl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051580141000880128/vid/avc1/480x648/1RyJTYWIGD8SftLM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051580141000880128/vid/avc1/720x972/By-wkjXcGzzCwIQy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051580141000880128/pl/UsmNfNb81MTPoWAN.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2051887897637163376",
+        "created_at": "2026-05-06T04:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T05:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051887897637163376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/khnh80044/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/khnh80044/status/2051580269430542390",
+              "start": 5,
+              "url": "https://t.co/A2v9Mf7rob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051887897637163376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051580269430542390",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "学习一下 https://t.co/A2v9Mf7rob"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051580141000880128"
+          ]
+        },
+        "author_id": "1823986839461789696",
+        "conversation_id": "2051580269430542390",
+        "created_at": "2026-05-05T08:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T09:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051580269430542390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jCBTLLvG4I",
+              "end": 57,
+              "expanded_url": "https://x.com/khnh80044/status/2051580269430542390/video/1",
+              "media_key": "13_2051580141000880128",
+              "start": 34,
+              "url": "https://t.co/jCBTLLvG4I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051580269430542390",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1509,
+          "impression_count": 689148,
+          "like_count": 2691,
+          "quote_count": 23,
+          "reply_count": 69,
+          "retweet_count": 192
+        },
+        "reply_settings": "everyone",
+        "text": "Posture makes a big difference.💕💖 https://t.co/jCBTLLvG4I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🇨🇦 #多伦多 #药娘 #TS #trans \n💬 ¥150/240 ($30/50)\n❤️ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 3,
+                "tag": "多伦多"
+              },
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "药娘"
+              },
+              {
+                "end": 15,
+                "start": 12,
+                "tag": "TS"
+              },
+              {
+                "end": 22,
+                "start": 16,
+                "tag": "trans"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 47,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051870964342738946/SeJ2kbJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3589,
+          "following_count": 828,
+          "like_count": 3506,
+          "listed_count": 8,
+          "media_count": 44,
+          "tweet_count": 1448
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-15T07:36:23.000Z",
+        "description": "DM to image credit & removal.\n✨ Enjoy Music & Dance  together! ❤️🌟 \nPosting #Dance #Kindness #Classical #Music #Comedy #Film . 🌸🌷",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 76,
+                "tag": "Dance"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "tag": "Kindness"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "tag": "Classical"
+              },
+              {
+                "end": 110,
+                "start": 104,
+                "tag": "Music"
+              },
+              {
+                "end": 118,
+                "start": 111,
+                "tag": "Comedy"
+              },
+              {
+                "end": 124,
+                "start": 119,
+                "tag": "Film"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shenyuncreations.com",
+                "end": 23,
+                "expanded_url": "https://www.shenyuncreations.com/",
+                "start": 0,
+                "url": "https://t.co/rQxCxxiK29"
+              }
+            ]
+          }
+        },
+        "id": "1823986839461789696",
+        "location": "Vietnam",
+        "name": "Love Music",
+        "pinned_tweet_id": "1996861753419059425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838576340351750146/b4GJtODE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602075,
+          "following_count": 1822,
+          "like_count": 42642,
+          "listed_count": 552,
+          "media_count": 5800,
+          "tweet_count": 16156
+        },
+        "url": "https://t.co/rQxCxxiK29",
+        "username": "khnh80044",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2060190933971341710",
+    "created_at": "2026-05-29T10:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060310201006239985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1445431297690714121",
+          "start": 0,
+          "username": "RtlSecureZero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060310201006239985",
+    "in_reply_to_user_id": "1445431297690714121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060263978794930205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@RtlSecureZero 没，我吃了两口不想吃了，可能药效还在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2060190933971341710",
+        "created_at": "2026-05-29T10:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060310201006239985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1445431297690714121",
+              "start": 0,
+              "username": "RtlSecureZero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060310201006239985",
+        "in_reply_to_user_id": "1445431297690714121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060263978794930205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@RtlSecureZero 没，我吃了两口不想吃了，可能药效还在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445431297690714121",
+        "conversation_id": "2060190933971341710",
+        "created_at": "2026-05-29T07:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060263978794930205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060263978794930205",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060190933971341710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@amber_medusozoa 没打第二针吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "💰https://t.co/ifiQvlVhub\n❤️@noaayoyaoaya ⚜️@irisdesombres \n🪼@amber_digit @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 72,
+                "start": 60,
+                "username": "amber_digit"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 24,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 1,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 Toronto",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5396,
+          "following_count": 926,
+          "like_count": 4108,
+          "listed_count": 11,
+          "media_count": 104,
+          "tweet_count": 1914
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-05T16:51:20.000Z",
+        "description": "修仙不成的大龄人夫，非典型性药娘。尬聊的、打算白嫖的勿扰。",
+        "id": "1445431297690714121",
+        "name": "零陆玖CD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721219361170665472/8FNoR6iP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1692,
+          "like_count": 396,
+          "listed_count": 9,
+          "media_count": 81,
+          "tweet_count": 462
+        },
+        "username": "RtlSecureZero",
+        "verified": false
+      }
+    ]
+  }
+}

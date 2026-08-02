@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Caitlyn Jenner",
+          "id": "809112323868635136",
+          "name": "Caitlyn Jenner"
+        }
+      },
+      {
+        "domain": {
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+          "id": "58",
+          "name": "Entertainment Personality"
+        },
+        "entity": {
+          "description": "Caitlyn Jenner",
+          "id": "809112323868635136",
+          "name": "Caitlyn Jenner"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Caitlyn Jenner",
+          "id": "809112323868635136",
+          "name": "Caitlyn Jenner"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303718958520889345",
+          "name": "Kardashian-Jenner"
+        }
+      }
+    ],
+    "conversation_id": "2045019395773042837",
+    "created_at": "2026-04-17T05:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T06:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045019395773042837"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pinknews/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/pinknews/status/2044928865642873274",
+          "start": 13,
+          "url": "https://t.co/acmBEMdUDf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045019395773042837",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044928865642873274",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉自恨tradwife跨 https://t.co/acmBEMdUDf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2044928844868583424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGEL8y1XgAAWgtc.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Caitlyn Jenner",
+              "id": "809112323868635136",
+              "name": "Caitlyn Jenner"
+            }
+          },
+          {
+            "domain": {
+              "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+              "id": "58",
+              "name": "Entertainment Personality"
+            },
+            "entity": {
+              "description": "Caitlyn Jenner",
+              "id": "809112323868635136",
+              "name": "Caitlyn Jenner"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Caitlyn Jenner",
+              "id": "809112323868635136",
+              "name": "Caitlyn Jenner"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303718958520889345",
+              "name": "Kardashian-Jenner"
+            }
+          }
+        ],
+        "conversation_id": "2045019395773042837",
+        "created_at": "2026-04-17T05:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045019395773042837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pinknews/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/pinknews/status/2044928865642873274",
+              "start": 13,
+              "url": "https://t.co/acmBEMdUDf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045019395773042837",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044928865642873274",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉自恨tradwife跨 https://t.co/acmBEMdUDf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044928844868583424"
+          ]
+        },
+        "author_id": "27987687",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Caitlyn Jenner",
+              "id": "809112323868635136",
+              "name": "Caitlyn Jenner"
+            }
+          },
+          {
+            "domain": {
+              "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+              "id": "58",
+              "name": "Entertainment Personality"
+            },
+            "entity": {
+              "description": "Caitlyn Jenner",
+              "id": "809112323868635136",
+              "name": "Caitlyn Jenner"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Caitlyn Jenner",
+              "id": "809112323868635136",
+              "name": "Caitlyn Jenner"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303718958520889345",
+              "name": "Kardashian-Jenner"
+            }
+          }
+        ],
+        "conversation_id": "2044928865642873274",
+        "created_at": "2026-04-17T00:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T01:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044928865642873274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Caitlin Jenner has called herself a \"hypocrite\" for accepting Glamour's Woman of the Year award in 2015 because she's \"still XY\".",
+              "display_url": "bit.ly/48HMoCz",
+              "end": 104,
+              "expanded_url": "https://bit.ly/48HMoCz",
+              "images": [
+                {
+                  "height": 1124,
+                  "url": "https://pbs.twimg.com/news_img/2043985837843501056/AuB4uii8?format=jpg&name=orig",
+                  "width": 1996
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2043985837843501056/AuB4uii8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 81,
+              "status": 200,
+              "title": "Caitlyn Jenner says she's a 'hypocrite' for accepting Woman of the Year award",
+              "unwound_url": "https://www.thepinknews.com/2026/04/14/caitlyn-jenner-transgender-award/?utm_content=1776241559&utm_medium=social&utm_source=bluesky,threads,twitter",
+              "url": "https://t.co/N9aK4LZDq9"
+            },
+            {
+              "display_url": "pic.x.com/g6vKVOdu7z",
+              "end": 137,
+              "expanded_url": "https://x.com/PinkNews/status/2044928865642873274/photo/1",
+              "media_key": "3_2044928844868583424",
+              "start": 114,
+              "url": "https://t.co/g6vKVOdu7z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044928865642873274",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 525,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Caitlyn Jenner says she's a 'hypocrite' for accepting Woman of the Year award ➡️ https://t.co/N9aK4LZDq9\n\n📷 Getty https://t.co/g6vKVOdu7z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/qBX9bbnFOS"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2328,
+          "following_count": 791,
+          "like_count": 2362,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 1690
+        },
+        "url": "https://t.co/qBX9bbnFOS",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-31T23:01:38.000Z",
+        "description": "World’s most read & watched LGBTQ+ digital media publisher. Snapchat: PinkNews.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "thepinknews.com",
+                "end": 23,
+                "expanded_url": "http://www.thepinknews.com",
+                "start": 0,
+                "url": "https://t.co/tqtG4UmDTu"
+              }
+            ]
+          }
+        },
+        "id": "27987687",
+        "location": "Global",
+        "name": "PinkNews",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875364846258225152/IlI2URdW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305670,
+          "following_count": 1331,
+          "like_count": 4953,
+          "listed_count": 2614,
+          "media_count": 50420,
+          "tweet_count": 307544
+        },
+        "url": "https://t.co/tqtG4UmDTu",
+        "username": "PinkNews",
+        "verified": true
+      }
+    ]
+  }
+}

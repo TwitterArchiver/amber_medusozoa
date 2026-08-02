@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2078396785060679703",
+    "created_at": "2026-07-18T22:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T23:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078602107150569902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1767905395299983360",
+          "start": 0,
+          "username": "Kaerigumo1585"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078602107150569902",
+    "in_reply_to_user_id": "1767905395299983360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078396785060679703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kaerigumo1585 哦天太美了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078396773484343296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfy2onaMAATA2q.jpg",
+        "width": 1438
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2078396785060679703",
+        "created_at": "2026-07-18T22:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T23:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078602107150569902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767905395299983360",
+              "start": 0,
+              "username": "Kaerigumo1585"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078602107150569902",
+        "in_reply_to_user_id": "1767905395299983360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078396785060679703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kaerigumo1585 哦天太美了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078396773484343296"
+          ]
+        },
+        "author_id": "1767905395299983360",
+        "conversation_id": "2078396785060679703",
+        "created_at": "2026-07-18T08:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078396785060679703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K7hvtjcexV",
+              "end": 33,
+              "expanded_url": "https://x.com/Kaerigumo1585/status/2078396785060679703/photo/1",
+              "media_key": "3_2078396773484343296",
+              "start": 10,
+              "url": "https://t.co/K7hvtjcexV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078396785060679703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4424,
+          "like_count": 261,
+          "quote_count": 0,
+          "reply_count": 60,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "经典企鹅黑白灰出装 https://t.co/K7hvtjcexV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "前世 @amber_toffee\n🏳️‍⚧️☭ she/her #药娘\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 76,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 53,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6837,
+          "following_count": 1158,
+          "like_count": 6712,
+          "listed_count": 11,
+          "media_count": 326,
+          "tweet_count": 3810
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-13T13:28:08.000Z",
+        "description": "ようこそ ときめく世界へ",
+        "id": "1767905395299983360",
+        "location": "漫长的季节",
+        "name": "内岛氏理🐧",
+        "pinned_tweet_id": "1922927406198948211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922326890892951552/nrq8LDJp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4648,
+          "following_count": 3232,
+          "like_count": 79589,
+          "listed_count": 9,
+          "media_count": 872,
+          "tweet_count": 13592
+        },
+        "url": "",
+        "username": "Kaerigumo1585",
+        "verified": true
+      }
+    ]
+  }
+}

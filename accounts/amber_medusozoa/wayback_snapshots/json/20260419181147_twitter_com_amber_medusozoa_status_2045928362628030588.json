@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1871626143176007681"
+      ],
+      "media_source_tweet_id": [
+        "1871626145583780265"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2045928362628030588",
+    "created_at": "2026-04-19T18:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T19:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045928362628030588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1404182080901296129",
+          "start": 3,
+          "username": "OZNhtLJfmYmaLkR"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ijyg4km0ou",
+          "end": 44,
+          "expanded_url": "https://x.com/OZNhtLJfmYmaLkR/status/1871626145583780265/photo/1",
+          "media_key": "3_1871626143176007681",
+          "start": 21,
+          "url": "https://t.co/ijyg4km0ou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045928362628030588",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871626145583780265",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OZNhtLJfmYmaLkR: https://t.co/ijyg4km0ou"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1268,
+        "media_key": "3_1871626143176007681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GflaD5hXIAEcXbc.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871626143176007681"
+          ],
+          "media_source_tweet_id": [
+            "1871626145583780265"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2045928362628030588",
+        "created_at": "2026-04-19T18:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T19:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045928362628030588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1404182080901296129",
+              "start": 3,
+              "username": "OZNhtLJfmYmaLkR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ijyg4km0ou",
+              "end": 44,
+              "expanded_url": "https://x.com/OZNhtLJfmYmaLkR/status/1871626145583780265/photo/1",
+              "media_key": "3_1871626143176007681",
+              "start": 21,
+              "url": "https://t.co/ijyg4km0ou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045928362628030588",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871626145583780265",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OZNhtLJfmYmaLkR: https://t.co/ijyg4km0ou"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871626143176007681"
+          ]
+        },
+        "author_id": "1404182080901296129",
+        "conversation_id": "1871626145583780265",
+        "created_at": "2024-12-24T18:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T19:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871626145583780265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ijyg4km0ou",
+              "end": 23,
+              "expanded_url": "https://x.com/OZNhtLJfmYmaLkR/status/1871626145583780265/photo/1",
+              "media_key": "3_1871626143176007681",
+              "start": 0,
+              "url": "https://t.co/ijyg4km0ou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871626145583780265",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1069,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ijyg4km0ou"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/qBX9bbnFOS"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2410,
+          "following_count": 839,
+          "like_count": 2695,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 1885
+        },
+        "url": "https://t.co/qBX9bbnFOS",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-13T21:01:57.000Z",
+        "description": "喜欢omega男和猫//火焰、月亮、和宇宙的女儿//岁月静好女权非激，勿鉴，看不惯请自助拉黑//来骚扰的屌子驴子必得艾滋梅毒HPV//乐趣是把屌子和屌子的爹剁碎，尸块混一起喂狗",
+        "id": "1404182080901296129",
+        "name": "姜妲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1443614497185349635/gXQPSUFX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 23,
+          "like_count": 25860,
+          "listed_count": 9,
+          "media_count": 56,
+          "tweet_count": 9478
+        },
+        "username": "OZNhtLJfmYmaLkR",
+        "verified": false
+      }
+    ]
+  }
+}

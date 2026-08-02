@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2069318186827141165",
+    "created_at": "2026-06-23T07:15:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T08:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069318326065541620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103821331588571136",
+          "start": 0,
+          "username": "recatorseky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069318326065541620",
+    "in_reply_to_user_id": "1103821331588571136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069318186827141165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@recatorseky 我电脑用了六年了并且我给它升级了测试版系统以后才这样的 它已经做得很好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 781,
+        "media_key": "3_2069318173283827712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLex6jXXwAAwIKe.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2069318186827141165",
+        "created_at": "2026-06-23T07:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069318326065541620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103821331588571136",
+              "start": 0,
+              "username": "recatorseky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069318326065541620",
+        "in_reply_to_user_id": "1103821331588571136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069318186827141165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@recatorseky 我电脑用了六年了并且我给它升级了测试版系统以后才这样的 它已经做得很好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069318173283827712"
+          ]
+        },
+        "author_id": "1103821331588571136",
+        "conversation_id": "2069318186827141165",
+        "created_at": "2026-06-23T07:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069318186827141165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/blLwn4Eukd",
+              "end": 28,
+              "expanded_url": "https://x.com/recatorseky/status/2069318186827141165/photo/1",
+              "media_key": "3_2069318173283827712",
+              "start": 5,
+              "url": "https://t.co/blLwn4Eukd"
+            },
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2069248444347150776",
+              "start": 29,
+              "url": "https://t.co/cwli8osEVN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069318186827141165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069248444347150776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "警钟长鸣 https://t.co/blLwn4Eukd https://t.co/cwli8osEVN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5977,
+          "following_count": 1032,
+          "like_count": 5302,
+          "listed_count": 10,
+          "media_count": 208,
+          "tweet_count": 2790
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-08T00:54:48.000Z",
+        "description": "中文 Eng/奥克兰AKL/FF14/R6S/buhurt/cosplay/Gundam/ COC TRPG/\n恋人@AOHITOM1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 58,
+                "username": "AOHITOM1"
+              }
+            ]
+          }
+        },
+        "id": "1103821331588571136",
+        "location": "RE",
+        "name": "REC470R",
+        "pinned_tweet_id": "1984171567253967185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973030013831364608/nOg1CYWP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 121,
+          "like_count": 28892,
+          "listed_count": 0,
+          "media_count": 587,
+          "tweet_count": 3514
+        },
+        "url": "",
+        "username": "recatorseky",
+        "verified": false
+      }
+    ]
+  }
+}

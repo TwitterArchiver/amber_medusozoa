@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2050207180931112981",
+    "created_at": "2026-05-01T21:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T22:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050333370970669295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1338048339930071040",
+          "start": 0,
+          "username": "konoGuanine"
+        },
+        {
+          "end": 25,
+          "id": "1736265610911428608",
+          "start": 13,
+          "username": "noname2095_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050333370970669295",
+    "in_reply_to_user_id": "1338048339930071040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050284826176237577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konoGuanine @noname2095_ 有没有可能那是本硕的学费…我读博一分钱没花家里的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2050207180931112981",
+        "created_at": "2026-05-01T21:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T22:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050333370970669295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1338048339930071040",
+              "start": 0,
+              "username": "konoGuanine"
+            },
+            {
+              "end": 25,
+              "id": "1736265610911428608",
+              "start": 13,
+              "username": "noname2095_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050333370970669295",
+        "in_reply_to_user_id": "1338048339930071040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050284826176237577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konoGuanine @noname2095_ 有没有可能那是本硕的学费…我读博一分钱没花家里的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1338048339930071040",
+        "conversation_id": "2050207180931112981",
+        "created_at": "2026-05-01T18:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T19:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050284826176237577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1736265610911428608",
+              "start": 0,
+              "username": "noname2095_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050284826176237577",
+        "in_reply_to_user_id": "1736265610911428608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050207180931112981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noname2095_ amber怎麼花掉200w的，上學有全獎，還做TA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "原主号 @amber_toffee\n🇨🇦 #多伦多 #药娘 #TS\n🚪 ¥150/240 ($30/50)\nnsfw only",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 21,
+                "tag": "多伦多"
+              },
+              {
+                "end": 29,
+                "start": 26,
+                "tag": "药娘"
+              },
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "TS"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "支持Zelle Venmo口令红包，其他付款方式请私信联系",
+        "name": "/",
+        "pinned_tweet_id": "2050188957724373239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049527897036328960/hshFuKwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3077,
+          "following_count": 795,
+          "like_count": 3262,
+          "listed_count": 5,
+          "media_count": 5,
+          "tweet_count": 1276
+        },
+        "username": "amber_medusozoa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-13T09:09:29.000Z",
+        "description": "Ich dien|\na failed pharmacist ｜EN,CN,Cantonese",
+        "id": "1338048339930071040",
+        "location": "Macao",
+        "name": "roseae",
+        "pinned_tweet_id": "1497453314107064322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020468281300377600/ePPIIhOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 1325,
+          "like_count": 45737,
+          "listed_count": 2,
+          "media_count": 323,
+          "tweet_count": 7604
+        },
+        "username": "konoGuanine",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T06:03:03.000Z",
+        "description": "🧡🤍🩷🏳️‍⚧️\n我很穷啥也不会请给我钱\n那你能帮帮我吗\n我是跨女给我往包裹里倒塞两盒日雌\nhttps://t.co/5wRZ4IDVG0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "noname2095.bsky.social",
+                "end": 69,
+                "expanded_url": "http://noname2095.bsky.social",
+                "start": 46,
+                "url": "https://t.co/5wRZ4IDVG0"
+              }
+            ]
+          }
+        },
+        "id": "1736265610911428608",
+        "location": "南极洲",
+        "name": "noname",
+        "pinned_tweet_id": "1772656363941908692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945223550417186816/HdhCpSMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2272,
+          "following_count": 322,
+          "like_count": 4093,
+          "listed_count": 6,
+          "media_count": 297,
+          "tweet_count": 10464
+        },
+        "username": "noname2095_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2068211658279813433",
+    "created_at": "2026-06-20T05:57:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T06:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068211658279813433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1097645922232676352",
+          "start": 3,
+          "username": "RafaelTsao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068211658279813433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068160996930212012",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RafaelTsao: 虽然在拉康身前，还不存在现在意义上的自闭症的诊断。但是针对那些别人一跟他讲话就捂自己耳朵的小孩，拉康讲过类似：“只要你们还继续这样照顾他，他永远不会听你们跟他讲话。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2068211658279813433",
+        "created_at": "2026-06-20T05:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068211658279813433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1097645922232676352",
+              "start": 3,
+              "username": "RafaelTsao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068211658279813433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068160996930212012",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RafaelTsao: 虽然在拉康身前，还不存在现在意义上的自闭症的诊断。但是针对那些别人一跟他讲话就捂自己耳朵的小孩，拉康讲过类似：“只要你们还继续这样照顾他，他永远不会听你们跟他讲话。”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1097645922232676352",
+        "conversation_id": "2068160996930212012",
+        "created_at": "2026-06-20T02:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T03:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068160996930212012"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068160996930212012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 112,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "虽然在拉康身前，还不存在现在意义上的自闭症的诊断。但是针对那些别人一跟他讲话就捂自己耳朵的小孩，拉康讲过类似：“只要你们还继续这样照顾他，他永远不会听你们跟他讲话。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5944,
+          "following_count": 1018,
+          "like_count": 5193,
+          "listed_count": 10,
+          "media_count": 195,
+          "tweet_count": 2690
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2019-02-18T23:55:55.000Z",
+        "description": "Mitómano",
+        "id": "1097645922232676352",
+        "name": "Rafael",
+        "pinned_tweet_id": "2065055207088681018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953226633420136448/aw_gFkxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2209,
+          "following_count": 301,
+          "like_count": 14949,
+          "listed_count": 18,
+          "media_count": 581,
+          "tweet_count": 14152
+        },
+        "url": "",
+        "username": "RafaelTsao",
+        "verified": false
+      }
+    ]
+  }
+}

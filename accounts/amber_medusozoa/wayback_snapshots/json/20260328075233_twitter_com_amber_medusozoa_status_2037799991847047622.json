@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2037789997483339860",
+    "created_at": "2026-03-28T07:52:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T08:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037799991847047622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1917320531101061120",
+          "start": 0,
+          "username": "fanmengxiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037799991847047622",
+    "in_reply_to_user_id": "1917320531101061120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037791474201329996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanmengxiang 衣服挡一下就可以了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2037789997483339860",
+        "created_at": "2026-03-28T07:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T08:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037799991847047622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1917320531101061120",
+              "start": 0,
+              "username": "fanmengxiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037799991847047622",
+        "in_reply_to_user_id": "1917320531101061120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037791474201329996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanmengxiang 衣服挡一下就可以了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917320531101061120",
+        "conversation_id": "2037789997483339860",
+        "created_at": "2026-03-28T07:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T08:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037791474201329996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037791474201329996",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037789997483339860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 真好(*/∇＼*)\n成这样真的不会被退学吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 388,
+          "like_count": 592,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 433
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-29T20:50:22.000Z",
+        "description": "好像聊天的欲望又回来了一点",
+        "id": "1917320531101061120",
+        "location": "Boston",
+        "name": "贩梦箱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917321034765660160/ENsdrZ-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3160,
+          "following_count": 42,
+          "like_count": 27,
+          "listed_count": 4,
+          "media_count": 15,
+          "tweet_count": 123
+        },
+        "username": "fanmengxiang",
+        "verified": false
+      }
+    ]
+  }
+}

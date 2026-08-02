@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2036611935026692478",
+    "created_at": "2026-03-25T13:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T14:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036801115140878843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1292071635072061440",
+          "start": 0,
+          "username": "aeiQ5NP3CdaHpLW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036801115140878843",
+    "in_reply_to_user_id": "1292071635072061440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036703244165218494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aeiQ5NP3CdaHpLW 学了才知道没用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2036611935026692478",
+        "created_at": "2026-03-25T13:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T14:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036801115140878843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1292071635072061440",
+              "start": 0,
+              "username": "aeiQ5NP3CdaHpLW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036801115140878843",
+        "in_reply_to_user_id": "1292071635072061440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036703244165218494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aeiQ5NP3CdaHpLW 学了才知道没用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1292071635072061440",
+        "conversation_id": "2036611935026692478",
+        "created_at": "2026-03-25T07:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T08:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036703244165218494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036703244165218494",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036611935026692478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 。你不就是学文科的，这次是免疫系统攻击大脑了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 302,
+          "like_count": 261,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 177
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-08T12:14:25.000Z",
+        "description": "科研人员（习近平新时代思想研究方向）上网是为了看各国短发妹\n\n我们能取得一切成果的原因，在于习近平总书记领航掌舵，在于习近平新时代思想的科学指引——李强总理🥺",
+        "id": "1292071635072061440",
+        "location": "酒精依赖与药物滥用成瘾治疗中心",
+        "name": "🇺🇦🇨🇳新鲜的冻鱼🥺",
+        "pinned_tweet_id": "2001881005737808130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677643931851554817/rt9c3J6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3046,
+          "following_count": 2200,
+          "like_count": 32404,
+          "listed_count": 30,
+          "media_count": 6816,
+          "tweet_count": 44093
+        },
+        "username": "aeiQ5NP3CdaHpLW",
+        "verified": false
+      }
+    ]
+  }
+}

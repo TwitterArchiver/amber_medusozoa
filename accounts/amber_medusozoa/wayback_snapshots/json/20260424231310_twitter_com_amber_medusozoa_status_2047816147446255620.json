@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Author\n",
+          "id": "808408440301232128",
+          "name": "JK Rowling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Author\n",
+          "id": "808408440301232128",
+          "name": "JK Rowling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166408461485101056",
+          "name": "Authors"
+        }
+      }
+    ],
+    "conversation_id": "2047816147446255620",
+    "created_at": "2026-04-24T23:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T00:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047816147446255620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2042430372710170624",
+          "start": 3,
+          "username": "stealth_riot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047816147446255620",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047413770948108636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stealth_riot: My whole TL is the terf movement eating itself and falling apart because JK Rowling said trans people are valid if they’r…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "2047816147446255620",
+        "created_at": "2026-04-24T23:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T00:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047816147446255620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2042430372710170624",
+              "start": 3,
+              "username": "stealth_riot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047816147446255620",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047413770948108636",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stealth_riot: My whole TL is the terf movement eating itself and falling apart because JK Rowling said trans people are valid if they’r…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042430372710170624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "2047413770948108636",
+        "created_at": "2026-04-23T20:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T21:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047413770948108636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047413770948108636",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 69605,
+          "like_count": 2714,
+          "quote_count": 19,
+          "reply_count": 44,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "My whole TL is the terf movement eating itself and falling apart because JK Rowling said trans people are valid if they’re attractive. it’s such a good day to be hot and trans"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/qBX9bbnFOS"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2498,
+          "following_count": 910,
+          "like_count": 3154,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 2159
+        },
+        "url": "https://t.co/qBX9bbnFOS",
+        "username": "amber_medusozoa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T02:33:28.000Z",
+        "description": "Diary of a stealth dude I guess / want trans friends / I tweet abt my gf a lot",
+        "id": "2042430372710170624",
+        "location": "he/him",
+        "name": "Matty",
+        "pinned_tweet_id": "2044321758426345854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046947717684064256/bpAHRXqJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 21,
+          "like_count": 2212,
+          "listed_count": 5,
+          "media_count": 44,
+          "tweet_count": 847
+        },
+        "username": "stealth_riot",
+        "verified": false
+      }
+    ]
+  }
+}

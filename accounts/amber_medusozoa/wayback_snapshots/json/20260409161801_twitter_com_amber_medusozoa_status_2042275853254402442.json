@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2042274209154376035",
+    "created_at": "2026-04-09T16:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042275853254402442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1903701047589343232",
+          "start": 0,
+          "username": "xiaofang555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042275853254402442",
+    "in_reply_to_user_id": "1903701047589343232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042275738616033654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaofang555 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2042274209154376035",
+        "created_at": "2026-04-09T16:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042275853254402442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1903701047589343232",
+              "start": 0,
+              "username": "xiaofang555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042275853254402442",
+        "in_reply_to_user_id": "1903701047589343232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042275738616033654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaofang555 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903701047589343232",
+        "conversation_id": "2042274209154376035",
+        "created_at": "2026-04-09T16:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042275738616033654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042275738616033654",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042274209154376035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 主要是头发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934,
+          "following_count": 681,
+          "like_count": 1849,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 1291
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "三月的暧昧每一天都有离别",
+        "id": "1903701047589343232",
+        "name": "咲いていた、最低だ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041620689573310465/Dvb5QQUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4335,
+          "following_count": 1669,
+          "like_count": 10063,
+          "listed_count": 10,
+          "media_count": 119,
+          "tweet_count": 1692
+        },
+        "username": "xiaofang555",
+        "verified": false
+      }
+    ]
+  }
+}

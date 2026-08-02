@@ -1,0 +1,629 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082272581516767232"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "All the latest basketball action from the WNBA.",
+          "id": "10002734734",
+          "name": "WNBA Basketball"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "706083902411055104",
+          "name": "Basketball"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "description": "WNBA",
+          "id": "859816871570284544",
+          "name": "WNBA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "706083902411055104",
+          "name": "Basketball"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "WNBA",
+          "id": "859816871570284544",
+          "name": "WNBA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Swimwear",
+          "id": "846725037595869185",
+          "name": "Swimwear"
+        }
+      }
+    ],
+    "conversation_id": "2082272584209404239",
+    "created_at": "2026-07-29T01:10:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T02:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082272584209404239"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HMAJbSNBwd",
+          "end": 45,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2082272584209404239/photo/1",
+          "media_key": "3_2082272581516767232",
+          "start": 22,
+          "url": "https://t.co/HMAJbSNBwd"
+        },
+        {
+          "display_url": "x.com/michael34952/s…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/michael34952/status/2081747242088611854",
+          "start": 46,
+          "url": "https://t.co/NAgEO6Vcg1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082272584209404239",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081747242088611854",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看完她照片感觉对自己骨架的gd减轻了一些… https://t.co/HMAJbSNBwd https://t.co/NAgEO6Vcg1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082272581516767232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOW34WrXsAAjHOE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1921,
+        "media_key": "3_2081747214087405568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPaD8fWwAATChp.jpg",
+        "width": 1281
+      },
+      {
+        "height": 1921,
+        "media_key": "3_2081747222786449408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPaEc5XoAAlTgl.jpg",
+        "width": 1281
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2081747229967081473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPaE3pXYAESYvR.jpg",
+        "width": 800
+      },
+      {
+        "height": 1553,
+        "media_key": "3_2081747236564746240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPaFQOXwAAC7Ps.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082272581516767232"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "All the latest basketball action from the WNBA.",
+              "id": "10002734734",
+              "name": "WNBA Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "706083902411055104",
+              "name": "Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "WNBA",
+              "id": "859816871570284544",
+              "name": "WNBA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "706083902411055104",
+              "name": "Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "WNBA",
+              "id": "859816871570284544",
+              "name": "WNBA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Swimwear",
+              "id": "846725037595869185",
+              "name": "Swimwear"
+            }
+          }
+        ],
+        "conversation_id": "2082272584209404239",
+        "created_at": "2026-07-29T01:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T02:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082272584209404239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HMAJbSNBwd",
+              "end": 45,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2082272584209404239/photo/1",
+              "media_key": "3_2082272581516767232",
+              "start": 22,
+              "url": "https://t.co/HMAJbSNBwd"
+            },
+            {
+              "display_url": "x.com/michael34952/s…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/michael34952/status/2081747242088611854",
+              "start": 46,
+              "url": "https://t.co/NAgEO6Vcg1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082272584209404239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081747242088611854",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看完她照片感觉对自己骨架的gd减轻了一些… https://t.co/HMAJbSNBwd https://t.co/NAgEO6Vcg1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081747214087405568",
+            "3_2081747222786449408",
+            "3_2081747229967081473",
+            "3_2081747236564746240"
+          ]
+        },
+        "author_id": "1577449768321785856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "All the latest basketball action from the WNBA.",
+              "id": "10002734734",
+              "name": "WNBA Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "706083902411055104",
+              "name": "Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "WNBA",
+              "id": "859816871570284544",
+              "name": "WNBA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "706083902411055104",
+              "name": "Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "WNBA",
+              "id": "859816871570284544",
+              "name": "WNBA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Swimwear",
+              "id": "846725037595869185",
+              "name": "Swimwear"
+            }
+          }
+        ],
+        "conversation_id": "2081747242088611854",
+        "created_at": "2026-07-27T14:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081747242088611854"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 68,
+              "tag": "SophieCunningham"
+            },
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "WNBA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/45YQEaieZ1",
+              "end": 116,
+              "expanded_url": "https://x.com/Michael34952/status/2081747242088611854/photo/1",
+              "media_key": "3_2081747214087405568",
+              "start": 93,
+              "url": "https://t.co/45YQEaieZ1"
+            },
+            {
+              "display_url": "pic.x.com/45YQEaieZ1",
+              "end": 116,
+              "expanded_url": "https://x.com/Michael34952/status/2081747242088611854/photo/1",
+              "media_key": "3_2081747222786449408",
+              "start": 93,
+              "url": "https://t.co/45YQEaieZ1"
+            },
+            {
+              "display_url": "pic.x.com/45YQEaieZ1",
+              "end": 116,
+              "expanded_url": "https://x.com/Michael34952/status/2081747242088611854/photo/1",
+              "media_key": "3_2081747229967081473",
+              "start": 93,
+              "url": "https://t.co/45YQEaieZ1"
+            },
+            {
+              "display_url": "pic.x.com/45YQEaieZ1",
+              "end": 116,
+              "expanded_url": "https://x.com/Michael34952/status/2081747242088611854/photo/1",
+              "media_key": "3_2081747236564746240",
+              "start": 93,
+              "url": "https://t.co/45YQEaieZ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081747242088611854",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8690,
+          "impression_count": 53547288,
+          "like_count": 23728,
+          "quote_count": 2539,
+          "reply_count": 2696,
+          "retweet_count": 636
+        },
+        "reply_settings": "everyone",
+        "text": "Beautiful Sophie Cunningham Sports Illustrated Bikini Photoshoot.😍\n\n#SophieCunningham \n#WNBA https://t.co/45YQEaieZ1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/xfNnH3omFP"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2080801154435326152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080483846097629184/ano5UN60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7491,
+          "following_count": 1203,
+          "like_count": 7293,
+          "listed_count": 11,
+          "media_count": 360,
+          "tweet_count": 4141
+        },
+        "url": "https://t.co/xfNnH3omFP",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-05T00:05:40.000Z",
+        "description": "Tesla To The Moon 🚀 | All In On $TSLA\n#MAGA | Political & Financial\nEverything 80s 🎶 | WNBA Fan",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 37,
+                "start": 32,
+                "tag": "TSLA"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 38,
+                "tag": "MAGA"
+              }
+            ]
+          }
+        },
+        "id": "1577449768321785856",
+        "location": "Texas, USA",
+        "name": "Michael Anthony",
+        "pinned_tweet_id": "2082210010013089889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080860059936989184/el7IKwoC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25233,
+          "following_count": 22300,
+          "like_count": 88631,
+          "listed_count": 10,
+          "media_count": 10429,
+          "tweet_count": 41420
+        },
+        "url": "",
+        "username": "Michael34952",
+        "verified": true
+      }
+    ]
+  }
+}

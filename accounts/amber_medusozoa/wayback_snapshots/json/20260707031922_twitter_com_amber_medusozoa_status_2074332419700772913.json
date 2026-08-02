@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Page for Global Pride Month for all years",
+          "id": "1275153105659650048",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      }
+    ],
+    "conversation_id": "2074332419700772913",
+    "created_at": "2026-07-07T03:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T04:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074332419700772913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1587276663859060736",
+          "start": 3,
+          "username": "chamebarne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074332419700772913",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 269
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073855055250485308",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chamebarne: Can pride events and queer orgs please figure out something that queer people like other than drag shows like I really hate…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          }
+        ],
+        "conversation_id": "2074332419700772913",
+        "created_at": "2026-07-07T03:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074332419700772913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1587276663859060736",
+              "start": 3,
+              "username": "chamebarne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074332419700772913",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 269
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073855055250485308",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chamebarne: Can pride events and queer orgs please figure out something that queer people like other than drag shows like I really hate…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587276663859060736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          }
+        ],
+        "conversation_id": "2073855055250485308",
+        "created_at": "2026-07-05T19:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T20:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073855055250485308"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073855055250485308",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 318,
+          "impression_count": 251238,
+          "like_count": 7758,
+          "quote_count": 109,
+          "reply_count": 124,
+          "retweet_count": 269
+        },
+        "reply_settings": "everyone",
+        "text": "Can pride events and queer orgs please figure out something that queer people like other than drag shows like I really hate that they’re basically the default queer thing"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya \n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059731443828310311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6345,
+          "following_count": 1053,
+          "like_count": 5908,
+          "listed_count": 10,
+          "media_count": 274,
+          "tweet_count": 3280
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-01T02:54:32.000Z",
+        "description": "Artist, Outlaw | Unbothered | I love whale sharks | Find my art on other socials @chamebarne",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 81,
+                "username": "chamebarne"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chamebarne.github.io",
+                "end": 23,
+                "expanded_url": "http://chamebarne.github.io",
+                "start": 0,
+                "url": "https://t.co/EV5f1mK2PZ"
+              }
+            ]
+          }
+        },
+        "id": "1587276663859060736",
+        "location": "The Wild West",
+        "name": "Jamie Barne",
+        "pinned_tweet_id": "2012579696471355552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000521625947791360/XLbqDO7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 3056,
+          "like_count": 160069,
+          "listed_count": 5,
+          "media_count": 652,
+          "tweet_count": 16093
+        },
+        "url": "https://t.co/EV5f1mK2PZ",
+        "username": "chamebarne",
+        "verified": false
+      }
+    ]
+  }
+}

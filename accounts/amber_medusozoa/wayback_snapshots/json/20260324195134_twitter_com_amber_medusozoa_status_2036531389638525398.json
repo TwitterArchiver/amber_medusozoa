@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2036531389638525398",
+    "created_at": "2026-03-24T19:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T20:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036531389638525398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "954724026806448128",
+          "start": 3,
+          "username": "libertyelysium"
+        },
+        {
+          "end": 28,
+          "id": "1461728708935385088",
+          "start": 20,
+          "username": "Qbb7680"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036531389638525398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036500386077614153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @libertyelysium: @Qbb7680 ？怎么雌堕也要做题啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2036531389638525398",
+        "created_at": "2026-03-24T19:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T20:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036531389638525398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "954724026806448128",
+              "start": 3,
+              "username": "libertyelysium"
+            },
+            {
+              "end": 28,
+              "id": "1461728708935385088",
+              "start": 20,
+              "username": "Qbb7680"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036531389638525398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036500386077614153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @libertyelysium: @Qbb7680 ？怎么雌堕也要做题啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "954724026806448128",
+        "conversation_id": "2036492002389532721",
+        "created_at": "2026-03-24T17:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T18:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036500386077614153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1461728708935385088",
+              "start": 0,
+              "username": "Qbb7680"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036500386077614153",
+        "in_reply_to_user_id": "1461728708935385088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 239,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036492002389532721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qbb7680 ？怎么雌堕也要做题啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035886196761542656/0cI4TLVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 276,
+          "like_count": 201,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 136
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-20T14:35:20.000Z",
+        "description": "@RGW90 我家忠实护卫犬",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "RGW90"
+              }
+            ]
+          }
+        },
+        "id": "954724026806448128",
+        "location": "精神科",
+        "name": "低功能自閉症",
+        "pinned_tweet_id": "1991859279842996718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934929099300212736/ICtzJ-Pe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11566,
+          "following_count": 672,
+          "like_count": 86039,
+          "listed_count": 39,
+          "media_count": 2045,
+          "tweet_count": 31624
+        },
+        "username": "libertyelysium",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-19T16:11:06.000Z",
+        "description": "是凶猛的九节狼，饲养条件：室温24℃湿度50%适当阳光直射 / 喵粒子永远正确/常驻江浙沪，喜欢🪢和K9/可接私厨、网页开发/提问箱：https://t.co/UC40aNQo1b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qbb7680",
+                "end": 90,
+                "expanded_url": "https://ngl.link/qbb7680",
+                "start": 67,
+                "url": "https://t.co/UC40aNQo1b"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qbb7680",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qbb7680",
+                "start": 0,
+                "url": "https://t.co/UC40aNQo1b"
+              }
+            ]
+          }
+        },
+        "id": "1461728708935385088",
+        "location": "休息日可接江浙沪上门做饭",
+        "name": "是气波波nya～",
+        "pinned_tweet_id": "2000871019247231472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997841678657597440/MtDkFV17_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14983,
+          "following_count": 1073,
+          "like_count": 95614,
+          "listed_count": 36,
+          "media_count": 1085,
+          "tweet_count": 6501
+        },
+        "url": "https://t.co/UC40aNQo1b",
+        "username": "Qbb7680",
+        "verified": false
+      }
+    ]
+  }
+}

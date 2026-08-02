@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2057738700369588224"
+      ],
+      "media_source_tweet_id": [
+        "2057763408121143472"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Tastemade",
+          "id": "1100417616273858560",
+          "name": "Tastemade"
+        }
+      }
+    ],
+    "conversation_id": "2058073044321435899",
+    "created_at": "2026-05-23T06:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T07:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058073044321435899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "708622300883476480",
+          "start": 3,
+          "username": "Tastemade_japan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lPX4e8aZQF",
+          "end": 68,
+          "expanded_url": "https://x.com/Tastemade_japan/status/2057763408121143472/video/1",
+          "media_key": "13_2057738700369588224",
+          "start": 45,
+          "url": "https://t.co/lPX4e8aZQF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058073044321435899",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057763408121143472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tastemade_japan: 【ぷわんたん】ほぼ空気？な新感覚ワンタン爆誕🪼 https://t.co/lPX4e8aZQF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20874,
+        "height": 1080,
+        "media_key": "13_2057738700369588224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057738700369588224/img/vE4Rb8h2MabthpHo.jpg",
+        "public_metrics": {
+          "view_count": 36196
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057738700369588224/vid/avc1/320x320/QyjKEVfbOiw8s3om.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057738700369588224/vid/avc1/540x540/oOlwq2sW9qmZXVzP.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057738700369588224/vid/avc1/1080x1080/Y3J_T8s20cc__-wJ.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057738700369588224/vid/avc1/720x720/-QmqJtNFW0Tn5wC4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057738700369588224/pl/y_RC4374pr9uWmwe.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057738700369588224"
+          ],
+          "media_source_tweet_id": [
+            "2057763408121143472"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Tastemade",
+              "id": "1100417616273858560",
+              "name": "Tastemade"
+            }
+          }
+        ],
+        "conversation_id": "2058073044321435899",
+        "created_at": "2026-05-23T06:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058073044321435899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "708622300883476480",
+              "start": 3,
+              "username": "Tastemade_japan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lPX4e8aZQF",
+              "end": 68,
+              "expanded_url": "https://x.com/Tastemade_japan/status/2057763408121143472/video/1",
+              "media_key": "13_2057738700369588224",
+              "start": 45,
+              "url": "https://t.co/lPX4e8aZQF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058073044321435899",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057763408121143472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tastemade_japan: 【ぷわんたん】ほぼ空気？な新感覚ワンタン爆誕🪼 https://t.co/lPX4e8aZQF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057738700369588224"
+          ]
+        },
+        "author_id": "708622300883476480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Tastemade",
+              "id": "1100417616273858560",
+              "name": "Tastemade"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cuisines",
+              "id": "860133563332648963",
+              "name": "Cuisines"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Japanese Cuisine",
+              "id": "860141411483635712",
+              "name": "Japanese cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese Cuisine",
+              "id": "860141411483635712",
+              "name": "Japanese cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1193991001892745216",
+              "name": "Cuisines"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357686092971995137",
+              "name": "Asian cuisine"
+            }
+          }
+        ],
+        "conversation_id": "2057763408121143472",
+        "created_at": "2026-05-22T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057763408121143472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lPX4e8aZQF",
+              "end": 47,
+              "expanded_url": "https://x.com/Tastemade_japan/status/2057763408121143472/video/1",
+              "media_key": "13_2057738700369588224",
+              "start": 24,
+              "url": "https://t.co/lPX4e8aZQF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057763408121143472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 74331,
+          "like_count": 227,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "【ぷわんたん】ほぼ空気？な新感覚ワンタン爆誕🪼 https://t.co/lPX4e8aZQF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057203465730801664/2vAIcjtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3828,
+          "following_count": 850,
+          "like_count": 3668,
+          "listed_count": 9,
+          "media_count": 60,
+          "tweet_count": 1618
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-12T11:54:56.000Z",
+        "description": "“Sizzle Creative Media” カルチャーを秒で体感する映像メディア「TASTEMADE」\n👇公式Instagramはこちら",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/tastemade_japa…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/tastemade_japan/",
+                "start": 0,
+                "url": "https://t.co/seTrSU21ZH"
+              }
+            ]
+          }
+        },
+        "id": "708622300883476480",
+        "name": "テイストメイド ジャパン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1061861219672371200/Hq6RQGjM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619886,
+          "following_count": 44,
+          "like_count": 7545,
+          "listed_count": 4699,
+          "media_count": 35370,
+          "tweet_count": 40944
+        },
+        "url": "https://t.co/seTrSU21ZH",
+        "username": "Tastemade_japan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2057416039734845555",
+    "created_at": "2026-05-21T18:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T19:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057529375378084279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2271326305",
+          "start": 0,
+          "username": "thevxst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057529375378084279",
+    "in_reply_to_user_id": "2271326305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057416039734845555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thevxst 恭喜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2057416039734845555",
+        "created_at": "2026-05-21T18:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057529375378084279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2271326305",
+              "start": 0,
+              "username": "thevxst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057529375378084279",
+        "in_reply_to_user_id": "2271326305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057416039734845555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thevxst 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2271326305",
+        "conversation_id": "2057416039734845555",
+        "created_at": "2026-05-21T10:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057416039734845555"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057416039734845555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5711,
+          "like_count": 146,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "结婚啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2057203502472946047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057203465730801664/2vAIcjtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3782,
+          "following_count": 845,
+          "like_count": 3573,
+          "listed_count": 9,
+          "media_count": 53,
+          "tweet_count": 1548
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2014-01-01T07:41:32.000Z",
+        "description": "Stay fortitude, Do good, Be excellence: 永远坚强，永远善良，永远卓越 / Google Deepmind / Gemini Large Scale Pretraining / Nemo ante mortem beatus / 🐱🐰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/vxst",
+                "end": 23,
+                "expanded_url": "https://github.com/vxst",
+                "start": 0,
+                "url": "https://t.co/oHsVu5mtC0"
+              }
+            ]
+          }
+        },
+        "id": "2271326305",
+        "location": "Zurich, Switzerland",
+        "name": "Jyn Spring 琴春🇨🇭🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661330013193420800/jZfXDUen_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7096,
+          "following_count": 1245,
+          "like_count": 1164,
+          "listed_count": 26,
+          "media_count": 161,
+          "tweet_count": 1575
+        },
+        "url": "https://t.co/oHsVu5mtC0",
+        "username": "thevxst",
+        "verified": true
+      }
+    ]
+  }
+}

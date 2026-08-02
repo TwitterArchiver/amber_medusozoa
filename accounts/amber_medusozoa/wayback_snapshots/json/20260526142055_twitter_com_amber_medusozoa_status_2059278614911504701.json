@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2059255923726815605",
+    "created_at": "2026-05-26T14:20:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:20:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059278614911504701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1999099178342051840",
+          "start": 0,
+          "username": "kokokawayi_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059278614911504701",
+    "in_reply_to_user_id": "1999099178342051840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059275970193109053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokokawayi_awa 可以捏 我胳膊上甚至有条形码（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2059255923726815605",
+        "created_at": "2026-05-26T14:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059278614911504701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1999099178342051840",
+              "start": 0,
+              "username": "kokokawayi_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059278614911504701",
+        "in_reply_to_user_id": "1999099178342051840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059275970193109053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokokawayi_awa 可以捏 我胳膊上甚至有条形码（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999099178342051840",
+        "conversation_id": "2059255923726815605",
+        "created_at": "2026-05-26T14:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059275970193109053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059275970193109053",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059255923726815605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 我可以抱你走self checkout吗（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya\n⚜️@irisdesombres\n✦ @amber_digit @amber_digit2\n➔ https://t.co/ifiQvlVhub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "amber_digit"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 87,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 64,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 Toronto",
+        "name": "amber",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4185,
+          "following_count": 880,
+          "like_count": 3841,
+          "listed_count": 12,
+          "media_count": 74,
+          "tweet_count": 1702
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T12:49:45.000Z",
+        "description": "是杂鱼，喜欢买手办和涩涩，纯M小狗（偶尔S）\n🚪50（最好是星期四😋）\nUndergrad at UTSG, Registered as Liberal\n魅魔姐姐（是主人！）@daisuki07483937 | 兔兔妈咪@miya051223 | 闺蜜@sutanghentian | 杂鱼🌰 @Lingmeiya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "daisuki07483937"
+              },
+              {
+                "end": 121,
+                "start": 110,
+                "username": "miya051223"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "sutanghentian"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Lingmeiya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kokodayo.us",
+                "end": 23,
+                "expanded_url": "http://kokodayo.us",
+                "start": 0,
+                "url": "https://t.co/DGRP1lRnXD"
+              }
+            ]
+          }
+        },
+        "id": "1999099178342051840",
+        "location": "🛫 Tokyo",
+        "name": "Kokodayo（复活赛进行中~）",
+        "pinned_tweet_id": "2007097060974268924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999104053524176897/uAijM8oN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1959,
+          "following_count": 371,
+          "like_count": 3992,
+          "listed_count": 2,
+          "media_count": 435,
+          "tweet_count": 3375
+        },
+        "url": "https://t.co/DGRP1lRnXD",
+        "username": "kokokawayi_awa",
+        "verified": true
+      }
+    ]
+  }
+}

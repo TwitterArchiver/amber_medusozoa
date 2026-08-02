@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062953702005014528"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2062865950349963322",
+    "created_at": "2026-06-05T17:44:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T18:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062953704337084503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1736265610911428608",
+          "start": 0,
+          "username": "noname2095_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KvrLUFcvIt",
+          "end": 42,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2062953704337084503/photo/1",
+          "media_key": "3_2062953702005014528",
+          "start": 19,
+          "url": "https://t.co/KvrLUFcvIt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062953704337084503",
+    "in_reply_to_user_id": "1736265610911428608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062865950349963322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noname2095_ 这条是假的 https://t.co/KvrLUFcvIt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2062953702005014528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEVdkQWAAAUDeD.jpg",
+        "width": 587
+      },
+      {
+        "height": 576,
+        "media_key": "3_2062865938895233024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDFpFMaYAAkogR.jpg",
+        "width": 1063
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062953702005014528"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2062865950349963322",
+        "created_at": "2026-06-05T17:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062953704337084503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1736265610911428608",
+              "start": 0,
+              "username": "noname2095_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KvrLUFcvIt",
+              "end": 42,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2062953704337084503/photo/1",
+              "media_key": "3_2062953702005014528",
+              "start": 19,
+              "url": "https://t.co/KvrLUFcvIt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062953704337084503",
+        "in_reply_to_user_id": "1736265610911428608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062865950349963322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noname2095_ 这条是假的 https://t.co/KvrLUFcvIt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062865938895233024"
+          ]
+        },
+        "author_id": "1736265610911428608",
+        "conversation_id": "2062865950349963322",
+        "created_at": "2026-06-05T11:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062865950349963322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c0t4zOeqLy",
+              "end": 23,
+              "expanded_url": "https://x.com/noname2095_/status/2062865950349963322/photo/1",
+              "media_key": "3_2062865938895233024",
+              "start": 0,
+              "url": "https://t.co/c0t4zOeqLy"
+            },
+            {
+              "display_url": "x.com/noname2095_/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/noname2095_/status/2062769993209847952",
+              "start": 24,
+              "url": "https://t.co/CZDx0W1r7i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062865950349963322",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3803,
+          "like_count": 42,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062769993209847952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/c0t4zOeqLy https://t.co/CZDx0W1r7i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya ⚜️@irisdesombres \n🏳️‍⚧️@amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 52,
+                "start": 39,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5519,
+          "following_count": 955,
+          "like_count": 4324,
+          "listed_count": 10,
+          "media_count": 120,
+          "tweet_count": 2043
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-17T06:03:03.000Z",
+        "description": "29元包年千G流量VPN👉🏻：https://t.co/MVeoKpvKXj\n\n🧡🤍🩷🏳️‍⚧️\n我很穷啥也不会请给我钱\n那你能帮帮我吗\n我是跨女给我往包裹里倒塞两盒日雌\n个人账号：https://t.co/5wRZ4IDVG0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yy.tz69.vip/#/register?cod…",
+                "end": 38,
+                "expanded_url": "https://www.yy.tz69.vip/#/register?code=BkiKFzKe",
+                "start": 15,
+                "url": "https://t.co/MVeoKpvKXj"
+              },
+              {
+                "display_url": "noname2095.bsky.social",
+                "end": 114,
+                "expanded_url": "http://noname2095.bsky.social",
+                "start": 91,
+                "url": "https://t.co/5wRZ4IDVG0"
+              }
+            ]
+          }
+        },
+        "id": "1736265610911428608",
+        "location": "南极洲",
+        "name": "noname",
+        "pinned_tweet_id": "1772656363941908692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945223550417186816/HdhCpSMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2432,
+          "following_count": 364,
+          "like_count": 4400,
+          "listed_count": 5,
+          "media_count": 309,
+          "tweet_count": 11590
+        },
+        "username": "noname2095_",
+        "verified": false
+      }
+    ]
+  }
+}

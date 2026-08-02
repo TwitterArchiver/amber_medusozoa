@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2042438347541327926",
+    "created_at": "2026-04-10T03:03:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T04:03:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042438347541327926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1303612137135173632",
+          "start": 3,
+          "username": "sangaldoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042438347541327926",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7302
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042124797258486078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sangaldoo: Someday you’ll get cancelled on this app and your oomfs will post “Always knew something was wrong with this person”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2042438347541327926",
+        "created_at": "2026-04-10T03:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042438347541327926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1303612137135173632",
+              "start": 3,
+              "username": "sangaldoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042438347541327926",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7302
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042124797258486078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sangaldoo: Someday you’ll get cancelled on this app and your oomfs will post “Always knew something was wrong with this person”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303612137135173632",
+        "conversation_id": "2042124797258486078",
+        "created_at": "2026-04-09T06:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042124797258486078"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042124797258486078",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2923,
+          "impression_count": 1078419,
+          "like_count": 41514,
+          "quote_count": 3358,
+          "reply_count": 343,
+          "retweet_count": 7302
+        },
+        "reply_settings": "everyone",
+        "text": "Someday you’ll get cancelled on this app and your oomfs will post “Always knew something was wrong with this person”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1998,
+          "following_count": 691,
+          "like_count": 1910,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1327
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-09T08:32:59.000Z",
+        "description": "breadloser",
+        "id": "1303612137135173632",
+        "name": "Sangeet",
+        "pinned_tweet_id": "1990459511233196421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890331825475555329/zPJcFBAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3941,
+          "following_count": 3286,
+          "like_count": 158033,
+          "listed_count": 8,
+          "media_count": 1974,
+          "tweet_count": 22163
+        },
+        "username": "sangaldoo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2046032614461788520",
+    "created_at": "2026-04-20T01:12:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T02:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046034345266205042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1221407968341573632",
+          "start": 0,
+          "username": "Fossil_kolya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046034345266205042",
+    "in_reply_to_user_id": "1221407968341573632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046032614461788520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fossil_kolya 中间那个白色的是什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2046032595570524160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGT3zinaAAA66Kl.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2046032614461788520",
+        "created_at": "2026-04-20T01:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T02:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046034345266205042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1221407968341573632",
+              "start": 0,
+              "username": "Fossil_kolya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046034345266205042",
+        "in_reply_to_user_id": "1221407968341573632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046032614461788520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fossil_kolya 中间那个白色的是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046032595570524160"
+          ]
+        },
+        "author_id": "1221407968341573632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2046032614461788520",
+        "created_at": "2026-04-20T01:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T02:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046032614461788520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5DegzAUJUE",
+              "end": 39,
+              "expanded_url": "https://x.com/Fossil_kolya/status/2046032614461788520/photo/1",
+              "media_key": "3_2046032595570524160",
+              "start": 16,
+              "url": "https://t.co/5DegzAUJUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046032614461788520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是健身餐吧 其他的我不配😋💪 https://t.co/5DegzAUJUE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/qBX9bbnFOS"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2411,
+          "following_count": 842,
+          "like_count": 2763,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 1918
+        },
+        "url": "https://t.co/qBX9bbnFOS",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-26T12:22:19.000Z",
+        "description": "𖦹´~`𖦹 || There is but one truly serious philosophical problem and that is suicide ᕱ⑅ᕱ",
+        "id": "1221407968341573632",
+        "name": "橙",
+        "pinned_tweet_id": "2006692852282306820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004696456918347776/Of6asZL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 642,
+          "like_count": 59727,
+          "listed_count": 0,
+          "media_count": 870,
+          "tweet_count": 8900
+        },
+        "username": "Fossil_kolya",
+        "verified": false
+      }
+    ]
+  }
+}

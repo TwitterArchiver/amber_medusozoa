@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2044086878303821948",
+    "created_at": "2026-04-14T16:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T17:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044086878303821948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1481910253545349120",
+          "start": 3,
+          "username": "wise_prism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044086878303821948",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044049757979718076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wise_prism: There is no worse pain than seeing someone who started hrt later than you start passing before you"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2044086878303821948",
+        "created_at": "2026-04-14T16:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044086878303821948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1481910253545349120",
+              "start": 3,
+              "username": "wise_prism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044086878303821948",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044049757979718076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wise_prism: There is no worse pain than seeing someone who started hrt later than you start passing before you"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481910253545349120",
+        "conversation_id": "2044049757979718076",
+        "created_at": "2026-04-14T13:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044049757979718076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044049757979718076",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2601,
+          "like_count": 162,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "There is no worse pain than seeing someone who started hrt later than you start passing before you"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2206,
+          "following_count": 739,
+          "like_count": 2172,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1570
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-14T08:45:29.000Z",
+        "description": "Some flavor of leftcom,\nDIYhon Gigalateshit (16),\nDMs open",
+        "id": "1481910253545349120",
+        "name": "PathologicalWise",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932926000779952128/rKNtRU2Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 2735,
+          "like_count": 155810,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1018
+        },
+        "username": "wise_prism",
+        "verified": false
+      }
+    ]
+  }
+}

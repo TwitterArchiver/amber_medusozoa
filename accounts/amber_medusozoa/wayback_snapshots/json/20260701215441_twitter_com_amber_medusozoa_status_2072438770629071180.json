@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Toronto",
+          "id": "861961494438662144",
+          "name": "Toronto"
+        }
+      }
+    ],
+    "conversation_id": "2072438770629071180",
+    "created_at": "2026-07-01T21:54:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T22:54:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072438770629071180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "22496608",
+          "start": 3,
+          "username": "AnthonyFarnell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072438770629071180",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 158
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072407237109199344",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AnthonyFarnell: Congrats Toronto. 35.7C with a Humidex of 48. This is now the hottest Canada 🇨🇦 Day on record. Old record was 35.6C set…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2118,
+        "media_key": "3_2072407234047356928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKrZjdXsAAQmkf.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Toronto",
+              "id": "861961494438662144",
+              "name": "Toronto"
+            }
+          }
+        ],
+        "conversation_id": "2072438770629071180",
+        "created_at": "2026-07-01T21:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T22:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072438770629071180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "22496608",
+              "start": 3,
+              "username": "AnthonyFarnell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072438770629071180",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 158
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072407237109199344",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AnthonyFarnell: Congrats Toronto. 35.7C with a Humidex of 48. This is now the hottest Canada 🇨🇦 Day on record. Old record was 35.6C set…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072407234047356928"
+          ]
+        },
+        "author_id": "22496608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Toronto",
+              "id": "861961494438662144",
+              "name": "Toronto"
+            }
+          }
+        ],
+        "conversation_id": "2072407237109199344",
+        "created_at": "2026-07-01T19:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T20:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072407237109199344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tOQKWDlfcG",
+              "end": 157,
+              "expanded_url": "https://x.com/AnthonyFarnell/status/2072407237109199344/photo/1",
+              "media_key": "3_2072407234047356928",
+              "start": 134,
+              "url": "https://t.co/tOQKWDlfcG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072407237109199344",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 35826,
+          "like_count": 769,
+          "quote_count": 56,
+          "reply_count": 30,
+          "retweet_count": 158
+        },
+        "reply_settings": "everyone",
+        "text": "Congrats Toronto. 35.7C with a Humidex of 48. This is now the hottest Canada 🇨🇦 Day on record. Old record was 35.6C set back in 1963. https://t.co/tOQKWDlfcG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya \n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2072313928395198620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6161,
+          "following_count": 1033,
+          "like_count": 5597,
+          "listed_count": 10,
+          "media_count": 250,
+          "tweet_count": 3075
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-02T15:52:13.000Z",
+        "description": "Chief Meteorologist at Global News. Accurate & reliable weather forecasts with a smile.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/anthonyfarnell",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/anthonyfarnell",
+                "start": 0,
+                "url": "https://t.co/cemEV6F61h"
+              }
+            ]
+          }
+        },
+        "id": "22496608",
+        "location": "Toronto, Ontario",
+        "name": "Anthony Farnell",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056507460454617088/M3Gvmarh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33919,
+          "following_count": 1543,
+          "like_count": 22711,
+          "listed_count": 414,
+          "media_count": 10453,
+          "tweet_count": 32915
+        },
+        "url": "https://t.co/cemEV6F61h",
+        "username": "AnthonyFarnell",
+        "verified": false
+      }
+    ]
+  }
+}

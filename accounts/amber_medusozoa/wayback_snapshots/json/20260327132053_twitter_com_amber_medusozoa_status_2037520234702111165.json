@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2037520234702111165",
+    "created_at": "2026-03-27T13:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T14:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037520234702111165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1846949815755984897",
+          "start": 3,
+          "username": "Miller239374"
+        },
+        {
+          "end": 31,
+          "id": "1986828541930119168",
+          "start": 18,
+          "username": "shigure07288"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037520234702111165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037477317845701025",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miller239374: @shigure07288 最终解决方法还是直接取消这种极权美学的表演、被物化的崇高和资本导向的身体异化竞赛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2037520234702111165",
+        "created_at": "2026-03-27T13:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037520234702111165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1846949815755984897",
+              "start": 3,
+              "username": "Miller239374"
+            },
+            {
+              "end": 31,
+              "id": "1986828541930119168",
+              "start": 18,
+              "username": "shigure07288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037520234702111165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037477317845701025",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miller239374: @shigure07288 最终解决方法还是直接取消这种极权美学的表演、被物化的崇高和资本导向的身体异化竞赛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846949815755984897",
+        "conversation_id": "2037466488467251586",
+        "created_at": "2026-03-27T10:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T11:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037477317845701025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1986828541930119168",
+              "start": 0,
+              "username": "shigure07288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037477317845701025",
+        "in_reply_to_user_id": "1986828541930119168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037466488467251586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shigure07288 最终解决方法还是直接取消这种极权美学的表演、被物化的崇高和资本导向的身体异化竞赛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 366,
+          "like_count": 491,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 364
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-17T16:22:29.000Z",
+        "description": "他人的眼睛是我们的监狱，他人的思想是我们的牢笼。",
+        "id": "1846949815755984897",
+        "name": "Miller",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946459504641490944/RgDex3JV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 364,
+          "like_count": 11045,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1912
+        },
+        "username": "Miller239374",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "“于是我们高呼道：革命死了，革命万岁！”\n📕🌈|INTP-A|自发毛主义|左翼共产主义|民主社会主义|左翼平民主义|反资本主义|反帝国主义|反修正主义|平权主义|友lgbt",
+        "id": "1986828541930119168",
+        "location": "中华公社",
+        "name": "時雨☭🚩🏴‍☠️🇵🇸🇺🇦🏳️‍🌈",
+        "pinned_tweet_id": "2027014737033326935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037184441903439872/7JiyMX0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 556,
+          "like_count": 3201,
+          "listed_count": 5,
+          "media_count": 337,
+          "tweet_count": 4546
+        },
+        "username": "shigure07288",
+        "verified": false
+      }
+    ]
+  }
+}

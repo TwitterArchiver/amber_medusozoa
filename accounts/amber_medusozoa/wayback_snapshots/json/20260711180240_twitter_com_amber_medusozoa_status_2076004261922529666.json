@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2075988961462239307",
+    "created_at": "2026-07-11T18:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T19:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076004261922529666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2037242416298905600",
+          "start": 0,
+          "username": "iyliess"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076004261922529666",
+    "in_reply_to_user_id": "2037242416298905600",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076001238475497769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iyliess 😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2075988961462239307",
+        "created_at": "2026-07-11T18:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T19:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076004261922529666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2037242416298905600",
+              "start": 0,
+              "username": "iyliess"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076004261922529666",
+        "in_reply_to_user_id": "2037242416298905600",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076001238475497769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iyliess 😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037242416298905600",
+        "conversation_id": "2075988961462239307",
+        "created_at": "2026-07-11T17:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T18:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076001238475497769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076001238475497769",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075988961462239307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 99% of the time I tell people \"maybe we should stop torturing international students\" I'm met with some variation of \"they deserve it\"\n\nI hate my country"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya \n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2075988961462239307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6479,
+          "following_count": 1058,
+          "like_count": 5982,
+          "listed_count": 11,
+          "media_count": 287,
+          "tweet_count": 3370
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-26T18:56:58.000Z",
+        "description": "🏳️‍⚧️ | Marxist Leninist | Begrudgingly Canadian | 25 | EN/FR\n\nYankees DNI",
+        "id": "2037242416298905600",
+        "location": "Alberta",
+        "name": "Iylies",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037243945420546049/hxNlkOYI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 140,
+          "like_count": 5828,
+          "listed_count": 2,
+          "media_count": 104,
+          "tweet_count": 1116
+        },
+        "url": "",
+        "username": "iyliess",
+        "verified": false
+      }
+    ]
+  }
+}

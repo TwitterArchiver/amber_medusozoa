@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2042451733809402028",
+    "created_at": "2026-04-10T03:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T04:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042451733809402028"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maigomaigohh/s…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/maigomaigohh/status/2042421027809214552",
+          "start": 21,
+          "url": "https://t.co/p4fl0xJ44F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042451733809402028",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042421027809214552",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“the boys” after all https://t.co/p4fl0xJ44F"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2042451733809402028",
+        "created_at": "2026-04-10T03:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042451733809402028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maigomaigohh/s…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/maigomaigohh/status/2042421027809214552",
+              "start": 21,
+              "url": "https://t.co/p4fl0xJ44F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042451733809402028",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042421027809214552",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“the boys” after all https://t.co/p4fl0xJ44F"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279242635341729792",
+        "conversation_id": "2042421027809214552",
+        "created_at": "2026-04-10T01:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T02:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042421027809214552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042421027809214552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 954,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "黑袍纠察队中文观众和英文观众的共性：拿着不同妆容，不同打光，不同体重，不同发型，不同角度，不同年龄的照片对比然后对星光的演员定期进行容貌羞辱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2004,
+          "following_count": 694,
+          "like_count": 1920,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1335
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-04T02:36:35.000Z",
+        "description": "倒霉蛋",
+        "id": "1279242635341729792",
+        "location": "你身后",
+        "name": "コガ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040711973831368704/4hKq15Da_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6416,
+          "following_count": 941,
+          "like_count": 24590,
+          "listed_count": 35,
+          "media_count": 1558,
+          "tweet_count": 21172
+        },
+        "username": "maigomaigoHH",
+        "verified": true
+      }
+    ]
+  }
+}

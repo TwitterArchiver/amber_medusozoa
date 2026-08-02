@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071783989162000384",
+        "3_2071786018122936320"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2071786021100961889",
+    "created_at": "2026-06-30T02:40:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T03:32:50.000Z",
+      "edits_remaining": 3,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071783993071014088",
+      "2071784038751183095",
+      "2071786021100961889"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jGv0eC2yK1",
+          "end": 81,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2071786021100961889/photo/1",
+          "media_key": "3_2071783989162000384",
+          "start": 58,
+          "url": "https://t.co/jGv0eC2yK1"
+        },
+        {
+          "display_url": "pic.x.com/jGv0eC2yK1",
+          "end": 81,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2071786021100961889/photo/1",
+          "media_key": "3_2071786018122936320",
+          "start": 58,
+          "url": "https://t.co/jGv0eC2yK1"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "3797791ff9c0e4c6"
+    },
+    "id": "2071786021100961889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明年没办法继续住宿舍了，问问多伦多有没有人愿意和我合租，位置大概在UTSG主校区附近，预算$1.5k/月，不限性别 https://t.co/jGv0eC2yK1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [3797791ff9c0e4c6].",
+      "parameter": "geo.place_id",
+      "resource_id": "3797791ff9c0e4c6",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "3797791ff9c0e4c6"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071783989162000384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMB0j7VXwAAgzEl.jpg",
+        "width": 1542
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071786018122936320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMB2aBzWsAA1gEd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071783990525063168",
+            "3_2071783989162000384"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2071783993071014088",
+        "created_at": "2026-06-30T02:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T03:32:50.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071783993071014088",
+          "2071784038751183095",
+          "2071786021100961889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ktXvp8Q2JH",
+              "end": 76,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2071783993071014088/photo/1",
+              "media_key": "3_2071783990525063168",
+              "start": 53,
+              "url": "https://t.co/ktXvp8Q2JH"
+            },
+            {
+              "display_url": "pic.x.com/ktXvp8Q2JH",
+              "end": 76,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2071783993071014088/photo/1",
+              "media_key": "3_2071783989162000384",
+              "start": 53,
+              "url": "https://t.co/ktXvp8Q2JH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071783993071014088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明年没办法继续住宿舍了，问问多伦多有没有人愿意和我合租，位置大概在UTSG主校区附近，预算$1.5k/月 https://t.co/ktXvp8Q2JH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071783989162000384"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2071784038751183095",
+        "created_at": "2026-06-30T02:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T03:32:50.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071783993071014088",
+          "2071784038751183095",
+          "2071786021100961889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bgtYK8kHur",
+              "end": 81,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2071784038751183095/photo/1",
+              "media_key": "3_2071783989162000384",
+              "start": 58,
+              "url": "https://t.co/bgtYK8kHur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071784038751183095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明年没办法继续住宿舍了，问问多伦多有没有人愿意和我合租，位置大概在UTSG主校区附近，预算$1.5k/月，不限性别 https://t.co/bgtYK8kHur"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071783989162000384",
+            "3_2071786018122936320"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2071786021100961889",
+        "created_at": "2026-06-30T02:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T03:32:50.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071783993071014088",
+          "2071784038751183095",
+          "2071786021100961889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jGv0eC2yK1",
+              "end": 81,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2071786021100961889/photo/1",
+              "media_key": "3_2071783989162000384",
+              "start": 58,
+              "url": "https://t.co/jGv0eC2yK1"
+            },
+            {
+              "display_url": "pic.x.com/jGv0eC2yK1",
+              "end": 81,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2071786021100961889/photo/1",
+              "media_key": "3_2071786018122936320",
+              "start": 58,
+              "url": "https://t.co/jGv0eC2yK1"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "3797791ff9c0e4c6"
+        },
+        "id": "2071786021100961889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明年没办法继续住宿舍了，问问多伦多有没有人愿意和我合租，位置大概在UTSG主校区附近，预算$1.5k/月，不限性别 https://t.co/jGv0eC2yK1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6116,
+          "following_count": 1035,
+          "like_count": 5509,
+          "listed_count": 10,
+          "media_count": 245,
+          "tweet_count": 2994
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

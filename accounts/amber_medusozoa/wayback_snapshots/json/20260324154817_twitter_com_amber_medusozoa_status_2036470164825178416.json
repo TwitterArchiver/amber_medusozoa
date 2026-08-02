@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2036469909224321469",
+    "created_at": "2026-03-24T15:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T16:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036470164825178416"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036470164825178416",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036469909224321469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你的生活没有别的乐趣了吗 一定要做题做到死吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2036469909224321469",
+        "created_at": "2026-03-24T15:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036470164825178416"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036470164825178416",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036469909224321469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你的生活没有别的乐趣了吗 一定要做题做到死吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2036469909224321469",
+        "created_at": "2026-03-24T15:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036469909224321469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoxiao_xyz27…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/xiaoxiao_xyz27/status/2036350153188319359",
+              "start": 26,
+              "url": "https://t.co/0SJnJsOL65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036469909224321469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036350153188319359",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你真的解开了枷锁 为什么还是只愿追求跑得更快呢 https://t.co/0SJnJsOL65"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035886196761542656/0cI4TLVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 265,
+          "like_count": 173,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 115
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

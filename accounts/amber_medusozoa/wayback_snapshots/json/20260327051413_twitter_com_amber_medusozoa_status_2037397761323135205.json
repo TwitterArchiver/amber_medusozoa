@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2037328032797749250",
+    "created_at": "2026-03-27T05:14:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T06:14:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037397761323135205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1902217890738401281",
+          "start": 0,
+          "username": "SylwiaY7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037397761323135205",
+    "in_reply_to_user_id": "1902217890738401281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037328032797749250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SylwiaY7 普林斯顿是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2037328032797749250",
+        "created_at": "2026-03-27T05:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T06:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037397761323135205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1902217890738401281",
+              "start": 0,
+              "username": "SylwiaY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037397761323135205",
+        "in_reply_to_user_id": "1902217890738401281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037328032797749250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SylwiaY7 普林斯顿是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2037328032797749250",
+        "created_at": "2026-03-27T00:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T01:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037328032797749250"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037328032797749250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1131,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "性骚扰差点强奸我的男的上了普林斯顿本科 我准备买点盐自杀了🤩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 363,
+          "like_count": 475,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 344
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dm’s open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 100,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 362
+        },
+        "username": "SylwiaY7",
+        "verified": false
+      }
+    ]
+  }
+}

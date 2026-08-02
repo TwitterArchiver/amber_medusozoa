@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2048647491390939625",
+    "created_at": "2026-04-27T19:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T20:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048848271691370957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1225970482379251712",
+          "start": 0,
+          "username": "AESISTN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048848271691370957",
+    "in_reply_to_user_id": "1225970482379251712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048647491390939625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AESISTN 蓝标嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2048647491390939625",
+        "created_at": "2026-04-27T19:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T20:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048848271691370957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1225970482379251712",
+              "start": 0,
+              "username": "AESISTN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048848271691370957",
+        "in_reply_to_user_id": "1225970482379251712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048647491390939625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AESISTN 蓝标嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1225970482379251712",
+        "conversation_id": "2048647491390939625",
+        "created_at": "2026-04-27T06:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T07:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048647491390939625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20318…",
+              "end": 32,
+              "expanded_url": "https://x.com/i/status/2031800922951860564",
+              "start": 9,
+              "url": "https://t.co/gMTjqmnSSw"
+            },
+            {
+              "display_url": "x.com/Illusory_P/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/Illusory_P/status/2048624311259279501",
+              "start": 33,
+              "url": "https://t.co/snuHPi3A5N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048647491390939625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 448,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048624311259279501",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么偷我原创😡😡😡https://t.co/gMTjqmnSSw https://t.co/snuHPi3A5N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2541,
+          "following_count": 919,
+          "like_count": 3225,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 2174
+        },
+        "username": "amber_medusozoa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-08T02:32:02.000Z",
+        "description": "想看石榴花开在海底/地雷系/💛🤍💜🖤/随机负面情绪输出/不想设置什么日期型简介是因为根本没有人会给我庆祝",
+        "id": "1225970482379251712",
+        "name": "未命名符",
+        "pinned_tweet_id": "1756327879447851368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042595529411170305/9v4gWGSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 125,
+          "like_count": 2065,
+          "listed_count": 6,
+          "media_count": 238,
+          "tweet_count": 1204
+        },
+        "username": "AESISTN",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2081440577028075931",
+    "created_at": "2026-07-26T18:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T19:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081440577028075931"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/suekageseikiyo…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/suekageseikiyo/status/2081437743453028406",
+          "start": 5,
+          "url": "https://t.co/vCEm0wpXKb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081440577028075931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081437743453028406",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是这样的 https://t.co/vCEm0wpXKb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2081440577028075931",
+        "created_at": "2026-07-26T18:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081440577028075931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suekageseikiyo…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/suekageseikiyo/status/2081437743453028406",
+              "start": 5,
+              "url": "https://t.co/vCEm0wpXKb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081440577028075931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081437743453028406",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是这样的 https://t.co/vCEm0wpXKb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605093608910381056",
+        "conversation_id": "2081436613465550858",
+        "created_at": "2026-07-26T17:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081437743453028406"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081437743453028406",
+        "in_reply_to_user_id": "1605093608910381056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081436613465550858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个人自称女的→这个人有逼→要多和ta交流发展感情，说不定以后能操到逼→发现这个人没逼→气急败坏。这不是嫖娼思维吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2080801154435326152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080483846097629184/ano5UN60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7190,
+          "following_count": 1191,
+          "like_count": 7217,
+          "listed_count": 11,
+          "media_count": 358,
+          "tweet_count": 4110
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-20T06:51:57.000Z",
+        "description": "私がモテないのはどう考えてもお前らが悪い",
+        "id": "1605093608910381056",
+        "name": "末々🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026309621338820609/hO5ufogg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 593,
+          "like_count": 7663,
+          "listed_count": 7,
+          "media_count": 143,
+          "tweet_count": 1045
+        },
+        "url": "",
+        "username": "suekageseikiyo",
+        "verified": true
+      }
+    ]
+  }
+}

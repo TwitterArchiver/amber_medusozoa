@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2057599107934380107",
+    "created_at": "2026-05-21T23:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T00:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057599107934380107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1815355982622359552",
+          "start": 3,
+          "username": "tinyrowlet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057599107934380107",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 164
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057553862668566747",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tinyrowlet: as a trans man i'm not allowed to use the men's toilet now because it says F on my birth certificate but i'm also not allow…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2057599107934380107",
+        "created_at": "2026-05-21T23:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T00:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057599107934380107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1815355982622359552",
+              "start": 3,
+              "username": "tinyrowlet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057599107934380107",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 164
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057553862668566747",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tinyrowlet: as a trans man i'm not allowed to use the men's toilet now because it says F on my birth certificate but i'm also not allow…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815355982622359552",
+        "conversation_id": "2057553862668566747",
+        "created_at": "2026-05-21T20:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T21:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057553862668566747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BBCNews/status…",
+              "end": 267,
+              "expanded_url": "https://twitter.com/BBCNews/status/2057518106239451303",
+              "start": 244,
+              "url": "https://t.co/6FQ2ouKCwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057553862668566747",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 63085,
+          "like_count": 2727,
+          "quote_count": 9,
+          "reply_count": 168,
+          "retweet_count": 164
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057518106239451303",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "as a trans man i'm not allowed to use the men's toilet now because it says F on my birth certificate but i'm also not allowed to use the women's toilet because i may cause distress for looking like a man.... WHERE TF DO YOU WANT ME TO PISS???? https://t.co/6FQ2ouKCwQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/XWFKRZnw6Y"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2057203502472946047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057203465730801664/2vAIcjtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3794,
+          "following_count": 848,
+          "like_count": 3592,
+          "listed_count": 10,
+          "media_count": 55,
+          "tweet_count": 1567
+        },
+        "url": "https://t.co/XWFKRZnw6Y",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-22T11:59:42.000Z",
+        "description": "27. he/him. autistic. 🏳️‍⚧️. yapping about my hyperfixations",
+        "id": "1815355982622359552",
+        "location": "uk",
+        "name": "casey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056674074466627584/v4OcazYj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 1001,
+          "like_count": 11792,
+          "listed_count": 2,
+          "media_count": 1256,
+          "tweet_count": 6363
+        },
+        "username": "tinyrowlet",
+        "verified": false
+      }
+    ]
+  }
+}

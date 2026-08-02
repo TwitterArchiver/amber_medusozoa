@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2067785508999032955",
+    "created_at": "2026-06-19T01:44:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T02:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067785508999032955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1349113598694588416",
+          "start": 3,
+          "username": "boreddeleuzian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067785508999032955",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067758164418678880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boreddeleuzian: By the way: Judith Butler's actual theory is a lot closer to radical feminism than most TERFs are to radical feminism"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2067785508999032955",
+        "created_at": "2026-06-19T01:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T02:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067785508999032955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1349113598694588416",
+              "start": 3,
+              "username": "boreddeleuzian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067785508999032955",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067758164418678880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @boreddeleuzian: By the way: Judith Butler's actual theory is a lot closer to radical feminism than most TERFs are to radical feminism"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1349113598694588416",
+        "conversation_id": "2067758164418678880",
+        "created_at": "2026-06-18T23:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T00:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067758164418678880"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067758164418678880",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 595,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "By the way: Judith Butler's actual theory is a lot closer to radical feminism than most TERFs are to radical feminism"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5931,
+          "following_count": 1018,
+          "like_count": 5184,
+          "listed_count": 10,
+          "media_count": 193,
+          "tweet_count": 2678
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-12T21:58:56.000Z",
+        "description": "That said, I would be the first to shoot up philosophy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/boredlacanian",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/boredlacanian",
+                "start": 0,
+                "url": "https://t.co/BjemzEnzBF"
+              }
+            ]
+          }
+        },
+        "id": "1349113598694588416",
+        "location": "Any/All",
+        "name": "Lacanian 🍷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496619097798414339/PKJKfleC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3246,
+          "following_count": 2442,
+          "like_count": 196978,
+          "listed_count": 15,
+          "media_count": 2023,
+          "tweet_count": 35958
+        },
+        "url": "https://t.co/BjemzEnzBF",
+        "username": "boreddeleuzian",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2037590661936136392",
+    "created_at": "2026-03-28T00:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T01:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037685386621718664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1718203535756771328",
+          "start": 0,
+          "username": "qixin_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037685386621718664",
+    "in_reply_to_user_id": "1718203535756771328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037590661936136392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qixin_official 谁是外籍高华啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2037590661936136392",
+        "created_at": "2026-03-28T00:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T01:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037685386621718664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1718203535756771328",
+              "start": 0,
+              "username": "qixin_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037685386621718664",
+        "in_reply_to_user_id": "1718203535756771328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037590661936136392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qixin_official 谁是外籍高华啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718203535756771328",
+        "conversation_id": "2037590661936136392",
+        "created_at": "2026-03-27T18:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T19:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037590661936136392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2037551462746562965",
+              "start": 144,
+              "url": "https://t.co/8MhVL4CC4x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037590661936136392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037551462746562965",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "闹批麻了，两做题蛆比赛炫成绩，然后引来不需要考研/高考/中考的瘤子/外籍高华打着“反优绩主义”旗号进行高级炫，这下否定之否定了。某些生在不需要做题就有学上，不需要卷成绩挑专业就不愁吃喝的人，把自己塑造成一个对考试的桃花源中人，和张嘴就是x专的笔电男大又有什么区别。不往夹边沟里送能行吗？ https://t.co/8MhVL4CC4x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 376,
+          "like_count": 551,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 407
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-28T09:50:30.000Z",
+        "description": "左上康米",
+        "id": "1718203535756771328",
+        "name": "齐心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749857569013891072/JZJq7n1a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 241,
+          "like_count": 30940,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 924
+        },
+        "username": "qixin_official",
+        "verified": false
+      }
+    ]
+  }
+}

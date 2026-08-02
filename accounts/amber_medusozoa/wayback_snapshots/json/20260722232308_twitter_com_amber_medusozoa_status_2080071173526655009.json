@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2079894992789889177",
+    "created_at": "2026-07-22T23:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T00:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080071173526655009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3601452261",
+          "start": 0,
+          "username": "anotherqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080071173526655009",
+    "in_reply_to_user_id": "3601452261",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079894992789889177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anotherqwq 我！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1512,
+        "media_key": "3_2079894942495993856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1FbjGa8AAJm8l.jpg",
+        "width": 2016
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2079894992789889177",
+        "created_at": "2026-07-22T23:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T00:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080071173526655009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3601452261",
+              "start": 0,
+              "username": "anotherqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080071173526655009",
+        "in_reply_to_user_id": "3601452261",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079894992789889177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anotherqwq 我！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079894942495993856"
+          ]
+        },
+        "author_id": "3601452261",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079894992789889177",
+        "created_at": "2026-07-22T11:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T12:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079894992789889177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/niDEznvITc",
+              "end": 34,
+              "expanded_url": "https://x.com/anotherqwq/status/2079894992789889177/photo/1",
+              "media_key": "3_2079894942495993856",
+              "start": 11,
+              "url": "https://t.co/niDEznvITc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079894992789889177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 737,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁喜欢burrata https://t.co/niDEznvITc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️she/her\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0lo74G",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 53,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 30,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6869,
+          "following_count": 1171,
+          "like_count": 6936,
+          "listed_count": 10,
+          "media_count": 358,
+          "tweet_count": 3982
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2015-09-09T19:34:50.000Z",
+        "description": "waifu",
+        "id": "3601452261",
+        "location": "老婆怀里",
+        "name": "碳可",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063439163345735680/r2qBr1ST_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34326,
+          "following_count": 3343,
+          "like_count": 106318,
+          "listed_count": 140,
+          "media_count": 9814,
+          "tweet_count": 48678
+        },
+        "url": "",
+        "username": "anotherqwq",
+        "verified": false
+      }
+    ]
+  }
+}

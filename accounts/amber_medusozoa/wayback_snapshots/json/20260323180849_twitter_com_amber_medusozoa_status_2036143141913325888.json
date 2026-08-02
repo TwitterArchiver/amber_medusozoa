@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2036143141913325888",
+    "created_at": "2026-03-23T18:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T19:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036143141913325888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1541248951843663873",
+          "start": 3,
+          "username": "Anermoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036143141913325888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036000407567421899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Anermoka: 在基层的社区卫生服务中心，是会有一些基础药品免费提供的。既然有这个先例，那么同理，卫生巾作为一种极为基础的卫生用品，也理应属于免费发放的物品。\n并非是要求作为商品的卫生巾全部免费，而是，一个健全的社会理应有免费的卫生巾存在，以提供最基础的公共卫生保障。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2036143141913325888",
+        "created_at": "2026-03-23T18:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T19:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036143141913325888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1541248951843663873",
+              "start": 3,
+              "username": "Anermoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036143141913325888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036000407567421899",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Anermoka: 在基层的社区卫生服务中心，是会有一些基础药品免费提供的。既然有这个先例，那么同理，卫生巾作为一种极为基础的卫生用品，也理应属于免费发放的物品。\n并非是要求作为商品的卫生巾全部免费，而是，一个健全的社会理应有免费的卫生巾存在，以提供最基础的公共卫生保障。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541248951843663873",
+        "conversation_id": "2036000407567421899",
+        "created_at": "2026-03-23T08:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T09:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036000407567421899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/amber_toffee/status/2035693683761156427",
+              "start": 127,
+              "url": "https://t.co/ux41yjaOVB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036000407567421899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 142,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035693683761156427",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在基层的社区卫生服务中心，是会有一些基础药品免费提供的。既然有这个先例，那么同理，卫生巾作为一种极为基础的卫生用品，也理应属于免费发放的物品。\n并非是要求作为商品的卫生巾全部免费，而是，一个健全的社会理应有免费的卫生巾存在，以提供最基础的公共卫生保障。 https://t.co/ux41yjaOVB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035886196761542656/0cI4TLVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 173,
+          "like_count": 56,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 52
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-27T02:36:10.000Z",
+        "description": "只是恰好路过这个世界",
+        "id": "1541248951843663873",
+        "location": "驻马店",
+        "name": "而已",
+        "pinned_tweet_id": "2036007608755372410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931245645597380608/xHAWTaMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 199,
+          "like_count": 13167,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 371
+        },
+        "username": "Anermoka",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2036481583603999129",
+    "created_at": "2026-03-24T16:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T17:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036481585696895274"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036481585696895274",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036481583603999129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只能说你但凡有点自我证成的勇气也不至于做学术的时候对跨性别议题特意回避 在这个意义上我确实很可怜你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2036481583603999129",
+        "created_at": "2026-03-24T16:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T17:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036481585696895274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036481585696895274",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036481583603999129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只能说你但凡有点自我证成的勇气也不至于做学术的时候对跨性别议题特意回避 在这个意义上我确实很可怜你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2036481583603999129",
+        "created_at": "2026-03-24T16:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T17:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036481583603999129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shiori_1617/st…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/shiori_1617/status/2036444106541637814",
+              "start": 40,
+              "url": "https://t.co/A8ge91qydP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036481583603999129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036444106541637814",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "先不说性别研究本来就包括你说的这些吧，你猜服美役和论证性癖合理性之间是什么关系 https://t.co/A8ge91qydP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035886196761542656/0cI4TLVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 265,
+          "like_count": 174,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 116
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

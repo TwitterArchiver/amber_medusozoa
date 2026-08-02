@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2046922495920599518",
+    "created_at": "2026-04-22T16:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T17:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046987290870698463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1581209973094109185",
+          "start": 0,
+          "username": "hhh84672361"
+        },
+        {
+          "end": 20,
+          "id": "2044319134326964224",
+          "start": 13,
+          "username": "XldFxA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046987290870698463",
+    "in_reply_to_user_id": "1581209973094109185",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046922495920599518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhh84672361 @XldFxA 晚安…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2046922477570551808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGghJfZa8AAS4ll.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2046922495920599518",
+        "created_at": "2026-04-22T16:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046987290870698463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1581209973094109185",
+              "start": 0,
+              "username": "hhh84672361"
+            },
+            {
+              "end": 20,
+              "id": "2044319134326964224",
+              "start": 13,
+              "username": "XldFxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046987290870698463",
+        "in_reply_to_user_id": "1581209973094109185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046922495920599518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhh84672361 @XldFxA 晚安…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046922477570551808"
+          ]
+        },
+        "author_id": "1581209973094109185",
+        "conversation_id": "2046922495920599518",
+        "created_at": "2026-04-22T12:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046922495920599518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oDGlCMB2wr",
+              "end": 35,
+              "expanded_url": "https://x.com/hhh84672361/status/2046922495920599518/photo/1",
+              "media_key": "3_2046922477570551808",
+              "start": 12,
+              "url": "https://t.co/oDGlCMB2wr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046922495920599518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 8872,
+          "like_count": 61,
+          "quote_count": 12,
+          "reply_count": 30,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "晚安，下辈子做个女孩子 https://t.co/oDGlCMB2wr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/qBX9bbnFOS"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2468,
+          "following_count": 891,
+          "like_count": 3027,
+          "listed_count": 3,
+          "media_count": 100,
+          "tweet_count": 2059
+        },
+        "url": "https://t.co/qBX9bbnFOS",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-15T09:06:57.000Z",
+        "description": "",
+        "id": "1581209973094109185",
+        "name": "eabab🪺🍥💙💛🇵🇸🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938289246164684806/cr4zfItR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 1692,
+          "like_count": 6319,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 1363
+        },
+        "username": "hhh84672361",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T07:37:25.000Z",
+        "description": "西南梦游山tv之翎早上因为熬夜而半梦半醒的起来上早八看见 x大号@xldmtx又被封了无助的爬起打开apex被顶猎一脚踢死想打六目标发现才 8w分被自己区的满地都是无助的爬回床上结果镜子照出巨人般的骨架不禁悲从中来打开前摄被长发男蛆一样的外观丑晕奇异搞笑的盖上被子割完手接着等死又被家长发现割手一顿批判顿觉这辈子有了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 32,
+                "username": "xldmtx"
+              }
+            ]
+          }
+        },
+        "id": "2044319134326964224",
+        "location": "棍母所栖之处",
+        "name": "🍁🍥iLYA🍥🍁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044319211884032000/COXjezdU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 179,
+          "like_count": 1764,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 474
+        },
+        "username": "XldFxA",
+        "verified": false
+      }
+    ]
+  }
+}

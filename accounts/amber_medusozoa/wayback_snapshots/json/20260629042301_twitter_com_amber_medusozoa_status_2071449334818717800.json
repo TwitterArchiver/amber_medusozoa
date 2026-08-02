@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2071358346355999179",
+    "created_at": "2026-06-29T04:23:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T05:23:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071449334818717800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1553377337902714881",
+          "start": 0,
+          "username": "ChiangCChing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071449334818717800",
+    "in_reply_to_user_id": "1553377337902714881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071440625078252019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChiangCChing 衣服比较便宜，几百人民币吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2071358346355999179",
+        "created_at": "2026-06-29T04:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T05:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071449334818717800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1553377337902714881",
+              "start": 0,
+              "username": "ChiangCChing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071449334818717800",
+        "in_reply_to_user_id": "1553377337902714881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071440625078252019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChiangCChing 衣服比较便宜，几百人民币吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553377337902714881",
+        "conversation_id": "2071358346355999179",
+        "created_at": "2026-06-29T03:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T04:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071440625078252019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071440625078252019",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071358346355999179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 学姐这是花了多少把这么多衣服送到多伦多啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6068,
+          "following_count": 1032,
+          "like_count": 5429,
+          "listed_count": 10,
+          "media_count": 238,
+          "tweet_count": 2933
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-30T13:50:04.000Z",
+        "description": "因此不常作文者须记忆特强，不常讨论者须天生聪颖，不常读书者须欺世有术，始能无知而显有知。——弗朗西斯•培根《谈读书》",
+        "id": "1553377337902714881",
+        "location": "阿蒙森-斯科特南极站",
+        "name": "蒋净",
+        "pinned_tweet_id": "2061689583738482893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592002828876206080/ThUQWM3z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 70,
+          "like_count": 1711,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 203
+        },
+        "url": "",
+        "username": "ChiangCChing",
+        "verified": true
+      }
+    ]
+  }
+}

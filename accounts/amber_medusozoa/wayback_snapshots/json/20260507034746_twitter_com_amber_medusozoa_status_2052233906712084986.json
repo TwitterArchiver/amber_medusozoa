@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2052233906712084986",
+    "created_at": "2026-05-07T03:47:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T04:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052233906712084986"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chuntianliufan…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/chuntianliufang/status/2051951761385279592",
+          "start": 6,
+          "url": "https://t.co/2jOC7iRoOD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052233906712084986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051951761385279592",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的钱呢。 https://t.co/2jOC7iRoOD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2052233906712084986",
+        "created_at": "2026-05-07T03:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052233906712084986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chuntianliufan…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/chuntianliufang/status/2051951761385279592",
+              "start": 6,
+              "url": "https://t.co/2jOC7iRoOD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052233906712084986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051951761385279592",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的钱呢。 https://t.co/2jOC7iRoOD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565894999052816384",
+        "conversation_id": "2051951761385279592",
+        "created_at": "2026-05-06T09:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T10:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051951761385279592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051951761385279592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 27095,
+          "like_count": 192,
+          "quote_count": 4,
+          "reply_count": 56,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "让男的不再骚扰你的方法就是找他们要钱  可是我每次要 他们是真的会给…且没有例外…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🇨🇦 #多伦多 #药娘 #TS #trans \n💬 ¥150/240 ($30/50)\n❤️ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 3,
+                "tag": "多伦多"
+              },
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "药娘"
+              },
+              {
+                "end": 15,
+                "start": 12,
+                "tag": "TS"
+              },
+              {
+                "end": 22,
+                "start": 16,
+                "tag": "trans"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 47,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051870964342738946/SeJ2kbJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3636,
+          "following_count": 831,
+          "like_count": 3571,
+          "listed_count": 8,
+          "media_count": 51,
+          "tweet_count": 1493
+        },
+        "url": "",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-03T02:51:00.000Z",
+        "description": "还和往常一样散步好吗 ？每天都想碎碎念的账号 ，什么都会发 ，我的审美积累账号➡️ @kotomi60t",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "kotomi60t"
+              }
+            ]
+          }
+        },
+        "id": "1565894999052816384",
+        "location": "🚪288/520支付宝口令带微信号",
+        "name": "空荡荡",
+        "pinned_tweet_id": "1915347499122118734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049731529203658752/NJg2D7BQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12292,
+          "following_count": 93,
+          "like_count": 333,
+          "listed_count": 56,
+          "media_count": 105,
+          "tweet_count": 508
+        },
+        "url": "",
+        "username": "chuntianliufang",
+        "verified": false
+      }
+    ]
+  }
+}

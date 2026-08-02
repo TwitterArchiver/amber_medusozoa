@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265415402915393537",
+          "name": "Climate change"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Ontario",
+          "id": "861963262656565248",
+          "name": "Ontario"
+        }
+      }
+    ],
+    "conversation_id": "2078121756401799223",
+    "created_at": "2026-07-17T14:16:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078121756401799223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4871066459",
+          "start": 3,
+          "username": "RedScare19_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078121756401799223",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078088287365787745",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RedScare19_: We’ve been saying for decades that climate change will hit the most vulnerable groups first and the hardest, but nothing w…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265415402915393537",
+              "name": "Climate change"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Ontario",
+              "id": "861963262656565248",
+              "name": "Ontario"
+            }
+          }
+        ],
+        "conversation_id": "2078121756401799223",
+        "created_at": "2026-07-17T14:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078121756401799223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4871066459",
+              "start": 3,
+              "username": "RedScare19_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078121756401799223",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078088287365787745",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RedScare19_: We’ve been saying for decades that climate change will hit the most vulnerable groups first and the hardest, but nothing w…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4871066459",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265415402915393537",
+              "name": "Climate change"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Ontario",
+              "id": "861963262656565248",
+              "name": "Ontario"
+            }
+          }
+        ],
+        "conversation_id": "2078088287365787745",
+        "created_at": "2026-07-17T12:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078088287365787745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/allenanalysis/…",
+              "end": 298,
+              "expanded_url": "https://twitter.com/allenanalysis/status/2077690925375959170",
+              "start": 275,
+              "url": "https://t.co/43tt2BF5S3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078088287365787745",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 323,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077690925375959170",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "We’ve been saying for decades that climate change will hit the most vulnerable groups first and the hardest, but nothing will change until the most insulated are affected and by then it will be too late. My heart breaks for all the First Nation peoples living through this 💔 https://t.co/43tt2BF5S3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her #药娘\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0lo74G",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 15,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 59,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 36,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6645,
+          "following_count": 1126,
+          "like_count": 6510,
+          "listed_count": 11,
+          "media_count": 324,
+          "tweet_count": 3721
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2016-02-02T03:53:28.000Z",
+        "description": "24, MDNI | transsexual butch DYKE 🧡🤍🩷\nPhilly Roller Derby #⑲ 🛼\nPhils, Pens, Sirens, WPBL Hunters, & Go Birds DH 🦅\nPartnered & open",
+        "id": "4871066459",
+        "location": "Philly | she/they",
+        "name": "Scarlett, Roller Derby Dyke 🏳️‍⚧️🇵🇸",
+        "pinned_tweet_id": "2071647725184246081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068888832364150784/sJMbAALO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 865,
+          "like_count": 7123,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 2784
+        },
+        "url": "",
+        "username": "RedScare19_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2078398482461688030",
+    "created_at": "2026-07-18T15:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T16:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078507386709422264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1084840616020721669",
+          "start": 0,
+          "username": "ISSACOFSZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078507386709422264",
+    "in_reply_to_user_id": "1084840616020721669",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078505841314206188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ISSACOFSZ 我去看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2078398482461688030",
+        "created_at": "2026-07-18T15:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078507386709422264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1084840616020721669",
+              "start": 0,
+              "username": "ISSACOFSZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078507386709422264",
+        "in_reply_to_user_id": "1084840616020721669",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078505841314206188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ISSACOFSZ 我去看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1084840616020721669",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2078398482461688030",
+        "created_at": "2026-07-18T15:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078505841314206188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078505841314206188",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078504927622513118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 都是抖音主播"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "前世 @amber_toffee\n🏳️‍⚧️☭ she/her #药娘\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 76,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 53,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6804,
+          "following_count": 1158,
+          "like_count": 6686,
+          "listed_count": 11,
+          "media_count": 326,
+          "tweet_count": 3804
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-14T15:52:13.000Z",
+        "description": "🏳️‍⚧️🇵🇸🏳️‍🌈✌️🙄✌️",
+        "id": "1084840616020721669",
+        "location": "Rapture City",
+        "name": "Agathḗ tôn Sodómōn",
+        "pinned_tweet_id": "1695850292309590189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833356230863052800/gJBZzcNk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 489,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "ISSACOFSZ",
+        "verified": false
+      }
+    ]
+  }
+}

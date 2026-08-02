@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2059354885640868244",
+    "created_at": "2026-05-26T19:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T20:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059354885640868244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/puppy2uv_/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/puppy2uv_/status/2059287555456327892",
+          "start": 12,
+          "url": "https://t.co/hQPRfdMmn0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059354885640868244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059287555456327892",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看这句话也觉得很无力 https://t.co/hQPRfdMmn0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2059354885640868244",
+        "created_at": "2026-05-26T19:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T20:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059354885640868244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/puppy2uv_/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/puppy2uv_/status/2059287555456327892",
+              "start": 12,
+              "url": "https://t.co/hQPRfdMmn0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059354885640868244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059287555456327892",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看这句话也觉得很无力 https://t.co/hQPRfdMmn0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948426455358332929",
+        "conversation_id": "2059287555456327892",
+        "created_at": "2026-05-26T14:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059287555456327892"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059287555456327892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5267,
+          "like_count": 124,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有时候看见激女的暴论会很无力但又觉得还是需要这样的人存在…无论如何敏锐总是不会错的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "前世 @amber_toffee 小号 @amber_digit @amber_digit2\n☕️ https://t.co/ifiQvlVhub\n❤️@noaayoyaoaya\n⚜️@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 32,
+                "start": 20,
+                "username": "amber_digit"
+              },
+              {
+                "end": 46,
+                "start": 33,
+                "username": "amber_digit2"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 Toronto",
+        "name": "amber ଳ（推友寻回中）",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4328,
+          "following_count": 888,
+          "like_count": 3876,
+          "listed_count": 12,
+          "media_count": 76,
+          "tweet_count": 1737
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T16:54:12.000Z",
+        "description": "Idgaf",
+        "id": "1948426455358332929",
+        "name": "额呵呵",
+        "pinned_tweet_id": "2056214491793404370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048833875410046976/YfVDNuqn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 125,
+          "like_count": 1357,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 643
+        },
+        "username": "Puppy2uv_",
+        "verified": false
+      }
+    ]
+  }
+}

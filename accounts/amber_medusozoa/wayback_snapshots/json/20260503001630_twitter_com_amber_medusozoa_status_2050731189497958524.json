@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050731133328056320",
+        "13_2050731133286096897"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2050731189497958524",
+    "created_at": "2026-05-03T00:16:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T01:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050731189497958524"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vyp04MQnRY",
+          "end": 37,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2050731189497958524/video/1",
+          "media_key": "13_2050731133328056320",
+          "start": 14,
+          "url": "https://t.co/Vyp04MQnRY"
+        },
+        {
+          "display_url": "pic.x.com/Vyp04MQnRY",
+          "end": 37,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2050731189497958524/video/1",
+          "media_key": "13_2050731133286096897",
+          "start": 14,
+          "url": "https://t.co/Vyp04MQnRY"
+        },
+        {
+          "display_url": "x.com/tom79323846/st…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/tom79323846/status/2050728839718818077",
+          "start": 38,
+          "url": "https://t.co/U7tyi3gw0D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050731189497958524",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050728839718818077",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "竟有人胆敢质疑HRT的威能 https://t.co/Vyp04MQnRY https://t.co/U7tyi3gw0D"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2050731189497958524].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2050731189497958524",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2050731189497958524"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2900,
+        "height": 1616,
+        "media_key": "13_2050731133328056320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050731133328056320/img/rJxm-KyJ0pWBXqJd.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050731133328056320/vid/avc1/480x640/35hyuJjhRIh8cXdJ.mp4?tag=27"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050731133328056320/vid/avc1/320x426/2GkRqNfTozjdGviP.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050731133328056320/pl/hXyOM4NMhiZXoB8p.m3u8?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050731133328056320/vid/avc1/720x960/9FlKFTBwnToVYJfU.mp4?tag=27"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050731133328056320/vid/avc1/1210x1616/TxKNXYU0_1gssHmR.mp4?tag=27"
+          }
+        ],
+        "width": 1210
+      },
+      {
+        "duration_ms": 2966,
+        "height": 1920,
+        "media_key": "13_2050731133286096897",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050731133286096897/img/vxhO8zgs7fRSXfBI.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050731133286096897/vid/avc1/720x960/Vgd38ryBV2FHFmCo.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050731133286096897/pl/ZBdrTqQw_xi0cOyv.m3u8?tag=27"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050731133286096897/vid/avc1/1440x1920/ZmYKFeBqVceWbw1a.mp4?tag=27"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050731133286096897/vid/avc1/320x426/1I50K6ASkjiPrqtd.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050731133286096897/vid/avc1/480x640/u7WfmVl79oAOpW4N.mp4?tag=27"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032982992361259008",
+        "conversation_id": "2050702774728335729",
+        "created_at": "2026-05-03T00:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T01:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050728839718818077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050728839718818077",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050702774728335729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 你的腰线是p出来的还是？男的没有这样的腰胯比吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🇨🇦 #多伦多 #药娘 #TS #trans \n💬 ¥150/240 ($30/50)\n🔞 nsfw only",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 3,
+                "tag": "多伦多"
+              },
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "药娘"
+              },
+              {
+                "end": 15,
+                "start": 12,
+                "tag": "TS"
+              },
+              {
+                "end": 22,
+                "start": 16,
+                "tag": "trans"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "/",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049527897036328960/hshFuKwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3301,
+          "following_count": 804,
+          "like_count": 3309,
+          "listed_count": 5,
+          "media_count": 23,
+          "tweet_count": 1326
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T00:51:43.000Z",
+        "description": "ny/nj crossdresser/femboy/ts lover",
+        "id": "2032982992361259008",
+        "name": "Tom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045239787473215488/JSvdHvds_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 963,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 396
+        },
+        "username": "Tom79323846",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2044492606923473290",
+    "created_at": "2026-04-15T19:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T20:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044492606923473290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1118787923346972675",
+          "start": 3,
+          "username": "agayparty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044492606923473290",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1182
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044201665180352543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @agayparty: This is such a privilege, being able to take this picture with no consequences and you can easily go back to YOUR country an…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2044492606923473290",
+        "created_at": "2026-04-15T19:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T20:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044492606923473290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1118787923346972675",
+              "start": 3,
+              "username": "agayparty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044492606923473290",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1182
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044201665180352543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @agayparty: This is such a privilege, being able to take this picture with no consequences and you can easily go back to YOUR country an…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1118787923346972675",
+        "conversation_id": "2044201665180352543",
+        "created_at": "2026-04-14T23:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T00:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044201665180352543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hadamali20/sta…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/hadamali20/status/2043788190440452297",
+              "start": 171,
+              "url": "https://t.co/U7zB6OPYxU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044201665180352543",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1130,
+          "impression_count": 808914,
+          "like_count": 23309,
+          "quote_count": 91,
+          "reply_count": 69,
+          "retweet_count": 1182
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043788190440452297",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "This is such a privilege, being able to take this picture with no consequences and you can easily go back to YOUR country and publish this pic while lgbt Jordanians can't https://t.co/U7zB6OPYxU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2264,
+          "following_count": 763,
+          "like_count": 2226,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1610
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-18T08:06:41.000Z",
+        "description": "Free 🇵🇸🇸🇩🇨🇩 #lgbt #comics #videogames #aliceinchains",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 12,
+                "tag": "lgbt"
+              },
+              {
+                "end": 25,
+                "start": 18,
+                "tag": "comics"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "tag": "videogames"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "tag": "aliceinchains"
+              }
+            ]
+          }
+        },
+        "id": "1118787923346972675",
+        "name": "River🦇",
+        "pinned_tweet_id": "2044385148267868198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039154344969347072/PV5vnqlZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 807,
+          "like_count": 143142,
+          "listed_count": 2,
+          "media_count": 2189,
+          "tweet_count": 44223
+        },
+        "username": "agayparty",
+        "verified": false
+      }
+    ]
+  }
+}

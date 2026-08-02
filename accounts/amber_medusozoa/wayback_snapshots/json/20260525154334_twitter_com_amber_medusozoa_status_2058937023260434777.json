@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2058937023260434777",
+    "created_at": "2026-05-25T15:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058937023260434777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1940622242381262848",
+          "start": 3,
+          "username": "Inoue_CxAAII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058937023260434777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058934980060024986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Inoue_CxAAII: 性少数又被排除在普通工人之外了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2058937023260434777",
+        "created_at": "2026-05-25T15:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058937023260434777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1940622242381262848",
+              "start": 3,
+              "username": "Inoue_CxAAII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058937023260434777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058934980060024986",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Inoue_CxAAII: 性少数又被排除在普通工人之外了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940622242381262848",
+        "conversation_id": "2058934980060024986",
+        "created_at": "2026-05-25T15:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058934980060024986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AngeloMcna6787…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/AngeloMcna6787/status/2055174271245389945",
+              "start": 16,
+              "url": "https://t.co/K4ByScRijd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058934980060024986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055174271245389945",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "性少数又被排除在普通工人之外了 https://t.co/K4ByScRijd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya\n⚜️@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️she/her・🇨🇦 Toronto",
+        "name": "amber",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4028,
+          "following_count": 863,
+          "like_count": 3760,
+          "listed_count": 11,
+          "media_count": 68,
+          "tweet_count": 1668
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-03T04:03:08.000Z",
+        "description": "大梦方醒，永归主怀",
+        "id": "1940622242381262848",
+        "name": "井上 彩結樹 Inoue Sayuki ༒R.I.P.",
+        "pinned_tweet_id": "2052352435528843501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029202626315993095/w12DBvYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 170,
+          "like_count": 123,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 1662
+        },
+        "username": "Inoue_CxAAII",
+        "verified": false
+      }
+    ]
+  }
+}

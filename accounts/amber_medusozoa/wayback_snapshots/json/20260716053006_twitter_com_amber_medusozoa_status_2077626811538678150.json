@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2077624586007609352",
+    "created_at": "2026-07-16T05:30:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T06:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077626811538678150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1218028959109210113",
+          "start": 0,
+          "username": "RizumuA3"
+        },
+        {
+          "end": 20,
+          "id": "2073930803839746048",
+          "start": 10,
+          "username": "pocket_js"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077626811538678150",
+    "in_reply_to_user_id": "1218028959109210113",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077624586007609352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RizumuA3 @pocket_js 好漂亮！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2077624568060211200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNU0iXPacAA8glB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2077624586007609352",
+        "created_at": "2026-07-16T05:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T06:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077626811538678150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1218028959109210113",
+              "start": 0,
+              "username": "RizumuA3"
+            },
+            {
+              "end": 20,
+              "id": "2073930803839746048",
+              "start": 10,
+              "username": "pocket_js"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077626811538678150",
+        "in_reply_to_user_id": "1218028959109210113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077624586007609352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RizumuA3 @pocket_js 好漂亮！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077624568060211200"
+          ]
+        },
+        "author_id": "1218028959109210113",
+        "conversation_id": "2077624586007609352",
+        "created_at": "2026-07-16T05:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T06:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077624586007609352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073930803839746048",
+              "start": 3,
+              "username": "pocket_js"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NPiGKnO7wr",
+              "end": 43,
+              "expanded_url": "https://x.com/RizumuA3/status/2077624586007609352/photo/1",
+              "media_key": "3_2077624568060211200",
+              "start": 20,
+              "url": "https://t.co/NPiGKnO7wr"
+            },
+            {
+              "display_url": "x.com/ewind_dev/stat…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/ewind_dev/status/2076194019999379597",
+              "start": 44,
+              "url": "https://t.co/2t1ozwvhYL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077624586007609352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076194019999379597",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "做了 @pocket_js 的小饼干～ https://t.co/NPiGKnO7wr https://t.co/2t1ozwvhYL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n💖@amber_digit\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "amber_digit"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 70,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 47,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6586,
+          "following_count": 1094,
+          "like_count": 6366,
+          "listed_count": 11,
+          "media_count": 314,
+          "tweet_count": 3636
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-17T04:35:33.000Z",
+        "description": "aka 小音 LittleSound｜💚 Member of Vue，参与开发 Vapor 模式中｜🪀 玩 3D 打印并制作了大量程序员周边｜ 🔥热爱开源｜Pride → 🧠 AuDHD、🏳️‍⚧️ she/her｜🎮 喜欢玩 魂系、任天堂游戏｜🐙: LittleSound",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rizumu.me",
+                "end": 23,
+                "expanded_url": "https://rizumu.me",
+                "start": 0,
+                "url": "https://t.co/n9mkxZ2oxy"
+              }
+            ]
+          }
+        },
+        "id": "1218028959109210113",
+        "name": "绚香音 Rizumu",
+        "pinned_tweet_id": "1943899998770581632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945018573166141440/CZ-NTqXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12095,
+          "following_count": 1601,
+          "like_count": 45743,
+          "listed_count": 59,
+          "media_count": 2000,
+          "tweet_count": 15077
+        },
+        "url": "https://t.co/n9mkxZ2oxy",
+        "username": "RizumuA3",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-06T00:44:48.000Z",
+        "description": "Bare Metal Modern Web https://t.co/ku9hiWR9on",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/cTce4eXzSK",
+                "end": 45,
+                "expanded_url": "https://discord.gg/cTce4eXzSK",
+                "start": 22,
+                "url": "https://t.co/ku9hiWR9on"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pocketjs.dev",
+                "end": 23,
+                "expanded_url": "http://pocketjs.dev",
+                "start": 0,
+                "url": "https://t.co/kQ08Xq4f62"
+              }
+            ]
+          }
+        },
+        "id": "2073930803839746048",
+        "name": "PocketJS",
+        "pinned_tweet_id": "2073945110979723734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073931782135959552/TdWIZ6Za_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 42,
+          "like_count": 99,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 48
+        },
+        "url": "https://t.co/kQ08Xq4f62",
+        "username": "pocket_js",
+        "verified": true
+      }
+    ]
+  }
+}

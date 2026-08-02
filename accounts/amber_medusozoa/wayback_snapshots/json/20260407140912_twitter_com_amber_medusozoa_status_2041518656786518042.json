@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2041514088724058180",
+    "created_at": "2026-04-07T14:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T15:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041518656786518042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1315706812935487489",
+          "start": 0,
+          "username": "maigo_wakatake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041518656786518042",
+    "in_reply_to_user_id": "1315706812935487489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041515317478994329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maigo_wakatake 是获得同意了的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2041514088724058180",
+        "created_at": "2026-04-07T14:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T15:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041518656786518042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1315706812935487489",
+              "start": 0,
+              "username": "maigo_wakatake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041518656786518042",
+        "in_reply_to_user_id": "1315706812935487489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041515317478994329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maigo_wakatake 是获得同意了的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1315706812935487489",
+        "conversation_id": "2041514088724058180",
+        "created_at": "2026-04-07T13:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041515317478994329"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041515317478994329",
+        "in_reply_to_user_id": "1315706812935487489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041514088724058180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当然我觉得这件事究竟还是问问人类水母自己的意见比较好，希望是已经预先得到同意的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 641,
+          "like_count": 1547,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1082
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-12T17:32:11.000Z",
+        "description": "北雁ふみんです。持久而长久的睡眠障碍者。she/her/they/them, if this really matters",
+        "id": "1315706812935487489",
+        "location": "Ará Orún",
+        "name": "⌘",
+        "pinned_tweet_id": "2006417391631442157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870529941026267136/vJ_l7ugO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2166,
+          "following_count": 203,
+          "like_count": 3032,
+          "listed_count": 10,
+          "media_count": 2355,
+          "tweet_count": 21245
+        },
+        "username": "maigo_wakatake",
+        "verified": false
+      }
+    ]
+  }
+}

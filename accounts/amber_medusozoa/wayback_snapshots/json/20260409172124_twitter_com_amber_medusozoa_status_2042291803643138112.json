@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2042291803643138112",
+    "created_at": "2026-04-09T17:21:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T18:21:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042291803643138112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1165788307281760256",
+          "start": 3,
+          "username": "_charbear_98"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042291803643138112",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 280
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041989571219771830",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_charbear_98: honestly this is a fairly accurate representation of how i came to be because it really does feel like i killed him somet…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2042291803643138112",
+        "created_at": "2026-04-09T17:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042291803643138112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1165788307281760256",
+              "start": 3,
+              "username": "_charbear_98"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042291803643138112",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 280
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041989571219771830",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_charbear_98: honestly this is a fairly accurate representation of how i came to be because it really does feel like i killed him somet…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165788307281760256",
+        "conversation_id": "2041989571219771830",
+        "created_at": "2026-04-08T21:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T22:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041989571219771830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Quam_Serena/st…",
+              "end": 269,
+              "expanded_url": "https://twitter.com/Quam_Serena/status/2041749482782556533",
+              "start": 246,
+              "url": "https://t.co/03yEG8l4wv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041989571219771830",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 866,
+          "impression_count": 140109,
+          "like_count": 4408,
+          "quote_count": 10,
+          "reply_count": 43,
+          "retweet_count": 280
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041749482782556533",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "honestly this is a fairly accurate representation of how i came to be because it really does feel like i killed him sometimes\n\nhe gave his life willingly of course, but it's still upsetting that it came to that after he tried so hard for so long https://t.co/03yEG8l4wv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1953,
+          "following_count": 683,
+          "like_count": 1867,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1303
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-26T00:49:44.000Z",
+        "description": "|| she/her 💜 28 || used to swim pretty fast, probably still faster than you ~✨️~ dick and dysphoria weren't the double d's i wanted but it's what I got ~✨️~",
+        "id": "1165788307281760256",
+        "location": "Queensland, Australia",
+        "name": "Charlotte (Pussy On Preorder)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992729059571412992/q9RA8in7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4373,
+          "following_count": 1071,
+          "like_count": 113267,
+          "listed_count": 4,
+          "media_count": 932,
+          "tweet_count": 9605
+        },
+        "username": "_charbear_98",
+        "verified": false
+      }
+    ]
+  }
+}

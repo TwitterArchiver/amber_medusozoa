@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2057651685519245520",
+    "created_at": "2026-05-22T02:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T03:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057656224443662529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1745799972576968705",
+          "start": 0,
+          "username": "bubblepipe42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057656224443662529",
+    "in_reply_to_user_id": "1745799972576968705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057651685519245520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bubblepipe42 有点花路味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057651656809156608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI4_R6uakAADALc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2057651685519245520",
+        "created_at": "2026-05-22T02:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T03:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057656224443662529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1745799972576968705",
+              "start": 0,
+              "username": "bubblepipe42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057656224443662529",
+        "in_reply_to_user_id": "1745799972576968705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057651685519245520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bubblepipe42 有点花路味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057651656809156608"
+          ]
+        },
+        "author_id": "1745799972576968705",
+        "conversation_id": "2057651685519245520",
+        "created_at": "2026-05-22T02:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T03:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057651685519245520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I6BnUcTeLg",
+              "end": 28,
+              "expanded_url": "https://x.com/bubblepipe42/status/2057651685519245520/photo/1",
+              "media_key": "3_2057651656809156608",
+              "start": 5,
+              "url": "https://t.co/I6BnUcTeLg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057651685519245520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 126,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不想上班 https://t.co/I6BnUcTeLg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/XWFKRZnw6Y"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2057203502472946047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057203465730801664/2vAIcjtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3801,
+          "following_count": 848,
+          "like_count": 3605,
+          "listed_count": 9,
+          "media_count": 55,
+          "tweet_count": 1569
+        },
+        "url": "https://t.co/XWFKRZnw6Y",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-12T13:29:34.000Z",
+        "description": "活的像个家养猫（已剪角）。",
+        "id": "1745799972576968705",
+        "name": "代糖空泡",
+        "pinned_tweet_id": "2020023264811315232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997240850732961792/1_d8Kddi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1709,
+          "following_count": 933,
+          "like_count": 8506,
+          "listed_count": 5,
+          "media_count": 340,
+          "tweet_count": 2358
+        },
+        "username": "bubblepipe42",
+        "verified": false
+      }
+    ]
+  }
+}

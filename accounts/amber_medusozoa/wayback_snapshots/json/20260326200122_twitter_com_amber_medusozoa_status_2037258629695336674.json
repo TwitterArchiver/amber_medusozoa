@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037210990895652864"
+      ],
+      "media_source_tweet_id": [
+        "2037210998256656463"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2037258629695336674",
+    "created_at": "2026-03-26T20:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T21:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037258629695336674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1566804737982287872",
+          "start": 3,
+          "username": "Ari_Halberd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JLKLqAFx8i",
+          "end": 59,
+          "expanded_url": "https://x.com/Ari_Halberd/status/2037210998256656463/photo/1",
+          "media_key": "3_2037210990895652864",
+          "start": 36,
+          "url": "https://t.co/JLKLqAFx8i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037258629695336674",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037210998256656463",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ari_Halberd: forever vindicated https://t.co/JLKLqAFx8i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 253,
+        "media_key": "3_2037210990895652864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWgmkTbYAA3fCI.png",
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037210990895652864"
+          ],
+          "media_source_tweet_id": [
+            "2037210998256656463"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2037258629695336674",
+        "created_at": "2026-03-26T20:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T21:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037258629695336674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1566804737982287872",
+              "start": 3,
+              "username": "Ari_Halberd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JLKLqAFx8i",
+              "end": 59,
+              "expanded_url": "https://x.com/Ari_Halberd/status/2037210998256656463/photo/1",
+              "media_key": "3_2037210990895652864",
+              "start": 36,
+              "url": "https://t.co/JLKLqAFx8i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037258629695336674",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037210998256656463",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ari_Halberd: forever vindicated https://t.co/JLKLqAFx8i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037210990895652864"
+          ]
+        },
+        "author_id": "1566804737982287872",
+        "conversation_id": "2037210998256656463",
+        "created_at": "2026-03-26T16:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T17:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037210998256656463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JLKLqAFx8i",
+              "end": 42,
+              "expanded_url": "https://x.com/Ari_Halberd/status/2037210998256656463/photo/1",
+              "media_key": "3_2037210990895652864",
+              "start": 19,
+              "url": "https://t.co/JLKLqAFx8i"
+            },
+            {
+              "display_url": "x.com/terfologian/st…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/terfologian/status/2037191430683164794",
+              "start": 43,
+              "url": "https://t.co/0g2JqOqOSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037210998256656463",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 732,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037191430683164794",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "forever vindicated https://t.co/JLKLqAFx8i https://t.co/0g2JqOqOSz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 355,
+          "like_count": 441,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 325
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-05T15:07:02.000Z",
+        "description": "disgraced princeling of a nation scattered",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "diyhrt.info",
+                "end": 23,
+                "expanded_url": "https://diyhrt.info/",
+                "start": 0,
+                "url": "https://t.co/A8DnhXa5io"
+              }
+            ]
+          }
+        },
+        "id": "1566804737982287872",
+        "location": "2002 • Hà Nội, 🇻🇳",
+        "name": "🌻 bê đê vong nhân ❤️‍🔥",
+        "pinned_tweet_id": "2009763695992483887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981071080287518720/6EsVNWCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 342,
+          "like_count": 215522,
+          "listed_count": 0,
+          "media_count": 308,
+          "tweet_count": 8137
+        },
+        "url": "https://t.co/A8DnhXa5io",
+        "username": "Ari_Halberd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2080640748676882533",
+    "created_at": "2026-07-24T13:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T14:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080640970471690469"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080640970471690469",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080640748676882533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "估计还有体型和脂肪分布，我觉得这个东西不难想象吧，你代入一下自己焦虑的点不就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2080640748676882533",
+        "created_at": "2026-07-24T13:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080640970471690469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080640970471690469",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080640748676882533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "估计还有体型和脂肪分布，我觉得这个东西不难想象吧，你代入一下自己焦虑的点不就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2080640748676882533",
+        "created_at": "2026-07-24T13:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080640748676882533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yunmengyue/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/yunmengyue/status/2080500481655525484",
+              "start": 12,
+              "url": "https://t.co/mccNw7YnWZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080640748676882533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080500481655525484",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "胸，月经，子宫，身高… https://t.co/mccNw7YnWZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080483846097629184/ano5UN60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6903,
+          "following_count": 1173,
+          "like_count": 7009,
+          "listed_count": 11,
+          "media_count": 357,
+          "tweet_count": 4012
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

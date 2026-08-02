@@ -1,0 +1,850 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2071525885216235624",
+    "created_at": "2026-07-04T02:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T03:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073231896205500425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1464652233941962756",
+          "start": 0,
+          "username": "aoyeshushu2"
+        },
+        {
+          "end": 25,
+          "id": "1790300589337051136",
+          "start": 13,
+          "username": "sunny310591"
+        },
+        {
+          "end": 38,
+          "id": "1236365928993918976",
+          "start": 26,
+          "username": "Shay_paiguJ"
+        },
+        {
+          "end": 48,
+          "id": "1944879944846467077",
+          "start": 39,
+          "username": "XXGXSxxx"
+        },
+        {
+          "end": 59,
+          "id": "1420393216185040901",
+          "start": 49,
+          "username": "EeeeryEry"
+        },
+        {
+          "end": 67,
+          "id": "3273039625",
+          "start": 60,
+          "username": "HukoVu"
+        },
+        {
+          "end": 77,
+          "id": "1779485383207886848",
+          "start": 68,
+          "username": "Hvhfhh98"
+        },
+        {
+          "end": 94,
+          "id": "1680821337789702144",
+          "start": 78,
+          "username": "jiaojiaoji35374"
+        },
+        {
+          "end": 103,
+          "id": "1559942510394294272",
+          "start": 95,
+          "username": "xyycbbl"
+        },
+        {
+          "end": 116,
+          "id": "1253927690727493632",
+          "start": 104,
+          "username": "qiuqiu03211"
+        },
+        {
+          "end": 126,
+          "id": "2029894350596157440",
+          "start": 117,
+          "username": "Repatpat"
+        },
+        {
+          "end": 143,
+          "id": "2059452888758521856",
+          "start": 127,
+          "username": "QuiteDracey5521"
+        },
+        {
+          "end": 155,
+          "id": "2037624108041834496",
+          "start": 144,
+          "username": "bridgeksn6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073231896205500425",
+    "in_reply_to_user_id": "1464652233941962756",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071525885216235624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoyeshushu2 @sunny310591 @Shay_paiguJ @XXGXSxxx @EeeeryEry @HukoVu @Hvhfhh98 @jiaojiaoji35374 @xyycbbl @qiuqiu03211 @Repatpat @QuiteDracey5521 @bridgeksn6 哇"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Repatpat].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Repatpat",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Repatpat"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071524945297850369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-I9lvWwAE-4HE.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1276,
+        "media_key": "3_2071524945486626816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-I9mcXQAApxk4.jpg",
+        "width": 1702
+      },
+      {
+        "duration_ms": 12100,
+        "height": 720,
+        "media_key": "7_2071525208301703168",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2071525208301703168/pu/img/Se6vtpDargOuI8yf.jpg",
+        "public_metrics": {
+          "view_count": 21715
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071525208301703168/pu/vid/avc1/480x270/_N55J0BdsNjGMQbC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071525208301703168/pu/vid/avc1/640x360/XPPsGUVTEVnEsX-P.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071525208301703168/pu/vid/avc1/1280x720/PXEkEJE5RyioU8HQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2071525208301703168/pu/pl/oueJQ9cIJdQ5crp-.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 14433,
+        "height": 720,
+        "media_key": "7_2071525741750034432",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2071525741750034432/pu/img/402FpfidAu3ZtAd0.jpg",
+        "public_metrics": {
+          "view_count": 4049
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071525741750034432/pu/vid/avc1/480x270/asBwhDts5_ewmxig.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071525741750034432/pu/vid/avc1/640x360/61WGcFEXNOTtgzwY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071525741750034432/pu/vid/avc1/1280x720/oS-AYMb4x3GrOJS2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2071525741750034432/pu/pl/LDrLTWEkhuSyNdE8.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2071525885216235624",
+        "created_at": "2026-07-04T02:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T03:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073231896205500425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1464652233941962756",
+              "start": 0,
+              "username": "aoyeshushu2"
+            },
+            {
+              "end": 25,
+              "id": "1790300589337051136",
+              "start": 13,
+              "username": "sunny310591"
+            },
+            {
+              "end": 38,
+              "id": "1236365928993918976",
+              "start": 26,
+              "username": "Shay_paiguJ"
+            },
+            {
+              "end": 48,
+              "id": "1944879944846467077",
+              "start": 39,
+              "username": "XXGXSxxx"
+            },
+            {
+              "end": 59,
+              "id": "1420393216185040901",
+              "start": 49,
+              "username": "EeeeryEry"
+            },
+            {
+              "end": 67,
+              "id": "3273039625",
+              "start": 60,
+              "username": "HukoVu"
+            },
+            {
+              "end": 77,
+              "id": "1779485383207886848",
+              "start": 68,
+              "username": "Hvhfhh98"
+            },
+            {
+              "end": 94,
+              "id": "1680821337789702144",
+              "start": 78,
+              "username": "jiaojiaoji35374"
+            },
+            {
+              "end": 103,
+              "id": "1559942510394294272",
+              "start": 95,
+              "username": "xyycbbl"
+            },
+            {
+              "end": 116,
+              "id": "1253927690727493632",
+              "start": 104,
+              "username": "qiuqiu03211"
+            },
+            {
+              "end": 126,
+              "id": "2029894350596157440",
+              "start": 117,
+              "username": "Repatpat"
+            },
+            {
+              "end": 143,
+              "id": "2059452888758521856",
+              "start": 127,
+              "username": "QuiteDracey5521"
+            },
+            {
+              "end": 155,
+              "id": "2037624108041834496",
+              "start": 144,
+              "username": "bridgeksn6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073231896205500425",
+        "in_reply_to_user_id": "1464652233941962756",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071525885216235624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoyeshushu2 @sunny310591 @Shay_paiguJ @XXGXSxxx @EeeeryEry @HukoVu @Hvhfhh98 @jiaojiaoji35374 @xyycbbl @qiuqiu03211 @Repatpat @QuiteDracey5521 @bridgeksn6 哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071524945297850369",
+            "3_2071524945486626816",
+            "7_2071525208301703168",
+            "7_2071525741750034432"
+          ]
+        },
+        "author_id": "1464652233941962756",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071525885216235624",
+        "created_at": "2026-06-29T09:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071525885216235624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236365928993918976",
+              "start": 0,
+              "username": "Shay_paiguJ"
+            },
+            {
+              "end": 22,
+              "id": "1944879944846467077",
+              "start": 13,
+              "username": "XXGXSxxx"
+            },
+            {
+              "end": 33,
+              "id": "1420393216185040901",
+              "start": 23,
+              "username": "EeeeryEry"
+            },
+            {
+              "end": 41,
+              "id": "3273039625",
+              "start": 34,
+              "username": "HukoVu"
+            },
+            {
+              "end": 51,
+              "id": "1779485383207886848",
+              "start": 42,
+              "username": "Hvhfhh98"
+            },
+            {
+              "end": 68,
+              "id": "1680821337789702144",
+              "start": 52,
+              "username": "jiaojiaoji35374"
+            },
+            {
+              "end": 77,
+              "id": "1559942510394294272",
+              "start": 69,
+              "username": "xyycbbl"
+            },
+            {
+              "end": 90,
+              "id": "1253927690727493632",
+              "start": 78,
+              "username": "qiuqiu03211"
+            },
+            {
+              "end": 100,
+              "id": "2029894350596157440",
+              "start": 91,
+              "username": "Repatpat"
+            },
+            {
+              "end": 117,
+              "id": "2059452888758521856",
+              "start": 101,
+              "username": "QuiteDracey5521"
+            },
+            {
+              "end": 130,
+              "id": "1790300589337051136",
+              "start": 118,
+              "username": "sunny310591"
+            },
+            {
+              "end": 142,
+              "id": "2037624108041834496",
+              "start": 131,
+              "username": "bridgeksn6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dvOIsx9dBz",
+              "end": 182,
+              "expanded_url": "https://x.com/aoyeshushu2/status/2071525885216235624/video/1",
+              "media_key": "3_2071524945297850369",
+              "start": 159,
+              "url": "https://t.co/dvOIsx9dBz"
+            },
+            {
+              "display_url": "pic.x.com/dvOIsx9dBz",
+              "end": 182,
+              "expanded_url": "https://x.com/aoyeshushu2/status/2071525885216235624/video/1",
+              "media_key": "3_2071524945486626816",
+              "start": 159,
+              "url": "https://t.co/dvOIsx9dBz"
+            },
+            {
+              "display_url": "pic.x.com/dvOIsx9dBz",
+              "end": 182,
+              "expanded_url": "https://x.com/aoyeshushu2/status/2071525885216235624/video/1",
+              "media_key": "7_2071525208301703168",
+              "start": 159,
+              "url": "https://t.co/dvOIsx9dBz"
+            },
+            {
+              "display_url": "pic.x.com/dvOIsx9dBz",
+              "end": 182,
+              "expanded_url": "https://x.com/aoyeshushu2/status/2071525885216235624/video/1",
+              "media_key": "7_2071525741750034432",
+              "start": 159,
+              "url": "https://t.co/dvOIsx9dBz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071525885216235624",
+        "in_reply_to_user_id": "1236365928993918976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 80392,
+          "like_count": 485,
+          "quote_count": 6,
+          "reply_count": 29,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "@Shay_paiguJ @XXGXSxxx @EeeeryEry @HukoVu @Hvhfhh98 @jiaojiaoji35374 @xyycbbl @qiuqiu03211 @Repatpat @QuiteDracey5521 @sunny310591 @bridgeksn6 \n靴靴大家，爱死所有小男女孩了 https://t.co/dvOIsx9dBz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya \n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6282,
+          "following_count": 1044,
+          "like_count": 5762,
+          "listed_count": 10,
+          "media_count": 263,
+          "tweet_count": 3189
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-27T17:48:08.000Z",
+        "description": "男的",
+        "id": "1464652233941962756",
+        "location": "常州",
+        "name": "💓梦R",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903692328029528064/r3ptH_3s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15648,
+          "following_count": 913,
+          "like_count": 1103,
+          "listed_count": 79,
+          "media_count": 24,
+          "tweet_count": 805
+        },
+        "url": "",
+        "username": "aoyeshushu2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T08:38:26.000Z",
+        "description": "🚪168 只回口令，无美颜放心食用丨 mtf",
+        "id": "1790300589337051136",
+        "location": "5km",
+        "name": "元子",
+        "pinned_tweet_id": "2057687460411523195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072701275624660992/Lav2XcoP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3897,
+          "following_count": 51,
+          "like_count": 333,
+          "listed_count": 23,
+          "media_count": 42,
+          "tweet_count": 307
+        },
+        "url": "",
+        "username": "sunny310591",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-07T18:59:54.000Z",
+        "description": "多年潜水男娘一只｜推特新人｜素质私信基本都会回复，欢迎姐妹互FO互撩🤭一起交流伪声👄｜化妆💄｜穿搭👗",
+        "id": "1236365928993918976",
+        "location": "🚪88+🐧",
+        "name": "Shay酱🧚‍♀️",
+        "pinned_tweet_id": "2067425665868333481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068043160790663168/V3VfhMXu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10164,
+          "following_count": 1109,
+          "like_count": 2349,
+          "listed_count": 57,
+          "media_count": 161,
+          "tweet_count": 995
+        },
+        "url": "",
+        "username": "Shay_paiguJ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T22:01:49.000Z",
+        "description": "我重生了 上一世我是小小怪下士由于轻信小人谗言 遭到背叛 他夺走了我的一切 苍天有眼 让我重生到被害的前一天 我从床上坐起来仰天长笑 然后笑死了 但是苍天看不下去了又给了我一次机会 只不过这一世我是一个普通人 我化名滋哇哇 在羊村当起了潇洒哥 重生归来的我发誓 势必要夺回属于我的一切 我要让他付出代价！",
+        "id": "1944879944846467077",
+        "location": "无锡🚪88",
+        "name": "滋哇哇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046511578095190016/zrwb4Hd7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5022,
+          "following_count": 65,
+          "like_count": 492,
+          "listed_count": 33,
+          "media_count": 21,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "XXGXSxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-28T14:38:37.000Z",
+        "description": "04 男娘 南京 🚪68 iiii",
+        "id": "1420393216185040901",
+        "name": "芝芝绿妍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039685980622569472/K0syKdhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4464,
+          "following_count": 932,
+          "like_count": 691,
+          "listed_count": 24,
+          "media_count": 18,
+          "tweet_count": 285
+        },
+        "url": "",
+        "username": "EeeeryEry",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-09T13:23:42.000Z",
+        "description": "劝你善良 🛰️🚪88",
+        "id": "3273039625",
+        "location": "江苏",
+        "name": "大户",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1497193331780370436/Kiw4khf5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3637,
+          "following_count": 118,
+          "like_count": 661,
+          "listed_count": 20,
+          "media_count": 48,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "HukoVu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T12:22:42.000Z",
+        "description": "当然是男孩子呀，喜欢可以私信，看到评论会回复，好好吃饭，好好睡觉，祝你开心",
+        "id": "1779485383207886848",
+        "location": "江浙沪",
+        "name": "是小熊呀",
+        "pinned_tweet_id": "2049098986947309769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977712611346231296/iCaRrzD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36080,
+          "following_count": 581,
+          "like_count": 1237,
+          "listed_count": 201,
+          "media_count": 76,
+          "tweet_count": 753
+        },
+        "url": "",
+        "username": "Hvhfhh98",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:06:59.000Z",
+        "description": "喜欢变娃啦（kigurumi) | 最近也有好好学习化妆~（男の娘）|  雄性激素困扰~ | mtf🍬\n🚪52",
+        "id": "1680821337789702144",
+        "location": "5km   江浙沪~",
+        "name": "bingo大大",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685928056664576000/vbElvbFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2111,
+          "following_count": 138,
+          "like_count": 1654,
+          "listed_count": 12,
+          "media_count": 55,
+          "tweet_count": 255
+        },
+        "url": "",
+        "username": "jiaojiaoji35374",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T16:37:38.000Z",
+        "description": "大只180高个子男阿姨 喜欢打洲听说唱，可爱小男娘请和我结婚。",
+        "id": "1559942510394294272",
+        "name": "登登🐑",
+        "pinned_tweet_id": "2053145809638830357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817761133723615233/Nk6mNm6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6427,
+          "following_count": 750,
+          "like_count": 1511,
+          "listed_count": 27,
+          "media_count": 30,
+          "tweet_count": 302
+        },
+        "url": "",
+        "username": "xyycbbl",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-25T06:04:07.000Z",
+        "description": "🚪199 ，只回口令，盗图替我挡灾。小号 @xiaoqiuzai 其余全是骗子，只玩推特，电报都是骗子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "xiaoqiuzai"
+              }
+            ]
+          }
+        },
+        "id": "1253927690727493632",
+        "location": "石家庄/不玩电报",
+        "name": "秋秋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028569502112436224/XjlQCKB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86812,
+          "following_count": 261,
+          "like_count": 753,
+          "listed_count": 581,
+          "media_count": 278,
+          "tweet_count": 2525
+        },
+        "url": "",
+        "username": "qiuqiu03211",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-27T01:54:29.000Z",
+        "description": "前世：@QuiteDrace3364 ，新号绝赞重生中…\n168cm/110斤，男娘，照片无美颜，不闲聊，私信联系tg：https://t.co/tUAoKeHSgj\nTG粉丝群：https://t.co/uoZwBDSoz5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "QuiteDrace3364"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/QuiteDrace6",
+                "end": 83,
+                "expanded_url": "https://t.me/QuiteDrace6",
+                "start": 60,
+                "url": "https://t.co/tUAoKeHSgj"
+              },
+              {
+                "display_url": "t.me/+gsQa6vWHcTVlZ…",
+                "end": 113,
+                "expanded_url": "https://t.me/+gsQa6vWHcTVlZWY1",
+                "start": 90,
+                "url": "https://t.co/uoZwBDSoz5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gsQa6vWHcTVlZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gsQa6vWHcTVlZWY1",
+                "start": 0,
+                "url": "https://t.co/uoZwBDSoz5"
+              }
+            ]
+          }
+        },
+        "id": "2059452888758521856",
+        "location": "线下 🚪128 江苏",
+        "name": "Quite DADA（重生）",
+        "pinned_tweet_id": "2069286033737543766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059863864448274432/Juya4M_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2435,
+          "following_count": 30,
+          "like_count": 42,
+          "listed_count": 11,
+          "media_count": 18,
+          "tweet_count": 56
+        },
+        "url": "https://t.co/uoZwBDSoz5",
+        "username": "QuiteDracey5521",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T20:14:59.000Z",
+        "description": "🧵🦐请过门，祝您天天开心",
+        "id": "2037624108041834496",
+        "location": "成都🚪88",
+        "name": "沐晴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037624689775017984/cGDxPY_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2442,
+          "following_count": 589,
+          "like_count": 171,
+          "listed_count": 9,
+          "media_count": 9,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "bridgeksn6",
+        "verified": false
+      }
+    ]
+  }
+}

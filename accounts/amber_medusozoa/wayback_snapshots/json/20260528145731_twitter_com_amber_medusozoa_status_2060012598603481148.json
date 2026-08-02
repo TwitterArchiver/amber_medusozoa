@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2060012598603481148",
+    "created_at": "2026-05-28T14:57:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T15:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060012598603481148"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thewonderofu_1…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/thewonderofu_1/status/2059858243577671881",
+          "start": 14,
+          "url": "https://t.co/4ekMBupey6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060012598603481148",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059858243577671881",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "我第一眼看甚至以为是反串… https://t.co/4ekMBupey6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 708,
+        "media_key": "3_2059858240830341120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYWKAxagAAPvFw.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2060012598603481148",
+        "created_at": "2026-05-28T14:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060012598603481148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thewonderofu_1…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/thewonderofu_1/status/2059858243577671881",
+              "start": 14,
+              "url": "https://t.co/4ekMBupey6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060012598603481148",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059858243577671881",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我第一眼看甚至以为是反串… https://t.co/4ekMBupey6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059858240830341120"
+          ]
+        },
+        "author_id": "1596427841943793664",
+        "conversation_id": "2059858243577671881",
+        "created_at": "2026-05-28T04:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059858243577671881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bYQFEz7Rqc",
+              "end": 44,
+              "expanded_url": "https://x.com/TheWonderofu_1/status/2059858243577671881/photo/1",
+              "media_key": "3_2059858240830341120",
+              "start": 21,
+              "url": "https://t.co/bYQFEz7Rqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059858243577671881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4237,
+          "like_count": 187,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "following",
+        "text": "为什么我说这群人本质和红卫兵没有任何区别 https://t.co/bYQFEz7Rqc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🥰 https://t.co/ifiQvlVhub\n❤️@noaayoyaoaya\n⚜️@irisdesombres\n📣 @amber_digit @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "amber_digit"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 25,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 2,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 Toronto",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5260,
+          "following_count": 915,
+          "like_count": 4048,
+          "listed_count": 12,
+          "media_count": 90,
+          "tweet_count": 1860
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-26T08:57:23.000Z",
+        "description": "想要成为人｜祝你愉快｜会预防性拉黑：不代表任何，只代表这样更方便我上网找乐子",
+        "id": "1596427841943793664",
+        "location": "直到世界把我们分开",
+        "name": "GZ_",
+        "pinned_tweet_id": "2053921691190059384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015678671093370880/gWA3z00l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 262,
+          "like_count": 7700,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 2682
+        },
+        "username": "TheWonderofu_1",
+        "verified": false
+      }
+    ]
+  }
+}

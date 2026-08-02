@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042831465419796480"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2042831469752516732",
+    "created_at": "2026-04-11T05:05:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:05:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042831469752516732"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jbASSPLpQk",
+          "end": 27,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2042831469752516732/photo/1",
+          "media_key": "3_2042831465419796480",
+          "start": 4,
+          "url": "https://t.co/jbASSPLpQk"
+        },
+        {
+          "display_url": "x.com/amber_toffee/s…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/amber_toffee/status/2041907437075054783",
+          "start": 28,
+          "url": "https://t.co/j8dgtUQeSy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042831469752516732",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041907437075054783",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "找到了 https://t.co/jbASSPLpQk https://t.co/j8dgtUQeSy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042831465419796480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmYZPhWcAAqMdw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041907431907917824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZP_acaAAA0SEV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2017,
+        "media_key": "3_2041907431966699523",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZP_aqa8AM2zDa.jpg",
+        "width": 1514
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042831465419796480"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042831469752516732",
+        "created_at": "2026-04-11T05:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042831469752516732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jbASSPLpQk",
+              "end": 27,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2042831469752516732/photo/1",
+              "media_key": "3_2042831465419796480",
+              "start": 4,
+              "url": "https://t.co/jbASSPLpQk"
+            },
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/amber_toffee/status/2041907437075054783",
+              "start": 28,
+              "url": "https://t.co/j8dgtUQeSy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042831469752516732",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041907437075054783",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "找到了 https://t.co/jbASSPLpQk https://t.co/j8dgtUQeSy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041907431907917824",
+            "3_2041907431966699523"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "2041907437075054783",
+        "created_at": "2026-04-08T15:54:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041907437075054783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gN6bzIuIoN",
+              "end": 55,
+              "expanded_url": "https://x.com/amber_toffee/status/2041907437075054783/photo/1",
+              "media_key": "3_2041907431907917824",
+              "start": 32,
+              "url": "https://t.co/gN6bzIuIoN"
+            },
+            {
+              "display_url": "pic.x.com/gN6bzIuIoN",
+              "end": 55,
+              "expanded_url": "https://x.com/amber_toffee/status/2041907437075054783/photo/1",
+              "media_key": "3_2041907431966699523",
+              "start": 32,
+              "url": "https://t.co/gN6bzIuIoN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041907437075054783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 40330,
+          "like_count": 604,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "唉好怀念当时身体的漂亮脂肪分布，我2024年8月份到底在吃什么 https://t.co/gN6bzIuIoN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044,
+          "following_count": 696,
+          "like_count": 1979,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 1378
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❤︎ @noaayoyaoaya / ᴀʟᴛ @amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 39,
+                "start": 23,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "🏳️‍⚧️ ⚢ ☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24281,
+          "following_count": 2708,
+          "like_count": 40262,
+          "listed_count": 11,
+          "media_count": 568,
+          "tweet_count": 21483
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

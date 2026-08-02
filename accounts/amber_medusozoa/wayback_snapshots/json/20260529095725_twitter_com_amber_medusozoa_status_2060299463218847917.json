@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2060149315948134839",
+    "created_at": "2026-05-29T09:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T10:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060299463218847917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022253175345143809",
+          "start": 0,
+          "username": "irisdesombres"
+        },
+        {
+          "end": 26,
+          "id": "1492455622633086980",
+          "start": 15,
+          "username": "imtransfat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060299463218847917",
+    "in_reply_to_user_id": "2022253175345143809",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060298000266572059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@irisdesombres @imtransfat 是"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2060298000266572059].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2060298000266572059",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2060298000266572059"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2060149315948134839",
+        "created_at": "2026-05-29T09:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060299463218847917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022253175345143809",
+              "start": 0,
+              "username": "irisdesombres"
+            },
+            {
+              "end": 26,
+              "id": "1492455622633086980",
+              "start": 15,
+              "username": "imtransfat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060299463218847917",
+        "in_reply_to_user_id": "2022253175345143809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060298000266572059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@irisdesombres @imtransfat 是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "💰https://t.co/ifiQvlVhub\n❤️@noaayoyaoaya ⚜️@irisdesombres \n🪼@amber_digit @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 72,
+                "start": 60,
+                "username": "amber_digit"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 24,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 1,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 Toronto",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5397,
+          "following_count": 924,
+          "like_count": 4096,
+          "listed_count": 11,
+          "media_count": 104,
+          "tweet_count": 1909
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-13T10:15:18.000Z",
+        "description": "一起去往博爾蓋塞的神殿，這位穿過秦淮夜色而來的戀人@Diamond_Kokoro\n願恨意給予我們關懷彼此的勇氣@amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 25,
+                "username": "Diamond_Kokoro"
+              },
+              {
+                "end": 71,
+                "start": 55,
+                "username": "amber_medusozoa"
+              }
+            ]
+          }
+        },
+        "id": "2022253175345143809",
+        "location": "agender | 经过反思的性别也不值得认同",
+        "name": "鴉尾鸢",
+        "pinned_tweet_id": "2034978855153234418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024275236531695616/xar82bpz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 140,
+          "like_count": 8692,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 5377
+        },
+        "username": "irisdesombres",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-12T11:08:56.000Z",
+        "description": "我只是來介紹BBW是什麼的\n我是原生性別為女性的順性別胖女人，只是會參與跨運議題",
+        "id": "1492455622633086980",
+        "name": "反式脂肪 Trans fat",
+        "pinned_tweet_id": "2044802097158476212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044385622480347137/Rj7LmoiI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 478,
+          "like_count": 23032,
+          "listed_count": 3,
+          "media_count": 579,
+          "tweet_count": 30554
+        },
+        "username": "imtransfat",
+        "verified": false
+      }
+    ]
+  }
+}

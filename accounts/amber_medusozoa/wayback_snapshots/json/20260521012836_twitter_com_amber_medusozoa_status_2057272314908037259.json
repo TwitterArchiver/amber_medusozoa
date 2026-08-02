@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2057262853011223000",
+    "created_at": "2026-05-21T01:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T02:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057272314908037259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1327883070171533312",
+          "start": 0,
+          "username": "samosa_cc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057272314908037259",
+    "in_reply_to_user_id": "1327883070171533312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057271029828104400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@samosa_cc 对我也感觉是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2057262853011223000",
+        "created_at": "2026-05-21T01:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T02:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057272314908037259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1327883070171533312",
+              "start": 0,
+              "username": "samosa_cc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057272314908037259",
+        "in_reply_to_user_id": "1327883070171533312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057271029828104400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@samosa_cc 对我也感觉是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1327883070171533312",
+        "conversation_id": "2057262853011223000",
+        "created_at": "2026-05-21T01:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T02:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057271029828104400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057271029828104400",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057262853011223000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 只能对自己下手了感觉，变得更 Pass 一点。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057203465730801664/2vAIcjtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3646,
+          "following_count": 833,
+          "like_count": 3550,
+          "listed_count": 9,
+          "media_count": 51,
+          "tweet_count": 1512
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-15T07:56:41.000Z",
+        "description": "",
+        "id": "1327883070171533312",
+        "location": "Kowloon City District",
+        "name": "晚上不想睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050036875990364160/gS2QeaWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 308,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 45
+        },
+        "username": "samosa_cc",
+        "verified": false
+      }
+    ]
+  }
+}

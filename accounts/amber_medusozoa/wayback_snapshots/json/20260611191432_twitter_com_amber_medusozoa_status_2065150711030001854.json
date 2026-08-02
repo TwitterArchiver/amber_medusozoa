@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2065115623483396235",
+    "created_at": "2026-06-11T19:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T20:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065150711030001854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1542529354042712064",
+          "start": 0,
+          "username": "MEOWLITSU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065150711030001854",
+    "in_reply_to_user_id": "1542529354042712064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065129956599005276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MEOWLITSU 所以你看我这里也采取了相似的修辞策略（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2065115623483396235",
+        "created_at": "2026-06-11T19:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T20:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065150711030001854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1542529354042712064",
+              "start": 0,
+              "username": "MEOWLITSU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065150711030001854",
+        "in_reply_to_user_id": "1542529354042712064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065129956599005276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEOWLITSU 所以你看我这里也采取了相似的修辞策略（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542529354042712064",
+        "conversation_id": "2065115623483396235",
+        "created_at": "2026-06-11T17:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T18:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065129956599005276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065129956599005276",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065115623483396235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 好像无论自己说过还是没说过的话，只要在前面加一句“再说一遍”，就能把它当成权威的观点、有力的论据、不争的真理一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya ⚜️@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5780,
+          "following_count": 988,
+          "like_count": 4792,
+          "listed_count": 10,
+          "media_count": 161,
+          "tweet_count": 2317
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-30T15:23:59.000Z",
+        "description": "想生活在夏天不超过25摄氏度冬天不低于零下5度的地方/已满16岁/poly/对大姐姐没有抵抗力/摄影📷🎞️/165/60/🚪即将解放/混乱邪恶/吸毒无罪，od有理/Ⓐ🏳️‍⚧️☮️/😚😚😚气波波🥰🥰🥰",
+        "id": "1542529354042712064",
+        "location": "坎通公社",
+        "name": "喵粒子❤️🖤🏳️‍⚧️Ⓐ（胡萝卜味的🥕）",
+        "pinned_tweet_id": "1702634560578781576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009078971108085766/2bUnXeQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1265,
+          "following_count": 3475,
+          "like_count": 46102,
+          "listed_count": 8,
+          "media_count": 206,
+          "tweet_count": 17106
+        },
+        "username": "MEOWLITSU",
+        "verified": false
+      }
+    ]
+  }
+}

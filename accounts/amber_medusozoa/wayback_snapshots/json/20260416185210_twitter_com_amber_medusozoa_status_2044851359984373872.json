@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2044851359984373872",
+    "created_at": "2026-04-16T18:52:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T19:52:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044851359984373872"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/steph63163/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/steph63163/status/2044719231103631591",
+          "start": 4,
+          "url": "https://t.co/biaPkRCbD8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044851359984373872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044719231103631591",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "丑死了 https://t.co/biaPkRCbD8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13685,
+        "height": 1280,
+        "media_key": "13_2044719159678787584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044719159678787584/img/I6qo3aKIKIXd_40p.jpg",
+        "public_metrics": {
+          "view_count": 14061
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044719159678787584/vid/avc1/320x694/rpXmnw7ajGe6afjb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044719159678787584/vid/avc1/480x1040/LzBjFeL2PwUt-Zug.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044719159678787584/vid/avc1/590x1280/UNbOD7Zh34-4wBiq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044719159678787584/pl/SJxesx7QQDgUbPHU.m3u8?v=cfc"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2044851359984373872",
+        "created_at": "2026-04-16T18:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T19:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044851359984373872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/steph63163/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/steph63163/status/2044719231103631591",
+              "start": 4,
+              "url": "https://t.co/biaPkRCbD8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044851359984373872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044719231103631591",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "丑死了 https://t.co/biaPkRCbD8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044719159678787584"
+          ]
+        },
+        "author_id": "1297428863354638337",
+        "conversation_id": "2044719231103631591",
+        "created_at": "2026-04-16T10:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044719231103631591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/klCgWQxaeY",
+              "end": 169,
+              "expanded_url": "https://x.com/Steph63163/status/2044719231103631591/video/1",
+              "media_key": "13_2044719159678787584",
+              "start": 146,
+              "url": "https://t.co/klCgWQxaeY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044719231103631591",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 43647,
+          "like_count": 311,
+          "quote_count": 5,
+          "reply_count": 13,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "I find this new Liquid Glass tweak quite appealing. Considering it's an alpha version, it's surprisingly well done. I'm eager to see new updates. https://t.co/klCgWQxaeY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/qBX9bbnFOS"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2309,
+          "following_count": 783,
+          "like_count": 2293,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1657
+        },
+        "url": "https://t.co/qBX9bbnFOS",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-23T07:02:22.000Z",
+        "description": "#Appleinternal #Jailbreak #Trollstore",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 0,
+                "tag": "Appleinternal"
+              },
+              {
+                "end": 25,
+                "start": 15,
+                "tag": "Jailbreak"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "tag": "Trollstore"
+              }
+            ]
+          }
+        },
+        "id": "1297428863354638337",
+        "location": "France",
+        "name": "Steph63",
+        "pinned_tweet_id": "1627215122308497408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1441434873516990466/JbnlKSN2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 280,
+          "like_count": 1530,
+          "listed_count": 4,
+          "media_count": 243,
+          "tweet_count": 1020
+        },
+        "username": "Steph63163",
+        "verified": false
+      }
+    ]
+  }
+}

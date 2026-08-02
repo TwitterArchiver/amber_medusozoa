@@ -1,0 +1,452 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      }
+    ],
+    "conversation_id": "2041346551788777699",
+    "created_at": "2026-04-07T02:45:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T03:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041346551788777699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "296593919",
+          "start": 3,
+          "username": "vikingmute"
+        }
+      ],
+      "urls": [
+        {
+          "description": "A few weeks ago, I tried to explain to someone what Microsoft Copilot is. I couldn’t… because the name ‘Copilot’ now refers to at least 75 different things.",
+          "display_url": "teybannerman.com/strategy/2026/…",
+          "end": 73,
+          "expanded_url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+          "start": 50,
+          "status": 200,
+          "title": "How many products does Microsoft have named ‘Copilot’? I mapped every one",
+          "unwound_url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+          "url": "https://t.co/MJOCSCERxv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041346551788777699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040708284722872535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vikingmute: 这篇文章给我整笑了《微软叫 Copilot 的产品到底有多少个？》\nhttps://t.co/MJOCSCERxv\n\nCopilot这个名称在微软内部已经被用于至少 75 个不同的产品、功能或事物。\n\n它是 app 也是内部 feature 还是…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1474,
+        "media_key": "3_2040708242687549440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFINVaeaYAAux87.jpg",
+        "width": 1502
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "2041346551788777699",
+        "created_at": "2026-04-07T02:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T03:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041346551788777699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "296593919",
+              "start": 3,
+              "username": "vikingmute"
+            }
+          ],
+          "urls": [
+            {
+              "description": "A few weeks ago, I tried to explain to someone what Microsoft Copilot is. I couldn’t… because the name ‘Copilot’ now refers to at least 75 different things.",
+              "display_url": "teybannerman.com/strategy/2026/…",
+              "end": 73,
+              "expanded_url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+              "start": 50,
+              "status": 200,
+              "title": "How many products does Microsoft have named ‘Copilot’? I mapped every one",
+              "unwound_url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+              "url": "https://t.co/MJOCSCERxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041346551788777699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040708284722872535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vikingmute: 这篇文章给我整笑了《微软叫 Copilot 的产品到底有多少个？》\nhttps://t.co/MJOCSCERxv\n\nCopilot这个名称在微软内部已经被用于至少 75 个不同的产品、功能或事物。\n\n它是 app 也是内部 feature 还是…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040708242687549440"
+          ]
+        },
+        "author_id": "296593919",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2040708284722872535",
+        "created_at": "2026-04-05T08:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040708284722872535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "A few weeks ago, I tried to explain to someone what Microsoft Copilot is. I couldn’t… because the name ‘Copilot’ now refers to at least 75 different things.",
+              "display_url": "teybannerman.com/strategy/2026/…",
+              "end": 57,
+              "expanded_url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+              "start": 34,
+              "status": 200,
+              "title": "How many products does Microsoft have named ‘Copilot’? I mapped every one",
+              "unwound_url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+              "url": "https://t.co/MJOCSCERxv"
+            },
+            {
+              "display_url": "pic.x.com/6NQS6aSpH8",
+              "end": 203,
+              "expanded_url": "https://x.com/vikingmute/status/2040708284722872535/photo/1",
+              "media_key": "3_2040708242687549440",
+              "start": 180,
+              "url": "https://t.co/6NQS6aSpH8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040708284722872535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "teybannerman.com/strategy/2026/…",
+                "end": 57,
+                "expanded_url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+                "start": 34,
+                "url": "https://t.co/LSAblPmatC"
+              }
+            ]
+          },
+          "text": "这篇文章给我整笑了《微软叫 Copilot 的产品到底有多少个？》\nhttps://t.co/LSAblPmatC\n\nCopilot这个名称在微软内部已经被用于至少 75 个不同的产品、功能或事物。\n\n它是 app 也是内部 feature 还是整个平台又是专属的键盘按键同时是笔记本电脑产品最后也是Microsoft 365 Copilot/Windows Copilot/Copilot Studio/Github Copilot\n\n作者还画了一张图把所有的内容都展示出来了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 39552,
+          "like_count": 308,
+          "quote_count": 7,
+          "reply_count": 14,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "这篇文章给我整笑了《微软叫 Copilot 的产品到底有多少个？》\nhttps://t.co/MJOCSCERxv\n\nCopilot这个名称在微软内部已经被用于至少 75 个不同的产品、功能或事物。\n\n它是 app 也是内部 feature 还是整个平台又是专属的键盘按键同时是笔记本电脑产品最后也是Microsoft 365 Copilot/Windows https://t.co/6NQS6aSpH8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1911,
+          "following_count": 630,
+          "like_count": 1457,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1009
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2011-05-11T02:08:52.000Z",
+        "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tinyship.cn",
+                "end": 47,
+                "expanded_url": "http://tinyship.cn",
+                "start": 24,
+                "url": "https://t.co/o0BI6W8DRb"
+              },
+              {
+                "display_url": "easycv.cn",
+                "end": 120,
+                "expanded_url": "http://easycv.cn",
+                "start": 97,
+                "url": "https://t.co/xMu5JFIGnr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vikingz.me",
+                "end": 23,
+                "expanded_url": "http://vikingz.me",
+                "start": 0,
+                "url": "https://t.co/6Zj0nAx1OI"
+              }
+            ]
+          }
+        },
+        "id": "296593919",
+        "location": "Shanghai",
+        "name": "Viking",
+        "pinned_tweet_id": "1998566358779617506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64860,
+          "following_count": 279,
+          "like_count": 1182,
+          "listed_count": 696,
+          "media_count": 1573,
+          "tweet_count": 3207
+        },
+        "url": "https://t.co/6Zj0nAx1OI",
+        "username": "vikingmute",
+        "verified": true
+      }
+    ]
+  }
+}

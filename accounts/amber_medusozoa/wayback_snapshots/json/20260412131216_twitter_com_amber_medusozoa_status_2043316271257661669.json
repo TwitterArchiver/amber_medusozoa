@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2043316271257661669",
+    "created_at": "2026-04-12T13:12:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T14:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043316271257661669"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/caixiaaypashai…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/caixiaaypashaii/status/2043299752591376761",
+          "start": 26,
+          "url": "https://t.co/4ZeQPUEVKC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043316271257661669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043299752591376761",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这位就一chaser，碰瓷我不知道多少次，懒得搭理 https://t.co/4ZeQPUEVKC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2043316271257661669",
+        "created_at": "2026-04-12T13:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043316271257661669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/caixiaaypashai…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/caixiaaypashaii/status/2043299752591376761",
+              "start": 26,
+              "url": "https://t.co/4ZeQPUEVKC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043316271257661669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043299752591376761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这位就一chaser，碰瓷我不知道多少次，懒得搭理 https://t.co/4ZeQPUEVKC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940622242381262848",
+        "conversation_id": "2043079251034071547",
+        "created_at": "2026-04-12T12:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043299752591376761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            },
+            {
+              "end": 25,
+              "id": "1424779836938022913",
+              "start": 12,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 42,
+              "id": "2035882965671215104",
+              "start": 26,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043299752591376761",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043079251034071547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 @amber_toffee @amber_medusozoa 言之十分有理你反思吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2054,
+          "following_count": 722,
+          "like_count": 2028,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 1422
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-03T04:03:08.000Z",
+        "description": "Transfem/ENFP/游魂永念/顺祝时祺/爱之病/稣梦残片，筒柬纲章/薬物使用に反対/本命鹿目圆/宿敌文学❤️/保护欲/救助＆查账/“白左救助团队”/🚪☧888/SNS活跃/uniCrystAll 结晶化/你认识霞霞2.0吗？",
+        "id": "1940622242381262848",
+        "name": "锂天使战斗彩夏#Mz. & Mz. Vixen",
+        "pinned_tweet_id": "2039516668570079251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029202626315993095/w12DBvYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 136,
+          "like_count": 109,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1138
+        },
+        "username": "CaixiaAypashaII",
+        "verified": false
+      }
+    ]
+  }
+}

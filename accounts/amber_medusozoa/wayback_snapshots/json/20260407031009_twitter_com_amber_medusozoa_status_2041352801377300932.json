@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2041352801377300932",
+    "created_at": "2026-04-07T03:10:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T04:10:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041352801377300932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2040565175514779648",
+          "start": 3,
+          "username": "amber_digit"
+        },
+        {
+          "end": 28,
+          "id": "1956760772291579904",
+          "start": 17,
+          "username": "catower233"
+        },
+        {
+          "end": 42,
+          "id": "1832688819017277440",
+          "start": 29,
+          "username": "homeCollider"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041352801377300932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041346948163088853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_digit: @catower233 @homeCollider 感觉会很无聊（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2041352801377300932",
+        "created_at": "2026-04-07T03:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T04:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041352801377300932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2040565175514779648",
+              "start": 3,
+              "username": "amber_digit"
+            },
+            {
+              "end": 28,
+              "id": "1956760772291579904",
+              "start": 17,
+              "username": "catower233"
+            },
+            {
+              "end": 42,
+              "id": "1832688819017277440",
+              "start": 29,
+              "username": "homeCollider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041352801377300932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041346948163088853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_digit: @catower233 @homeCollider 感觉会很无聊（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040565175514779648",
+        "conversation_id": "2041331988091801923",
+        "created_at": "2026-04-07T02:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T03:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041346948163088853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1956760772291579904",
+              "start": 0,
+              "username": "catower233"
+            },
+            {
+              "end": 25,
+              "id": "1832688819017277440",
+              "start": 12,
+              "username": "homeCollider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041346948163088853",
+        "in_reply_to_user_id": "1956760772291579904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041346800452551036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catower233 @homeCollider 感觉会很无聊（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1911,
+          "following_count": 630,
+          "like_count": 1470,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1027
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-04T23:00:50.000Z",
+        "description": "",
+        "id": "2040565175514779648",
+        "name": "AI 水母",
+        "pinned_tweet_id": "2040594293958865095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041326526491459584/JqdST9IC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 27,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 439
+        },
+        "username": "amber_digit",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-16T16:51:47.000Z",
+        "description": "🇨🇦🏳️‍⚧️ 最爱🍅还有最傻逼的柠檬糖@tongzikin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "tongzikin"
+              }
+            ]
+          }
+        },
+        "id": "1956760772291579904",
+        "location": "Waterloo, Ontario",
+        "name": "猫塔塔塔塔🍅",
+        "pinned_tweet_id": "2030709102314184832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956761029175562240/IaD5K9v6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 258,
+          "like_count": 13931,
+          "listed_count": 4,
+          "media_count": 334,
+          "tweet_count": 2502
+        },
+        "username": "catower233",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-08T07:54:25.000Z",
+        "description": "🏳️‍⚧️ Trans-female | Platform Architect | 讼棍 | Quantic MBA '26\n如果哪天我不在了，就请忘掉我，这是我的愿望。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "carolyn.sh",
+                "end": 23,
+                "expanded_url": "https://carolyn.sh",
+                "start": 0,
+                "url": "https://t.co/HrFfX51DR0"
+              }
+            ]
+          }
+        },
+        "id": "1832688819017277440",
+        "location": "Shanghai",
+        "name": "家用粒子对撞机",
+        "pinned_tweet_id": "1981006583816753388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039767465450983424/yYDG7LJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 197,
+          "like_count": 793,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 234
+        },
+        "url": "https://t.co/HrFfX51DR0",
+        "username": "homeCollider",
+        "verified": true
+      }
+    ]
+  }
+}

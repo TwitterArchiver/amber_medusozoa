@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2045761295450857911",
+    "created_at": "2026-04-19T14:31:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045872848024080745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "704584768457822208",
+          "start": 0,
+          "username": "cz07752269"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045872848024080745",
+    "in_reply_to_user_id": "704584768457822208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045810030864441840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cz07752269 我纠结的就是这个地方，但我非常怀疑这几个人死了以后世界会不会变得更好"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2045810030864441840].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2045810030864441840",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2045810030864441840"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2045761295450857911",
+        "created_at": "2026-04-19T14:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045872848024080745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "704584768457822208",
+              "start": 0,
+              "username": "cz07752269"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045872848024080745",
+        "in_reply_to_user_id": "704584768457822208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045810030864441840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cz07752269 我纠结的就是这个地方，但我非常怀疑这几个人死了以后世界会不会变得更好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/qBX9bbnFOS"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2410,
+          "following_count": 839,
+          "like_count": 2690,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 1878
+        },
+        "url": "https://t.co/qBX9bbnFOS",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-01T08:31:14.000Z",
+        "description": "Marxist-Leninist-Maoist\n\n#FreePalestine🇵🇸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 25,
+                "tag": "FreePalestine"
+              }
+            ]
+          }
+        },
+        "id": "704584768457822208",
+        "name": "akxkkwkxl",
+        "pinned_tweet_id": "1843706143711080834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1135936327327764481/9fsC6-UH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 209,
+          "like_count": 118803,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 8007
+        },
+        "username": "cz07752269",
+        "verified": false
+      }
+    ]
+  }
+}

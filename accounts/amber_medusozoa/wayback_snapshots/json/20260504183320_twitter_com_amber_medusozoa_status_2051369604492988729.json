@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2051175394070466566",
+    "created_at": "2026-05-04T18:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T19:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051369604492988729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1956760772291579904",
+          "start": 0,
+          "username": "catower233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051369604492988729",
+    "in_reply_to_user_id": "1956760772291579904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051337017179636122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catower233 快买快买"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2051175394070466566",
+        "created_at": "2026-05-04T18:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T19:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051369604492988729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1956760772291579904",
+              "start": 0,
+              "username": "catower233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051369604492988729",
+        "in_reply_to_user_id": "1956760772291579904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051337017179636122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catower233 快买快买"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956760772291579904",
+        "conversation_id": "2051175394070466566",
+        "created_at": "2026-05-04T16:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T17:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051337017179636122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051337017179636122",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051175394070466566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 急了好涩，我也想买😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🇨🇦 #多伦多 #药娘 #TS #trans \n💬 ¥150/240 ($30/50)\n🔞 nsfw only",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 3,
+                "tag": "多伦多"
+              },
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "药娘"
+              },
+              {
+                "end": 15,
+                "start": 12,
+                "tag": "TS"
+              },
+              {
+                "end": 22,
+                "start": 16,
+                "tag": "trans"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049527897036328960/hshFuKwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3536,
+          "following_count": 823,
+          "like_count": 3426,
+          "listed_count": 8,
+          "media_count": 33,
+          "tweet_count": 1392
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-16T16:51:47.000Z",
+        "description": "🇨🇦🏳️‍⚧️ 最爱🍅还有最傻逼的柠檬糖@tongzikin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "tongzikin"
+              }
+            ]
+          }
+        },
+        "id": "1956760772291579904",
+        "location": "Waterloo, Ontario",
+        "name": "猫塔塔塔塔🍅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956761029175562240/IaD5K9v6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 273,
+          "like_count": 14912,
+          "listed_count": 4,
+          "media_count": 358,
+          "tweet_count": 2687
+        },
+        "username": "catower233",
+        "verified": true
+      }
+    ]
+  }
+}

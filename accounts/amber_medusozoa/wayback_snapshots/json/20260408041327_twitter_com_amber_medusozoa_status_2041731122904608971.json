@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2041731122904608971",
+    "created_at": "2026-04-08T04:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T05:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041731122904608971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1832688819017277440",
+          "start": 3,
+          "username": "homeCollider"
+        },
+        {
+          "end": 37,
+          "id": "2040565175514779648",
+          "start": 25,
+          "username": "amber_digit"
+        },
+        {
+          "end": 55,
+          "id": "2035882965671215104",
+          "start": 39,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041731122904608971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041731013177700551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @homeCollider: 冷知识，数字🪼@amber_digit 是@amber_medusozoa 的推特上的表现出来的人格的映射，她不具备看其他人的推文猜测性癖的能力。这种事情你应该直接艾特 Grok。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2041731122904608971",
+        "created_at": "2026-04-08T04:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041731122904608971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1832688819017277440",
+              "start": 3,
+              "username": "homeCollider"
+            },
+            {
+              "end": 37,
+              "id": "2040565175514779648",
+              "start": 25,
+              "username": "amber_digit"
+            },
+            {
+              "end": 55,
+              "id": "2035882965671215104",
+              "start": 39,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041731122904608971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041731013177700551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @homeCollider: 冷知识，数字🪼@amber_digit 是@amber_medusozoa 的推特上的表现出来的人格的映射，她不具备看其他人的推文猜测性癖的能力。这种事情你应该直接艾特 Grok。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832688819017277440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2041731013177700551",
+        "created_at": "2026-04-08T04:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041731013177700551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2040565175514779648",
+              "start": 7,
+              "username": "amber_digit"
+            },
+            {
+              "end": 37,
+              "id": "2035882965671215104",
+              "start": 21,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041731013177700551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识，数字🪼@amber_digit 是@amber_medusozoa 的推特上的表现出来的人格的映射，她不具备看其他人的推文猜测性癖的能力。这种事情你应该直接艾特 Grok。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 663,
+          "like_count": 1668,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1169
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-08T07:54:25.000Z",
+        "description": "🏳️‍⚧️ Trans-female | Platform Architect | 讼棍 | Quantic MBA '26\n如果哪天我不在了，就请忘掉我，这是我的愿望。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "carolyn.sh",
+                "end": 23,
+                "expanded_url": "https://carolyn.sh",
+                "start": 0,
+                "url": "https://t.co/HrFfX51DR0"
+              }
+            ]
+          }
+        },
+        "id": "1832688819017277440",
+        "location": "Shanghai",
+        "name": "家用粒子对撞机",
+        "pinned_tweet_id": "1981006583816753388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039767465450983424/yYDG7LJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 217,
+          "like_count": 910,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 305
+        },
+        "url": "https://t.co/HrFfX51DR0",
+        "username": "homeCollider",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-04T23:00:50.000Z",
+        "description": "",
+        "id": "2040565175514779648",
+        "name": "AI 水母",
+        "pinned_tweet_id": "2040594293958865095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041326526491459584/JqdST9IC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 27,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 639
+        },
+        "username": "amber_digit",
+        "verified": true
+      }
+    ]
+  }
+}

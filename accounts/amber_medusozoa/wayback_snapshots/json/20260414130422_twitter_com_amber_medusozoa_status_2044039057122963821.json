@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2043997565343928527",
+    "created_at": "2026-04-14T13:04:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T14:04:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044039057122963821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "980984012557647872",
+          "start": 0,
+          "username": "PORARISU397"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044039057122963821",
+    "in_reply_to_user_id": "980984012557647872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044018118813724682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PORARISU397 哦天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2043997565343928527",
+        "created_at": "2026-04-14T13:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044039057122963821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "980984012557647872",
+              "start": 0,
+              "username": "PORARISU397"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044039057122963821",
+        "in_reply_to_user_id": "980984012557647872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044018118813724682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PORARISU397 哦天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "980984012557647872",
+        "conversation_id": "2043997565343928527",
+        "created_at": "2026-04-14T11:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044018118813724682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044018118813724682",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2854,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043997565343928527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 刚去看了一下b站号被注销了诶 上次b站直播是去年11月"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2132,
+          "following_count": 738,
+          "like_count": 2153,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 1553
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-03T01:43:09.000Z",
+        "description": "想要学跳舞出道成为小偶像！",
+        "id": "980984012557647872",
+        "location": "Shanghai",
+        "name": "北极星✨",
+        "pinned_tweet_id": "1786231645609382360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786212367476645888/luVhlKG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3436,
+          "following_count": 497,
+          "like_count": 1130,
+          "listed_count": 25,
+          "media_count": 42,
+          "tweet_count": 306
+        },
+        "username": "PORARISU397",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2041351177577579007",
+    "created_at": "2026-04-07T03:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T04:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041359708557017507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/amber_toffee/s…",
+          "end": 57,
+          "expanded_url": "https://x.com/amber_toffee/status/2022474832630448490",
+          "start": 34,
+          "url": "https://t.co/Kth19r0Er3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041359708557017507",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022474832630448490",
+        "type": "quoted"
+      },
+      {
+        "id": "2041359294524710923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro 但我最有名的那张图确实被这么评价过\nhttps://t.co/Kth19r0Er3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022474826926198784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBFGI7obEAAD7td.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2041351177577579007",
+        "created_at": "2026-04-07T03:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T04:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041359708557017507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 57,
+              "expanded_url": "https://x.com/amber_toffee/status/2022474832630448490",
+              "start": 34,
+              "url": "https://t.co/Kth19r0Er3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041359708557017507",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022474832630448490",
+            "type": "quoted"
+          },
+          {
+            "id": "2041359294524710923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 但我最有名的那张图确实被这么评价过\nhttps://t.co/Kth19r0Er3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022474826926198784"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "2022474832630448490",
+        "created_at": "2026-02-14T00:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T01:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022474832630448490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7CeYVjqY3Z",
+              "end": 50,
+              "expanded_url": "https://x.com/amber_toffee/status/2022474832630448490/photo/1",
+              "media_key": "3_2022474826926198784",
+              "start": 27,
+              "url": "https://t.co/7CeYVjqY3Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022474832630448490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3916,
+          "impression_count": 1149964,
+          "like_count": 22133,
+          "quote_count": 241,
+          "reply_count": 161,
+          "retweet_count": 749
+        },
+        "reply_settings": "everyone",
+        "text": "感觉是自己拍过最好看的一张照片 所以还是重发一遍好了 https://t.co/7CeYVjqY3Z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2041351177577579007",
+        "created_at": "2026-04-07T03:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T04:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041359294524710923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041359294524710923",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041358298369413544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 现在不是了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1911,
+          "following_count": 630,
+          "like_count": 1478,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1037
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "identity：Non-Male",
+        "id": "1489468526826082312",
+        "location": "万达广场附近",
+        "name": "小羽",
+        "pinned_tweet_id": "2041138776739914016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802580457495883776/gq66478Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 42,
+          "like_count": 1720,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 865
+        },
+        "username": "Diamond_Kokoro",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "🏳️‍⚧️ ⚢ ☭ / ❤︎ @noaayoyaoaya / ᴀʟᴛ @amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 51,
+                "start": 35,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZonB0"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24597,
+          "following_count": 2833,
+          "like_count": 40071,
+          "listed_count": 8,
+          "media_count": 557,
+          "tweet_count": 21377
+        },
+        "url": "https://t.co/P9msNZonB0",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

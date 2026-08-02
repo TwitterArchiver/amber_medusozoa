@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2042203473198961038",
+    "created_at": "2026-04-09T11:30:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T12:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042203473198961038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "705777407794352129",
+          "start": 3,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042203473198961038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042194713160327570",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ServalCandle: 啊啊啊啊啊车车(＞人＜;)\n\n笨猫终于遇到了一位和笨猫一样喜欢收集1/64小车的姐姐（（（\n\n从Johnny Lightning开始\n什么拓意，HotWheels，matchbox，微影，\n\nTomica红盒黑盒TLV，笨猫都有入（（（\n\n小…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2042194657648738305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdVOJtagAErmQq.jpg",
+        "width": 4000
+      },
+      {
+        "height": 1754,
+        "media_key": "3_2042194657678151680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdVOJ0bUAAubct.jpg",
+        "width": 2340
+      },
+      {
+        "height": 2136,
+        "media_key": "3_2042194657648738304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdVOJtagAAZo4A.jpg",
+        "width": 2848
+      },
+      {
+        "height": 1952,
+        "media_key": "3_2042194657644625920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdVOJsbwAAJ3U1.jpg",
+        "width": 2602
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2042203473198961038",
+        "created_at": "2026-04-09T11:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042203473198961038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "705777407794352129",
+              "start": 3,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042203473198961038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042194713160327570",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ServalCandle: 啊啊啊啊啊车车(＞人＜;)\n\n笨猫终于遇到了一位和笨猫一样喜欢收集1/64小车的姐姐（（（\n\n从Johnny Lightning开始\n什么拓意，HotWheels，matchbox，微影，\n\nTomica红盒黑盒TLV，笨猫都有入（（（\n\n小…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042194657648738305",
+            "3_2042194657678151680",
+            "3_2042194657648738304",
+            "3_2042194657644625920"
+          ]
+        },
+        "author_id": "705777407794352129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10043757359",
+              "name": "Tabasco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          }
+        ],
+        "conversation_id": "2042194713160327570",
+        "created_at": "2026-04-09T10:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042194713160327570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DKwnpnMob9",
+              "end": 203,
+              "expanded_url": "https://x.com/ServalCandle/status/2042194713160327570/photo/1",
+              "media_key": "3_2042194657648738305",
+              "start": 180,
+              "url": "https://t.co/DKwnpnMob9"
+            },
+            {
+              "display_url": "pic.x.com/DKwnpnMob9",
+              "end": 203,
+              "expanded_url": "https://x.com/ServalCandle/status/2042194713160327570/photo/1",
+              "media_key": "3_2042194657678151680",
+              "start": 180,
+              "url": "https://t.co/DKwnpnMob9"
+            },
+            {
+              "display_url": "pic.x.com/DKwnpnMob9",
+              "end": 203,
+              "expanded_url": "https://x.com/ServalCandle/status/2042194713160327570/photo/1",
+              "media_key": "3_2042194657648738304",
+              "start": 180,
+              "url": "https://t.co/DKwnpnMob9"
+            },
+            {
+              "display_url": "pic.x.com/DKwnpnMob9",
+              "end": 203,
+              "expanded_url": "https://x.com/ServalCandle/status/2042194713160327570/photo/1",
+              "media_key": "3_2042194657644625920",
+              "start": 180,
+              "url": "https://t.co/DKwnpnMob9"
+            },
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 227,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2042014854505017505",
+              "start": 204,
+              "url": "https://t.co/7ua2M3C0QF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042194713160327570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042014854505017505",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊车车(＞人＜;)\n\n笨猫终于遇到了一位和笨猫一样喜欢收集1/64小车的姐姐（（（\n\n从Johnny Lightning开始\n什么拓意，HotWheels，matchbox，微影，\n\nTomica红盒黑盒TLV，笨猫都有入（（（\n\n小红书上的HotWheels华人设计师藤原豆腐脑我都有关注_(:з」∠)_\n\n我还去买了他设计的Tabasco辣椒瓶车 https://t.co/DKwnpnMob9 https://t.co/7ua2M3C0QF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 676,
+          "like_count": 1825,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 1272
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "頭像是自拍 / 身分證性別女/ Only block who blocked me / 癲貓精靈 咪咪超行(*≧ω≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "🐈🥖Pain chat🥯🙀",
+        "name": "🌸猫宮すみか🎀🫪",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024879161932918784/w21cnpHC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33552,
+          "following_count": 412,
+          "like_count": 233927,
+          "listed_count": 104,
+          "media_count": 9020,
+          "tweet_count": 58646
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

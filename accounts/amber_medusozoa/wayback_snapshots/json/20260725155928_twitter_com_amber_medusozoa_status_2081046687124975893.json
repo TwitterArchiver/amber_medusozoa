@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2081040814105358844",
+    "created_at": "2026-07-25T15:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081046687124975893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1783421192181039104",
+          "start": 0,
+          "username": "Lily_nothin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081046687124975893",
+    "in_reply_to_user_id": "1783421192181039104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081046619638952399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lily_nothin 不是我是被封号了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2081046610491142145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFc3cta8AEfdSY.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2081040814105358844",
+        "created_at": "2026-07-25T15:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081046687124975893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1783421192181039104",
+              "start": 0,
+              "username": "Lily_nothin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081046687124975893",
+        "in_reply_to_user_id": "1783421192181039104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081046619638952399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lily_nothin 不是我是被封号了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081046610491142145"
+          ]
+        },
+        "author_id": "1783421192181039104",
+        "conversation_id": "2081040814105358844",
+        "created_at": "2026-07-25T15:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081046619638952399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lORchCBSTm",
+              "end": 71,
+              "expanded_url": "https://x.com/Lily_nothin/status/2081046619638952399/photo/1",
+              "media_key": "3_2081046610491142145",
+              "start": 48,
+              "url": "https://t.co/lORchCBSTm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081046619638952399",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081045503949619659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 我搜了下好像nsfw账号被shadowban是推特的统一政策 https://t.co/lORchCBSTm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2080801154435326152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080483846097629184/ano5UN60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6947,
+          "following_count": 1181,
+          "like_count": 7129,
+          "listed_count": 10,
+          "media_count": 359,
+          "tweet_count": 4069
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-25T09:02:09.000Z",
+        "description": "小时候只要妈妈熬油是不是站在锅边不想走\n熬完油以后马上伸手妈妈把油渣穿铲在灶头\n拿起油渣一入口那种感觉就像吃一回肉\n手上沾了油舍不得洗手偷偷的舔上几口",
+        "id": "1783421192181039104",
+        "name": "小茶LILY🍉",
+        "pinned_tweet_id": "2070546077565268275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061233210093445120/thD-ILlj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 967,
+          "like_count": 29019,
+          "listed_count": 1,
+          "media_count": 801,
+          "tweet_count": 12826
+        },
+        "url": "",
+        "username": "Lily_nothin",
+        "verified": false
+      }
+    ]
+  }
+}

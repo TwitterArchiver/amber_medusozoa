@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050570966242041857"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2050570968884555893",
+    "created_at": "2026-05-02T13:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T14:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050570968884555893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 20,
+          "id": "1356145157226196999",
+          "start": 6,
+          "username": "mary_sauce_22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jTSufaqtUv",
+          "end": 44,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2050570968884555893/photo/1",
+          "media_key": "3_2050570966242041857",
+          "start": 21,
+          "url": "https://t.co/jTSufaqtUv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050570968884555893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "呜呜好喜欢 @mary_sauce_22 https://t.co/jTSufaqtUv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2050570968884555893].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2050570968884555893",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2050570968884555893"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1608,
+        "media_key": "3_2050570966242041857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUXbe2WIAELJkS.jpg",
+        "width": 1206
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "原主号 @amber_toffee\n🇨🇦 #多伦多 #药娘 #TS\n🚪 ¥150/240 ($30/50)\nnsfw only",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 21,
+                "tag": "多伦多"
+              },
+              {
+                "end": 29,
+                "start": 26,
+                "tag": "药娘"
+              },
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "TS"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "支持Zelle Venmo口令红包，其他付款方式请私信联系",
+        "name": "/",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049527897036328960/hshFuKwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3228,
+          "following_count": 800,
+          "like_count": 3278,
+          "listed_count": 4,
+          "media_count": 12,
+          "tweet_count": 1295
+        },
+        "username": "amber_medusozoa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-01T07:39:43.000Z",
+        "description": "呼噜呼噜～睡大觉～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mary_sauce_22",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mary_sauce_22",
+                "start": 0,
+                "url": "https://t.co/yLjevbj9Bm"
+              }
+            ]
+          }
+        },
+        "id": "1356145157226196999",
+        "location": "银河系～",
+        "name": "某只玛莉w",
+        "pinned_tweet_id": "2049977920651719133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007444649317707776/utp0rZOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6877,
+          "following_count": 6053,
+          "like_count": 98370,
+          "listed_count": 45,
+          "media_count": 157,
+          "tweet_count": 14004
+        },
+        "url": "https://t.co/yLjevbj9Bm",
+        "username": "mary_sauce_22",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2040822095387787265"
+      ],
+      "media_source_tweet_id": [
+        "2040822239910621357"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2041695661377142977",
+    "created_at": "2026-04-08T01:52:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T02:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041695661377142977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1423807877706354688",
+          "start": 3,
+          "username": "beyoncegarden"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jNASXstUe5",
+          "end": 83,
+          "expanded_url": "https://x.com/beyoncegarden/status/2040822239910621357/video/1",
+          "media_key": "13_2040822095387787265",
+          "start": 60,
+          "url": "https://t.co/jNASXstUe5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041695661377142977",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5716
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040822239910621357",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @beyoncegarden: this diva CLEARED him here i’m in tears😭 https://t.co/jNASXstUe5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 238699,
+        "height": 1378,
+        "media_key": "13_2040822095387787265",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040822095387787265/img/H7jjGouV1x9tq25Y.jpg",
+        "public_metrics": {
+          "view_count": 2051416
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040822095387787265/vid/avc1/480x612/c1r6k0TeVKDGjltw.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040822095387787265/vid/avc1/320x408/8f4RjFxW9YVig5KE.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040822095387787265/vid/avc1/1080x1378/_xD_iUGcxSo94MRq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040822095387787265/vid/avc1/720x918/26FHiYxvl9BKu87W.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040822095387787265/pl/hmcB2N8AdDA-9_QF.m3u8?v=809"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040822095387787265"
+          ],
+          "media_source_tweet_id": [
+            "2040822239910621357"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2041695661377142977",
+        "created_at": "2026-04-08T01:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T02:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041695661377142977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1423807877706354688",
+              "start": 3,
+              "username": "beyoncegarden"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jNASXstUe5",
+              "end": 83,
+              "expanded_url": "https://x.com/beyoncegarden/status/2040822239910621357/video/1",
+              "media_key": "13_2040822095387787265",
+              "start": 60,
+              "url": "https://t.co/jNASXstUe5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041695661377142977",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5716
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040822239910621357",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @beyoncegarden: this diva CLEARED him here i’m in tears😭 https://t.co/jNASXstUe5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040822095387787265"
+          ]
+        },
+        "author_id": "1423807877706354688",
+        "conversation_id": "2040822239910621357",
+        "created_at": "2026-04-05T16:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040822239910621357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jNASXstUe5",
+              "end": 64,
+              "expanded_url": "https://x.com/beyoncegarden/status/2040822239910621357/video/1",
+              "media_key": "13_2040822095387787265",
+              "start": 41,
+              "url": "https://t.co/jNASXstUe5"
+            },
+            {
+              "display_url": "x.com/beyoncegarden/…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/beyoncegarden/status/1794168469929480505",
+              "start": 65,
+              "url": "https://t.co/MeXV6Vom7Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040822239910621357",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20270,
+          "impression_count": 2373405,
+          "like_count": 57167,
+          "quote_count": 732,
+          "reply_count": 4624,
+          "retweet_count": 5716
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794168469929480505",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "this diva CLEARED him here i’m in tears😭 https://t.co/jNASXstUe5 https://t.co/MeXV6Vom7Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 660,
+          "like_count": 1660,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1154
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-07T00:47:12.000Z",
+        "description": "beyoncé, @captainmarvel, & pop culture fan account🌿❤️‍🔥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "captainmarvel"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arab.org",
+                "end": 23,
+                "expanded_url": "http://arab.org",
+                "start": 0,
+                "url": "https://t.co/Sr7tYSFgDb"
+              }
+            ]
+          }
+        },
+        "id": "1423807877706354688",
+        "location": "dm for promo💌",
+        "name": "𝗱𝗮𝗻𝗻𝘆🫧💚",
+        "pinned_tweet_id": "2026356801931776315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1577204345883467776/RSHKpkpK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318368,
+          "following_count": 555,
+          "like_count": 277708,
+          "listed_count": 658,
+          "media_count": 27205,
+          "tweet_count": 74706
+        },
+        "url": "https://t.co/Sr7tYSFgDb",
+        "username": "beyoncegarden",
+        "verified": true
+      }
+    ]
+  }
+}

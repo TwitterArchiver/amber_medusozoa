@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2079525538180514135",
+    "created_at": "2026-07-22T07:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T08:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079827313064124754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079827313064124754",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079525538180514135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 如果没有饥饿感但是眼前发黑浑身出冷汗并且脑子无法思考了呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2079525538180514135",
+        "created_at": "2026-07-22T07:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079827313064124754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079827313064124754",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079525538180514135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 如果没有饥饿感但是眼前发黑浑身出冷汗并且脑子无法思考了呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2079525538180514135",
+        "created_at": "2026-07-21T11:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079525538180514135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079525538180514135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1355,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "热知识：饥饿感并不总是意味着真正的饥饿，脱水也是引发饥饿感的常见原因。在感到饥饿时，你可以喝一杯水，等待20分钟后，重新评估饥饿。若仍感到饥饿，再考虑进食。此方法有助于区分真伪饥饿，避免不必要的进食。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️she/her\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0lo74G",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 53,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 30,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6872,
+          "following_count": 1170,
+          "like_count": 6888,
+          "listed_count": 10,
+          "media_count": 357,
+          "tweet_count": 3958
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的，36",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7526,
+          "following_count": 4541,
+          "like_count": 43471,
+          "listed_count": 18,
+          "media_count": 3181,
+          "tweet_count": 42931
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2039950528646382050",
+    "created_at": "2026-04-04T13:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T14:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040417521585492087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1721509979348488192",
+          "start": 0,
+          "username": "HaoyangZ20152"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040417521585492087",
+    "in_reply_to_user_id": "1721509979348488192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040417381965819948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaoyangZ20152 唉能理解 如果有的选我干脆就不会出生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2039950528646382050",
+        "created_at": "2026-04-04T13:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T14:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040417521585492087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1721509979348488192",
+              "start": 0,
+              "username": "HaoyangZ20152"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040417521585492087",
+        "in_reply_to_user_id": "1721509979348488192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040417381965819948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaoyangZ20152 唉能理解 如果有的选我干脆就不会出生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721509979348488192",
+        "conversation_id": "2039950528646382050",
+        "created_at": "2026-04-04T13:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T14:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040417381965819948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040417381965819948",
+        "in_reply_to_user_id": "1721509979348488192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040416334148936115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 或许我错过了最佳的时机，无论是采取治疗亦或是向家人坦白，但真正令我痛苦的是我怀疑我的出生就是错误的。我，究竟想要什么呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1679,
+          "following_count": 561,
+          "like_count": 1081,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 708
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-06T12:50:25.000Z",
+        "description": "But free doesn't come free",
+        "id": "1721509979348488192",
+        "location": "日本",
+        "name": "STALKER-333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003799709836791810/xaTc0zVP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 315,
+          "like_count": 42199,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 640
+        },
+        "username": "HaoyangZ20152",
+        "verified": false
+      }
+    ]
+  }
+}

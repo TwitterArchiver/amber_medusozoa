@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "History",
+          "id": "1047111583309029381",
+          "name": "History"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "History",
+          "id": "1047111583309029381",
+          "name": "History"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2050721205766836266",
+    "created_at": "2026-05-02T23:36:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T00:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050721205766836266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1016470827775086592",
+          "start": 3,
+          "username": "QiaochuYuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050721205766836266",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 194
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050667128198778939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QiaochuYuan: so apparently the concept of a teenager basically did not exist until post-WWII. a specific combination of historical forc…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1474,
+        "media_key": "3_2050664727773376512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHVstHxa8AAijbZ.jpg",
+        "width": 1764
+      },
+      {
+        "height": 1452,
+        "media_key": "3_2050664743661408256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHVsuC9bEAA6mLa.jpg",
+        "width": 1200
+      },
+      {
+        "height": 882,
+        "media_key": "3_2050665270436646912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHVtMtWbUAAKYjD.jpg",
+        "width": 1176
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2050721205766836266",
+        "created_at": "2026-05-02T23:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T00:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050721205766836266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1016470827775086592",
+              "start": 3,
+              "username": "QiaochuYuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050721205766836266",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050667128198778939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QiaochuYuan: so apparently the concept of a teenager basically did not exist until post-WWII. a specific combination of historical forc…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050664727773376512",
+            "3_2050664743661408256",
+            "3_2050665270436646912"
+          ]
+        },
+        "author_id": "1016470827775086592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2050667128198778939",
+        "created_at": "2026-05-02T20:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T21:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050667128198778939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VMfXz1e41h",
+              "end": 301,
+              "expanded_url": "https://x.com/QiaochuYuan/status/2050667128198778939/photo/1",
+              "media_key": "3_2050664727773376512",
+              "start": 278,
+              "url": "https://t.co/VMfXz1e41h"
+            },
+            {
+              "display_url": "pic.x.com/VMfXz1e41h",
+              "end": 301,
+              "expanded_url": "https://x.com/QiaochuYuan/status/2050667128198778939/photo/1",
+              "media_key": "3_2050664743661408256",
+              "start": 278,
+              "url": "https://t.co/VMfXz1e41h"
+            },
+            {
+              "display_url": "pic.x.com/VMfXz1e41h",
+              "end": 301,
+              "expanded_url": "https://x.com/QiaochuYuan/status/2050667128198778939/photo/1",
+              "media_key": "3_2050665270436646912",
+              "start": 278,
+              "url": "https://t.co/VMfXz1e41h"
+            },
+            {
+              "display_url": "x.com/SmugFecundity/…",
+              "end": 325,
+              "expanded_url": "https://twitter.com/SmugFecundity/status/2050554789088338202",
+              "start": 302,
+              "url": "https://t.co/4gid9avARH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050667128198778939",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "saturdayeveningpost.com/2018/02/brief-…",
+                "end": 665,
+                "expanded_url": "https://www.saturdayeveningpost.com/2018/02/brief-history-teenagers/",
+                "start": 642,
+                "url": "https://t.co/BgHeDnLGaX"
+              }
+            ]
+          },
+          "text": "so apparently the concept of a teenager basically did not exist until post-WWII. a specific combination of historical forces produced a new class of young people who all had to go to high school, could not work on farms or in mills or factories anymore, and had access to money and cars. the entire rebellious teenager trope was created in this time period so it refers specifically to boomers rebelling against the silent generation, who grew up in a completely different world. the generation gap here was so stark this is also where the term \"generation gap\" even comes from, and i think the whole practice of naming distinct generations\n\nhttps://t.co/BgHeDnLGaX"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 598,
+          "impression_count": 72773,
+          "like_count": 1561,
+          "quote_count": 11,
+          "reply_count": 16,
+          "retweet_count": 194
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050554789088338202",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "so apparently the concept of a teenager basically did not exist until post-WWII. a specific combination of historical forces produced a new class of young people who all had to go to high school, could not work on farms or in mills or factories anymore, and had access to money https://t.co/VMfXz1e41h https://t.co/4gid9avARH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🇨🇦 #多伦多 #药娘 #TS #trans \n💬 ¥150/240 ($30/50)\n🔞 nsfw only",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 3,
+                "tag": "多伦多"
+              },
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "药娘"
+              },
+              {
+                "end": 15,
+                "start": 12,
+                "tag": "TS"
+              },
+              {
+                "end": 22,
+                "start": 16,
+                "tag": "trans"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "/",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049527897036328960/hshFuKwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3298,
+          "following_count": 804,
+          "like_count": 3306,
+          "listed_count": 5,
+          "media_count": 22,
+          "tweet_count": 1324
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2018-07-09T23:55:05.000Z",
+        "description": "deeply unqualified AI hot take haver but everyone who's actually qualified is busy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qchu.substack.com",
+                "end": 23,
+                "expanded_url": "https://qchu.substack.com/",
+                "start": 0,
+                "url": "https://t.co/QH3r7DmGmF"
+              }
+            ]
+          }
+        },
+        "id": "1016470827775086592",
+        "location": "Bellevue, WA",
+        "name": "QC",
+        "pinned_tweet_id": "1848418095012209127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746687266947555328/OIMkOG55_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33180,
+          "following_count": 607,
+          "like_count": 391078,
+          "listed_count": 409,
+          "media_count": 4877,
+          "tweet_count": 70142
+        },
+        "url": "https://t.co/QH3r7DmGmF",
+        "username": "QiaochuYuan",
+        "verified": true
+      }
+    ]
+  }
+}

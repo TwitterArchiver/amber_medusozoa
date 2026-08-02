@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Ontario",
+          "id": "861963262656565248",
+          "name": "Ontario"
+        }
+      }
+    ],
+    "conversation_id": "2077950169425793357",
+    "created_at": "2026-07-17T02:55:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T03:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077950169425793357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1990542701234958341",
+          "start": 3,
+          "username": "babyIonica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077950169425793357",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8507
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077540513540956453",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @babyIonica: ‼️to all non-ontarian mutuals PLEASE spread information about the northern ontario wildfires, hundreds of indigenous commun…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2077540505995362304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNToFTpWwAADrjB.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1404,
+        "media_key": "3_2077540505978564608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNToFTlWcAAnAxv.jpg",
+        "width": 1080
+      },
+      {
+        "height": 675,
+        "media_key": "3_2077540505974398976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNToFTkW4AAk_gH.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Ontario",
+              "id": "861963262656565248",
+              "name": "Ontario"
+            }
+          }
+        ],
+        "conversation_id": "2077950169425793357",
+        "created_at": "2026-07-17T02:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077950169425793357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1990542701234958341",
+              "start": 3,
+              "username": "babyIonica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077950169425793357",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8507
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077540513540956453",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @babyIonica: ‼️to all non-ontarian mutuals PLEASE spread information about the northern ontario wildfires, hundreds of indigenous commun…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077540505995362304",
+            "3_2077540505978564608",
+            "3_2077540505974398976"
+          ]
+        },
+        "author_id": "1990542701234958341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Ontario",
+              "id": "861963262656565248",
+              "name": "Ontario"
+            }
+          }
+        ],
+        "conversation_id": "2077540513540956453",
+        "created_at": "2026-07-15T23:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T00:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077540513540956453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2HDZTL9kjM",
+              "end": 302,
+              "expanded_url": "https://x.com/babyIonica/status/2077540513540956453/photo/1",
+              "media_key": "3_2077540505995362304",
+              "start": 279,
+              "url": "https://t.co/2HDZTL9kjM"
+            },
+            {
+              "display_url": "pic.x.com/2HDZTL9kjM",
+              "end": 302,
+              "expanded_url": "https://x.com/babyIonica/status/2077540513540956453/photo/1",
+              "media_key": "3_2077540505978564608",
+              "start": 279,
+              "url": "https://t.co/2HDZTL9kjM"
+            },
+            {
+              "display_url": "pic.x.com/2HDZTL9kjM",
+              "end": 302,
+              "expanded_url": "https://x.com/babyIonica/status/2077540513540956453/photo/1",
+              "media_key": "3_2077540505974398976",
+              "start": 279,
+              "url": "https://t.co/2HDZTL9kjM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077540513540956453",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 494,
+          "impression_count": 170335,
+          "like_count": 13952,
+          "quote_count": 77,
+          "reply_count": 35,
+          "retweet_count": 8507
+        },
+        "reply_settings": "everyone",
+        "text": "‼️to all non-ontarian mutuals PLEASE spread information about the northern ontario wildfires, hundreds of indigenous communities INCLUDING MY OWN are at high risk of destruction or have already been destroyed due to our governments lack of care and funding to wildfire safety.‼️ https://t.co/2HDZTL9kjM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n💖@amber_digit\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "amber_digit"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 70,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 47,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6604,
+          "following_count": 1104,
+          "like_count": 6437,
+          "listed_count": 11,
+          "media_count": 315,
+          "tweet_count": 3666
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-17T22:09:03.000Z",
+        "description": "indigiqueer political nerd 🌱🪶🔻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rentry.co/babylonicas",
+                "end": 23,
+                "expanded_url": "http://rentry.co/babylonicas",
+                "start": 0,
+                "url": "https://t.co/oQyc4XhjLT"
+              }
+            ]
+          }
+        },
+        "id": "1990542701234958341",
+        "location": "he him - treaty 9",
+        "name": "juneau ˖᯽ ݁˖",
+        "pinned_tweet_id": "2077540513540956453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077863310632820736/pPYuoAMY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 135,
+          "like_count": 18146,
+          "listed_count": 1,
+          "media_count": 607,
+          "tweet_count": 8412
+        },
+        "url": "https://t.co/oQyc4XhjLT",
+        "username": "babyIonica",
+        "verified": false
+      }
+    ]
+  }
+}

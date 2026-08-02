@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2078271339178209562",
+    "created_at": "2026-07-18T01:39:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T02:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078293567269716025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1339017385647325187",
+          "start": 0,
+          "username": "JiangAspirin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078293567269716025",
+    "in_reply_to_user_id": "1339017385647325187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078271339178209562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiangAspirin 哦天是原麦山丘吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2078271330970193920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNeAw61bUAATBnv.jpg",
+        "width": 3022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2078271339178209562",
+        "created_at": "2026-07-18T01:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T02:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078293567269716025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1339017385647325187",
+              "start": 0,
+              "username": "JiangAspirin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078293567269716025",
+        "in_reply_to_user_id": "1339017385647325187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078271339178209562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiangAspirin 哦天是原麦山丘吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078271330970193920"
+          ]
+        },
+        "author_id": "1339017385647325187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078271339178209562",
+        "created_at": "2026-07-18T00:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T01:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078271339178209562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FvDlZY2F9U",
+              "end": 27,
+              "expanded_url": "https://x.com/JiangAspirin/status/2078271339178209562/photo/1",
+              "media_key": "3_2078271330970193920",
+              "start": 4,
+              "url": "https://t.co/FvDlZY2F9U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078271339178209562",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早安🥐 https://t.co/FvDlZY2F9U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her #药娘\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0lo74G",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 15,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 59,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 36,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6704,
+          "following_count": 1146,
+          "like_count": 6606,
+          "listed_count": 11,
+          "media_count": 325,
+          "tweet_count": 3769
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-16T01:20:10.000Z",
+        "description": "🍥药娘 | hrt2025.01.01 | 家有妹魔大王@她不让我挂 | 超级无敌爱红烧肉 | 不喜键政 | 颜值非常抱歉，身材初具人形 | ❤️爱你们❤️",
+        "id": "1339017385647325187",
+        "location": "东部星区",
+        "name": "姜酱姜姜酱🍩",
+        "pinned_tweet_id": "1947127145018573136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063370630222012416/3BxJKS2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 222,
+          "like_count": 7044,
+          "listed_count": 7,
+          "media_count": 1736,
+          "tweet_count": 5744
+        },
+        "url": "",
+        "username": "JiangAspirin",
+        "verified": false
+      }
+    ]
+  }
+}

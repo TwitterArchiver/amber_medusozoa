@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060327830005964801"
+      ],
+      "media_source_tweet_id": [
+        "2060327838721651064"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2060382433460060280",
+    "created_at": "2026-05-29T15:27:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T16:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060382433460060280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1740556894970982400",
+          "start": 3,
+          "username": "sculptureyohr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Da2HQ2T5Rx",
+          "end": 50,
+          "expanded_url": "https://x.com/sculptureyohr/status/2060327838721651064/photo/1",
+          "media_key": "3_2060327830005964801",
+          "start": 27,
+          "url": "https://t.co/Da2HQ2T5Rx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060382433460060280",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 181
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060327838721651064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sculptureyohr: Lucifer https://t.co/Da2HQ2T5Rx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 916,
+        "media_key": "3_2060327830005964801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfBPsxbYAEKnF6.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060327830005964801"
+          ],
+          "media_source_tweet_id": [
+            "2060327838721651064"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2060382433460060280",
+        "created_at": "2026-05-29T15:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060382433460060280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1740556894970982400",
+              "start": 3,
+              "username": "sculptureyohr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Da2HQ2T5Rx",
+              "end": 50,
+              "expanded_url": "https://x.com/sculptureyohr/status/2060327838721651064/photo/1",
+              "media_key": "3_2060327830005964801",
+              "start": 27,
+              "url": "https://t.co/Da2HQ2T5Rx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060382433460060280",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 181
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060327838721651064",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sculptureyohr: Lucifer https://t.co/Da2HQ2T5Rx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060327830005964801"
+          ]
+        },
+        "author_id": "1740556894970982400",
+        "conversation_id": "2060327838721651064",
+        "created_at": "2026-05-29T11:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060327838721651064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Da2HQ2T5Rx",
+              "end": 31,
+              "expanded_url": "https://x.com/sculptureyohr/status/2060327838721651064/photo/1",
+              "media_key": "3_2060327830005964801",
+              "start": 8,
+              "url": "https://t.co/Da2HQ2T5Rx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060327838721651064",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 291,
+          "impression_count": 16845,
+          "like_count": 1921,
+          "quote_count": 14,
+          "reply_count": 5,
+          "retweet_count": 181
+        },
+        "reply_settings": "everyone",
+        "text": "Lucifer https://t.co/Da2HQ2T5Rx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "💰https://t.co/ifiQvlVhub\n❤️@noaayoyaoaya ⚜️@irisdesombres \n🪼@amber_digit @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 72,
+                "start": 60,
+                "username": "amber_digit"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 24,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 1,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 Toronto",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5421,
+          "following_count": 929,
+          "like_count": 4129,
+          "listed_count": 11,
+          "media_count": 104,
+          "tweet_count": 1937
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-29T02:14:45.000Z",
+        "description": "人形と彫刻",
+        "id": "1740556894970982400",
+        "name": "揺",
+        "pinned_tweet_id": "2044061688182517875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059599728971841536/jcdjendr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4515,
+          "following_count": 2343,
+          "like_count": 4048,
+          "listed_count": 19,
+          "media_count": 1803,
+          "tweet_count": 7491
+        },
+        "username": "sculptureyohr",
+        "verified": false
+      }
+    ]
+  }
+}

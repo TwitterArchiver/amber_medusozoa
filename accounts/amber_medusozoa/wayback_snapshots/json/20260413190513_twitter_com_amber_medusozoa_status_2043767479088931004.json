@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2043767479088931004",
+    "created_at": "2026-04-13T19:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T20:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043767479088931004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1198837480759287808",
+          "start": 3,
+          "username": "Inkingfish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043767479088931004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043598779182628897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Inkingfish: 脱口秀演员简直是这个世界上最假的一群人，他调侃你的时候说这是冒犯的艺术，你反驳说明你急了你没品位不够宽容，等你调侃他的时候我就没见过一个能憋住不发小作文回击的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2043767479088931004",
+        "created_at": "2026-04-13T19:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T20:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043767479088931004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1198837480759287808",
+              "start": 3,
+              "username": "Inkingfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043767479088931004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043598779182628897",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Inkingfish: 脱口秀演员简直是这个世界上最假的一群人，他调侃你的时候说这是冒犯的艺术，你反驳说明你急了你没品位不够宽容，等你调侃他的时候我就没见过一个能憋住不发小作文回击的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1198837480759287808",
+        "conversation_id": "2043598779182628897",
+        "created_at": "2026-04-13T07:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043598779182628897"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043598779182628897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5885,
+          "like_count": 113,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "脱口秀演员简直是这个世界上最假的一群人，他调侃你的时候说这是冒犯的艺术，你反驳说明你急了你没品位不够宽容，等你调侃他的时候我就没见过一个能憋住不发小作文回击的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 733,
+          "like_count": 2124,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1514
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2019-11-25T05:35:10.000Z",
+        "description": "我虽独身，在此也住多年，常言道，寡妇门前是非多，好事不出门，坏事传千里，所以只能身居茅屋，眼观全球，脚踩污泥，胸怀天下，我说的对吗？",
+        "id": "1198837480759287808",
+        "location": "蚌埠，安徽",
+        "name": "小米汽车抚顺车友群",
+        "pinned_tweet_id": "1536905463412842496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902399849867440133/zJxjYFBe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6849,
+          "following_count": 450,
+          "like_count": 12626,
+          "listed_count": 25,
+          "media_count": 370,
+          "tweet_count": 13345
+        },
+        "username": "Inkingfish",
+        "verified": false
+      }
+    ]
+  }
+}

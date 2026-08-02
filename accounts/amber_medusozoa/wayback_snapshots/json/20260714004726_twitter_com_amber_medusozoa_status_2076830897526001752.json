@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2076825587633803323",
+    "created_at": "2026-07-14T00:47:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T01:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076830897526001752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "853024229960187905",
+          "start": 0,
+          "username": "Nineyinnnnnnnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076830897526001752",
+    "in_reply_to_user_id": "853024229960187905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076825587633803323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nineyinnnnnnnn 原来是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2076825587633803323",
+        "created_at": "2026-07-14T00:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076830897526001752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "853024229960187905",
+              "start": 0,
+              "username": "Nineyinnnnnnnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076830897526001752",
+        "in_reply_to_user_id": "853024229960187905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076825587633803323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nineyinnnnnnnn 原来是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "853024229960187905",
+        "conversation_id": "2076825587633803323",
+        "created_at": "2026-07-14T00:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076825587633803323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076825587633803323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识：其实amber的本意是琥珀，而水母的英文是jellyfish"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n💖@amber_digit\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "amber_digit"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 70,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 47,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6534,
+          "following_count": 1072,
+          "like_count": 6156,
+          "listed_count": 11,
+          "media_count": 296,
+          "tweet_count": 3502
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-14T23:16:39.000Z",
+        "description": "Poemcore🌙 Arknights⛵OriginalCharcter🗃️\n【文手一體機📚】無律閣主 先鋒蛋黃派 infp\n浪漫主義 朦朧詩 烏托邦與反烏托邦 無賴派\n榮格：影、面具、阿尼姆斯 \n💒@NineAndDouble",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 100,
+                "username": "NineAndDouble"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bluerabbitandrea.wordpress.com",
+                "end": 23,
+                "expanded_url": "http://bluerabbitandrea.wordpress.com",
+                "start": 0,
+                "url": "https://t.co/2jGYazjKL0"
+              }
+            ]
+          }
+        },
+        "id": "853024229960187905",
+        "location": "商务合作请联系：lxqm222@gmail.com",
+        "name": "九隱🌱牧者鴿於途",
+        "pinned_tweet_id": "1975804335234949163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021300803097722880/mj_4J2Cw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 895,
+          "like_count": 42068,
+          "listed_count": 5,
+          "media_count": 385,
+          "tweet_count": 8818
+        },
+        "url": "https://t.co/2jGYazjKL0",
+        "username": "Nineyinnnnnnnn",
+        "verified": false
+      }
+    ]
+  }
+}

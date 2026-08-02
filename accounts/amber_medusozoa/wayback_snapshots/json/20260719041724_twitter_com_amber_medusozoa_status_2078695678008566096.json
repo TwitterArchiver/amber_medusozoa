@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2078687670079758800",
+    "created_at": "2026-07-19T04:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T05:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078695678008566096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2801561021",
+          "start": 0,
+          "username": "QimoHK300311"
+        },
+        {
+          "end": 30,
+          "id": "1565981667746914304",
+          "start": 14,
+          "username": "Kagura_Yukikaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078695678008566096",
+    "in_reply_to_user_id": "2801561021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078687670079758800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QimoHK300311 @Kagura_Yukikaze 不要 她肯定希望你好好活着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2078687670079758800",
+        "created_at": "2026-07-19T04:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078695678008566096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2801561021",
+              "start": 0,
+              "username": "QimoHK300311"
+            },
+            {
+              "end": 30,
+              "id": "1565981667746914304",
+              "start": 14,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078695678008566096",
+        "in_reply_to_user_id": "2801561021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078687670079758800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QimoHK300311 @Kagura_Yukikaze 不要 她肯定希望你好好活着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2801561021",
+        "conversation_id": "2078687670079758800",
+        "created_at": "2026-07-19T03:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T04:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078687670079758800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565981667746914304",
+              "start": 0,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078687670079758800",
+        "in_reply_to_user_id": "1565981667746914304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Kagura_Yukikaze \n我也需要NaNO2...\n我想去找妳...我想要陪...我离不开妳...\n能在另一个世界遇到姐姐...心里有姐姐...死去的时候应该就不会那么痛苦了吧..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "前世 @amber_toffee\n🏳️‍⚧️☭ she/her #药娘\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 76,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 53,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6852,
+          "following_count": 1158,
+          "like_count": 6720,
+          "listed_count": 11,
+          "media_count": 336,
+          "tweet_count": 3836
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-03T07:53:19.000Z",
+        "description": "一生中永远最爱的(是亲姐姐?也是对象! 恋人喵🥰)\n是@Kagura_Yukikaze 呢\n生产年月2011.05/可以叫我齐墨/常驻广东佛山/持续深柜(无证含🍥)/hrt:2025.05.09/初中毕业(准高一)/业余无线电爱好者(BG7MUW)/情绪焦虑、抑郁(中度心理问题)\n生来夏花，死时秋叶 --《飞鸟集》",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "Kagura_Yukikaze"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "BG7MUW-Not-Website.com",
+                "end": 23,
+                "expanded_url": "http://BG7MUW-Not-Website.com",
+                "start": 0,
+                "url": "https://t.co/LBSe4QLS4u"
+              }
+            ]
+          }
+        },
+        "id": "2801561021",
+        "location": "Guangdong,P.R.China (OL62)",
+        "name": "HK_本人qimo丶🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020885466019397632/URyAX7Nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 103,
+          "like_count": 560,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 125
+        },
+        "url": "https://t.co/LBSe4QLS4u",
+        "username": "QimoHK300311",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3171,
+          "following_count": 3071,
+          "like_count": 115614,
+          "listed_count": 10,
+          "media_count": 826,
+          "tweet_count": 13956
+        },
+        "url": "",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

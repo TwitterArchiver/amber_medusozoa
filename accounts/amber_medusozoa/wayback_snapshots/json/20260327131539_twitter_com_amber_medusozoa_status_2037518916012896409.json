@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2037516496537112631",
+    "created_at": "2026-03-27T13:15:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T14:15:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037518916012896409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1755381692838068224",
+          "start": 0,
+          "username": "B_Koi_Inf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037518916012896409",
+    "in_reply_to_user_id": "1755381692838068224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037518335496130689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B_Koi_Inf 哦那倒不是，这个东西建立挺晚的，一开始都是叫 womans studies，基本都是搞女权的人弄的，保守派倒是一直站在骂这些部门的位置上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2037516496537112631",
+        "created_at": "2026-03-27T13:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037518916012896409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1755381692838068224",
+              "start": 0,
+              "username": "B_Koi_Inf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037518916012896409",
+        "in_reply_to_user_id": "1755381692838068224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037518335496130689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_Koi_Inf 哦那倒不是，这个东西建立挺晚的，一开始都是叫 womans studies，基本都是搞女权的人弄的，保守派倒是一直站在骂这些部门的位置上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755381692838068224",
+        "conversation_id": "2037516496537112631",
+        "created_at": "2026-03-27T13:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037518335496130689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037518335496130689",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037516496537112631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 这些乱七八糟的少数群体研究以前都是顺直白男大人的专场，gender &amp; sexuality studies最开始可是强制变性或者conversion therapy的理论靠山，前进主义在这些东西里生存的时间还是挺短的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 366,
+          "like_count": 487,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 360
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-08T00:03:12.000Z",
+        "description": "Toronto orient troon... MDNI",
+        "id": "1755381692838068224",
+        "name": "Bookie",
+        "pinned_tweet_id": "2034039367782576300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775460072744792064/9v5jrXSY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 133,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 747
+        },
+        "username": "B_Koi_Inf",
+        "verified": false
+      }
+    ]
+  }
+}

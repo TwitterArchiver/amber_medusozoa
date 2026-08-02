@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2041582287490576562",
+    "created_at": "2026-04-07T18:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T19:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041583346753347870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1832688819017277440",
+          "start": 0,
+          "username": "homeCollider"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041583346753347870",
+    "in_reply_to_user_id": "1832688819017277440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041582287490576562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@homeCollider 哦天发生什么了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1738,
+        "media_key": "3_2041582197329817604",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFUoMROa8AQWQa5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2041582287490576562",
+        "created_at": "2026-04-07T18:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T19:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041583346753347870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1832688819017277440",
+              "start": 0,
+              "username": "homeCollider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041583346753347870",
+        "in_reply_to_user_id": "1832688819017277440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041582287490576562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@homeCollider 哦天发生什么了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041582197329817604"
+          ]
+        },
+        "author_id": "1832688819017277440",
+        "conversation_id": "2041582287490576562",
+        "created_at": "2026-04-07T18:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T19:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041582287490576562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w9iAidVgZY",
+              "end": 26,
+              "expanded_url": "https://x.com/homeCollider/status/2041582287490576562/photo/1",
+              "media_key": "3_2041582197329817604",
+              "start": 3,
+              "url": "https://t.co/w9iAidVgZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041582287490576562",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "悲。 https://t.co/w9iAidVgZY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 648,
+          "like_count": 1604,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1132
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-08T07:54:25.000Z",
+        "description": "🏳️‍⚧️ Trans-female | Platform Architect | 讼棍 | Quantic MBA '26\n如果哪天我不在了，就请忘掉我，这是我的愿望。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "carolyn.sh",
+                "end": 23,
+                "expanded_url": "https://carolyn.sh",
+                "start": 0,
+                "url": "https://t.co/HrFfX51DR0"
+              }
+            ]
+          }
+        },
+        "id": "1832688819017277440",
+        "location": "Shanghai",
+        "name": "家用粒子对撞机",
+        "pinned_tweet_id": "1981006583816753388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039767465450983424/yYDG7LJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 215,
+          "like_count": 891,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 296
+        },
+        "url": "https://t.co/HrFfX51DR0",
+        "username": "homeCollider",
+        "verified": true
+      }
+    ]
+  }
+}

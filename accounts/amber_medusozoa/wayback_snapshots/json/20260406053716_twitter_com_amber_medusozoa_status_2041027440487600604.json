@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040747861999038464"
+      ],
+      "media_source_tweet_id": [
+        "2040747902574703051"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2041027440487600604",
+    "created_at": "2026-04-06T05:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T06:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041027440487600604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1503420842889428997",
+          "start": 3,
+          "username": "LVA97VP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1MQ5tUakB2",
+          "end": 42,
+          "expanded_url": "https://x.com/LVA97VP/status/2040747902574703051/photo/1",
+          "media_key": "3_2040747861999038464",
+          "start": 19,
+          "url": "https://t.co/1MQ5tUakB2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041027440487600604",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2528
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040747902574703051",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LVA97VP: Ótimo https://t.co/1MQ5tUakB2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1579,
+        "media_key": "3_2040747861999038464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFIxXj6XMAArR57.jpg",
+        "width": 1189
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040747861999038464"
+          ],
+          "media_source_tweet_id": [
+            "2040747902574703051"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2041027440487600604",
+        "created_at": "2026-04-06T05:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041027440487600604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1503420842889428997",
+              "start": 3,
+              "username": "LVA97VP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1MQ5tUakB2",
+              "end": 42,
+              "expanded_url": "https://x.com/LVA97VP/status/2040747902574703051/photo/1",
+              "media_key": "3_2040747861999038464",
+              "start": 19,
+              "url": "https://t.co/1MQ5tUakB2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041027440487600604",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2528
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040747902574703051",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LVA97VP: Ótimo https://t.co/1MQ5tUakB2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040747861999038464"
+          ]
+        },
+        "author_id": "1503420842889428997",
+        "conversation_id": "2040747902574703051",
+        "created_at": "2026-04-05T11:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040747902574703051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1MQ5tUakB2",
+              "end": 29,
+              "expanded_url": "https://x.com/LVA97VP/status/2040747902574703051/photo/1",
+              "media_key": "3_2040747861999038464",
+              "start": 6,
+              "url": "https://t.co/1MQ5tUakB2"
+            },
+            {
+              "display_url": "x.com/johnrackham82/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/johnrackham82/status/2040214522284384471",
+              "start": 30,
+              "url": "https://t.co/jpFTRSpS90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040747902574703051",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 461,
+          "impression_count": 124874,
+          "like_count": 14841,
+          "quote_count": 23,
+          "reply_count": 72,
+          "retweet_count": 2528
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040214522284384471",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Ótimo https://t.co/1MQ5tUakB2 https://t.co/jpFTRSpS90"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1864,
+          "following_count": 602,
+          "like_count": 1327,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 910
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-14T17:20:55.000Z",
+        "description": "Travesti eco-anarquista.",
+        "id": "1503420842889428997",
+        "name": "Lu Raposinha 🏴🌳🦊🍄‍🟫",
+        "pinned_tweet_id": "1931096689756283104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014028425174945792/cV13YK7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1682,
+          "following_count": 1433,
+          "like_count": 25341,
+          "listed_count": 4,
+          "media_count": 2567,
+          "tweet_count": 16426
+        },
+        "username": "LVA97VP",
+        "verified": false
+      }
+    ]
+  }
+}

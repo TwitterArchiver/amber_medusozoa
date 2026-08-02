@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2042980824061219225",
+    "created_at": "2026-04-11T17:14:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:14:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043014946393387191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3223080709",
+          "start": 0,
+          "username": "Eloweni0t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043014946393387191",
+    "in_reply_to_user_id": "3223080709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042997708265525506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eloweni0t 我没什么胸其实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2042980824061219225",
+        "created_at": "2026-04-11T17:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043014946393387191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3223080709",
+              "start": 0,
+              "username": "Eloweni0t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043014946393387191",
+        "in_reply_to_user_id": "3223080709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042997708265525506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eloweni0t 我没什么胸其实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3223080709",
+        "conversation_id": "2042980824061219225",
+        "created_at": "2026-04-11T16:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T17:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042997708265525506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042997708265525506",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042984077226135920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 有胸除外"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2050,
+          "following_count": 714,
+          "like_count": 2013,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 1396
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2015-05-22T07:07:28.000Z",
+        "description": "",
+        "id": "3223080709",
+        "name": "一颗大白菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030544908361306112/Ufce8EZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 42,
+          "like_count": 5813,
+          "listed_count": 4,
+          "media_count": 0,
+          "tweet_count": 66
+        },
+        "username": "Eloweni0t",
+        "verified": false
+      }
+    ]
+  }
+}

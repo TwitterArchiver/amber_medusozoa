@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2045414101703417856",
+        "13_2045414101707583488"
+      ],
+      "media_source_tweet_id": [
+        "2045414512078278670",
+        "2045414512078278670"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2045485498664120707",
+    "created_at": "2026-04-18T12:52:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T13:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045485498664120707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1407281577780932611",
+          "start": 3,
+          "username": "Mosaiccat1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xr64DY6Q15",
+          "end": 43,
+          "expanded_url": "https://x.com/Mosaiccat1/status/2045414512078278670/video/1",
+          "media_key": "13_2045414101703417856",
+          "start": 20,
+          "url": "https://t.co/xr64DY6Q15"
+        },
+        {
+          "display_url": "pic.x.com/xr64DY6Q15",
+          "end": 43,
+          "expanded_url": "https://x.com/Mosaiccat1/status/2045414512078278670/video/1",
+          "media_key": "13_2045414101707583488",
+          "start": 20,
+          "url": "https://t.co/xr64DY6Q15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045485498664120707",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045414512078278670",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mosaiccat1: 🪢🎵🪢 https://t.co/xr64DY6Q15"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 307266,
+        "height": 1280,
+        "media_key": "13_2045414101703417856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045414101703417856/img/qN4SgmbfamcN1I-9.jpg",
+        "public_metrics": {
+          "view_count": 422
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045414101703417856/vid/avc1/320x568/jNlvLDuSPi73zVz5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045414101703417856/vid/avc1/480x852/EGhrxUJVHvxl47x-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045414101703417856/vid/avc1/720x1280/1Bc-FFo_zv49X-9a.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045414101703417856/pl/6dMyW9U2-N611InK.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 67500,
+        "height": 1280,
+        "media_key": "13_2045414101707583488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045414101707583488/img/LpFrkEkKACLP0v4P.jpg",
+        "public_metrics": {
+          "view_count": 63
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045414101707583488/vid/avc1/320x568/pdHO9A8wmY3A7U11.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045414101707583488/vid/avc1/480x852/VjWzIIEUPrbVajbc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045414101707583488/vid/avc1/720x1280/XlJRAUaGVND1fDWJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045414101707583488/pl/QEd7Z9R4yzhk-bWl.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045414101703417856",
+            "13_2045414101707583488"
+          ],
+          "media_source_tweet_id": [
+            "2045414512078278670",
+            "2045414512078278670"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2045485498664120707",
+        "created_at": "2026-04-18T12:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T13:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045485498664120707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1407281577780932611",
+              "start": 3,
+              "username": "Mosaiccat1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xr64DY6Q15",
+              "end": 43,
+              "expanded_url": "https://x.com/Mosaiccat1/status/2045414512078278670/video/1",
+              "media_key": "13_2045414101703417856",
+              "start": 20,
+              "url": "https://t.co/xr64DY6Q15"
+            },
+            {
+              "display_url": "pic.x.com/xr64DY6Q15",
+              "end": 43,
+              "expanded_url": "https://x.com/Mosaiccat1/status/2045414512078278670/video/1",
+              "media_key": "13_2045414101707583488",
+              "start": 20,
+              "url": "https://t.co/xr64DY6Q15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045485498664120707",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045414512078278670",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mosaiccat1: 🪢🎵🪢 https://t.co/xr64DY6Q15"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045414101703417856",
+            "13_2045414101707583488"
+          ]
+        },
+        "author_id": "1407281577780932611",
+        "conversation_id": "2045414512078278670",
+        "created_at": "2026-04-18T08:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T09:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045414512078278670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xr64DY6Q15",
+              "end": 27,
+              "expanded_url": "https://x.com/Mosaiccat1/status/2045414512078278670/video/1",
+              "media_key": "13_2045414101703417856",
+              "start": 4,
+              "url": "https://t.co/xr64DY6Q15"
+            },
+            {
+              "display_url": "pic.x.com/xr64DY6Q15",
+              "end": 27,
+              "expanded_url": "https://x.com/Mosaiccat1/status/2045414512078278670/video/1",
+              "media_key": "13_2045414101707583488",
+              "start": 4,
+              "url": "https://t.co/xr64DY6Q15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045414512078278670",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 14103,
+          "like_count": 618,
+          "quote_count": 6,
+          "reply_count": 9,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "🪢🎵🪢 https://t.co/xr64DY6Q15"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/qBX9bbnFOS"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2381,
+          "following_count": 821,
+          "like_count": 2508,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 1789
+        },
+        "url": "https://t.co/qBX9bbnFOS",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-22T10:17:38.000Z",
+        "description": "Shibari cat & photographer & designer 艺术创作及原创设计为主，不接推广。",
+        "id": "1407281577780932611",
+        "name": "Mosaic cat_maomao",
+        "pinned_tweet_id": "2032277984930132471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1407282076391395328/esK460Bg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37949,
+          "following_count": 1192,
+          "like_count": 6933,
+          "listed_count": 148,
+          "media_count": 749,
+          "tweet_count": 2202
+        },
+        "username": "Mosaiccat1",
+        "verified": false
+      }
+    ]
+  }
+}

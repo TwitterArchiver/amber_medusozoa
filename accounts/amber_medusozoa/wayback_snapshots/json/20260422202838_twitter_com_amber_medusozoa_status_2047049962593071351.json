@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2047039585784332482",
+    "created_at": "2026-04-22T20:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T21:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047049962593071351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2045017079665844224",
+          "start": 0,
+          "username": "Fellow383356"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047049962593071351",
+    "in_reply_to_user_id": "2045017079665844224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047049895216066735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fellow383356 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2047039585784332482",
+        "created_at": "2026-04-22T20:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T21:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047049962593071351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2045017079665844224",
+              "start": 0,
+              "username": "Fellow383356"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047049962593071351",
+        "in_reply_to_user_id": "2045017079665844224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047049895216066735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fellow383356 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045017079665844224",
+        "conversation_id": "2047039585784332482",
+        "created_at": "2026-04-22T20:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T21:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047049895216066735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047049895216066735",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047049686473716190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 秀吉吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/qBX9bbnFOS"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2467,
+          "following_count": 895,
+          "like_count": 3035,
+          "listed_count": 3,
+          "media_count": 100,
+          "tweet_count": 2067
+        },
+        "url": "https://t.co/qBX9bbnFOS",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-17T06:04:26.000Z",
+        "description": "MainlandChinese|19|She/Her|Transgender Lesbian Queer🏳️‍⚧️🏳️‍🌈|Existentialist Marxism🚩–Libertarian Socialism🏴|Anti-Soviet elements|Agnostics|DM open|🔞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/hood438371",
+                "end": 23,
+                "expanded_url": "https://x.com/hood438371",
+                "start": 0,
+                "url": "https://t.co/K8lvFGCGwj"
+              }
+            ]
+          }
+        },
+        "id": "2045017079665844224",
+        "location": "Gensokyo",
+        "name": "FellowⒶshley红🏳️‍⚧️",
+        "pinned_tweet_id": "2046215332327752128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045034001854038016/uObC1Pbf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 110,
+          "like_count": 1894,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 539
+        },
+        "url": "https://t.co/K8lvFGCGwj",
+        "username": "Fellow383356",
+        "verified": false
+      }
+    ]
+  }
+}

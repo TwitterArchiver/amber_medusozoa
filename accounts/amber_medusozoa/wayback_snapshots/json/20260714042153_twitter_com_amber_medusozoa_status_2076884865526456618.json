@@ -1,0 +1,500 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "2076884865526456618",
+    "created_at": "2026-07-14T04:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T05:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076884865526456618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1439465002851725314",
+          "start": 3,
+          "username": "chengzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076884865526456618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076883797967245387",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chengzi: 各位宝贝们，感谢大家喜欢橙子！为了感谢各位宝子的厚爱，橙子准备抽一个可爱的男娘宝贝送出KFC的疯狂星期四！\n\n1.点赞转发这个帖子\n2.一定是橙子的粉丝\n3.在这个帖子下方任意评论\n只有一个幸运小可爱，大家不要嫌少呀！\n奖励为疯狂星期四菜单任选一个产品…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1553,
+        "media_key": "3_2076883775540367360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKSykDbEAAyGCb.jpg",
+        "width": 1173
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2076884865526456618",
+        "created_at": "2026-07-14T04:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076884865526456618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1439465002851725314",
+              "start": 3,
+              "username": "chengzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076884865526456618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076883797967245387",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chengzi: 各位宝贝们，感谢大家喜欢橙子！为了感谢各位宝子的厚爱，橙子准备抽一个可爱的男娘宝贝送出KFC的疯狂星期四！\n\n1.点赞转发这个帖子\n2.一定是橙子的粉丝\n3.在这个帖子下方任意评论\n只有一个幸运小可爱，大家不要嫌少呀！\n奖励为疯狂星期四菜单任选一个产品…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076883775540367360"
+          ]
+        },
+        "author_id": "1439465002851725314",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2076883797967245387",
+        "created_at": "2026-07-14T04:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076883797967245387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QIypQMoJ5Y",
+              "end": 165,
+              "expanded_url": "https://x.com/chengzi/status/2076883797967245387/photo/1",
+              "media_key": "3_2076883775540367360",
+              "start": 142,
+              "url": "https://t.co/QIypQMoJ5Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076883797967245387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "各位宝贝们，感谢大家喜欢橙子！为了感谢各位宝子的厚爱，橙子准备抽一个可爱的男娘宝贝送出KFC的疯狂星期四！\n\n1.点赞转发这个帖子\n2.一定是橙子的粉丝\n3.在这个帖子下方任意评论\n只有一个幸运小可爱，大家不要嫌少呀！\n奖励为疯狂星期四菜单任选一个产品。\n（截止时间为本周三晚8点）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "各位宝贝们，感谢大家喜欢橙子！为了感谢各位宝子的厚爱，橙子准备抽一个可爱的男娘宝贝送出KFC的疯狂星期四！\n\n1.点赞转发这个帖子\n2.一定是橙子的粉丝\n3.在这个帖子下方任意评论\n只有一个幸运小可爱，大家不要嫌少呀！\n奖励为疯狂星期四菜单任选一个产品。\n（截止时间为本周三晚8点） https://t.co/QIypQMoJ5Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n💖@amber_digit\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "amber_digit"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 70,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 47,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6541,
+          "following_count": 1077,
+          "like_count": 6187,
+          "listed_count": 11,
+          "media_count": 302,
+          "tweet_count": 3530
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-19T05:43:05.000Z",
+        "description": "iiii | 欢迎来到橙子便利店快去挑选有用的东西吧！｜vlog博主｜日常LC｜私信都会回｜工作邮箱：chengzi@sissydream.cn | This is an interesting account.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chengzi.baby",
+                "end": 23,
+                "expanded_url": "http://chengzi.baby",
+                "start": 0,
+                "url": "https://t.co/VCsG9lSP0q"
+              }
+            ]
+          }
+        },
+        "id": "1439465002851725314",
+        "location": "everywhere",
+        "name": "橙子𝗖𝗵𝗲𝗻𝗴𝘇𝗶",
+        "pinned_tweet_id": "2066759541056999809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044051122789273600/7sRjs3xI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20006,
+          "following_count": 1141,
+          "like_count": 3674,
+          "listed_count": 57,
+          "media_count": 588,
+          "tweet_count": 2098
+        },
+        "url": "https://t.co/VCsG9lSP0q",
+        "username": "chengzi",
+        "verified": true
+      }
+    ]
+  }
+}

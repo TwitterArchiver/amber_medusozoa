@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2045478012313899294",
+    "created_at": "2026-04-18T12:22:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T13:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045478012313899294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882671462210998272",
+          "start": 3,
+          "username": "HosinoEJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045478012313899294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044370236569452633",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HosinoEJ: 有人能暫時收留我嗎？有的話請私信謝謝喵......在上海"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2045478012313899294",
+        "created_at": "2026-04-18T12:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T13:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045478012313899294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882671462210998272",
+              "start": 3,
+              "username": "HosinoEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045478012313899294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044370236569452633",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HosinoEJ: 有人能暫時收留我嗎？有的話請私信謝謝喵......在上海"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882671462210998272",
+        "conversation_id": "2044370236569452633",
+        "created_at": "2026-04-15T11:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T12:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044370236569452633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044370236569452633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2819,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "有人能暫時收留我嗎？有的話請私信謝謝喵......在上海"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/qBX9bbnFOS"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2381,
+          "following_count": 821,
+          "like_count": 2498,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 1785
+        },
+        "url": "https://t.co/qBX9bbnFOS",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T06:07:32.000Z",
+        "description": "點解我眼角長期都帶住淚？因為我一直被困喺一個暗無天日嘅十月入面。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "victimsunion.org",
+                "end": 23,
+                "expanded_url": "https://victimsunion.org",
+                "start": 0,
+                "url": "https://t.co/2i5ckAqhtx"
+              }
+            ]
+          }
+        },
+        "id": "1882671462210998272",
+        "location": "shanghai",
+        "name": "星野寧子 | HosinoNeko",
+        "pinned_tweet_id": "2045296996916027852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969203560090124288/UXWVrJV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 516,
+          "like_count": 3663,
+          "listed_count": 4,
+          "media_count": 650,
+          "tweet_count": 3357
+        },
+        "url": "https://t.co/2i5ckAqhtx",
+        "username": "HosinoEJ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037545100352638976",
+        "3_2037545100222283778"
+      ],
+      "media_source_tweet_id": [
+        "2037545115955216829",
+        "2037545115955216829"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2037733701870649576",
+    "created_at": "2026-03-28T03:29:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T04:29:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037733701870649576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1829734296996712448",
+          "start": 3,
+          "username": "Hellokraze"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dycegZDWSy",
+          "end": 39,
+          "expanded_url": "https://x.com/Hellokraze/status/2037545115955216829/photo/1",
+          "media_key": "3_2037545100352638976",
+          "start": 16,
+          "url": "https://t.co/dycegZDWSy"
+        },
+        {
+          "display_url": "pic.x.com/dycegZDWSy",
+          "end": 39,
+          "expanded_url": "https://x.com/Hellokraze/status/2037545115955216829/photo/1",
+          "media_key": "3_2037545100222283778",
+          "start": 16,
+          "url": "https://t.co/dycegZDWSy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037733701870649576",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 307
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037545115955216829",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hellokraze: https://t.co/dycegZDWSy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2037545100352638976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEbQeTBbUAApNEG.jpg",
+        "width": 1080
+      },
+      {
+        "height": 981,
+        "media_key": "3_2037545100222283778",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEbQeSiWQAIpUBn.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037545100352638976",
+            "3_2037545100222283778"
+          ],
+          "media_source_tweet_id": [
+            "2037545115955216829",
+            "2037545115955216829"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2037733701870649576",
+        "created_at": "2026-03-28T03:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T04:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037733701870649576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829734296996712448",
+              "start": 3,
+              "username": "Hellokraze"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dycegZDWSy",
+              "end": 39,
+              "expanded_url": "https://x.com/Hellokraze/status/2037545115955216829/photo/1",
+              "media_key": "3_2037545100352638976",
+              "start": 16,
+              "url": "https://t.co/dycegZDWSy"
+            },
+            {
+              "display_url": "pic.x.com/dycegZDWSy",
+              "end": 39,
+              "expanded_url": "https://x.com/Hellokraze/status/2037545115955216829/photo/1",
+              "media_key": "3_2037545100222283778",
+              "start": 16,
+              "url": "https://t.co/dycegZDWSy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037733701870649576",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 307
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037545115955216829",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hellokraze: https://t.co/dycegZDWSy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037545100352638976",
+            "3_2037545100222283778"
+          ]
+        },
+        "author_id": "1829734296996712448",
+        "conversation_id": "2037545115955216829",
+        "created_at": "2026-03-27T14:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037545115955216829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dycegZDWSy",
+              "end": 23,
+              "expanded_url": "https://x.com/Hellokraze/status/2037545115955216829/photo/1",
+              "media_key": "3_2037545100352638976",
+              "start": 0,
+              "url": "https://t.co/dycegZDWSy"
+            },
+            {
+              "display_url": "pic.x.com/dycegZDWSy",
+              "end": 23,
+              "expanded_url": "https://x.com/Hellokraze/status/2037545115955216829/photo/1",
+              "media_key": "3_2037545100222283778",
+              "start": 0,
+              "url": "https://t.co/dycegZDWSy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037545115955216829",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 942,
+          "impression_count": 127987,
+          "like_count": 7364,
+          "quote_count": 90,
+          "reply_count": 3,
+          "retweet_count": 307
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dycegZDWSy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 384,
+          "like_count": 564,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 404
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-31T04:14:10.000Z",
+        "description": "little bit of chaos || obsessed with style ||Vivienne Westwood",
+        "id": "1829734296996712448",
+        "location": "1995s",
+        "name": "𝒻𝓁𝑜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008661956006211585/TSmrhDNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22612,
+          "following_count": 16,
+          "like_count": 164,
+          "listed_count": 60,
+          "media_count": 399,
+          "tweet_count": 478
+        },
+        "username": "Hellokraze",
+        "verified": false
+      }
+    ]
+  }
+}

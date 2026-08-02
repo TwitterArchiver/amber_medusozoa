@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2040810253114376192"
+      ],
+      "media_source_tweet_id": [
+        "2040810388972069008"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2040937138955383229",
+    "created_at": "2026-04-05T23:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T00:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040937138955383229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1608684841729667073",
+          "start": 3,
+          "username": "tongzikin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6bfirpXNTc",
+          "end": 64,
+          "expanded_url": "https://x.com/tongzikin/status/2040810388972069008/video/1",
+          "media_key": "13_2040810253114376192",
+          "start": 41,
+          "url": "https://t.co/6bfirpXNTc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040937138955383229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040810388972069008",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tongzikin: 小红书看到的\n戒网瘾学校无限制拆除大赛\n笑死了。。 https://t.co/6bfirpXNTc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 66438,
+        "height": 960,
+        "media_key": "13_2040810253114376192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040810253114376192/img/dISeXPMxjo21WFYC.jpg",
+        "public_metrics": {
+          "view_count": 253
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040810253114376192/vid/avc1/320x426/5ycVgz5LKKrc5ytR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040810253114376192/vid/avc1/480x640/gQvpvcpp9vxBB6YG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040810253114376192/vid/avc1/720x960/1tCgtyWAA5Hy9YJD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040810253114376192/pl/cFHCZQyak54t9dBv.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040810253114376192"
+          ],
+          "media_source_tweet_id": [
+            "2040810388972069008"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040937138955383229",
+        "created_at": "2026-04-05T23:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T00:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040937138955383229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1608684841729667073",
+              "start": 3,
+              "username": "tongzikin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6bfirpXNTc",
+              "end": 64,
+              "expanded_url": "https://x.com/tongzikin/status/2040810388972069008/video/1",
+              "media_key": "13_2040810253114376192",
+              "start": 41,
+              "url": "https://t.co/6bfirpXNTc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040937138955383229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040810388972069008",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tongzikin: 小红书看到的\n戒网瘾学校无限制拆除大赛\n笑死了。。 https://t.co/6bfirpXNTc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040810253114376192"
+          ]
+        },
+        "author_id": "1608684841729667073",
+        "conversation_id": "2040810388972069008",
+        "created_at": "2026-04-05T15:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040810388972069008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6bfirpXNTc",
+              "end": 49,
+              "expanded_url": "https://x.com/tongzikin/status/2040810388972069008/video/1",
+              "media_key": "13_2040810253114376192",
+              "start": 26,
+              "url": "https://t.co/6bfirpXNTc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040810388972069008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 432,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "小红书看到的\n戒网瘾学校无限制拆除大赛\n笑死了。。 https://t.co/6bfirpXNTc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1853,
+          "following_count": 589,
+          "like_count": 1262,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 863
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-30T04:42:50.000Z",
+        "description": "hey@zikin.me / @catower233 ❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "catower233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zikin.me",
+                "end": 23,
+                "expanded_url": "https://zikin.me/",
+                "start": 0,
+                "url": "https://t.co/JbvqgRzmt4"
+              }
+            ]
+          }
+        },
+        "id": "1608684841729667073",
+        "location": "YEG / YKF / PEK",
+        "name": "Zikin 🍋",
+        "pinned_tweet_id": "1942441303645773944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021462204953096192/NHtcHi4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 1989,
+          "like_count": 21234,
+          "listed_count": 5,
+          "media_count": 939,
+          "tweet_count": 3127
+        },
+        "url": "https://t.co/JbvqgRzmt4",
+        "username": "tongzikin",
+        "verified": true
+      }
+    ]
+  }
+}

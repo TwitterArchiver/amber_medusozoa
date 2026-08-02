@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2077930185815359724",
+    "created_at": "2026-07-17T01:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T02:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077932136204587506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1081691893",
+          "start": 0,
+          "username": "SNJO7_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077932136204587506",
+    "in_reply_to_user_id": "1081691893",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077930185815359724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SNJO7_0 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2077930185815359724",
+        "created_at": "2026-07-17T01:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T02:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077932136204587506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1081691893",
+              "start": 0,
+              "username": "SNJO7_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077932136204587506",
+        "in_reply_to_user_id": "1081691893",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077930185815359724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SNJO7_0 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081691893",
+        "conversation_id": "2077930185815359724",
+        "created_at": "2026-07-17T01:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T02:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077930185815359724"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077930185815359724",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "As a Chinese, doesn’t it feel great to be breathing the same air of ur childhood?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n💖@amber_digit\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "amber_digit"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 70,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 47,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6604,
+          "following_count": 1101,
+          "like_count": 6424,
+          "listed_count": 11,
+          "media_count": 315,
+          "tweet_count": 3659
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2013-01-12T03:25:25.000Z",
+        "description": "PhDing in ▇▇▇▇▇▇ (Humanities). C▇▇▇▇▇▇ Diasporoid. 吃饱了没事干",
+        "id": "1081691893",
+        "name": "snjo",
+        "pinned_tweet_id": "1593526998453948416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007549609573318659/8CR9flNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 605,
+          "like_count": 58624,
+          "listed_count": 5,
+          "media_count": 29,
+          "tweet_count": 960
+        },
+        "url": "",
+        "username": "SNJO7_0",
+        "verified": false
+      }
+    ]
+  }
+}

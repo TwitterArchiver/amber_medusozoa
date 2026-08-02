@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050726975061598208",
+        "3_2050726974994403328"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2050726979800846591",
+    "created_at": "2026-05-02T23:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T00:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050726979800846591"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RD2ZMqamWp",
+          "end": 55,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2050726979800846591/photo/1",
+          "media_key": "3_2050726975061598208",
+          "start": 32,
+          "url": "https://t.co/RD2ZMqamWp"
+        },
+        {
+          "display_url": "pic.x.com/RD2ZMqamWp",
+          "end": 55,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2050726979800846591/photo/1",
+          "media_key": "3_2050726974994403328",
+          "start": 32,
+          "url": "https://t.co/RD2ZMqamWp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050726979800846591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在出租屋接客时穿的廉价白色蕾丝内衣 也许就是属于男孩子的婚纱吧 https://t.co/RD2ZMqamWp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2050726979800846591].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2050726979800846591",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2050726979800846591"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050726975061598208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHWlUY_boAASN_h.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2050726974994403328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHWlUYvaUAAgdQ8.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🇨🇦 #多伦多 #药娘 #TS #trans \n💬 ¥150/240 ($30/50)\n🔞 nsfw only",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 3,
+                "tag": "多伦多"
+              },
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "药娘"
+              },
+              {
+                "end": 15,
+                "start": 12,
+                "tag": "TS"
+              },
+              {
+                "end": 22,
+                "start": 16,
+                "tag": "trans"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "/",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049527897036328960/hshFuKwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3301,
+          "following_count": 804,
+          "like_count": 3308,
+          "listed_count": 5,
+          "media_count": 23,
+          "tweet_count": 1324
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

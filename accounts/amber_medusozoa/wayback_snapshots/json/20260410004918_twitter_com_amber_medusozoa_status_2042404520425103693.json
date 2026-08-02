@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2042390919278637171",
+    "created_at": "2026-04-10T00:49:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T01:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042404520425103693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1292713592777838597",
+          "start": 0,
+          "username": "TwinkieNoSay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042404520425103693",
+    "in_reply_to_user_id": "1292713592777838597",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042403303036723226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TwinkieNoSay 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2042390919278637171",
+        "created_at": "2026-04-10T00:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T01:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042404520425103693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1292713592777838597",
+              "start": 0,
+              "username": "TwinkieNoSay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042404520425103693",
+        "in_reply_to_user_id": "1292713592777838597",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042403303036723226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TwinkieNoSay 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1292713592777838597",
+        "conversation_id": "2042390919278637171",
+        "created_at": "2026-04-10T00:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T01:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042403303036723226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042403303036723226",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042390919278637171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 我们都很爱amber！🫶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1987,
+          "following_count": 690,
+          "like_count": 1903,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 1320
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-10T06:45:20.000Z",
+        "description": "“逃逃”//无立场小狗//已婚已婚已婚//清水自拍废话推/Quaker/道姑/锅性恋/不约/100% INFP/enby/但不是男的//地质/语言学/音乐理论/景观建筑/植物分类/皮肤癌/数摇/手语/苦空非我/诡计逃禅/MLP/霹雳金光\n//transphobia is misogyny//",
+        "id": "1292713592777838597",
+        "location": "United States",
+        "name": "芒花桃蝉",
+        "pinned_tweet_id": "1303518437961011202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715050580828123138/aJa2uBd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 1051,
+          "like_count": 19466,
+          "listed_count": 3,
+          "media_count": 351,
+          "tweet_count": 2796
+        },
+        "username": "TwinkieNoSay",
+        "verified": false
+      }
+    ]
+  }
+}

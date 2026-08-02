@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2037142389458866373",
+    "created_at": "2026-03-26T12:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T13:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037142389458866373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1621211065",
+          "start": 3,
+          "username": "An_Aria_Blooms"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037142389458866373",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036893410095755459",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @An_Aria_Blooms: No, it wouldn't because gender would not exist as an organizing system. People would choose their expression and be ful…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2037142389458866373",
+        "created_at": "2026-03-26T12:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T13:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037142389458866373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1621211065",
+              "start": 3,
+              "username": "An_Aria_Blooms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037142389458866373",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036893410095755459",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @An_Aria_Blooms: No, it wouldn't because gender would not exist as an organizing system. People would choose their expression and be ful…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621211065",
+        "conversation_id": "2036893410095755459",
+        "created_at": "2026-03-25T19:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T20:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036893410095755459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ThePlagueRattt…",
+              "end": 238,
+              "expanded_url": "https://twitter.com/ThePlagueRattt/status/2036884722312237257",
+              "start": 215,
+              "url": "https://t.co/SzcdCdrEns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036893410095755459",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3646,
+          "like_count": 92,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036884722312237257",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "No, it wouldn't because gender would not exist as an organizing system. People would choose their expression and be fully agented to modify themselves as they wish without social conditioning or social consequence. https://t.co/SzcdCdrEns"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 335,
+          "like_count": 366,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 258
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2013-07-25T20:09:32.000Z",
+        "description": "give me your bones | Writer | Desi | 30  🔞",
+        "id": "1621211065",
+        "location": "She/her",
+        "name": "@anariablooms.bsky.social🏳️‍🌈",
+        "pinned_tweet_id": "2007937902072959234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854549862022361097/xDEUjUxV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10838,
+          "following_count": 3991,
+          "like_count": 126860,
+          "listed_count": 50,
+          "media_count": 4601,
+          "tweet_count": 61076
+        },
+        "username": "An_Aria_Blooms",
+        "verified": false
+      }
+    ]
+  }
+}

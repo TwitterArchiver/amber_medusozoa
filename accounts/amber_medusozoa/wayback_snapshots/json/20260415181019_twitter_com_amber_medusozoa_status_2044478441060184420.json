@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Vegetarian",
+          "id": "860147410856665088",
+          "name": "Vegetarianism"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1260985796053487616",
+          "name": "Organic"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Vegetarian",
+          "id": "860147410856665088",
+          "name": "Vegetarianism"
+        }
+      }
+    ],
+    "conversation_id": "2044478441060184420",
+    "created_at": "2026-04-15T18:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T19:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044478441060184420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1337746588475777029",
+          "start": 3,
+          "username": "swagitttarius"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044478441060184420",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 530
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044362946227380731",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @swagitttarius: no consumption under capitalism is free from tears or cruelty or guilt, sadly"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Vegetarian",
+              "id": "860147410856665088",
+              "name": "Vegetarianism"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1260985796053487616",
+              "name": "Organic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Vegetarian",
+              "id": "860147410856665088",
+              "name": "Vegetarianism"
+            }
+          }
+        ],
+        "conversation_id": "2044478441060184420",
+        "created_at": "2026-04-15T18:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T19:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044478441060184420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1337746588475777029",
+              "start": 3,
+              "username": "swagitttarius"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044478441060184420",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 530
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044362946227380731",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @swagitttarius: no consumption under capitalism is free from tears or cruelty or guilt, sadly"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1337746588475777029",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Vegetarian",
+              "id": "860147410856665088",
+              "name": "Vegetarianism"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1260985796053487616",
+              "name": "Organic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Vegetarian",
+              "id": "860147410856665088",
+              "name": "Vegetarianism"
+            }
+          }
+        ],
+        "conversation_id": "2044362946227380731",
+        "created_at": "2026-04-15T10:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T11:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044362946227380731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AgentOfAnarchi…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/AgentOfAnarchie/status/2044324648838672887",
+              "start": 78,
+              "url": "https://t.co/vpj3BzNXVK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044362946227380731",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 86153,
+          "like_count": 6597,
+          "quote_count": 28,
+          "reply_count": 94,
+          "retweet_count": 530
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044324648838672887",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "no consumption under capitalism is free from tears or cruelty or guilt, sadly https://t.co/vpj3BzNXVK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2263,
+          "following_count": 762,
+          "like_count": 2221,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1606
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-12T13:10:24.000Z",
+        "description": "23 | Cunt sun diva moon ethereal rising | MAMC, Delhi 🩺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/achilllescomed…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/achilllescomedown/",
+                "start": 0,
+                "url": "https://t.co/ucQLKFHxpK"
+              }
+            ]
+          }
+        },
+        "id": "1337746588475777029",
+        "name": "Divyanshi 🦋",
+        "pinned_tweet_id": "1883450381155581991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007577419985891334/OG22Wlr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4475,
+          "following_count": 378,
+          "like_count": 98179,
+          "listed_count": 5,
+          "media_count": 366,
+          "tweet_count": 10609
+        },
+        "url": "https://t.co/ucQLKFHxpK",
+        "username": "swagitttarius",
+        "verified": false
+      }
+    ]
+  }
+}

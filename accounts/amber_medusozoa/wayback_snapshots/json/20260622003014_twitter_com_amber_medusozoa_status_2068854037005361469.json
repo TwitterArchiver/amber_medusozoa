@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2068854037005361469",
+    "created_at": "2026-06-22T00:30:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T01:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068854037005361469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "780508364488880128",
+          "start": 3,
+          "username": "soigomaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068854037005361469",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7675
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067592132127560050",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @soigomaa: If this was a men's issue, it wouldn't have taken this long. Women, are we pissed off enough yet???"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2068854037005361469",
+        "created_at": "2026-06-22T00:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T01:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068854037005361469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "780508364488880128",
+              "start": 3,
+              "username": "soigomaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068854037005361469",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7675
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067592132127560050",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @soigomaa: If this was a men's issue, it wouldn't have taken this long. Women, are we pissed off enough yet???"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "780508364488880128",
+        "conversation_id": "2067592132127560050",
+        "created_at": "2026-06-18T12:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067592132127560050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/theveripost/st…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/theveripost/status/2067592062799954227",
+              "start": 100,
+              "url": "https://t.co/ZXWqS2TfI5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067592132127560050",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2538,
+          "impression_count": 1911533,
+          "like_count": 62712,
+          "quote_count": 80,
+          "reply_count": 250,
+          "retweet_count": 7675
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067592062799954227",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "If this was a men's issue, it wouldn't have taken this long. Women, are we pissed off enough yet??? https://t.co/ZXWqS2TfI5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5957,
+          "following_count": 1022,
+          "like_count": 5281,
+          "listed_count": 10,
+          "media_count": 205,
+          "tweet_count": 2756
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2016-09-26T20:44:30.000Z",
+        "description": "I tweet women",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/soigomaa",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/soigomaa",
+                "start": 0,
+                "url": "https://t.co/fJPyCAXvr8"
+              }
+            ]
+          }
+        },
+        "id": "780508364488880128",
+        "location": "Maldives",
+        "name": "goma",
+        "pinned_tweet_id": "2067882200255922193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006028120869285889/IfcA7zxC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47466,
+          "following_count": 765,
+          "like_count": 5623,
+          "listed_count": 129,
+          "media_count": 89,
+          "tweet_count": 2470
+        },
+        "url": "https://t.co/fJPyCAXvr8",
+        "username": "soigomaa",
+        "verified": true
+      }
+    ]
+  }
+}

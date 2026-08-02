@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2057294451593154724",
+    "created_at": "2026-05-21T18:37:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T19:37:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057531288710484002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2049781535788748800",
+          "start": 0,
+          "username": "igZecut0r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057531288710484002",
+    "in_reply_to_user_id": "2049781535788748800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057305417223717260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@igZecut0r 我不是出于体重控制的动机买它的，我是为了控制血糖和阻断暴食"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2057294451593154724",
+        "created_at": "2026-05-21T18:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057531288710484002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2049781535788748800",
+              "start": 0,
+              "username": "igZecut0r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057531288710484002",
+        "in_reply_to_user_id": "2049781535788748800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057305417223717260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igZecut0r 我不是出于体重控制的动机买它的，我是为了控制血糖和阻断暴食"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049781535788748800",
+        "conversation_id": "2057294451593154724",
+        "created_at": "2026-05-21T03:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T04:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057305417223717260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057305417223717260",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057294451593154724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa GLP-1停药之后复胖率80%多（官方数据\n\nthe effect is temporary"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2057203502472946047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057203465730801664/2vAIcjtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3783,
+          "following_count": 845,
+          "like_count": 3573,
+          "listed_count": 9,
+          "media_count": 53,
+          "tweet_count": 1550
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-30T09:23:05.000Z",
+        "description": "陰キャ\n\n𝖓𝖔𝖓-𝖇𝖎𝖓𝖆𝖗𝖞\n\n𝕾𝖙𝖆𝖗𝖘 𝖆𝖗𝖊 𝖗𝖊𝖆𝖗𝖗𝖆𝖓𝖌𝖎𝖓𝖌…",
+        "id": "2049781535788748800",
+        "location": "はま寿司北朝鮮支店",
+        "name": "✨ニン🍋",
+        "pinned_tweet_id": "2050276280491515939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050103874942550016/sdlAJlTk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 82,
+          "like_count": 386,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 176
+        },
+        "username": "igZecut0r",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2036965578682831238",
+    "created_at": "2026-03-26T00:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T01:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036965578682831238"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fairiehaze/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/fairiehaze/status/2036851274960781534",
+          "start": 6,
+          "url": "https://t.co/U5btlRIlNY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036965578682831238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036851274960781534",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那当然是我 https://t.co/U5btlRIlNY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2036851273132032000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HERZcPNWQAA2Sgr.jpg",
+        "width": 1040
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2036965578682831238",
+        "created_at": "2026-03-26T00:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T01:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036965578682831238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fairiehaze/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/fairiehaze/status/2036851274960781534",
+              "start": 6,
+              "url": "https://t.co/U5btlRIlNY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036965578682831238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036851274960781534",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那当然是我 https://t.co/U5btlRIlNY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036851273132032000"
+          ]
+        },
+        "author_id": "1930168798553714688",
+        "conversation_id": "2036851274960781534",
+        "created_at": "2026-03-25T17:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T18:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036851274960781534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tsf8XFEQgX",
+              "end": 48,
+              "expanded_url": "https://x.com/fairiehaze/status/2036851274960781534/photo/1",
+              "media_key": "3_2036851273132032000",
+              "start": 25,
+              "url": "https://t.co/Tsf8XFEQgX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036851274960781534",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1645,
+          "impression_count": 497759,
+          "like_count": 10989,
+          "quote_count": 1804,
+          "reply_count": 827,
+          "retweet_count": 835
+        },
+        "reply_settings": "everyone",
+        "text": "who could pull this off? https://t.co/Tsf8XFEQgX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 313,
+          "like_count": 300,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 201
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-04T07:45:18.000Z",
+        "description": "𝓪𝓷𝓰𝓮𝓵 𝓮𝓷𝓮𝓻𝓰𝔂",
+        "id": "1930168798553714688",
+        "location": "dm for promo ",
+        "name": "ꪆৎ",
+        "pinned_tweet_id": "2036896810195710296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966974149575815168/z1OwH2IL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32679,
+          "following_count": 215,
+          "like_count": 1652,
+          "listed_count": 80,
+          "media_count": 937,
+          "tweet_count": 2070
+        },
+        "username": "fairiehaze",
+        "verified": true
+      }
+    ]
+  }
+}

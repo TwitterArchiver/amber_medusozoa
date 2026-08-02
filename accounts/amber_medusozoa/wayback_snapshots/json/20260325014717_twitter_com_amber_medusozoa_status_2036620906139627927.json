@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2036611935026692478",
+    "created_at": "2026-03-25T01:47:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T02:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036620906139627927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1165831053241569280",
+          "start": 0,
+          "username": "billyswong"
+        },
+        {
+          "end": 25,
+          "id": "1846949815755984897",
+          "start": 12,
+          "username": "Miller239374"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036620906139627927",
+    "in_reply_to_user_id": "1165831053241569280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036619046255546559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@billyswong @Miller239374 我觉得文科好像不包括前面这俩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2036611935026692478",
+        "created_at": "2026-03-25T01:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T02:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036620906139627927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1165831053241569280",
+              "start": 0,
+              "username": "billyswong"
+            },
+            {
+              "end": 25,
+              "id": "1846949815755984897",
+              "start": 12,
+              "username": "Miller239374"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036620906139627927",
+        "in_reply_to_user_id": "1165831053241569280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036619046255546559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@billyswong @Miller239374 我觉得文科好像不包括前面这俩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165831053241569280",
+        "conversation_id": "2036611935026692478",
+        "created_at": "2026-03-25T01:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T02:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036619046255546559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1846949815755984897",
+              "start": 0,
+              "username": "Miller239374"
+            },
+            {
+              "end": 30,
+              "id": "2035882965671215104",
+              "start": 14,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036619046255546559",
+        "in_reply_to_user_id": "1846949815755984897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036615569651417208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miller239374 @amber_medusozoa 即使不談大道理，文科起碼廣義上包括了美術音樂文學等，能給別人快樂呀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 285,
+          "like_count": 232,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 158
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-26T03:39:33.000Z",
+        "description": "子曰：「篤信好學，守死善道。危邦不入，亂邦不居。天下有道則見，無道則隱。邦有道，貧且賤焉，恥也；邦無道，富且貴焉，恥也。」——《論語・泰伯》",
+        "id": "1165831053241569280",
+        "location": "Hong Kong",
+        "name": "Billy Wong",
+        "pinned_tweet_id": "1804342083114930390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1165845202398896128/Edqdd0FK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 208,
+          "like_count": 8483,
+          "listed_count": 3,
+          "media_count": 590,
+          "tweet_count": 12181
+        },
+        "username": "billyswong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T16:22:29.000Z",
+        "description": "他人的眼睛是我们的监狱，他人的思想是我们的牢笼。",
+        "id": "1846949815755984897",
+        "name": "Miller",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946459504641490944/RgDex3JV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 361,
+          "like_count": 10998,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1901
+        },
+        "username": "Miller239374",
+        "verified": false
+      }
+    ]
+  }
+}

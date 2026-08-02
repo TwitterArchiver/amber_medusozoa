@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2063967747785310225",
+    "created_at": "2026-06-09T12:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064319812990370233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022253175345143809",
+          "start": 0,
+          "username": "irisdesombres"
+        },
+        {
+          "end": 31,
+          "id": "1942157232382283776",
+          "start": 15,
+          "username": "DxFyCOPqOP21835"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064319812990370233",
+    "in_reply_to_user_id": "2022253175345143809",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064225105983492139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@irisdesombres @DxFyCOPqOP21835 没事"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2064225105983492139].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2064225105983492139",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2064225105983492139"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2063967747785310225",
+        "created_at": "2026-06-09T12:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064319812990370233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022253175345143809",
+              "start": 0,
+              "username": "irisdesombres"
+            },
+            {
+              "end": 31,
+              "id": "1942157232382283776",
+              "start": 15,
+              "username": "DxFyCOPqOP21835"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064319812990370233",
+        "in_reply_to_user_id": "2022253175345143809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064225105983492139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@irisdesombres @DxFyCOPqOP21835 没事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya ⚜️@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5657,
+          "following_count": 977,
+          "like_count": 4599,
+          "listed_count": 10,
+          "media_count": 144,
+          "tweet_count": 2206
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-13T10:15:18.000Z",
+        "description": "一起去往博爾蓋塞的神殿，這位穿過秦淮夜色而來的戀人@Diamond_Kokoro\n願恨意給予我們關懷彼此的勇氣@amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 25,
+                "username": "Diamond_Kokoro"
+              },
+              {
+                "end": 71,
+                "start": 55,
+                "username": "amber_medusozoa"
+              }
+            ]
+          }
+        },
+        "id": "2022253175345143809",
+        "location": "agender",
+        "name": "鴉尾鸢",
+        "pinned_tweet_id": "2034978855153234418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024275236531695616/xar82bpz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 145,
+          "like_count": 9694,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 5705
+        },
+        "username": "irisdesombres",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T09:42:29.000Z",
+        "description": "(≧∇≦)/~Cialloヽ(^ω^ゞ)！捕捉到一只野生の二次元同好喵～☆今年也要一起在弹幕海里贴贴捏！(つ´ω`)つ\n呐呐——！(✧ω✧)2025年绝对绝对不可以偷偷变成「油腻の大人」哦！如果被咱发现三次元浓度超标的话...（举起魔法阵）就用「终焉·二次元净化光线biu——」把你の现充能量统统转换成宅力MAX啦！✧*",
+        "id": "1942157232382283776",
+        "name": "爱男TV",
+        "pinned_tweet_id": "2017409258766405776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942157265110478848/up2c1WXn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 37,
+          "like_count": 1227,
+          "listed_count": 1,
+          "media_count": 373,
+          "tweet_count": 2692
+        },
+        "username": "DxFyCOPqOP21835",
+        "verified": false
+      }
+    ]
+  }
+}

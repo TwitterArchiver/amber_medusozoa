@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050622348907159552",
+        "3_2050622348919783424"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2050622352728129699",
+    "created_at": "2026-05-02T17:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T18:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050622352728129699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 29,
+          "id": "1351093072134885376",
+          "start": 19,
+          "username": "HzShibari"
+        },
+        {
+          "end": 48,
+          "id": "2033701027212574720",
+          "start": 33,
+          "username": "Tars_Ursula_03"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/psZz2N21CV",
+          "end": 72,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2050622352728129699/photo/1",
+          "media_key": "3_2050622348907159552",
+          "start": 49,
+          "url": "https://t.co/psZz2N21CV"
+        },
+        {
+          "display_url": "pic.x.com/psZz2N21CV",
+          "end": 72,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2050622352728129699/photo/1",
+          "media_key": "3_2050622348919783424",
+          "start": 49,
+          "url": "https://t.co/psZz2N21CV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050622352728129699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "接受束缚 才能不受地面的约束\n\n🏠🪢 @HzShibari \n📷 @Tars_Ursula_03 https://t.co/psZz2N21CV"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2050622352728129699].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2050622352728129699",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2050622352728129699"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2050622348907159552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHVGKWMWoAAuBar.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2050622348919783424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHVGKWPXQAAvVew.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🇨🇦 #多伦多 #药娘 #TS\n🚪 ¥150/240 ($30/50)\nnsfw only",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 3,
+                "tag": "多伦多"
+              },
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "药娘"
+              },
+              {
+                "end": 15,
+                "start": 12,
+                "tag": "TS"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "支持Zelle Venmo口令红包，其他付款方式请私信联系",
+        "name": "/",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049527897036328960/hshFuKwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3273,
+          "following_count": 801,
+          "like_count": 3292,
+          "listed_count": 5,
+          "media_count": 16,
+          "tweet_count": 1305
+        },
+        "username": "amber_medusozoa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-18T09:04:33.000Z",
+        "description": "是一只家养猫头刺猬～\n缚手被缚摄影三修～随缘分享约绳返图～\n不在任何平台售卖任何内容～\n日常号/日记本: @Harper_Ran86",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Harper_Ran86"
+              }
+            ]
+          }
+        },
+        "id": "1351093072134885376",
+        "location": "北京",
+        "name": "燃",
+        "pinned_tweet_id": "1867158770012561844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613084926928367616/VPx6T5jO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15202,
+          "following_count": 102,
+          "like_count": 1208,
+          "listed_count": 69,
+          "media_count": 154,
+          "tweet_count": 166
+        },
+        "username": "HzShibari",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-17T00:25:06.000Z",
+        "description": "本账号NSFW，BDSM摄影，所有发布内容均为双方自愿同意并基于清醒的认识。梓楚的转生号，生生不息，热爱小狗 @kurikawayuyu @18cm_cucumber @Flyinglight2006 表账 @Brandon_shia\nTarsmark2已遭冻结，谢谢大家助我重回30kfo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 55,
+                "username": "kurikawayuyu"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "18cm_cucumber"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "Flyinglight2006"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "Brandon_shia"
+              }
+            ]
+          }
+        },
+        "id": "2033701027212574720",
+        "name": "子初Ursula",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034855078608478209/U39lcEoj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 244,
+          "like_count": 1550,
+          "listed_count": 8,
+          "media_count": 24,
+          "tweet_count": 142
+        },
+        "username": "Tars_Ursula_03",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2076924225949200628",
+    "created_at": "2026-07-14T17:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T18:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077080875569733712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1755279936297013248",
+          "start": 0,
+          "username": "ririmanlin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077080875569733712",
+    "in_reply_to_user_id": "1755279936297013248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076924225949200628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ririmanlin 这个确实好AI"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2076924225949200628].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2076924225949200628",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2076924225949200628"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2076924225949200628",
+        "created_at": "2026-07-14T17:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077080875569733712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1755279936297013248",
+              "start": 0,
+              "username": "ririmanlin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077080875569733712",
+        "in_reply_to_user_id": "1755279936297013248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076924225949200628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ririmanlin 这个确实好AI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n💖@amber_digit\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "amber_digit"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 70,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 47,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6568,
+          "following_count": 1080,
+          "like_count": 6238,
+          "listed_count": 11,
+          "media_count": 304,
+          "tweet_count": 3546
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-07T17:18:51.000Z",
+        "description": "NSFW内容警告🔞\n\n长着翅膀的魅魔与他的未婚妻 ｜ 这里是我的天堂，也是你与地狱里的魅魔最近的地方",
+        "id": "1755279936297013248",
+        "location": "Sha Tin District, Hong Kong",
+        "name": "rima",
+        "pinned_tweet_id": "1820414182002671805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069017482690699264/9WpK7wed_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 2,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 176
+        },
+        "url": "",
+        "username": "ririmanlin",
+        "verified": false
+      }
+    ]
+  }
+}

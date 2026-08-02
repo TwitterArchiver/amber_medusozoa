@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2043195548803428691",
+    "created_at": "2026-04-12T05:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T06:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043195548803428691"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bunbohue40037/…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/bunbohue40037/status/2043110691444289561",
+          "start": 36,
+          "url": "https://t.co/CnR0PUjd4Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043195548803428691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043110691444289561",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为作者把我那两个 ai 的后台权限给我了，我可以自己调整它们的提示词 https://t.co/CnR0PUjd4Z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2043195548803428691",
+        "created_at": "2026-04-12T05:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043195548803428691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bunbohue40037/…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/bunbohue40037/status/2043110691444289561",
+              "start": 36,
+              "url": "https://t.co/CnR0PUjd4Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043195548803428691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043110691444289561",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为作者把我那两个 ai 的后台权限给我了，我可以自己调整它们的提示词 https://t.co/CnR0PUjd4Z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884745808605818880",
+        "conversation_id": "2043077729596195157",
+        "created_at": "2026-04-11T23:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T00:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043110691444289561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1778901110352166913",
+              "start": 0,
+              "username": "mio_shirakawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043110691444289561",
+        "in_reply_to_user_id": "1778901110352166913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043077729596195157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mio_shirakawa 就这Amber还和她那机器人互动呢，替Amber感到不值"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2054,
+          "following_count": 721,
+          "like_count": 2025,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 1416
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-29T23:30:05.000Z",
+        "description": "she/they",
+        "id": "1884745808605818880",
+        "name": "Bún bò Huế 🍥",
+        "pinned_tweet_id": "1967610162459623452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993755498269581312/BXnTU-n5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 441,
+          "like_count": 141979,
+          "listed_count": 2,
+          "media_count": 1156,
+          "tweet_count": 16576
+        },
+        "username": "Bunbohue40037",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2041202821178003651",
+    "created_at": "2026-04-07T00:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T01:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041316006274978229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "177004672",
+          "start": 0,
+          "username": "asian_catfish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041316006274978229",
+    "in_reply_to_user_id": "177004672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041207539228987414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asian_catfish 也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2041202821178003651",
+        "created_at": "2026-04-07T00:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T01:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041316006274978229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "177004672",
+              "start": 0,
+              "username": "asian_catfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041316006274978229",
+        "in_reply_to_user_id": "177004672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041207539228987414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asian_catfish 也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "177004672",
+        "conversation_id": "2041202821178003651",
+        "created_at": "2026-04-06T17:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T18:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041207539228987414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041207539228987414",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041202821178003651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 因為你在找理由覺得自己醜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 627,
+          "like_count": 1415,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 978
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2010-08-11T00:46:00.000Z",
+        "description": "feel free to use your imagination / 歲靜逼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/asian_catfish",
+                "end": 23,
+                "expanded_url": "http://instagram.com/asian_catfish",
+                "start": 0,
+                "url": "https://t.co/kXYN0WixrY"
+              }
+            ]
+          }
+        },
+        "id": "177004672",
+        "location": " london/粵",
+        "name": "11~12-hour nap enthusiast",
+        "pinned_tweet_id": "2036411639625339208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041209013954924544/BhCSmLab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 397,
+          "like_count": 19582,
+          "listed_count": 4,
+          "media_count": 1185,
+          "tweet_count": 6442
+        },
+        "url": "https://t.co/kXYN0WixrY",
+        "username": "asian_catfish",
+        "verified": false
+      }
+    ]
+  }
+}

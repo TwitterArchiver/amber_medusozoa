@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2044119853645058384",
+    "created_at": "2026-04-14T18:25:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T19:25:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044119853645058384"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/trudyxchang/st…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/trudyxchang/status/2044103879407874452",
+          "start": 28,
+          "url": "https://t.co/LaLH7ynzDb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044119853645058384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044103879407874452",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为这里面的大部分素材都是从微博上的激女博主那里获取的 https://t.co/LaLH7ynzDb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2044119853645058384",
+        "created_at": "2026-04-14T18:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T19:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044119853645058384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/trudyxchang/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/trudyxchang/status/2044103879407874452",
+              "start": 28,
+              "url": "https://t.co/LaLH7ynzDb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044119853645058384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044103879407874452",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为这里面的大部分素材都是从微博上的激女博主那里获取的 https://t.co/LaLH7ynzDb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812404792507105280",
+        "conversation_id": "2044103879407874452",
+        "created_at": "2026-04-14T17:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044103879407874452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/amber_toffee/status/2043995682676105714",
+              "start": 16,
+              "url": "https://t.co/PzJ8G8LKZk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044103879407874452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043995682676105714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他们为什么要画一个新浪Logo https://t.co/PzJ8G8LKZk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2212,
+          "following_count": 742,
+          "like_count": 2180,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1580
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-14T08:32:47.000Z",
+        "description": "ZUOGEWENMINGDITELUREN\n(Be a civilized Detroid Humankind) | 电子Chang会梦到赛博大姐姐吗 | 本用户的独立性由美利坚合众国保证 | world.execute(me)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "detroitmi.gov/departments/po…",
+                "end": 23,
+                "expanded_url": "https://detroitmi.gov/departments/police-department",
+                "start": 0,
+                "url": "https://t.co/QDgDEuoxkh"
+              }
+            ]
+          }
+        },
+        "id": "1812404792507105280",
+        "location": "Detroit, MI",
+        "name": "张夕照 Trudy Chang",
+        "pinned_tweet_id": "1890121502332448791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028878739900403713/vFjxZ_X9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 937,
+          "like_count": 26204,
+          "listed_count": 1,
+          "media_count": 941,
+          "tweet_count": 4079
+        },
+        "url": "https://t.co/QDgDEuoxkh",
+        "username": "TrudyXChang",
+        "verified": false
+      }
+    ]
+  }
+}

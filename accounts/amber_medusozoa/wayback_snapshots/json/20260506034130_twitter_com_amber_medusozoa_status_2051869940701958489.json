@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051869937103155202",
+        "3_2051869937090641920"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2051869940701958489",
+    "created_at": "2026-05-06T03:41:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T04:41:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051869940701958489"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wPXHuyb27c",
+          "end": 27,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2051869940701958489/photo/1",
+          "media_key": "3_2051869937103155202",
+          "start": 4,
+          "url": "https://t.co/wPXHuyb27c"
+        },
+        {
+          "display_url": "pic.x.com/wPXHuyb27c",
+          "end": 27,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2051869940701958489/photo/1",
+          "media_key": "3_2051869937090641920",
+          "start": 4,
+          "url": "https://t.co/wPXHuyb27c"
+        },
+        {
+          "display_url": "x.com/woshixiaoyu123…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/woshixiaoyu123/status/2051725015650029721",
+          "start": 28,
+          "url": "https://t.co/sKnoQsIN6p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051869940701958489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051725015650029721",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "这样吗 https://t.co/wPXHuyb27c https://t.co/sKnoQsIN6p"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2051869940701958489].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2051869940701958489",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2051869940701958489"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051869937103155202",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHm01iZWMAISJiX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051869937090641920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHm01iWXQAAP3_6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2051725015650029721",
+        "created_at": "2026-05-05T18:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T19:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051725015650029721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051725015650029721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4780,
+          "like_count": 66,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在已经开始畏惧那种漏一只有骨感的手在那玩猫的照片了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🇨🇦 #多伦多 #药娘 #TS #trans \n💬 ¥150/240 ($30/50)\n❤️ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 3,
+                "tag": "多伦多"
+              },
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "药娘"
+              },
+              {
+                "end": 15,
+                "start": 12,
+                "tag": "TS"
+              },
+              {
+                "end": 22,
+                "start": 16,
+                "tag": "trans"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 47,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051680473894584328/Se8BKTA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3585,
+          "following_count": 828,
+          "like_count": 3506,
+          "listed_count": 9,
+          "media_count": 44,
+          "tweet_count": 1444
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "2046785857198477733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19183,
+          "following_count": 157,
+          "like_count": 371,
+          "listed_count": 20,
+          "media_count": 1727,
+          "tweet_count": 6373
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

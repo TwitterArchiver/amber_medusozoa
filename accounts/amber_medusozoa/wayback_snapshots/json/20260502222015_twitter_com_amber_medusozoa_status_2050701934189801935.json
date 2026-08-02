@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050701931580944384"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2050701934189801935",
+    "created_at": "2026-05-02T22:20:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T23:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050701934189801935"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rtgOHJX1L5",
+          "end": 43,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2050701934189801935/photo/1",
+          "media_key": "3_2050701931580944384",
+          "start": 20,
+          "url": "https://t.co/rtgOHJX1L5"
+        },
+        {
+          "display_url": "x.com/leifcphserd/st…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/leifcphserd/status/2050219477363761370",
+          "start": 44,
+          "url": "https://t.co/86Kc1zlYO4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050701934189801935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050219477363761370",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人老了果然就没有年轻跨女的那种可爱感了 https://t.co/rtgOHJX1L5 https://t.co/86Kc1zlYO4"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2050701934189801935].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2050701934189801935",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2050701934189801935"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050701931580944384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHWOiqwW8AA0vBA.jpg",
+        "width": 1638
+      },
+      {
+        "height": 808,
+        "media_key": "3_2050219470996783104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHPXvxBaQAAsZIy.jpg",
+        "width": 1077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050219470996783104"
+          ]
+        },
+        "author_id": "715111964",
+        "conversation_id": "2050219477363761370",
+        "created_at": "2026-05-01T14:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T15:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050219477363761370"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1zgIC0gfgr",
+              "end": 62,
+              "expanded_url": "https://x.com/Leifcphserd/status/2050219477363761370/photo/1",
+              "media_key": "3_2050219470996783104",
+              "start": 39,
+              "url": "https://t.co/1zgIC0gfgr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050219477363761370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 28327,
+          "like_count": 328,
+          "quote_count": 7,
+          "reply_count": 39,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "鸭子坐很难嘛？我怎么试了试就下去了，难道要暴露我是女生的真相了吗？！ #男娘 https://t.co/1zgIC0gfgr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🇨🇦 #多伦多 #药娘 #TS #伪娘 \n💬 ¥150/240 ($30/50)\n🔞 nsfw only",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 3,
+                "tag": "多伦多"
+              },
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "药娘"
+              },
+              {
+                "end": 15,
+                "start": 12,
+                "tag": "TS"
+              },
+              {
+                "end": 19,
+                "start": 16,
+                "tag": "伪娘"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "/",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049527897036328960/hshFuKwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3293,
+          "following_count": 803,
+          "like_count": 3302,
+          "listed_count": 5,
+          "media_count": 19,
+          "tweet_count": 1313
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-24T23:33:51.000Z",
+        "description": "B杯的南梁，含糖8年龄🍥|有很多做女孩子的经验→美妆、穿衣|欢迎同类扩列🏳️‍⚧️|对改造很有兴趣",
+        "id": "715111964",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "糖糖喵🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993291695631613952/sGYlXa20_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3865,
+          "following_count": 1062,
+          "like_count": 255,
+          "listed_count": 16,
+          "media_count": 23,
+          "tweet_count": 124
+        },
+        "username": "Leifcphserd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2073478037757411603",
+    "created_at": "2026-07-05T11:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T12:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073733306949030209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1724630965551865856",
+          "start": 0,
+          "username": "mizu_bai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073733306949030209",
+    "in_reply_to_user_id": "1724630965551865856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073478037757411603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizu_bai 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2073478037757411603",
+        "created_at": "2026-07-05T11:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073733306949030209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1724630965551865856",
+              "start": 0,
+              "username": "mizu_bai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073733306949030209",
+        "in_reply_to_user_id": "1724630965551865856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073478037757411603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizu_bai 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724630965551865856",
+        "conversation_id": "2073478037757411603",
+        "created_at": "2026-07-04T18:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T19:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073478037757411603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073478037757411603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6882,
+          "like_count": 90,
+          "quote_count": 2,
+          "reply_count": 33,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谈完分手了\nOct 1st, 2020 – Jul 5th, 2026"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya \n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059625440348610808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6323,
+          "following_count": 1043,
+          "like_count": 5834,
+          "listed_count": 10,
+          "media_count": 270,
+          "tweet_count": 3230
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-15T03:30:55.000Z",
+        "description": "Theoretical Chemistry Ph. D. Student/AI for Science",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/mizu-bai",
+                "end": 23,
+                "expanded_url": "https://github.com/mizu-bai",
+                "start": 0,
+                "url": "https://t.co/N7irDlk8Gg"
+              }
+            ]
+          }
+        },
+        "id": "1724630965551865856",
+        "name": "mizu-bai",
+        "pinned_tweet_id": "2006359072699019432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009525486503043073/_-DBU265_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 837,
+          "like_count": 9375,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 4288
+        },
+        "url": "https://t.co/N7irDlk8Gg",
+        "username": "mizu_bai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2059625440348610808",
+    "created_at": "2026-07-04T21:14:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T22:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073515857976705317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1825021494805581824",
+          "start": 0,
+          "username": "lumuyuanMadoka2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073515857976705317",
+    "in_reply_to_user_id": "1825021494805581824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073512602064585003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lumuyuanMadoka2 大概有什么区别呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2059625440348610808",
+        "created_at": "2026-07-04T21:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T22:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073515857976705317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1825021494805581824",
+              "start": 0,
+              "username": "lumuyuanMadoka2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073515857976705317",
+        "in_reply_to_user_id": "1825021494805581824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073512602064585003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumuyuanMadoka2 大概有什么区别呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825021494805581824",
+        "conversation_id": "2059625440348610808",
+        "created_at": "2026-07-04T21:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T22:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073512602064585003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073512602064585003",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059625440348610808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa amber确实好有英语老师的气质\n\n说起来，感觉日语老师和英语老师气质很不一样()"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya \n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6314,
+          "following_count": 1043,
+          "like_count": 5782,
+          "listed_count": 10,
+          "media_count": 264,
+          "tweet_count": 3201
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-18T04:06:54.000Z",
+        "description": "高一丨百合豚丨🏳️‍🌈Les(泛)，MtF~X，HRT26.4.24丨日本語を学ぶ丨in PRC，☭，爱华反修反cpc，通常不键政和对线。改名前为【鹿目圆○】             详细介绍请访问:\nhttps://t.co/eOvYAa6rHN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "m.otter.homes/@akizakura",
+                "end": 124,
+                "expanded_url": "https://m.otter.homes/@akizakura",
+                "start": 101,
+                "url": "https://t.co/eOvYAa6rHN"
+              }
+            ]
+          }
+        },
+        "id": "1825021494805581824",
+        "location": "圆环之理 ",
+        "name": "秋桜_akizakura",
+        "pinned_tweet_id": "2073058229534544188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883225741275303936/hrHUZHOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 591,
+          "like_count": 21324,
+          "listed_count": 11,
+          "media_count": 469,
+          "tweet_count": 6733
+        },
+        "url": "",
+        "username": "lumuyuanMadoka2",
+        "verified": false
+      }
+    ]
+  }
+}

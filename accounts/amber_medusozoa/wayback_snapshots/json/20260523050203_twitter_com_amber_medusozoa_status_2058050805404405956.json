@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2058050805404405956",
+    "created_at": "2026-05-23T05:02:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T06:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058050805404405956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cannedcha/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/cannedcha/status/2058006528922361983",
+          "start": 9,
+          "url": "https://t.co/p33ydVhKE1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058050805404405956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058006528922361983",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "可以 我就没写过 https://t.co/p33ydVhKE1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2058050805404405956",
+        "created_at": "2026-05-23T05:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T06:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058050805404405956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cannedcha/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/cannedcha/status/2058006528922361983",
+              "start": 9,
+              "url": "https://t.co/p33ydVhKE1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058050805404405956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058006528922361983",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "可以 我就没写过 https://t.co/p33ydVhKE1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1291003986921680897",
+        "conversation_id": "2058006528922361983",
+        "created_at": "2026-05-23T02:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058006528922361983"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058006528922361983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 462,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "论文可以不写致谢吗？😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057203465730801664/2vAIcjtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3829,
+          "following_count": 848,
+          "like_count": 3660,
+          "listed_count": 9,
+          "media_count": 60,
+          "tweet_count": 1611
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-05T13:32:27.000Z",
+        "description": "什么都不是",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cannedcha.net",
+                "end": 23,
+                "expanded_url": "https://blog.cannedcha.net",
+                "start": 0,
+                "url": "https://t.co/6U4c15znjM"
+              }
+            ]
+          }
+        },
+        "id": "1291003986921680897",
+        "location": "/usr/bin",
+        "name": "小罐猹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848402946683478016/R2VVIE2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 645,
+          "like_count": 24130,
+          "listed_count": 3,
+          "media_count": 177,
+          "tweet_count": 2864
+        },
+        "url": "https://t.co/6U4c15znjM",
+        "username": "CannedCha",
+        "verified": false
+      }
+    ]
+  }
+}

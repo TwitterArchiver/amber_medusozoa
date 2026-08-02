@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2060948060692193405",
+    "created_at": "2026-05-31T04:54:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T05:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060948060692193405"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/neko_ruyue/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/neko_ruyue/status/2060574201074090081",
+          "start": 6,
+          "url": "https://t.co/6U1Vn9I3dz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060948060692193405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060574201074090081",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的单子呢 https://t.co/6U1Vn9I3dz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2060948060692193405",
+        "created_at": "2026-05-31T04:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T05:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060948060692193405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/neko_ruyue/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/neko_ruyue/status/2060574201074090081",
+              "start": 6,
+              "url": "https://t.co/6U1Vn9I3dz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060948060692193405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060574201074090081",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的单子呢 https://t.co/6U1Vn9I3dz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1015788561088630791",
+        "conversation_id": "2060353329335800320",
+        "created_at": "2026-05-30T04:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060574201074090081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060574201074090081",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6163,
+          "like_count": 37,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060353329335800320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 你看潘绥铭的论文 适龄男青年10个里面嫖娼过的有4个（保守估计）\n不知道家暴和赌怎么算 反正应该有一半了\n嫖娼这个东西就是有很多人干 可以对男的祛媚了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "💰https://t.co/ifiQvlVhub\n❤️@noaayoyaoaya ⚜️@irisdesombres \n🪼@amber_digit @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 72,
+                "start": 60,
+                "username": "amber_digit"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 24,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 1,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5456,
+          "following_count": 944,
+          "like_count": 4190,
+          "listed_count": 11,
+          "media_count": 114,
+          "tweet_count": 1963
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2018-07-08T02:44:00.000Z",
+        "description": "",
+        "id": "1015788561088630791",
+        "name": "小猫月月",
+        "pinned_tweet_id": "2028420666077384893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006421945345286144/XZYVb9aR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33177,
+          "following_count": 4087,
+          "like_count": 151918,
+          "listed_count": 80,
+          "media_count": 2727,
+          "tweet_count": 30751
+        },
+        "username": "neko_ruyue",
+        "verified": false
+      }
+    ]
+  }
+}

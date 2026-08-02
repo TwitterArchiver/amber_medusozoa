@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2047355393052135931",
+    "created_at": "2026-04-24T05:04:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047542150485676056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1117364044753772544",
+          "start": 0,
+          "username": "Greencitypop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047542150485676056",
+    "in_reply_to_user_id": "1117364044753772544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047538521418936786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Greencitypop 没事 猜出来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2047355393052135931",
+        "created_at": "2026-04-24T05:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047542150485676056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1117364044753772544",
+              "start": 0,
+              "username": "Greencitypop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047542150485676056",
+        "in_reply_to_user_id": "1117364044753772544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047538521418936786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Greencitypop 没事 猜出来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1117364044753772544",
+        "conversation_id": "2047355393052135931",
+        "created_at": "2026-04-24T04:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047538521418936786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047538521418936786",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047523355310366795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 刚搜了搜主页那条她已经删了，这条我待会儿也删了，我没有证据的前提下显得像在针对她或者造谣她。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/qBX9bbnFOS"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2487,
+          "following_count": 909,
+          "like_count": 3108,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 2130
+        },
+        "url": "https://t.co/qBX9bbnFOS",
+        "username": "amber_medusozoa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-14T09:48:42.000Z",
+        "description": "",
+        "id": "1117364044753772544",
+        "location": "kepler-442b",
+        "name": "🟢",
+        "pinned_tweet_id": "1991802253616042166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021271957971533830/IMrsWFC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5498,
+          "following_count": 325,
+          "like_count": 13731,
+          "listed_count": 20,
+          "media_count": 1918,
+          "tweet_count": 12484
+        },
+        "username": "Greencitypop",
+        "verified": false
+      }
+    ]
+  }
+}

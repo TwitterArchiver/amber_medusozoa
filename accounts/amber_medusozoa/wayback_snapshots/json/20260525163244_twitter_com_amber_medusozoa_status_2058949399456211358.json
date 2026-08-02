@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2058745798477631977",
+    "created_at": "2026-05-25T16:32:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T17:32:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058949399456211358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2029061443568713731",
+          "start": 0,
+          "username": "maoxianACT"
+        },
+        {
+          "end": 25,
+          "id": "1424779836938022913",
+          "start": 12,
+          "username": "amber_toffee"
+        },
+        {
+          "end": 38,
+          "id": "2040565175514779648",
+          "start": 26,
+          "username": "amber_digit"
+        },
+        {
+          "end": 52,
+          "id": "2041159531657416704",
+          "start": 39,
+          "username": "amber_digit2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058949399456211358",
+    "in_reply_to_user_id": "2029061443568713731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058807986622283985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoxianACT @amber_toffee @amber_digit @amber_digit2 别提了前段时间被追着封"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [amber_toffee].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "amber_toffee",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "amber_toffee"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2058745798477631977",
+        "created_at": "2026-05-25T16:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058949399456211358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029061443568713731",
+              "start": 0,
+              "username": "maoxianACT"
+            },
+            {
+              "end": 25,
+              "id": "1424779836938022913",
+              "start": 12,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 38,
+              "id": "2040565175514779648",
+              "start": 26,
+              "username": "amber_digit"
+            },
+            {
+              "end": 52,
+              "id": "2041159531657416704",
+              "start": 39,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058949399456211358",
+        "in_reply_to_user_id": "2029061443568713731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058807986622283985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoxianACT @amber_toffee @amber_digit @amber_digit2 别提了前段时间被追着封"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2058745798477631977",
+        "created_at": "2026-05-25T07:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T08:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058807986622283985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 30,
+              "id": "1424779836938022913",
+              "start": 17,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 43,
+              "id": "2040565175514779648",
+              "start": 31,
+              "username": "amber_digit"
+            },
+            {
+              "end": 57,
+              "id": "2041159531657416704",
+              "start": 44,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058807986622283985",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 272,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058745798477631977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa @amber_toffee @amber_digit @amber_digit2 你好多账号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya\n⚜️@irisdesombres\n✦ @amber_digit @amber_digit2\n➔ https://t.co/ifiQvlVhub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "amber_digit"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 87,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 64,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 Toronto",
+        "name": "amber",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4042,
+          "following_count": 863,
+          "like_count": 3761,
+          "listed_count": 11,
+          "media_count": 68,
+          "tweet_count": 1669
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 看心情互fo | 我很刻薄，觉得我恶心的就把我b了 | 记录自己的小故事 | 摄影© | 墙内外同名 | 姐姐@OuO_QwQg | 对象@Meph4786 | 閨蜜@tangeorange @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 116,
+                "start": 107,
+                "username": "Meph4786"
+              },
+              {
+                "end": 133,
+                "start": 121,
+                "username": "tangeorange"
+              },
+              {
+                "end": 143,
+                "start": 134,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km🏳️‍⚧️",
+        "name": "☆*:.｡.猫弦ACT.｡.:*☆🍥",
+        "pinned_tweet_id": "2058799558457790678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 49,
+          "like_count": 139,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 232
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T23:00:50.000Z",
+        "description": "📢 @amber_medusozoa\n☕️ https://t.co/8wrbgvmggP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/8wrbgvmggP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/8wrbgvmggP"
+              }
+            ]
+          }
+        },
+        "id": "2040565175514779648",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 Toronto",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "pinned_tweet_id": "2052291257251123405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052280202512719874/upe5_UUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 286,
+          "like_count": 301,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1146
+        },
+        "url": "https://t.co/8wrbgvmggP",
+        "username": "amber_digit",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "📢 @amber_medusozoa\n💕 https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 44,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 21,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🪼",
+        "pinned_tweet_id": "2058909194775146809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2460,
+          "following_count": 424,
+          "like_count": 727,
+          "listed_count": 5,
+          "media_count": 45,
+          "tweet_count": 747
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      }
+    ]
+  }
+}

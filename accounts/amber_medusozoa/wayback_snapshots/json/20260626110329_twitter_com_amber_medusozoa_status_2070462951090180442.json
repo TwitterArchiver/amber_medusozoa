@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070462948825292801",
+        "3_2070462948795916288"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2070460899123462441",
+    "created_at": "2026-06-26T11:03:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T12:03:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070462951090180442"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fz5PvXGevz",
+          "end": 117,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2070462951090180442/photo/1",
+          "media_key": "3_2070462948825292801",
+          "start": 94,
+          "url": "https://t.co/Fz5PvXGevz"
+        },
+        {
+          "display_url": "pic.x.com/Fz5PvXGevz",
+          "end": 117,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2070462951090180442/photo/1",
+          "media_key": "3_2070462948795916288",
+          "start": 94,
+          "url": "https://t.co/Fz5PvXGevz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070462951090180442",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070460899123462441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有就是像wanting（缺失）murder（一窝乌鸦）这样的一词多义，一般只会在文学作品里见到，大家可以在Merriam-Webster词典的小游戏部分测试一下自己对这些词汇的熟悉程度 https://t.co/Fz5PvXGevz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2070462948825292801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvDFQlW4AEGpQ7.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2070462948795916288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvDFQeWoAANsDA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070462948825292801",
+            "3_2070462948795916288"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2070460899123462441",
+        "created_at": "2026-06-26T11:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070462951090180442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fz5PvXGevz",
+              "end": 117,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2070462951090180442/photo/1",
+              "media_key": "3_2070462948825292801",
+              "start": 94,
+              "url": "https://t.co/Fz5PvXGevz"
+            },
+            {
+              "display_url": "pic.x.com/Fz5PvXGevz",
+              "end": 117,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2070462951090180442/photo/1",
+              "media_key": "3_2070462948795916288",
+              "start": 94,
+              "url": "https://t.co/Fz5PvXGevz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070462951090180442",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070460899123462441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有就是像wanting（缺失）murder（一窝乌鸦）这样的一词多义，一般只会在文学作品里见到，大家可以在Merriam-Webster词典的小游戏部分测试一下自己对这些词汇的熟悉程度 https://t.co/Fz5PvXGevz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2070460899123462441",
+        "created_at": "2026-06-26T10:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070460899123462441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ljsabc/status/…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/ljsabc/status/2070145352574156940",
+              "start": 116,
+              "url": "https://t.co/X4WPm40pSL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070460899123462441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070145352574156940",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以大量阅读文学类英文作品对于积累词汇量来说非常重要，我现在基本带学生上英语课就是做这种专项的精读练习，一节课下来可能读的不多但学了一堆乱七八糟的词汇，而这些词对于考雅思托福SAT来说是非常必要的，一旦能用在口语和写作里会非常加分 https://t.co/X4WPm40pSL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6028,
+          "following_count": 1035,
+          "like_count": 5352,
+          "listed_count": 10,
+          "media_count": 228,
+          "tweet_count": 2862
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

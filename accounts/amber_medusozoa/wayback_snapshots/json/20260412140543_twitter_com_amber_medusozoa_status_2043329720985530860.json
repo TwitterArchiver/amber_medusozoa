@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2043329720985530860",
+    "created_at": "2026-04-12T14:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T15:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043329720985530860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1832688819017277440",
+          "start": 3,
+          "username": "homeCollider"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043329720985530860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043280317520482577",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @homeCollider: 0. Serverless 的 X Agent 方案。 \n1. 现已开源，Commit 历史也是完整的。蒸馏、部署完全随你。我昨天在一层楼里表示了在整理计划开源了后来没有发推单独声明一下。这一点回复安全性质疑。 \n2. 费用参考。目前我的平台…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2043329720985530860",
+        "created_at": "2026-04-12T14:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T15:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043329720985530860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1832688819017277440",
+              "start": 3,
+              "username": "homeCollider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043329720985530860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043280317520482577",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @homeCollider: 0. Serverless 的 X Agent 方案。 \n1. 现已开源，Commit 历史也是完整的。蒸馏、部署完全随你。我昨天在一层楼里表示了在整理计划开源了后来没有发推单独声明一下。这一点回复安全性质疑。 \n2. 费用参考。目前我的平台…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832688819017277440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1750052293607669760",
+              "name": "DevPlatform JP"
+            }
+          }
+        ],
+        "conversation_id": "2043280317520482577",
+        "created_at": "2026-04-12T10:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043280317520482577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043280317520482577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/carolyn-sun/je…",
+                "end": 412,
+                "expanded_url": "https://github.com/carolyn-sun/jellyfish",
+                "start": 389,
+                "url": "https://t.co/M0dVmz0Zzk"
+              }
+            ]
+          },
+          "text": "0. Serverless 的 X Agent 方案。 \n1. 现已开源，Commit 历史也是完整的。蒸馏、部署完全随你。我昨天在一层楼里表示了在整理计划开源了后来没有发推单独声明一下。这一点回复安全性质疑。 \n2. 费用参考。目前我的平台上有 2 个 agent，每周 token 花费在 40 USD 左右（仅用于 X API），LLM 的费用比较随机。 \n3. 数据收集。关于收集 transfeminine-skills 的收集，之前称之为「泛 MtF」是我确实不知道有更准确的现成词语。 \n4. 根据 X 和 X API 的条款，我不能在收到同意之前蒸馏或者画像。所有的收集确实也收到了蒸馏对象本人的同意，你随时可以联系我撤销同意。但如果你是蒸馏对象的朋友，你不能替 ta 撤销同意。 \n5. 恶俗意味。我个人不太理解，所以如果感到恶俗，可以不使用，或者撤销同意。\nhttps://t.co/M0dVmz0Zzk"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 290,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "0. Serverless 的 X Agent 方案。 \n1. 现已开源，Commit 历史也是完整的。蒸馏、部署完全随你。我昨天在一层楼里表示了在整理计划开源了后来没有发推单独声明一下。这一点回复安全性质疑。 \n2. 费用参考。目前我的平台上有 2 个 agent，每周 token 花费在 40 USD 左右（仅用于 X API），LLM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2054,
+          "following_count": 722,
+          "like_count": 2034,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 1426
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-08T07:54:25.000Z",
+        "description": "🏳️‍⚧️ MtF | 架构师 | 讼棍 | Quantic MBA '26 | 水母饲养员 | 神经罕见病患者\n- 部署你的 X Agent 账号: https://t.co/oxPjs4Nzen\n- 如果哪天我不在了，请忘记我，这是我的愿望。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jellyfishai.org",
+                "end": 99,
+                "expanded_url": "http://jellyfishai.org",
+                "start": 76,
+                "url": "https://t.co/oxPjs4Nzen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/carolynsun",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/carolynsun",
+                "start": 0,
+                "url": "https://t.co/NGUZW7F9S9"
+              }
+            ]
+          }
+        },
+        "id": "1832688819017277440",
+        "name": "家用粒子对撞机",
+        "pinned_tweet_id": "2043280317520482577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039767465450983424/yYDG7LJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 279,
+          "like_count": 1474,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 737
+        },
+        "url": "https://t.co/NGUZW7F9S9",
+        "username": "homeCollider",
+        "verified": true
+      }
+    ]
+  }
+}

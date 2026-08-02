@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2043997565343928527",
+    "created_at": "2026-04-14T11:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T12:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044017986168623497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4078036220",
+          "start": 0,
+          "username": "kafka_watanabe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044017986168623497",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044017900768395714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kafka_watanabe 能不能私信发我或者圈出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2043997565343928527",
+        "created_at": "2026-04-14T11:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044017986168623497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4078036220",
+              "start": 0,
+              "username": "kafka_watanabe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044017986168623497",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044017900768395714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kafka_watanabe 能不能私信发我或者圈出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2043997565343928527",
+        "created_at": "2026-04-14T11:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044017900768395714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4078036220",
+              "start": 0,
+              "username": "kafka_watanabe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044017900768395714",
+        "in_reply_to_user_id": "4078036220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044017834515411052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kafka_watanabe ？哦草在哪里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2089,
+          "following_count": 736,
+          "like_count": 2142,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1543
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2015-10-31T09:02:29.000Z",
+        "description": "“𝚃𝚘 𝚕𝚒𝚟𝚎 𝚊𝚗𝚍 𝚏𝚎𝚎𝚕 𝚊𝚕𝚕 𝚝𝚑𝚎 𝚜𝚑𝚊𝚍𝚎𝚜, 𝚝𝚘𝚗𝚎𝚜 𝚊𝚗𝚍 𝚟𝚊𝚛𝚒𝚊𝚝𝚒𝚘𝚗𝚜...”\n\n可以叫我卡卡 | 努力拍出自己喜欢的照片 | 跟猫猫永远热恋中",
+        "id": "4078036220",
+        "location": "Edinburgh, Scotland",
+        "name": "ᴋᴀғᴋᴀᴇsǫᴜᴇ",
+        "pinned_tweet_id": "2011466202959446073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654873727224672256/1JHoxs1o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9474,
+          "following_count": 818,
+          "like_count": 10693,
+          "listed_count": 56,
+          "media_count": 235,
+          "tweet_count": 5482
+        },
+        "username": "kafka_watanabe",
+        "verified": false
+      }
+    ]
+  }
+}

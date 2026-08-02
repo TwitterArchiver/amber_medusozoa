@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2069318186827141165",
+    "created_at": "2026-06-24T07:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T08:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069691288933261512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103821331588571136",
+          "start": 0,
+          "username": "recatorseky"
+        },
+        {
+          "end": 26,
+          "id": "1431776320019517445",
+          "start": 13,
+          "username": "KiraRettosei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069691288933261512",
+    "in_reply_to_user_id": "1103821331588571136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069679261292630501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@recatorseky @KiraRettosei 哦天我超级喜欢苹果的办公软件，我觉得Pages Keynote比MS的好用无数倍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2069318186827141165",
+        "created_at": "2026-06-24T07:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T08:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069691288933261512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103821331588571136",
+              "start": 0,
+              "username": "recatorseky"
+            },
+            {
+              "end": 26,
+              "id": "1431776320019517445",
+              "start": 13,
+              "username": "KiraRettosei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069691288933261512",
+        "in_reply_to_user_id": "1103821331588571136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069679261292630501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@recatorseky @KiraRettosei 哦天我超级喜欢苹果的办公软件，我觉得Pages Keynote比MS的好用无数倍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1103821331588571136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2069318186827141165",
+        "created_at": "2026-06-24T07:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T08:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069679261292630501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1431776320019517445",
+              "start": 0,
+              "username": "KiraRettosei"
+            },
+            {
+              "end": 30,
+              "id": "2035882965671215104",
+              "start": 14,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069679261292630501",
+        "in_reply_to_user_id": "1431776320019517445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069630831468204039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiraRettosei @amber_medusozoa 屏幕色准管理相对windows来说会很容易，色域容积也很大，而且MAC有许多非常出色的音频处理和混音软件，对于直出的设置音质也很好，另外就是你说的高续航，对于文字工作者来说，特别是可能要天天往返大学跟宿舍的一般苦逼本科生来说就特别的方便。\n但美中不足的是我始终觉得苹果自带的办公软件就是一坨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5992,
+          "following_count": 1036,
+          "like_count": 5318,
+          "listed_count": 10,
+          "media_count": 216,
+          "tweet_count": 2821
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-08T00:54:48.000Z",
+        "description": "中文 Eng/奥克兰AKL/FF14/R6S/buhurt/cosplay/Gundam/ COC TRPG/\n恋人@AOHITOM1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 58,
+                "username": "AOHITOM1"
+              }
+            ]
+          }
+        },
+        "id": "1103821331588571136",
+        "location": "RE",
+        "name": "REC470R",
+        "pinned_tweet_id": "1984171567253967185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973030013831364608/nOg1CYWP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 120,
+          "like_count": 28972,
+          "listed_count": 0,
+          "media_count": 590,
+          "tweet_count": 3524
+        },
+        "url": "",
+        "username": "recatorseky",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T00:32:03.000Z",
+        "description": "为边界感不佳致歉的同时并不接受添油加醋的骂名。",
+        "id": "1431776320019517445",
+        "location": "🌏地球村！Haidian,Beijing",
+        "name": "🏳️‍⚧️🇺🇦 🎉神采奕奕的劣等生🧐『女高岁月～』",
+        "pinned_tweet_id": "2057502528749863317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710687931382501376/7zaBFCz8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1956,
+          "following_count": 2929,
+          "like_count": 41610,
+          "listed_count": 7,
+          "media_count": 1005,
+          "tweet_count": 18706
+        },
+        "url": "",
+        "username": "KiraRettosei",
+        "verified": false
+      }
+    ]
+  }
+}

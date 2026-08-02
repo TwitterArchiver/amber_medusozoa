@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2036828738009117003",
+    "created_at": "2026-03-25T15:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T16:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036828738009117003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1649366440808681474",
+          "start": 3,
+          "username": "is_llll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036828738009117003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036756918384103497",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @is_llll: 我在这方面是持加速主义的，现有的文科专业越是被鄙视，越是能逼迫高校进行一定程度的改革。现在的文科教育完全就是浪费社会资源，不育人也不实用...所以，我反而觉得张雪峰炒作「文科无用论」对未来的文科生是干了一件大好事。中国文科需要被市场挤压着重生。而张雪峰…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2036828738009117003",
+        "created_at": "2026-03-25T15:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036828738009117003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1649366440808681474",
+              "start": 3,
+              "username": "is_llll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036828738009117003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036756918384103497",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @is_llll: 我在这方面是持加速主义的，现有的文科专业越是被鄙视，越是能逼迫高校进行一定程度的改革。现在的文科教育完全就是浪费社会资源，不育人也不实用...所以，我反而觉得张雪峰炒作「文科无用论」对未来的文科生是干了一件大好事。中国文科需要被市场挤压着重生。而张雪峰…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649366440808681474",
+        "conversation_id": "2036733496128127441",
+        "created_at": "2026-03-25T10:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T11:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036756918384103497"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036756918384103497",
+        "in_reply_to_user_id": "1649366440808681474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036733496128127441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在这方面是持加速主义的，现有的文科专业越是被鄙视，越是能逼迫高校进行一定程度的改革。现在的文科教育完全就是浪费社会资源，不育人也不实用...所以，我反而觉得张雪峰炒作「文科无用论」对未来的文科生是干了一件大好事。中国文科需要被市场挤压着重生。而张雪峰只是用真话打破了信息差。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 306,
+          "like_count": 282,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 187
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-21T10:56:22.000Z",
+        "description": "06｜ '26 🇺🇸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Vv_sA_MlSK03Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Vv_sA_MlSK03ZGU1",
+                "start": 0,
+                "url": "https://t.co/o22scQqc7S"
+              }
+            ]
+          }
+        },
+        "id": "1649366440808681474",
+        "location": "Shanghai",
+        "name": "LLLL🏳️‍🌈",
+        "pinned_tweet_id": "1937595042837021031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804666323064266752/D_saJw-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4305,
+          "following_count": 691,
+          "like_count": 49384,
+          "listed_count": 9,
+          "media_count": 576,
+          "tweet_count": 5061
+        },
+        "url": "https://t.co/o22scQqc7S",
+        "username": "is_llll",
+        "verified": false
+      }
+    ]
+  }
+}

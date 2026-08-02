@@ -1,0 +1,707 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10039020019",
+          "name": "マギ The kingdom of magic"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10041843402",
+          "name": "化物語"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10043651999",
+          "name": "12歳。～ちっちゃなムネのトキメキ～"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1114172178935582720",
+          "name": "Monogatari Series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1114172178935582720",
+          "name": "Monogatari Series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2067512810544705711",
+    "created_at": "2026-06-18T07:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T08:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067512810544705711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1007491708769013760",
+          "start": 3,
+          "username": "oricon_anime_"
+        }
+      ],
+      "urls": [
+        {
+          "description": "ニュース｜　漫画『性別「モナリザ」の君へ。』のテレビアニメ化が決定した。アニメーション制作はシャフトが手掛ける。あわせて、最新のティザービジュアルが公開された。　原作の『性別「モナリザ」の君へ。』は、累計部数100万部を突破している人気作。12歳頃から望む性別へと身体が変化し、14歳で男性か女性へと定まる世界を舞台に、18歳になっても唯一“無性”のままでいる主人公・ひなせが、自身の在り方や恋と向き合う姿を描いた青春群像劇となっている。　また、ドイツ・マンハイムで開催されるヨーロッパ最大級のアニメ・マンガ・ゲームコンベンション「AnimagiC」にて、『性別「モナリザ」の君へ。』のスペシャルパネルステージを開催。ステージには、本作のメインキャストおよび、作品の映像初披露となる「ティザーPV」を世界初解禁する。",
+          "display_url": "oricon.co.jp/news/2461825/f…",
+          "end": 81,
+          "expanded_url": "https://www.oricon.co.jp/news/2461825/full/?utm_source=Twitter&utm_medium=social&ref_cd=jstw003",
+          "start": 58,
+          "status": 200,
+          "title": "『性別「モナリザ」の君へ。』アニメ化決定　制作はシャフト",
+          "unwound_url": "https://www.oricon.co.jp/news/2461825/full/?utm_source=Twitter&utm_medium=social&ref_cd=jstw003",
+          "url": "https://t.co/bU5MWfs196"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067512810544705711",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4620
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067111810411729109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oricon_anime_: 『性別「モナリザ」の君へ。』アニメ化\n制作は「まどマギ」「化物語」のシャフト\nhttps://t.co/bU5MWfs196\n⠀\n作品の舞台は、12歳頃から望む性別へと身体が変化し14歳で男性か女性へと定まる世界。 18歳になっても唯一“無…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2067111772193255424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_bNGybcAAOzf0.jpg",
+        "width": 2897
+      },
+      {
+        "height": 2494,
+        "media_key": "3_2067111772222570497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_bNG5awAEpz4v.jpg",
+        "width": 2267
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10039020019",
+              "name": "マギ The kingdom of magic"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041843402",
+              "name": "化物語"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10043651999",
+              "name": "12歳。～ちっちゃなムネのトキメキ～"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2067512810544705711",
+        "created_at": "2026-06-18T07:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067512810544705711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1007491708769013760",
+              "start": 3,
+              "username": "oricon_anime_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ニュース｜　漫画『性別「モナリザ」の君へ。』のテレビアニメ化が決定した。アニメーション制作はシャフトが手掛ける。あわせて、最新のティザービジュアルが公開された。　原作の『性別「モナリザ」の君へ。』は、累計部数100万部を突破している人気作。12歳頃から望む性別へと身体が変化し、14歳で男性か女性へと定まる世界を舞台に、18歳になっても唯一“無性”のままでいる主人公・ひなせが、自身の在り方や恋と向き合う姿を描いた青春群像劇となっている。　また、ドイツ・マンハイムで開催されるヨーロッパ最大級のアニメ・マンガ・ゲームコンベンション「AnimagiC」にて、『性別「モナリザ」の君へ。』のスペシャルパネルステージを開催。ステージには、本作のメインキャストおよび、作品の映像初披露となる「ティザーPV」を世界初解禁する。",
+              "display_url": "oricon.co.jp/news/2461825/f…",
+              "end": 81,
+              "expanded_url": "https://www.oricon.co.jp/news/2461825/full/?utm_source=Twitter&utm_medium=social&ref_cd=jstw003",
+              "start": 58,
+              "status": 200,
+              "title": "『性別「モナリザ」の君へ。』アニメ化決定　制作はシャフト",
+              "unwound_url": "https://www.oricon.co.jp/news/2461825/full/?utm_source=Twitter&utm_medium=social&ref_cd=jstw003",
+              "url": "https://t.co/bU5MWfs196"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067512810544705711",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4620
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067111810411729109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oricon_anime_: 『性別「モナリザ」の君へ。』アニメ化\n制作は「まどマギ」「化物語」のシャフト\nhttps://t.co/bU5MWfs196\n⠀\n作品の舞台は、12歳頃から望む性別へと身体が変化し14歳で男性か女性へと定まる世界。 18歳になっても唯一“無…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067111772193255424",
+            "3_2067111772222570497"
+          ]
+        },
+        "author_id": "1007491708769013760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10039020019",
+              "name": "マギ The kingdom of magic"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041843402",
+              "name": "化物語"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10043651999",
+              "name": "12歳。～ちっちゃなムネのトキメキ～"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585783622123954176",
+              "name": "Coming of age"
+            }
+          }
+        ],
+        "conversation_id": "2067111810411729109",
+        "created_at": "2026-06-17T05:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T06:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067111810411729109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "ニュース｜　漫画『性別「モナリザ」の君へ。』のテレビアニメ化が決定した。アニメーション制作はシャフトが手掛ける。あわせて、最新のティザービジュアルが公開された。　原作の『性別「モナリザ」の君へ。』は、累計部数100万部を突破している人気作。12歳頃から望む性別へと身体が変化し、14歳で男性か女性へと定まる世界を舞台に、18歳になっても唯一“無性”のままでいる主人公・ひなせが、自身の在り方や恋と向き合う姿を描いた青春群像劇となっている。　また、ドイツ・マンハイムで開催されるヨーロッパ最大級のアニメ・マンガ・ゲームコンベンション「AnimagiC」にて、『性別「モナリザ」の君へ。』のスペシャルパネルステージを開催。ステージには、本作のメインキャストおよび、作品の映像初披露となる「ティザーPV」を世界初解禁する。",
+              "display_url": "oricon.co.jp/news/2461825/f…",
+              "end": 62,
+              "expanded_url": "https://www.oricon.co.jp/news/2461825/full/?utm_source=Twitter&utm_medium=social&ref_cd=jstw003",
+              "start": 39,
+              "status": 200,
+              "title": "『性別「モナリザ」の君へ。』アニメ化決定　制作はシャフト",
+              "unwound_url": "https://www.oricon.co.jp/news/2461825/full/?utm_source=Twitter&utm_medium=social&ref_cd=jstw003",
+              "url": "https://t.co/bU5MWfs196"
+            },
+            {
+              "display_url": "pic.x.com/ZD07RAXyYR",
+              "end": 181,
+              "expanded_url": "https://x.com/oricon_anime_/status/2067111810411729109/photo/1",
+              "media_key": "3_2067111772193255424",
+              "start": 158,
+              "url": "https://t.co/ZD07RAXyYR"
+            },
+            {
+              "display_url": "pic.x.com/ZD07RAXyYR",
+              "end": 181,
+              "expanded_url": "https://x.com/oricon_anime_/status/2067111810411729109/photo/1",
+              "media_key": "3_2067111772222570497",
+              "start": 158,
+              "url": "https://t.co/ZD07RAXyYR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067111810411729109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3302,
+          "impression_count": 1424749,
+          "like_count": 25171,
+          "quote_count": 1938,
+          "reply_count": 133,
+          "retweet_count": 4620
+        },
+        "reply_settings": "everyone",
+        "text": "『性別「モナリザ」の君へ。』アニメ化\n制作は「まどマギ」「化物語」のシャフト\nhttps://t.co/bU5MWfs196\n⠀\n作品の舞台は、12歳頃から望む性別へと身体が変化し14歳で男性か女性へと定まる世界。 18歳になっても唯一“無性”のままでいる主人公が、自身の在り方や恋と向き合う姿を描いた青春群像劇。 https://t.co/ZD07RAXyYR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5928,
+          "following_count": 1023,
+          "like_count": 5151,
+          "listed_count": 10,
+          "media_count": 191,
+          "tweet_count": 2651
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-15T05:15:16.000Z",
+        "description": "オリコンアニメです🙇『オリコンニュース』の中からアニメ、声優、漫画、イベント等のニュースを厳選して毎日お届け🤲🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "oricon.co.jp/category/anime/",
+                "end": 23,
+                "expanded_url": "https://www.oricon.co.jp/category/anime/",
+                "start": 0,
+                "url": "https://t.co/F3utrT499W"
+              }
+            ]
+          }
+        },
+        "id": "1007491708769013760",
+        "location": "東京都港区",
+        "name": "オリコンニュース【アニメ】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1537373227517112320/w_WZdZvN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468960,
+          "following_count": 1095,
+          "like_count": 2007,
+          "listed_count": 1523,
+          "media_count": 16284,
+          "tweet_count": 54768
+        },
+        "url": "https://t.co/F3utrT499W",
+        "username": "oricon_anime_",
+        "verified": true
+      }
+    ]
+  }
+}

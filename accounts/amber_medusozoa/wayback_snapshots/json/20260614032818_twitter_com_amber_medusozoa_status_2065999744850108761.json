@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2065999744850108761",
+    "created_at": "2026-06-14T03:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T04:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065999744850108761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1524644413120548864",
+          "start": 3,
+          "username": "WardVava"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065999744850108761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065843917770404053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WardVava: 你的世界里只有你，折磨你的也只有你。要么你继续痛苦，继续折磨你自己，要么你改变，你舒坦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2065999744850108761",
+        "created_at": "2026-06-14T03:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065999744850108761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1524644413120548864",
+              "start": 3,
+              "username": "WardVava"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065999744850108761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065843917770404053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WardVava: 你的世界里只有你，折磨你的也只有你。要么你继续痛苦，继续折磨你自己，要么你改变，你舒坦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1524644413120548864",
+        "conversation_id": "2065843917770404053",
+        "created_at": "2026-06-13T17:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065843917770404053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wardvava/statu…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/wardvava/status/2065842108666454491",
+              "start": 45,
+              "url": "https://t.co/4P4YGQyaxG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065843917770404053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 735,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065842108666454491",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你的世界里只有你，折磨你的也只有你。要么你继续痛苦，继续折磨你自己，要么你改变，你舒坦。 https://t.co/4P4YGQyaxG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5836,
+          "following_count": 1015,
+          "like_count": 4973,
+          "listed_count": 10,
+          "media_count": 172,
+          "tweet_count": 2443
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-12T06:55:52.000Z",
+        "description": "Radfem｜关注我自己｜看到解决方法去解决问题｜关注我能掌控的｜感谢遇到让我感到幸福快乐的一切事情｜随便搬运",
+        "id": "1524644413120548864",
+        "name": "巫游",
+        "pinned_tweet_id": "1929109619026383089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838300190966714368/q-QYWlCi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6652,
+          "following_count": 176,
+          "like_count": 8638,
+          "listed_count": 22,
+          "media_count": 28,
+          "tweet_count": 2269
+        },
+        "username": "WardVava",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2067510641863065752",
+    "created_at": "2026-06-18T14:19:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067613104570073408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "873489613934927872",
+          "start": 0,
+          "username": "taro_puree"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067613104570073408",
+    "in_reply_to_user_id": "873489613934927872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067592404300161392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taro_puree 爱丁堡本地时间"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2067592404300161392].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2067592404300161392",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2067592404300161392"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2067510641863065752",
+        "created_at": "2026-06-18T14:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067613104570073408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "873489613934927872",
+              "start": 0,
+              "username": "taro_puree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067613104570073408",
+        "in_reply_to_user_id": "873489613934927872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067592404300161392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taro_puree 爱丁堡本地时间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5931,
+          "following_count": 1020,
+          "like_count": 5159,
+          "listed_count": 10,
+          "media_count": 193,
+          "tweet_count": 2666
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-10T10:38:47.000Z",
+        "description": "(she/her) /本体是4i女/autoandrophilia/深柜潜在家暴党/专业自我扭转10余年成为精神跨男/梦想是早日经济和心理独立/社工专业濒临退学中/个人音乐工作室营业中🥺",
+        "id": "873489613934927872",
+        "name": "果泥泥",
+        "pinned_tweet_id": "1947368625045967299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787304549323288576/A8oJBe68_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1166,
+          "following_count": 299,
+          "like_count": 24720,
+          "listed_count": 1,
+          "media_count": 364,
+          "tweet_count": 3963
+        },
+        "url": "",
+        "username": "taro_puree",
+        "verified": false
+      }
+    ]
+  }
+}

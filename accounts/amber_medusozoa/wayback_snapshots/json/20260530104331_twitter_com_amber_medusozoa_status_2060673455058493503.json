@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060673451866656769",
+        "3_2060673451858223106"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2060673455058493503",
+    "created_at": "2026-05-30T10:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T11:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060673455058493503"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/a5pGHKzgRy",
+          "end": 40,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2060673455058493503/photo/1",
+          "media_key": "3_2060673451866656769",
+          "start": 17,
+          "url": "https://t.co/a5pGHKzgRy"
+        },
+        {
+          "display_url": "pic.x.com/a5pGHKzgRy",
+          "end": 40,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2060673455058493503/photo/1",
+          "media_key": "3_2060673451858223106",
+          "start": 17,
+          "url": "https://t.co/a5pGHKzgRy"
+        },
+        {
+          "display_url": "x.com/jane_s_eye/sta…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/jane_s_eye/status/2060620975356661775",
+          "start": 41,
+          "url": "https://t.co/caLn308vuM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060673455058493503",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060620975356661775",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "搞笑的地方在于这甚至是个普遍现象 https://t.co/a5pGHKzgRy https://t.co/caLn308vuM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2060673451866656769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJj7liiXEAEGFk6.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1464,
+        "media_key": "3_2060673451858223106",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJj7ligWYAIWnVM.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060673451866656769",
+            "3_2060673451858223106"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2060673455058493503",
+        "created_at": "2026-05-30T10:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060673455058493503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a5pGHKzgRy",
+              "end": 40,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2060673455058493503/photo/1",
+              "media_key": "3_2060673451866656769",
+              "start": 17,
+              "url": "https://t.co/a5pGHKzgRy"
+            },
+            {
+              "display_url": "pic.x.com/a5pGHKzgRy",
+              "end": 40,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2060673455058493503/photo/1",
+              "media_key": "3_2060673451858223106",
+              "start": 17,
+              "url": "https://t.co/a5pGHKzgRy"
+            },
+            {
+              "display_url": "x.com/jane_s_eye/sta…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/jane_s_eye/status/2060620975356661775",
+              "start": 41,
+              "url": "https://t.co/caLn308vuM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060673455058493503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060620975356661775",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "搞笑的地方在于这甚至是个普遍现象 https://t.co/a5pGHKzgRy https://t.co/caLn308vuM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462419807173677059",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2060620975356661775",
+        "created_at": "2026-05-30T07:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060620975356661775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/activeblaster/…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/activeblaster/status/2060251628339642369",
+              "start": 42,
+              "url": "https://t.co/orlvT3Zw38"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060620975356661775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2663,
+          "like_count": 49,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060251628339642369",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2026年跨性別女性的简历：\n教育经历—\n*性别研究，博士*\n职业经历—\n*妓女* https://t.co/orlvT3Zw38"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "💰https://t.co/ifiQvlVhub\n❤️@noaayoyaoaya ⚜️@irisdesombres \n🪼@amber_digit @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 72,
+                "start": 60,
+                "username": "amber_digit"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 24,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 1,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5453,
+          "following_count": 939,
+          "like_count": 4157,
+          "listed_count": 11,
+          "media_count": 107,
+          "tweet_count": 1946
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-21T13:58:25.000Z",
+        "description": "Freedom just another word for nothing left to lose",
+        "id": "1462419807173677059",
+        "name": "Muriel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048460587198513152/NeLXQTKX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11107,
+          "following_count": 3140,
+          "like_count": 13044,
+          "listed_count": 19,
+          "media_count": 467,
+          "tweet_count": 8315
+        },
+        "username": "Jane_S_Eye",
+        "verified": false
+      }
+    ]
+  }
+}

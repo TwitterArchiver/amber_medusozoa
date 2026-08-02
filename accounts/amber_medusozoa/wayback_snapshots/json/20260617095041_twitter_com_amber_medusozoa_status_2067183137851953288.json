@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2067183137851953288",
+    "created_at": "2026-06-17T09:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067183137851953288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1622587760514158593",
+          "start": 3,
+          "username": "ForlikOOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067183137851953288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067096467068932151",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ForlikOOO: 就是这种脑残在抹黑跨女啊真的神了😂然后有的顺女还要反过来觉得是跨女有问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2067183137851953288",
+        "created_at": "2026-06-17T09:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067183137851953288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1622587760514158593",
+              "start": 3,
+              "username": "ForlikOOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067183137851953288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067096467068932151",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ForlikOOO: 就是这种脑残在抹黑跨女啊真的神了😂然后有的顺女还要反过来觉得是跨女有问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622587760514158593",
+        "conversation_id": "2067096467068932151",
+        "created_at": "2026-06-17T04:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067096467068932151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tut_1apple/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/tut_1apple/status/2066851165950951492",
+              "start": 37,
+              "url": "https://t.co/aB8MLDXBnx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067096467068932151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 876,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066851165950951492",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就是这种脑残在抹黑跨女啊真的神了😂然后有的顺女还要反过来觉得是跨女有问题 https://t.co/aB8MLDXBnx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5923,
+          "following_count": 1024,
+          "like_count": 5118,
+          "listed_count": 10,
+          "media_count": 189,
+          "tweet_count": 2586
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-06T13:27:34.000Z",
+        "description": "我是cyclo，中文/English/Deutsch，she/her，bi。有对象感情非常好。不厌男不厌女，厌脑残。incel/terf/pinky/反lfbtq都滚。互关可以来：@smolc123 提问箱：https://t.co/WNwv3YVZzj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 90,
+                "username": "smolc123"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/cyclo86441",
+                "end": 127,
+                "expanded_url": "https://ngl.link/cyclo86441",
+                "start": 104,
+                "url": "https://t.co/WNwv3YVZzj"
+              }
+            ]
+          }
+        },
+        "id": "1622587760514158593",
+        "location": "München, Bayern",
+        "name": "皱巴巴的肠粉最好吃了",
+        "pinned_tweet_id": "2057500065078595596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064747339034894336/BvxBM4bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2273,
+          "following_count": 276,
+          "like_count": 53628,
+          "listed_count": 2,
+          "media_count": 606,
+          "tweet_count": 11902
+        },
+        "url": "",
+        "username": "ForlikOOO",
+        "verified": false
+      }
+    ]
+  }
+}

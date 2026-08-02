@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Chicago",
+          "id": "1012378946615181312",
+          "name": "Chicago"
+        }
+      }
+    ],
+    "conversation_id": "2063920776466608152",
+    "created_at": "2026-06-08T09:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063920776466608152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_foodiex/statu…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/_foodiex/status/2063854533844107599",
+          "start": 33,
+          "url": "https://t.co/inNIe5nqvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063920776466608152",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063854533844107599",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "tavern is the true chicago slice https://t.co/inNIe5nqvo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 912,
+        "media_key": "3_2063854529121316864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRIwmxbcAAkSBP.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Chicago",
+              "id": "1012378946615181312",
+              "name": "Chicago"
+            }
+          }
+        ],
+        "conversation_id": "2063920776466608152",
+        "created_at": "2026-06-08T09:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063920776466608152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_foodiex/statu…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/_foodiex/status/2063854533844107599",
+              "start": 33,
+              "url": "https://t.co/inNIe5nqvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063920776466608152",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063854533844107599",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "tavern is the true chicago slice https://t.co/inNIe5nqvo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063854529121316864"
+          ]
+        },
+        "author_id": "1876173274654167040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063854533844107599",
+        "created_at": "2026-06-08T05:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063854533844107599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a9S1nyt45a",
+              "end": 23,
+              "expanded_url": "https://x.com/_FoodieX/status/2063854533844107599/photo/1",
+              "media_key": "3_2063854529121316864",
+              "start": 0,
+              "url": "https://t.co/a9S1nyt45a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063854533844107599",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 371,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/a9S1nyt45a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya ⚜️@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5602,
+          "following_count": 971,
+          "like_count": 4444,
+          "listed_count": 10,
+          "media_count": 134,
+          "tweet_count": 2105
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-06T07:46:16.000Z",
+        "description": "Welcome to my timeline ✨.",
+        "id": "1876173274654167040",
+        "name": "Food Lover",
+        "pinned_tweet_id": "2063197952081117367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040162653742694400/pvfg55_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9730,
+          "following_count": 3659,
+          "like_count": 8941,
+          "listed_count": 20,
+          "media_count": 2369,
+          "tweet_count": 2857
+        },
+        "username": "_FoodieX",
+        "verified": true
+      }
+    ]
+  }
+}

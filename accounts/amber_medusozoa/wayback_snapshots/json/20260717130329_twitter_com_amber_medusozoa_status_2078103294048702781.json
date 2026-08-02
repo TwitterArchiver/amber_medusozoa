@@ -1,0 +1,830 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Organic/Herbal Beauty",
+          "id": "918538684944625664",
+          "name": "Organic beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Organic/Herbal Makeup and Cosmetics",
+          "id": "920023164985360384",
+          "name": "Organic/herbal makeup and cosmetics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Behavior around beauty",
+          "id": "1006275796472815619",
+          "name": "Behavior around beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1400874108556955657",
+          "name": "Eye makeup"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Make-up and Cosmetics",
+          "id": "855442035314089988",
+          "name": "Makeup"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Organic/Herbal Makeup and Cosmetics",
+          "id": "920023164985360384",
+          "name": "Organic/herbal makeup and cosmetics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1400874108556955657",
+          "name": "Eye makeup"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "id": "1400874108556955657",
+          "name": "Eye makeup"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Make-up and Cosmetics",
+          "id": "855442035314089988",
+          "name": "Makeup"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Fake lashes and extensions",
+          "id": "856592192277590017",
+          "name": "Fake lashes and extensions"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fake lashes and extensions",
+          "id": "856592192277590017",
+          "name": "Fake lashes and extensions"
+        }
+      }
+    ],
+    "conversation_id": "2078103294048702781",
+    "created_at": "2026-07-17T13:03:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T14:03:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078103294048702781"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ariafayeee/sta…",
+          "end": 92,
+          "expanded_url": "https://twitter.com/ariafayeee/status/2077811294808240373",
+          "start": 69,
+          "url": "https://t.co/3QZNJyZiQl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078103294048702781",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077811294808240373",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "what’s funnier is that they have no clue about what “the surgery” is https://t.co/3QZNJyZiQl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1546,
+        "media_key": "3_2077811290735603712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXeXDaXcAAQA0p.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Organic/Herbal Beauty",
+              "id": "918538684944625664",
+              "name": "Organic beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Organic/Herbal Makeup and Cosmetics",
+              "id": "920023164985360384",
+              "name": "Organic/herbal makeup and cosmetics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Behavior around beauty",
+              "id": "1006275796472815619",
+              "name": "Behavior around beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1400874108556955657",
+              "name": "Eye makeup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Make-up and Cosmetics",
+              "id": "855442035314089988",
+              "name": "Makeup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Organic/Herbal Makeup and Cosmetics",
+              "id": "920023164985360384",
+              "name": "Organic/herbal makeup and cosmetics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400874108556955657",
+              "name": "Eye makeup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "id": "1400874108556955657",
+              "name": "Eye makeup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Make-up and Cosmetics",
+              "id": "855442035314089988",
+              "name": "Makeup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Fake lashes and extensions",
+              "id": "856592192277590017",
+              "name": "Fake lashes and extensions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fake lashes and extensions",
+              "id": "856592192277590017",
+              "name": "Fake lashes and extensions"
+            }
+          }
+        ],
+        "conversation_id": "2078103294048702781",
+        "created_at": "2026-07-17T13:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078103294048702781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ariafayeee/sta…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/ariafayeee/status/2077811294808240373",
+              "start": 69,
+              "url": "https://t.co/3QZNJyZiQl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078103294048702781",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077811294808240373",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "what’s funnier is that they have no clue about what “the surgery” is https://t.co/3QZNJyZiQl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077811290735603712"
+          ]
+        },
+        "author_id": "1835831776909893632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Organic/Herbal Beauty",
+              "id": "918538684944625664",
+              "name": "Organic beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Organic/Herbal Makeup and Cosmetics",
+              "id": "920023164985360384",
+              "name": "Organic/herbal makeup and cosmetics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Behavior around beauty",
+              "id": "1006275796472815619",
+              "name": "Behavior around beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1400874108556955657",
+              "name": "Eye makeup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Make-up and Cosmetics",
+              "id": "855442035314089988",
+              "name": "Makeup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Organic/Herbal Makeup and Cosmetics",
+              "id": "920023164985360384",
+              "name": "Organic/herbal makeup and cosmetics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400874108556955657",
+              "name": "Eye makeup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "id": "1400874108556955657",
+              "name": "Eye makeup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Make-up and Cosmetics",
+              "id": "855442035314089988",
+              "name": "Makeup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Fake lashes and extensions",
+              "id": "856592192277590017",
+              "name": "Fake lashes and extensions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fake lashes and extensions",
+              "id": "856592192277590017",
+              "name": "Fake lashes and extensions"
+            }
+          }
+        ],
+        "conversation_id": "2077811294808240373",
+        "created_at": "2026-07-16T17:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T18:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077811294808240373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vIXorEnFZs",
+              "end": 155,
+              "expanded_url": "https://x.com/Ariafayeee/status/2077811294808240373/photo/1",
+              "media_key": "3_2077811290735603712",
+              "start": 132,
+              "url": "https://t.co/vIXorEnFZs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077811294808240373",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 269,
+          "impression_count": 116085,
+          "like_count": 16334,
+          "quote_count": 7,
+          "reply_count": 94,
+          "retweet_count": 717
+        },
+        "reply_settings": "everyone",
+        "text": "I’m actually all natural!! no surgery’s or cosmetic work!! Also not wearing any makeup besides lash extensions in this!! Cope 🏳️‍⚧️ https://t.co/vIXorEnFZs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her #药娘\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0lo74G",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 15,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 59,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 36,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6636,
+          "following_count": 1125,
+          "like_count": 6502,
+          "listed_count": 12,
+          "media_count": 324,
+          "tweet_count": 3717
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-17T00:03:07.000Z",
+        "description": "22 | ♋︎ | Pokemon & MTG obsessed Fairy girl🧚🏻✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.me/thetransfairy",
+                "end": 23,
+                "expanded_url": "https://link.me/thetransfairy",
+                "start": 0,
+                "url": "https://t.co/CKk7ZTLMj5"
+              }
+            ]
+          }
+        },
+        "id": "1835831776909893632",
+        "location": "18+ Content ➔",
+        "name": "Aria Faye",
+        "pinned_tweet_id": "2074134675560223204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075252319361347584/dTmOQzEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24474,
+          "following_count": 153,
+          "like_count": 9703,
+          "listed_count": 67,
+          "media_count": 136,
+          "tweet_count": 458
+        },
+        "url": "https://t.co/CKk7ZTLMj5",
+        "username": "Ariafayeee",
+        "verified": true
+      }
+    ]
+  }
+}

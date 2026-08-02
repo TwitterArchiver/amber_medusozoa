@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2059282478398087515",
+    "created_at": "2026-05-26T14:36:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:36:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059282478398087515"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_medusozo…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/amber_medusozoa/status/2058745798477631977",
+          "start": 19,
+          "url": "https://t.co/r3DRVRaT8L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059282478398087515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058745798477631977",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再推一下（转发可参与抽奖300块钱！ https://t.co/r3DRVRaT8L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058745794337923072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIiZGpXYAAnZE-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058745794329468928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIiZGnWYAAPJAS.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2059282478398087515",
+        "created_at": "2026-05-26T14:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059282478398087515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2058745798477631977",
+              "start": 19,
+              "url": "https://t.co/r3DRVRaT8L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059282478398087515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058745798477631977",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再推一下（转发可参与抽奖300块钱！ https://t.co/r3DRVRaT8L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058745794337923072",
+            "3_2058745794329468928"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2058745798477631977",
+        "created_at": "2026-05-25T03:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058745798477631977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 54,
+              "id": "1424779836938022913",
+              "start": 41,
+              "username": "amber_toffee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OVPEIoj4sX",
+              "end": 179,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2058745798477631977/photo/1",
+              "media_key": "3_2058745794337923072",
+              "start": 156,
+              "url": "https://t.co/OVPEIoj4sX"
+            },
+            {
+              "display_url": "pic.x.com/OVPEIoj4sX",
+              "end": 179,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2058745798477631977/photo/1",
+              "media_key": "3_2058745794329468928",
+              "start": 156,
+              "url": "https://t.co/OVPEIoj4sX"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "3797791ff9c0e4c6"
+        },
+        "id": "2058745798477631977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 22631,
+          "like_count": 320,
+          "quote_count": 8,
+          "reply_count": 11,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我是amber/水母🪼，是🏳️‍⚧️跨女/TS，现居🇨🇦多伦多，之前的账号@amber_toffee已被永封无法找回，本账号为我的现任主账号（小号已tag）。希望大家帮我转发扩散此帖，助我寻回互fo亲友，感激不尽。\n\n为填补资金短缺，我提供付费🚪、性心理咨询和英语培训服务，欢迎有兴趣的朋友私聊联系我。 https://t.co/OVPEIoj4sX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya\n⚜️@irisdesombres\n✦ @amber_digit @amber_digit2\n➔ https://t.co/ifiQvlVhub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "amber_digit"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 87,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 64,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 Toronto",
+        "name": "amber",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4195,
+          "following_count": 880,
+          "like_count": 3847,
+          "listed_count": 14,
+          "media_count": 74,
+          "tweet_count": 1706
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

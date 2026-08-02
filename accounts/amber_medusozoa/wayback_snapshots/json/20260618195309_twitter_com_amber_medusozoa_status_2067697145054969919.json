@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2067697145054969919",
+    "created_at": "2026-06-18T19:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T20:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067697145054969919"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/happyxiaocom/s…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/happyxiaocom/status/2067600027892236433",
+          "start": 18,
+          "url": "https://t.co/g6fsvw4F3U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067697145054969919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067600027892236433",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太好了 终于可以不用Typora了 https://t.co/g6fsvw4F3U"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2067697145054969919",
+        "created_at": "2026-06-18T19:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T20:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067697145054969919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/happyxiaocom/s…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/happyxiaocom/status/2067600027892236433",
+              "start": 18,
+              "url": "https://t.co/g6fsvw4F3U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067697145054969919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067600027892236433",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太好了 终于可以不用Typora了 https://t.co/g6fsvw4F3U"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389723379716878339",
+        "conversation_id": "2067600027892236433",
+        "created_at": "2026-06-18T13:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067600027892236433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Lettera is a native, refined Markdown editor that works with single files or an entire folder as your workspace.",
+              "display_url": "lettera.md",
+              "end": 122,
+              "expanded_url": "https://lettera.md",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2067591367816073217/bwpG2_bM?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2067591367816073217/bwpG2_bM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 99,
+              "status": 200,
+              "title": "Lettera — Markdown editor for macOS",
+              "unwound_url": "https://lettera.md",
+              "url": "https://t.co/nqwPyZWwQf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067600027892236433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 3988,
+          "like_count": 19,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你能信，Bear（熊掌记）出了个 md 编辑器，依旧是 Mac 原生 app。看来是要和 Obsidian 抢抢市场了。的确 Obsidian 目前过于臃肿，也没有替代品，是时候改变这种垄断状态了。https://t.co/nqwPyZWwQf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5930,
+          "following_count": 1020,
+          "like_count": 5172,
+          "listed_count": 10,
+          "media_count": 193,
+          "tweet_count": 2669
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-04T23:28:29.000Z",
+        "description": "https://t.co/vf8dz5MC4y",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "happyxiao.com",
+                "end": 23,
+                "expanded_url": "http://happyxiao.com",
+                "start": 0,
+                "url": "https://t.co/vf8dz5MC4y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "happyxiao.com",
+                "end": 23,
+                "expanded_url": "http://happyxiao.com",
+                "start": 0,
+                "url": "https://t.co/vf8dz5MC4y"
+              }
+            ]
+          }
+        },
+        "id": "1389723379716878339",
+        "location": "上海",
+        "name": "happyxiao.com",
+        "pinned_tweet_id": "1782393741883711901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811942082069585920/AiS4VV1R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3564,
+          "following_count": 1,
+          "like_count": 277,
+          "listed_count": 44,
+          "media_count": 188,
+          "tweet_count": 469
+        },
+        "url": "https://t.co/vf8dz5MC4y",
+        "username": "happyxiaocom",
+        "verified": false
+      }
+    ]
+  }
+}

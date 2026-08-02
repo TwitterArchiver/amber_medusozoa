@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2040186777802072268",
+    "created_at": "2026-04-03T22:13:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T23:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040191015730942220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1631291375219089416",
+          "start": 0,
+          "username": "EricaTransF4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040191015730942220",
+    "in_reply_to_user_id": "1631291375219089416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040186777802072268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EricaTransF4 唉我也想穿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2040186777802072268",
+        "created_at": "2026-04-03T22:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T23:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040191015730942220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1631291375219089416",
+              "start": 0,
+              "username": "EricaTransF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040191015730942220",
+        "in_reply_to_user_id": "1631291375219089416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040186777802072268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EricaTransF4 唉我也想穿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1631291375219089416",
+        "conversation_id": "2040186777802072268",
+        "created_at": "2026-04-03T21:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T22:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040186777802072268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2040177949098356860",
+              "start": 40,
+              "url": "https://t.co/Nne6JdVs6R"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "3797791ff9c0e4c6"
+        },
+        "id": "2040186777802072268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040177949098356860",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不想当tradwife，但婚纱真的是从小开始就特别想能有机会穿一次（会有吗？🥲 https://t.co/Nne6JdVs6R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 525,
+          "like_count": 990,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 628
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-02T13:52:34.000Z",
+        "description": "This time choose to be a transparent girl.",
+        "id": "1631291375219089416",
+        "name": "{E_7}rica",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645492199541415937/pGstZJuT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 42,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 103
+        },
+        "username": "EricaTransF4",
+        "verified": false
+      }
+    ]
+  }
+}

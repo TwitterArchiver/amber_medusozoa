@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2044790433784414691",
+    "created_at": "2026-04-16T14:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T15:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044790433784414691"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoyue520131/…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/xiaoyue520131/status/2044786072010273132",
+          "start": 28,
+          "url": "https://t.co/nVOAh549Sg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044790433784414691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044786072010273132",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是都说小药娘都是计算机天才吗😭我怎么学习编程这么痛苦 https://t.co/nVOAh549Sg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2044790433784414691",
+        "created_at": "2026-04-16T14:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044790433784414691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoyue520131/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/xiaoyue520131/status/2044786072010273132",
+              "start": 28,
+              "url": "https://t.co/nVOAh549Sg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044790433784414691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044786072010273132",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是都说小药娘都是计算机天才吗😭我怎么学习编程这么痛苦 https://t.co/nVOAh549Sg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546716470293446661",
+        "conversation_id": "2044786072010273132",
+        "created_at": "2026-04-16T14:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044786072010273132"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044786072010273132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是都说小药娘都是计算机天才吗😭我怎么学习编程这么痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2304,
+          "following_count": 778,
+          "like_count": 2279,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1651
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-12T04:42:04.000Z",
+        "description": "🏳️‍⚧️/les/德国留学半死不活ing/",
+        "id": "1546716470293446661",
+        "name": "玥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852095928053698560/M9GiPRjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 804,
+          "like_count": 2665,
+          "listed_count": 4,
+          "media_count": 27,
+          "tweet_count": 998
+        },
+        "username": "xiaoyue520131",
+        "verified": false
+      }
+    ]
+  }
+}

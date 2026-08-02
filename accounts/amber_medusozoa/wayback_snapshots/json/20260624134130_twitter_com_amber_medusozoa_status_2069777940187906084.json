@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069777932231348224"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2069777940187906084",
+    "created_at": "2026-06-24T13:41:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T14:41:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069777940187906084"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TyUfgB6OCi",
+          "end": 32,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2069777940187906084/photo/1",
+          "media_key": "3_2069777932231348224",
+          "start": 9,
+          "url": "https://t.co/TyUfgB6OCi"
+        },
+        {
+          "display_url": "x.com/JanboMikan/sta…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/JanboMikan/status/2069737303509958939",
+          "start": 33,
+          "url": "https://t.co/HwQUPCo13P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069777940187906084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069737303509958939",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不如我的替尔伯泰 https://t.co/TyUfgB6OCi https://t.co/HwQUPCo13P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069777932231348224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlUEC6XkAALh0p.jpg",
+        "width": 1542
+      },
+      {
+        "height": 2044,
+        "media_key": "3_2069714605677715456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkad9HboAA_ZUa.jpg",
+        "width": 1697
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069777932231348224"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2069777940187906084",
+        "created_at": "2026-06-24T13:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T14:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069777940187906084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TyUfgB6OCi",
+              "end": 32,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2069777940187906084/photo/1",
+              "media_key": "3_2069777932231348224",
+              "start": 9,
+              "url": "https://t.co/TyUfgB6OCi"
+            },
+            {
+              "display_url": "x.com/JanboMikan/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/JanboMikan/status/2069737303509958939",
+              "start": 33,
+              "url": "https://t.co/HwQUPCo13P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069777940187906084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069737303509958939",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不如我的替尔伯泰 https://t.co/TyUfgB6OCi https://t.co/HwQUPCo13P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069714605677715456"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2069737303509958939",
+        "created_at": "2026-06-24T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069737303509958939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SnZe1BNCHB",
+              "end": 98,
+              "expanded_url": "https://x.com/JanboMikan/status/2069737303509958939/photo/1",
+              "media_key": "3_2069714605677715456",
+              "start": 75,
+              "url": "https://t.co/SnZe1BNCHB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069737303509958939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1693,
+          "like_count": 94,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "生活费见底，群友劝我把色谱龙停段时间，先吃顿饱饭。\n我说你们不懂经济学。\n吃了色谱龙，就会抑郁；抑郁了，就没有食欲。\n这是用化学手段降低恩格尔系数。 https://t.co/SnZe1BNCHB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5990,
+          "following_count": 1036,
+          "like_count": 5334,
+          "listed_count": 10,
+          "media_count": 217,
+          "tweet_count": 2825
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14490,
+          "following_count": 565,
+          "like_count": 19831,
+          "listed_count": 51,
+          "media_count": 330,
+          "tweet_count": 10474
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

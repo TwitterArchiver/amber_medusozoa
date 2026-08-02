@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1465735561230962690",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1664343480645066763",
+          "name": "Pride Month 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1465735561230962690",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1664343480645066763",
+          "name": "Pride Month 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "New York City Police Department",
+          "id": "854851734442721280",
+          "name": "New York City Police Department"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "New York City Police Department",
+          "id": "854851734442721280",
+          "name": "New York City Police Department"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Law Enforcement",
+          "id": "1095368797517533184",
+          "name": "Law Enforcement"
+        }
+      }
+    ],
+    "conversation_id": "2063959520091554279",
+    "created_at": "2026-06-08T12:21:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T13:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063959520091554279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1468058967712489472",
+          "start": 3,
+          "username": "anarchoboognish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063959520091554279",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063803616293470633",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anarchoboognish: Armed cops at pride is actually the real fucking slap in the face but whatever"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "New York City Police Department",
+              "id": "854851734442721280",
+              "name": "New York City Police Department"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "New York City Police Department",
+              "id": "854851734442721280",
+              "name": "New York City Police Department"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Law Enforcement",
+              "id": "1095368797517533184",
+              "name": "Law Enforcement"
+            }
+          }
+        ],
+        "conversation_id": "2063959520091554279",
+        "created_at": "2026-06-08T12:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063959520091554279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1468058967712489472",
+              "start": 3,
+              "username": "anarchoboognish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063959520091554279",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063803616293470633",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anarchoboognish: Armed cops at pride is actually the real fucking slap in the face but whatever"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468058967712489472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "New York City Police Department",
+              "id": "854851734442721280",
+              "name": "New York City Police Department"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "New York City Police Department",
+              "id": "854851734442721280",
+              "name": "New York City Police Department"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Law Enforcement",
+              "id": "1095368797517533184",
+              "name": "Law Enforcement"
+            }
+          }
+        ],
+        "conversation_id": "2063803616293470633",
+        "created_at": "2026-06-08T02:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063803616293470633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nypost/status/…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/nypost/status/2063767577998840086",
+              "start": 79,
+              "url": "https://t.co/tYtBTnk6qX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063803616293470633",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2465,
+          "like_count": 249,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063767577998840086",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Armed cops at pride is actually the real fucking slap in the face but whatever https://t.co/tYtBTnk6qX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya ⚜️@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5602,
+          "following_count": 972,
+          "like_count": 4468,
+          "listed_count": 10,
+          "media_count": 136,
+          "tweet_count": 2130
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-07T03:25:17.000Z",
+        "description": "transsexual in your phone",
+        "id": "1468058967712489472",
+        "name": "The Anarchist Turtle 🏴Ⓐ🔆🏳️‍⚧️",
+        "pinned_tweet_id": "2062993402740818370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840405452347359232/FAmaacck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17111,
+          "following_count": 435,
+          "like_count": 12118,
+          "listed_count": 132,
+          "media_count": 6141,
+          "tweet_count": 26261
+        },
+        "username": "anarchoboognish",
+        "verified": false
+      }
+    ]
+  }
+}

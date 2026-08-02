@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2057882044101722503",
+    "created_at": "2026-05-22T17:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T18:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057882044101722503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2289619658",
+          "start": 3,
+          "username": "youquzhiji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057882044101722503",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057880822418485467",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youquzhiji: 你看这不就圆上了，我们最高法禁止不合理歧视，那这个就是合理歧视嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2057882044101722503",
+        "created_at": "2026-05-22T17:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057882044101722503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2289619658",
+              "start": 3,
+              "username": "youquzhiji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057882044101722503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057880822418485467",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youquzhiji: 你看这不就圆上了，我们最高法禁止不合理歧视，那这个就是合理歧视嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2289619658",
+        "conversation_id": "2057880822418485467",
+        "created_at": "2026-05-22T17:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057880822418485467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/queerlawwatchc…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/queerlawwatchcn/status/2057870237526040699",
+              "start": 33,
+              "url": "https://t.co/HRlRiXzOSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057880822418485467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057870237526040699",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你看这不就圆上了，我们最高法禁止不合理歧视，那这个就是合理歧视嘛 https://t.co/HRlRiXzOSz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/XWFKRZnw6Y"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2057203502472946047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057203465730801664/2vAIcjtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3818,
+          "following_count": 845,
+          "like_count": 3634,
+          "listed_count": 10,
+          "media_count": 58,
+          "tweet_count": 1593
+        },
+        "url": "https://t.co/XWFKRZnw6Y",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2014-01-13T12:39:58.000Z",
+        "description": "在你的个人资料中添加简介",
+        "id": "2289619658",
+        "name": "无聊至极🏳️‍⚧️",
+        "pinned_tweet_id": "1637127694184853507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690381924466937857/gcIObNkH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 363,
+          "like_count": 26149,
+          "listed_count": 4,
+          "media_count": 493,
+          "tweet_count": 9621
+        },
+        "username": "youquzhiji",
+        "verified": false
+      }
+    ]
+  }
+}

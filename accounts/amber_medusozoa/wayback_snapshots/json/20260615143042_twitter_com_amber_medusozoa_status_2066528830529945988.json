@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation about global finance and economies.",
+          "id": "847511168268644352",
+          "name": "Global Economy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1239963613978226688",
+          "name": "Economic Issues in the United States"
+        }
+      }
+    ],
+    "conversation_id": "2066528830529945988",
+    "created_at": "2026-06-15T14:30:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T15:30:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066528830529945988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1226707681437569024",
+          "start": 3,
+          "username": "liuzhao_cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066528830529945988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066511579731095890",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liuzhao_cn: “儒家价值观”相当一部分是1970s后期美国新保守主义的发明（Herman Kahn、Thomas Metzger…），用以反驳第三世界主义（将结构性困境贬斥为文化不行）。华裔反共派所谓的美国儒学，则通过主动“自我东方化”内化和吸收了这套叙事发明…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1226,
+        "media_key": "3_2066511577193590784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK25VKLbMAAGLhs.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1239963613978226688",
+              "name": "Economic Issues in the United States"
+            }
+          }
+        ],
+        "conversation_id": "2066528830529945988",
+        "created_at": "2026-06-15T14:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066528830529945988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1226707681437569024",
+              "start": 3,
+              "username": "liuzhao_cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066528830529945988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066511579731095890",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liuzhao_cn: “儒家价值观”相当一部分是1970s后期美国新保守主义的发明（Herman Kahn、Thomas Metzger…），用以反驳第三世界主义（将结构性困境贬斥为文化不行）。华裔反共派所谓的美国儒学，则通过主动“自我东方化”内化和吸收了这套叙事发明…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066511577193590784"
+          ]
+        },
+        "author_id": "1226707681437569024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1239963613978226688",
+              "name": "Economic Issues in the United States"
+            }
+          }
+        ],
+        "conversation_id": "2066511579731095890",
+        "created_at": "2026-06-15T13:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066511579731095890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2SQi2dVs0v",
+              "end": 182,
+              "expanded_url": "https://x.com/liuzhao_cn/status/2066511579731095890/photo/1",
+              "media_key": "3_2066511577193590784",
+              "start": 159,
+              "url": "https://t.co/2SQi2dVs0v"
+            },
+            {
+              "display_url": "x.com/jacobin/status…",
+              "end": 206,
+              "expanded_url": "https://twitter.com/jacobin/status/2065977527550537797",
+              "start": 183,
+              "url": "https://t.co/V7wM6UhwMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066511579731095890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 501,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065977527550537797",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“儒家价值观”相当一部分是1970s后期美国新保守主义的发明（Herman Kahn、Thomas Metzger…），用以反驳第三世界主义（将结构性困境贬斥为文化不行）。华裔反共派所谓的美国儒学，则通过主动“自我东方化”内化和吸收了这套叙事发明。在这个过程中，“文化差异”只不过是抹杀全球资本主义实质运作逻辑的谎言 https://t.co/2SQi2dVs0v https://t.co/V7wM6UhwMj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5877,
+          "following_count": 1018,
+          "like_count": 5048,
+          "listed_count": 10,
+          "media_count": 180,
+          "tweet_count": 2488
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-10T03:21:37.000Z",
+        "description": "*有左翼世界观的普通人\n*反对美国主导、中国参与的全球资本主义秩序\n*支持平权主义、支持性向少数🏳️‍🌈与跨性别🏳️‍⚧️\n\n*英超联赛、LPL等竞技体育赛事观众\n*现代文化工业消费者（aka, ACGN）\n\n* 仅代表自己\n* 直接拉黑以下人: 毛泽东黑、TERF、男权、粉红、保守自由派\n* IP属地：中国东北",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/ZhuanZhao.cn/",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/ZhuanZhao.cn/",
+                "start": 0,
+                "url": "https://t.co/0tKH3oJHH5"
+              }
+            ]
+          }
+        },
+        "id": "1226707681437569024",
+        "location": "China within Capitalism 🇨🇳",
+        "name": "竱肇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064827766437244928/7QLx4j37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 256,
+          "like_count": 9882,
+          "listed_count": 4,
+          "media_count": 193,
+          "tweet_count": 1741
+        },
+        "url": "https://t.co/0tKH3oJHH5",
+        "username": "liuzhao_cn",
+        "verified": false
+      }
+    ]
+  }
+}

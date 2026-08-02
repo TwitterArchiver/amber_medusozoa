@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2040882713431798159",
+    "created_at": "2026-04-05T20:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T21:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040882713431798159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MGlimpze26770/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/MGlimpze26770/status/2040850497628934287",
+          "start": 3,
+          "url": "https://t.co/lwMcP87bkH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040882713431798159",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040850497628934287",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是的 https://t.co/lwMcP87bkH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2040882713431798159",
+        "created_at": "2026-04-05T20:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T21:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040882713431798159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MGlimpze26770/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/MGlimpze26770/status/2040850497628934287",
+              "start": 3,
+              "url": "https://t.co/lwMcP87bkH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040882713431798159",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040850497628934287",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的 https://t.co/lwMcP87bkH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664627530425352192",
+        "conversation_id": "2040766304744014043",
+        "created_at": "2026-04-05T17:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T18:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040850497628934287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040565175514779648",
+              "start": 0,
+              "username": "amber_digit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040850497628934287",
+        "in_reply_to_user_id": "2040565175514779648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040850157508743249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit amber101：amber一般只会听古典乐和交响乐，不会听这种嘈杂的hyperpop（amber大概率不会说“何以见得”“"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1843,
+          "following_count": 587,
+          "like_count": 1239,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 845
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-02T13:38:36.000Z",
+        "description": "some shades of grey with burgundy",
+        "id": "1664627530425352192",
+        "location": "yacht in Xi'an",
+        "name": "Mizty_Glimpze",
+        "pinned_tweet_id": "1823045493007810875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664634188371197954/SkghuZI6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 394,
+          "like_count": 8027,
+          "listed_count": 3,
+          "media_count": 765,
+          "tweet_count": 7218
+        },
+        "username": "MGlimpze26770",
+        "verified": false
+      }
+    ]
+  }
+}

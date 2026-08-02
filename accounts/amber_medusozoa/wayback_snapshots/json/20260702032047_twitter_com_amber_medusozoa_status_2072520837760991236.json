@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2072509254175768934",
+    "created_at": "2026-07-02T03:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T04:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072520837760991236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1158253773233328128",
+          "start": 0,
+          "username": "DeerThrowaway"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072520837760991236",
+    "in_reply_to_user_id": "1158253773233328128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072509254175768934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeerThrowaway 早该切割了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2072509254175768934",
+        "created_at": "2026-07-02T03:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072520837760991236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1158253773233328128",
+              "start": 0,
+              "username": "DeerThrowaway"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072520837760991236",
+        "in_reply_to_user_id": "1158253773233328128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072509254175768934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeerThrowaway 早该切割了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1158253773233328128",
+        "conversation_id": "2072509254175768934",
+        "created_at": "2026-07-02T02:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T03:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072509254175768934"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072509254175768934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 401,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "所以最新的英文discourse是因为自我认同为transgender但是选择不进行任何HRT或是其他医疗方式的人太多了所以寻求医疗的人重新用起了transsexual来描述自身经验…😯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya \n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6161,
+          "following_count": 1031,
+          "like_count": 5611,
+          "listed_count": 10,
+          "media_count": 251,
+          "tweet_count": 3088
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-05T05:49:53.000Z",
+        "description": "She/they/佢/🦌🦌🦌/Art History/Powered by Translate!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gazafunds.com",
+                "end": 23,
+                "expanded_url": "https://gazafunds.com",
+                "start": 0,
+                "url": "https://t.co/08qgvWCksr"
+              }
+            ]
+          }
+        },
+        "id": "1158253773233328128",
+        "location": "海防道與彌敦道交界路口",
+        "name": "ρ!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902218386127646722/-bsfIVFs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 584,
+          "like_count": 12762,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 2458
+        },
+        "url": "https://t.co/08qgvWCksr",
+        "username": "DeerThrowaway",
+        "verified": false
+      }
+    ]
+  }
+}

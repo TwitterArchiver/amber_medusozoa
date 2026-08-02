@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2058742663181197768",
+    "created_at": "2026-05-25T03:36:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T04:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058754124733096031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022253175345143809",
+          "start": 0,
+          "username": "irisdesombres"
+        },
+        {
+          "end": 30,
+          "id": "1489468526826082312",
+          "start": 15,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058754124733096031",
+    "in_reply_to_user_id": "2022253175345143809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058742890281439710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@irisdesombres @Diamond_Kokoro 哦不"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2058742890281439710].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2058742890281439710",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2058742890281439710"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2058742663181197768",
+        "created_at": "2026-05-25T03:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058754124733096031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022253175345143809",
+              "start": 0,
+              "username": "irisdesombres"
+            },
+            {
+              "end": 30,
+              "id": "1489468526826082312",
+              "start": 15,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058754124733096031",
+        "in_reply_to_user_id": "2022253175345143809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058742890281439710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@irisdesombres @Diamond_Kokoro 哦不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎\n🐍@noaayoyaoaya\n⚜️@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 20,
+                "username": "irisdesombres"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️she/her・🇨🇦 Toronto",
+        "name": "amber",
+        "pinned_tweet_id": "2058751760764694951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057203465730801664/2vAIcjtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3860,
+          "following_count": 854,
+          "like_count": 3741,
+          "listed_count": 8,
+          "media_count": 70,
+          "tweet_count": 1662
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-13T10:15:18.000Z",
+        "description": "世上本无真品一说，可有的人比所谓真品更真，仁慈而高贵的是你@Diamond_Kokoro\n我是什么相貌，命运变成一种与之对应的相貌，赫然出现在我面前@amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 29,
+                "username": "Diamond_Kokoro"
+              },
+              {
+                "end": 90,
+                "start": 74,
+                "username": "amber_medusozoa"
+              }
+            ]
+          }
+        },
+        "id": "2022253175345143809",
+        "location": "agender | 即使是经过反思的性别也不值得认同",
+        "name": "鴉尾鸢",
+        "pinned_tweet_id": "2034978855153234418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024275236531695616/xar82bpz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 141,
+          "like_count": 8320,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 5222
+        },
+        "username": "irisdesombres",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "🏳️‍🌈",
+        "id": "1489468526826082312",
+        "name": "小羽",
+        "pinned_tweet_id": "2058701239383445744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058537217807519744/yT4R0yPM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 134,
+          "like_count": 6937,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 4737
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

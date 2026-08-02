@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044902770793476096"
+      ],
+      "media_source_tweet_id": [
+        "2044902772777071056"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2045317817046569358",
+    "created_at": "2026-04-18T01:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T02:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045317817046569358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2020541120522891264",
+          "start": 3,
+          "username": "doggydogupdates"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nl0YYCylUO",
+          "end": 44,
+          "expanded_url": "https://x.com/doggydogupdates/status/2044902772777071056/photo/1",
+          "media_key": "3_2044902770793476096",
+          "start": 21,
+          "url": "https://t.co/nl0YYCylUO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045317817046569358",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044902772777071056",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doggydogupdates: https://t.co/nl0YYCylUO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 652,
+        "media_key": "3_2044902770793476096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGD0PFVbcAAc4dr.png",
+        "width": 976
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044902770793476096"
+          ],
+          "media_source_tweet_id": [
+            "2044902772777071056"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2045317817046569358",
+        "created_at": "2026-04-18T01:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T02:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045317817046569358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2020541120522891264",
+              "start": 3,
+              "username": "doggydogupdates"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nl0YYCylUO",
+              "end": 44,
+              "expanded_url": "https://x.com/doggydogupdates/status/2044902772777071056/photo/1",
+              "media_key": "3_2044902770793476096",
+              "start": 21,
+              "url": "https://t.co/nl0YYCylUO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045317817046569358",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044902772777071056",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doggydogupdates: https://t.co/nl0YYCylUO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044902770793476096"
+          ]
+        },
+        "author_id": "2020541120522891264",
+        "conversation_id": "2044902772777071056",
+        "created_at": "2026-04-16T22:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T23:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044902772777071056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nl0YYCylUO",
+              "end": 23,
+              "expanded_url": "https://x.com/doggydogupdates/status/2044902772777071056/photo/1",
+              "media_key": "3_2044902770793476096",
+              "start": 0,
+              "url": "https://t.co/nl0YYCylUO"
+            },
+            {
+              "display_url": "x.com/cardsnstuf1/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/cardsnstuf1/status/2044661881449976179",
+              "start": 24,
+              "url": "https://t.co/5NaeirbW4I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044902772777071056",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2136,
+          "like_count": 128,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044661881449976179",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/nl0YYCylUO https://t.co/5NaeirbW4I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/qBX9bbnFOS"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2366,
+          "following_count": 806,
+          "like_count": 2449,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 1739
+        },
+        "url": "https://t.co/qBX9bbnFOS",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-08T16:57:13.000Z",
+        "description": "сis- and afab-exclusionary transfeminist\n\nshe/her",
+        "id": "2020541120522891264",
+        "name": "doggydog (2nd edition)",
+        "pinned_tweet_id": "2043023833406243208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020571640434958336/_HfvLIAc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 287,
+          "like_count": 5354,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 3547
+        },
+        "username": "doggydogupdates",
+        "verified": false
+      }
+    ]
+  }
+}

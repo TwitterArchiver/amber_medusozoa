@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2076332799271772408",
+    "created_at": "2026-07-12T22:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T23:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076428455499997290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040798583440527360",
+          "start": 0,
+          "username": "longyvling"
+        },
+        {
+          "end": 22,
+          "id": "1608637128132685825",
+          "start": 12,
+          "username": "nyaepheia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076428455499997290",
+    "in_reply_to_user_id": "2040798583440527360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076332799271772408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@longyvling @nyaepheia 给个群号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2076332799271772408",
+        "created_at": "2026-07-12T22:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T23:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076428455499997290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040798583440527360",
+              "start": 0,
+              "username": "longyvling"
+            },
+            {
+              "end": 22,
+              "id": "1608637128132685825",
+              "start": 12,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076428455499997290",
+        "in_reply_to_user_id": "2040798583440527360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076332799271772408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longyvling @nyaepheia 给个群号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040798583440527360",
+        "conversation_id": "2076332799271772408",
+        "created_at": "2026-07-12T15:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076332799271772408"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076332799271772408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一群xyn在群里分盐要集体自杀\n怎么办😭😭😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n💖@amber_digit\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "amber_digit"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 70,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 47,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6482,
+          "following_count": 1064,
+          "like_count": 6064,
+          "listed_count": 11,
+          "media_count": 291,
+          "tweet_count": 3445
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-05T14:28:34.000Z",
+        "description": "MtF | ASD | 🎂2010.1.3 | Minecraft PVP | CPhO现役 | 重庆 | 红星熄了，你还在燃。燃什么呢？只剩灰吗？ | 死亡是青年的良药，药效是永葆青春的容颜",
+        "id": "2040798583440527360",
+        "location": "长夜孤灯",
+        "name": "龙雨绫🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040798876291215360/4qSE1Jh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 147,
+          "like_count": 1591,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 516
+        },
+        "url": "",
+        "username": "longyvling",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "https://t.co/7pvajR9Q0p \n/ɪˈfiːə/ she/they\n评论账号@epheiamoe\n存档https://t.co/l9TdYP6fRz\n\nhrt since26.4.1\n可访问此账号的委派者：@yxrchina @0502railgun1949 @lckmtfdesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "epheiamoe"
+              },
+              {
+                "end": 121,
+                "start": 112,
+                "username": "yxrchina"
+              },
+              {
+                "end": 138,
+                "start": 122,
+                "username": "0502railgun1949"
+              },
+              {
+                "end": 150,
+                "start": 139,
+                "username": "lckmtfdesu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 23,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/7pvajR9Q0p"
+              },
+              {
+                "display_url": "nyaepheia.pages.dev",
+                "end": 83,
+                "expanded_url": "http://nyaepheia.pages.dev",
+                "start": 60,
+                "url": "https://t.co/l9TdYP6fRz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyaepheia.pages.dev",
+                "end": 23,
+                "expanded_url": "https://nyaepheia.pages.dev/",
+                "start": 0,
+                "url": "https://t.co/PFVuXbAihV"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️(she/they)",
+        "pinned_tweet_id": "2062626527930654952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 945,
+          "like_count": 35401,
+          "listed_count": 3,
+          "media_count": 803,
+          "tweet_count": 6766
+        },
+        "url": "https://t.co/PFVuXbAihV",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

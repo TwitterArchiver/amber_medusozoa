@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2078294065817305168",
+    "created_at": "2026-07-18T01:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T02:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078294065817305168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2014214941872451584",
+          "start": 3,
+          "username": "DazzlingMellie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078294065817305168",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078268524762366222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DazzlingMellie: It makes me so sad that the very existence of my body is traumatizing to people 😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2078294065817305168",
+        "created_at": "2026-07-18T01:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T02:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078294065817305168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2014214941872451584",
+              "start": 3,
+              "username": "DazzlingMellie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078294065817305168",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078268524762366222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DazzlingMellie: It makes me so sad that the very existence of my body is traumatizing to people 😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014214941872451584",
+        "conversation_id": "2078268524762366222",
+        "created_at": "2026-07-18T00:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T01:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078268524762366222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078268524762366222",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 681,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "It makes me so sad that the very existence of my body is traumatizing to people 😔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her #药娘\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0lo74G",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 15,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 59,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 36,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6704,
+          "following_count": 1146,
+          "like_count": 6611,
+          "listed_count": 11,
+          "media_count": 325,
+          "tweet_count": 3770
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-22T05:54:15.000Z",
+        "description": "transfeminism enjoyer | Bi (lesbophobes DNI)  🪷💗",
+        "id": "2014214941872451584",
+        "name": "Melanie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077404943359565825/x2ObObf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 559,
+          "like_count": 64430,
+          "listed_count": 25,
+          "media_count": 224,
+          "tweet_count": 10771
+        },
+        "url": "",
+        "username": "DazzlingMellie",
+        "verified": false
+      }
+    ]
+  }
+}

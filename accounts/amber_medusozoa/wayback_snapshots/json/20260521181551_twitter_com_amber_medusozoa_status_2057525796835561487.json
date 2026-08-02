@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2057288087097499782",
+    "created_at": "2026-05-21T18:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T19:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057525796835561487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1755381692838068224",
+          "start": 0,
+          "username": "B_Koi_Inf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057525796835561487",
+    "in_reply_to_user_id": "1755381692838068224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057525571140178296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B_Koi_Inf 也许吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2057288087097499782",
+        "created_at": "2026-05-21T18:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057525796835561487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1755381692838068224",
+              "start": 0,
+              "username": "B_Koi_Inf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057525796835561487",
+        "in_reply_to_user_id": "1755381692838068224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057525571140178296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_Koi_Inf 也许吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755381692838068224",
+        "conversation_id": "2057288087097499782",
+        "created_at": "2026-05-21T18:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057525571140178296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057525571140178296",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057288087097499782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 感觉amber最近和朋友吵架了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2057203502472946047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057203465730801664/2vAIcjtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3782,
+          "following_count": 844,
+          "like_count": 3573,
+          "listed_count": 9,
+          "media_count": 53,
+          "tweet_count": 1547
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-08T00:03:12.000Z",
+        "description": "UTOT: Ugly Toronto Orient Troon (woman)... MDNI                                   I like blueberries/爱吃蓝莓 🫐\nhttps://t.co/zkhtKl8OM8 In my trying to be kind era",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boxd.it/gMR7Z",
+                "end": 131,
+                "expanded_url": "https://boxd.it/gMR7Z",
+                "start": 108,
+                "url": "https://t.co/zkhtKl8OM8"
+              }
+            ]
+          }
+        },
+        "id": "1755381692838068224",
+        "name": "Bookie",
+        "pinned_tweet_id": "2048968791166496810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041330384953016320/HDjIj3hh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 158,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1923
+        },
+        "username": "B_Koi_Inf",
+        "verified": false
+      }
+    ]
+  }
+}

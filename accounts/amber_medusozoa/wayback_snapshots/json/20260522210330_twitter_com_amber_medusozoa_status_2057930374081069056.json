@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2057930374081069056",
+    "created_at": "2026-05-22T21:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T22:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057930374081069056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/b_cat38324/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/b_cat38324/status/2057792626053812354",
+          "start": 11,
+          "url": "https://t.co/JUBU5aqYp6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057930374081069056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057792626053812354",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "也是为了让自己不孤单 https://t.co/JUBU5aqYp6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2057930374081069056",
+        "created_at": "2026-05-22T21:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T22:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057930374081069056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/b_cat38324/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/b_cat38324/status/2057792626053812354",
+              "start": 11,
+              "url": "https://t.co/JUBU5aqYp6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057930374081069056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057792626053812354",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也是为了让自己不孤单 https://t.co/JUBU5aqYp6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "2057792626053812354",
+        "created_at": "2026-05-22T11:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057792626053812354"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057792626053812354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4592,
+          "like_count": 88,
+          "quote_count": 3,
+          "reply_count": 17,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "“我戴跨旗就是因为希望让别人看到ta们并不孤单。”\n\n点进主页。\n\n第一条：自恨\n第二条：自恨\n第三条：自恨\n第四条：自恨\n第五条：自恨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/XWFKRZnw6Y"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2057203502472946047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057203465730801664/2vAIcjtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3823,
+          "following_count": 848,
+          "like_count": 3650,
+          "listed_count": 10,
+          "media_count": 60,
+          "tweet_count": 1604
+        },
+        "url": "https://t.co/XWFKRZnw6Y",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22897,
+          "following_count": 199,
+          "like_count": 716,
+          "listed_count": 73,
+          "media_count": 103,
+          "tweet_count": 23523
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

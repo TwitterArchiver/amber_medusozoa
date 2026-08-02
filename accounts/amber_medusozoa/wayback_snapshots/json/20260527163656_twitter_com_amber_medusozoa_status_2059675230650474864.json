@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2059675230650474864",
+    "created_at": "2026-05-27T16:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T17:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059675230650474864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "873489613934927872",
+          "start": 3,
+          "username": "taro_puree"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059675230650474864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059655368884830579",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taro_puree: 我熟悉的朋友已经收到了退款，两年前向美波里付款后没有发货的可以现在联系这个账号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2059675230650474864",
+        "created_at": "2026-05-27T16:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059675230650474864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "873489613934927872",
+              "start": 3,
+              "username": "taro_puree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059675230650474864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059655368884830579",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taro_puree: 我熟悉的朋友已经收到了退款，两年前向美波里付款后没有发货的可以现在联系这个账号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "873489613934927872",
+        "conversation_id": "2059655368884830579",
+        "created_at": "2026-05-27T15:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059655368884830579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/samesame_nokam…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/samesame_nokami/status/2059625073900937542",
+              "start": 40,
+              "url": "https://t.co/YGScl4h9q7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059655368884830579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 273,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059625073900937542",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我熟悉的朋友已经收到了退款，两年前向美波里付款后没有发货的可以现在联系这个账号 https://t.co/YGScl4h9q7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🥰 https://t.co/ifiQvlVhub\n❤️@noaayoyaoaya\n⚜️@irisdesombres\n📣 @amber_digit @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "amber_digit"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 25,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 2,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 Toronto",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4691,
+          "following_count": 896,
+          "like_count": 3985,
+          "listed_count": 11,
+          "media_count": 80,
+          "tweet_count": 1795
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-10T10:38:47.000Z",
+        "description": "(she/her) /本体是4i女/autoandrophilia/深柜潜在家暴党/专业自我扭转10余年成为精神跨男/梦想是早日经济和心理独立/社工专业濒临退学中/个人音乐工作室营业中🥺",
+        "id": "873489613934927872",
+        "name": "果泥泥",
+        "pinned_tweet_id": "1947368625045967299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787304549323288576/A8oJBe68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 297,
+          "like_count": 24249,
+          "listed_count": 1,
+          "media_count": 358,
+          "tweet_count": 3880
+        },
+        "username": "taro_puree",
+        "verified": false
+      }
+    ]
+  }
+}

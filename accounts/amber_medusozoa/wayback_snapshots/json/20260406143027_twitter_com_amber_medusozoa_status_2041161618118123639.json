@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2041161618118123639",
+    "created_at": "2026-04-06T14:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T15:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041161618118123639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1634940590",
+          "start": 3,
+          "username": "LilithLovett"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041161618118123639",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040931704937021548",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LilithLovett: I wish I had an unrealistic body type that supports the patriarchy."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2041161618118123639",
+        "created_at": "2026-04-06T14:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041161618118123639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1634940590",
+              "start": 3,
+              "username": "LilithLovett"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041161618118123639",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040931704937021548",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LilithLovett: I wish I had an unrealistic body type that supports the patriarchy."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634940590",
+        "conversation_id": "2040931704937021548",
+        "created_at": "2026-04-05T23:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T00:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040931704937021548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/veryultraviole…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/veryultraviolet/status/2040549925323264176",
+              "start": 68,
+              "url": "https://t.co/AofKA575aV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040931704937021548",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 23845,
+          "like_count": 1512,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040549925323264176",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I wish I had an unrealistic body type that supports the patriarchy. https://t.co/AofKA575aV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1899,
+          "following_count": 607,
+          "like_count": 1359,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 923
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2013-07-31T08:15:10.000Z",
+        "description": "| Streamer | Voice Actress (DM) | Header: @Omenomicon | Follow≠Endorsement | https://t.co/4fzWSUrnzh | AD: @TSLilithLovett",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "Omenomicon"
+              },
+              {
+                "end": 122,
+                "start": 107,
+                "username": "TSLilithLovett"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ko-fi.com/lilithlovett",
+                "end": 100,
+                "expanded_url": "http://ko-fi.com/lilithlovett",
+                "start": 77,
+                "url": "https://t.co/4fzWSUrnzh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/lilithlovett/",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/lilithlovett/",
+                "start": 0,
+                "url": "https://t.co/rU2vFVqjpE"
+              }
+            ]
+          }
+        },
+        "id": "1634940590",
+        "location": "'Murica",
+        "name": "☠️ Lilith Lovett ☠️ same @ on 💙☁️🦋",
+        "pinned_tweet_id": "1275118340881608705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958762531964821506/B-rYPaeF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80091,
+          "following_count": 2787,
+          "like_count": 405184,
+          "listed_count": 387,
+          "media_count": 2502,
+          "tweet_count": 24135
+        },
+        "url": "https://t.co/rU2vFVqjpE",
+        "username": "LilithLovett",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2037258563794485625",
+    "created_at": "2026-03-26T20:01:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T21:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037258563794485625"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/terfologian/st…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/terfologian/status/2037191430683164794",
+          "start": 28,
+          "url": "https://t.co/5TaKR55s6n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037258563794485625",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037191430683164794",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "it’s just sad at this point https://t.co/5TaKR55s6n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2037258563794485625",
+        "created_at": "2026-03-26T20:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T21:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037258563794485625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/terfologian/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/terfologian/status/2037191430683164794",
+              "start": 28,
+              "url": "https://t.co/5TaKR55s6n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037258563794485625",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037191430683164794",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "it’s just sad at this point https://t.co/5TaKR55s6n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965742013175009281",
+        "conversation_id": "2037152908899164655",
+        "created_at": "2026-03-26T15:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037191430683164794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1852344310907211776",
+              "start": 0,
+              "username": "GundamDoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037191430683164794",
+        "in_reply_to_user_id": "1852344310907211776",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 31442,
+          "like_count": 8,
+          "quote_count": 47,
+          "reply_count": 40,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037152908899164655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GundamDoll The difference is that your experience of your biology is that you feel good about things like breasts and a hormonal cycle when 99% of c1s women would ditch those aspects of our biology no questions asked, because 100% of us don't want to be women"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 355,
+          "like_count": 440,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 324
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-10T11:40:06.000Z",
+        "description": "Persephone, 21+, radfem. I run #radvent, an advent calendar of gender-critical fiction.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 31,
+                "tag": "radvent"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "radvent2025.straw.page",
+                "end": 23,
+                "expanded_url": "https://radvent2025.straw.page/",
+                "start": 0,
+                "url": "https://t.co/C9sw0obfCu"
+              }
+            ]
+          }
+        },
+        "id": "1965742013175009281",
+        "location": "London",
+        "name": "terfologian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977065367186100224/kQLVEYn2_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 391,
+          "like_count": 110,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 223
+        },
+        "url": "https://t.co/C9sw0obfCu",
+        "username": "terfologian",
+        "verified": false
+      }
+    ]
+  }
+}

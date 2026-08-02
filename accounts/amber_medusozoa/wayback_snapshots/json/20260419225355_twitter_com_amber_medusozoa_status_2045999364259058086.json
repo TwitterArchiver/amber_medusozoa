@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045999360224206848"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2045999364259058086",
+    "created_at": "2026-04-19T22:53:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T23:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045999364259058086"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2TF3qFdOHp",
+          "end": 66,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2045999364259058086/photo/1",
+          "media_key": "3_2045999360224206848",
+          "start": 43,
+          "url": "https://t.co/2TF3qFdOHp"
+        },
+        {
+          "display_url": "x.com/maximiniconi/s…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/maximiniconi/status/2045807457285427686",
+          "start": 67,
+          "url": "https://t.co/3yrERunC0S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045999364259058086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045807457285427686",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但每次看到这种批评还是心情复杂，因为确实很多老中家长会纯粹出于施虐欲把孩子的宠物吃了 https://t.co/2TF3qFdOHp https://t.co/3yrERunC0S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045999360224206848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGTZk_TXIAAGJ_e.jpg",
+        "width": 1020
+      },
+      {
+        "duration_ms": 13048,
+        "height": 648,
+        "media_key": "13_2045807384740630528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045807384740630528/img/XSM4Sc_BBSyb4UIP.jpg",
+        "public_metrics": {
+          "view_count": 27
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045807384740630528/vid/avc1/490x270/Fisppg9OBHC_Xc1I.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045807384740630528/vid/avc1/654x360/dDL0JKiKZpLN3oIA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045807384740630528/vid/avc1/1180x648/rOADGIbMW9IJ8qa2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045807384740630528/pl/g0oXCgu4sAJO0D5V.m3u8"
+          }
+        ],
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045999360224206848"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2045999364259058086",
+        "created_at": "2026-04-19T22:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T23:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045999364259058086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2TF3qFdOHp",
+              "end": 66,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2045999364259058086/photo/1",
+              "media_key": "3_2045999360224206848",
+              "start": 43,
+              "url": "https://t.co/2TF3qFdOHp"
+            },
+            {
+              "display_url": "x.com/maximiniconi/s…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/maximiniconi/status/2045807457285427686",
+              "start": 67,
+              "url": "https://t.co/3yrERunC0S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045999364259058086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045807457285427686",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但每次看到这种批评还是心情复杂，因为确实很多老中家长会纯粹出于施虐欲把孩子的宠物吃了 https://t.co/2TF3qFdOHp https://t.co/3yrERunC0S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045807384740630528"
+          ]
+        },
+        "author_id": "710317514673283072",
+        "conversation_id": "2045807457285427686",
+        "created_at": "2026-04-19T10:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T11:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045807457285427686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 133,
+              "id": "57350105",
+              "start": 129,
+              "username": "ZDF"
+            },
+            {
+              "end": 144,
+              "id": "2785317370",
+              "start": 134,
+              "username": "heuteshow"
+            },
+            {
+              "end": 154,
+              "id": "1101354170",
+              "start": 145,
+              "username": "ZDFheute"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/awBaBqTRLP",
+              "end": 178,
+              "expanded_url": "https://x.com/maximiNiconi/status/2045807457285427686/video/1",
+              "media_key": "13_2045807384740630528",
+              "start": 155,
+              "url": "https://t.co/awBaBqTRLP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045807457285427686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1879,
+          "like_count": 22,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在3月26号的德国二台美食节目中主持人指出亚洲人吃宠物，特别是中国。\n我觉得在2025年的当下，很多德国人越活越回去了，越来越依赖刻板印象、思维惯性和欧洲中心主义/大西洋主义来进行活动。更离谱的是在德国的亚洲人还要为这样的侮辱支付一年216欧以支持他们运转。@ZDF @heuteshow @ZDFheute https://t.co/awBaBqTRLP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/qBX9bbnFOS"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2409,
+          "following_count": 841,
+          "like_count": 2710,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 1894
+        },
+        "url": "https://t.co/qBX9bbnFOS",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-17T04:11:07.000Z",
+        "description": "Ph.D. student",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "niconi.xyz",
+                "end": 23,
+                "expanded_url": "http://niconi.xyz",
+                "start": 0,
+                "url": "https://t.co/STAHE9v0ho"
+              }
+            ]
+          }
+        },
+        "id": "710317514673283072",
+        "location": "Kitkat, Berlin",
+        "name": "Niconi",
+        "pinned_tweet_id": "1631875977654542339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1615747115690463238/0rDjOOD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6998,
+          "following_count": 1567,
+          "like_count": 22730,
+          "listed_count": 27,
+          "media_count": 1636,
+          "tweet_count": 12019
+        },
+        "url": "https://t.co/STAHE9v0ho",
+        "username": "maximiNiconi",
+        "verified": false
+      }
+    ]
+  }
+}

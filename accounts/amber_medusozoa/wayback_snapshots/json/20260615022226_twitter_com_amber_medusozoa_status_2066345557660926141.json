@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2066033741823352934",
+    "created_at": "2026-06-15T02:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T03:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066345557660926141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1393065220323647494",
+          "start": 0,
+          "username": "dangshuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066345557660926141",
+    "in_reply_to_user_id": "1393065220323647494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066033741823352934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dangshuang 上镜了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066033739650793472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwGvWnbgAAar7P.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066033739554332672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwGvWQboAA7VLg.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066033739659182080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwGvWpbgAAXjTy.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2066033741823352934",
+        "created_at": "2026-06-15T02:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066345557660926141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1393065220323647494",
+              "start": 0,
+              "username": "dangshuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066345557660926141",
+        "in_reply_to_user_id": "1393065220323647494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066033741823352934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dangshuang 上镜了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066033739650793472",
+            "3_2066033739554332672",
+            "3_2066033739659182080"
+          ]
+        },
+        "author_id": "1393065220323647494",
+        "conversation_id": "2066033741823352934",
+        "created_at": "2026-06-14T05:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066033741823352934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9hAHehf3cV",
+              "end": 54,
+              "expanded_url": "https://x.com/dangshuang/status/2066033741823352934/photo/1",
+              "media_key": "3_2066033739650793472",
+              "start": 31,
+              "url": "https://t.co/9hAHehf3cV"
+            },
+            {
+              "display_url": "pic.x.com/9hAHehf3cV",
+              "end": 54,
+              "expanded_url": "https://x.com/dangshuang/status/2066033741823352934/photo/1",
+              "media_key": "3_2066033739554332672",
+              "start": 31,
+              "url": "https://t.co/9hAHehf3cV"
+            },
+            {
+              "display_url": "pic.x.com/9hAHehf3cV",
+              "end": 54,
+              "expanded_url": "https://x.com/dangshuang/status/2066033741823352934/photo/1",
+              "media_key": "3_2066033739659182080",
+              "start": 31,
+              "url": "https://t.co/9hAHehf3cV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066033741823352934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1563,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷推刷到超级激进言论加屏蔽日常点主页查成分，看完置顶满意离开 https://t.co/9hAHehf3cV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5859,
+          "following_count": 1019,
+          "like_count": 4985,
+          "listed_count": 10,
+          "media_count": 175,
+          "tweet_count": 2453
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-14T04:46:55.000Z",
+        "description": "Life is so wonderful…/只精通4g63和2jz其他发动机别问我我不知道",
+        "id": "1393065220323647494",
+        "location": "Kuala Lumpur",
+        "name": "霜",
+        "pinned_tweet_id": "1864318595834237066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053918733442420736/VsXftETk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479,
+          "following_count": 590,
+          "like_count": 7180,
+          "listed_count": 5,
+          "media_count": 802,
+          "tweet_count": 6542
+        },
+        "username": "dangshuang",
+        "verified": true
+      }
+    ]
+  }
+}

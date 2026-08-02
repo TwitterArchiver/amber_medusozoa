@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2040389282892824576"
+      ],
+      "media_source_tweet_id": [
+        "2040389335829073969"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2040494822339780722",
+    "created_at": "2026-04-04T18:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T19:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040494822339780722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1961472973531131904",
+          "start": 3,
+          "username": "dumbfrenchrat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z0uzjGTzUO",
+          "end": 88,
+          "expanded_url": "https://x.com/dumbfrenchrat/status/2040389335829073969/video/1",
+          "media_key": "7_2040389282892824576",
+          "start": 65,
+          "url": "https://t.co/z0uzjGTzUO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040494822339780722",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2523
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040389335829073969",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dumbfrenchrat: happy rat day\nhere is my fav video of my rats https://t.co/z0uzjGTzUO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22778,
+        "height": 1920,
+        "media_key": "7_2040389282892824576",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2040389282892824576/pu/img/wksf_1CyPV3lF23L.jpg",
+        "public_metrics": {
+          "view_count": 251073
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040389282892824576/pu/vid/avc1/720x1280/5RzmDn5UK77Z0hPC.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040389282892824576/pu/vid/avc1/320x568/JJMwM42eNzPRIyWq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040389282892824576/pu/vid/avc1/480x852/dnCuf1Iv3Q6xCb8g.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040389282892824576/pu/vid/avc1/1080x1920/Ac77GDKMgOkeZFoZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2040389282892824576/pu/pl/OBrA7aFY99LHej1X.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2040389282892824576"
+          ],
+          "media_source_tweet_id": [
+            "2040389335829073969"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2040494822339780722",
+        "created_at": "2026-04-04T18:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T19:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040494822339780722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1961472973531131904",
+              "start": 3,
+              "username": "dumbfrenchrat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z0uzjGTzUO",
+              "end": 88,
+              "expanded_url": "https://x.com/dumbfrenchrat/status/2040389335829073969/video/1",
+              "media_key": "7_2040389282892824576",
+              "start": 65,
+              "url": "https://t.co/z0uzjGTzUO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040494822339780722",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2523
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040389335829073969",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dumbfrenchrat: happy rat day\nhere is my fav video of my rats https://t.co/z0uzjGTzUO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2040389282892824576"
+          ]
+        },
+        "author_id": "1961472973531131904",
+        "conversation_id": "2040389335829073969",
+        "created_at": "2026-04-04T11:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040389335829073969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z0uzjGTzUO",
+              "end": 69,
+              "expanded_url": "https://x.com/dumbfrenchrat/status/2040389335829073969/video/1",
+              "media_key": "7_2040389282892824576",
+              "start": 46,
+              "url": "https://t.co/z0uzjGTzUO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040389335829073969",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3024,
+          "impression_count": 587973,
+          "like_count": 24727,
+          "quote_count": 400,
+          "reply_count": 451,
+          "retweet_count": 2523
+        },
+        "reply_settings": "everyone",
+        "text": "happy rat day\nhere is my fav video of my rats https://t.co/z0uzjGTzUO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1731,
+          "following_count": 567,
+          "like_count": 1109,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 722
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-29T16:56:22.000Z",
+        "description": "Dumb ratgirl vtuber who loves cheese https://t.co/k37jq6yqXH | Fanart 🎨 #ririrart | Clips 🧀 #cheesyclips 🪤 https://t.co/lSjaWcSJ2C",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 81,
+                "start": 72,
+                "tag": "ririrart"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "tag": "cheesyclips"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/ririgaki",
+                "end": 60,
+                "expanded_url": "http://twitch.tv/ririgaki",
+                "start": 37,
+                "url": "https://t.co/k37jq6yqXH"
+              },
+              {
+                "display_url": "discord.gg/ririgaki",
+                "end": 130,
+                "expanded_url": "http://discord.gg/ririgaki",
+                "start": 107,
+                "url": "https://t.co/lSjaWcSJ2C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ririgaki.carrd.co",
+                "end": 23,
+                "expanded_url": "https://ririgaki.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/Q8bE2zTj6q"
+              }
+            ]
+          }
+        },
+        "id": "1961472973531131904",
+        "location": "eating your walls",
+        "name": "Riri Pipsqueak 🐀",
+        "pinned_tweet_id": "2037192070528442492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024194054813016064/__zo540N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44130,
+          "following_count": 702,
+          "like_count": 18341,
+          "listed_count": 39,
+          "media_count": 811,
+          "tweet_count": 4757
+        },
+        "url": "https://t.co/Q8bE2zTj6q",
+        "username": "dumbfrenchrat",
+        "verified": true
+      }
+    ]
+  }
+}

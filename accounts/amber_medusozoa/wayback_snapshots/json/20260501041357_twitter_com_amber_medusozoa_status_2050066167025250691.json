@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889518460016926720"
+      ],
+      "media_source_tweet_id": [
+        "1889518464286568552"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2050066167025250691",
+    "created_at": "2026-05-01T04:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T05:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050066167025250691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1847916796516716544",
+          "start": 3,
+          "username": "sakuraba_emma"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0gWak4RRDV",
+          "end": 42,
+          "expanded_url": "https://x.com/Paradise_091230/status/1889518464286568552/photo/1",
+          "media_key": "3_1889518460016926720",
+          "start": 19,
+          "url": "https://t.co/0gWak4RRDV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050066167025250691",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 177
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889518464286568552",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakuraba_emma: https://t.co/0gWak4RRDV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1748,
+        "media_key": "3_1889518460016926720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjjrBz3aIAAbcTy.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889518460016926720"
+          ],
+          "media_source_tweet_id": [
+            "1889518464286568552"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2050066167025250691",
+        "created_at": "2026-05-01T04:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050066167025250691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1847916796516716544",
+              "start": 3,
+              "username": "sakuraba_emma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0gWak4RRDV",
+              "end": 42,
+              "expanded_url": "https://x.com/Paradise_091230/status/1889518464286568552/photo/1",
+              "media_key": "3_1889518460016926720",
+              "start": 19,
+              "url": "https://t.co/0gWak4RRDV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050066167025250691",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 177
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889518464286568552",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakuraba_emma: https://t.co/0gWak4RRDV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889518460016926720"
+          ]
+        },
+        "author_id": "1847916796516716544",
+        "conversation_id": "1889518464286568552",
+        "created_at": "2025-02-12T03:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T04:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889518464286568552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0gWak4RRDV",
+              "end": 23,
+              "expanded_url": "https://x.com/Paradise_091230/status/1889518464286568552/photo/1",
+              "media_key": "3_1889518460016926720",
+              "start": 0,
+              "url": "https://t.co/0gWak4RRDV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889518464286568552",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 515422,
+          "like_count": 4349,
+          "quote_count": 16,
+          "reply_count": 62,
+          "retweet_count": 177
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0gWak4RRDV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "原主号 @amber_toffee\n🇨🇦 #多伦多 #药娘 #TS\n🚪 ¥150/240 ($30/50)\nnsfw only",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 21,
+                "tag": "多伦多"
+              },
+              {
+                "end": 29,
+                "start": 26,
+                "tag": "药娘"
+              },
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "TS"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "支持Zelle Venmo口令红包，其他付款方式请私信联系",
+        "name": "/",
+        "pinned_tweet_id": "2049698932184260853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049527897036328960/hshFuKwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2817,
+          "following_count": 799,
+          "like_count": 3240,
+          "listed_count": 6,
+          "media_count": 3,
+          "tweet_count": 1255
+        },
+        "username": "amber_medusozoa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T08:24:53.000Z",
+        "description": "被忌讳厌恶之物",
+        "id": "1847916796516716544",
+        "location": "常世",
+        "name": "桜羽 エマ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020786932146671616/qTEgR4Q-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 280,
+          "like_count": 4812,
+          "listed_count": 0,
+          "media_count": 457,
+          "tweet_count": 2410
+        },
+        "username": "sakuraba_emma",
+        "verified": false
+      }
+    ]
+  }
+}

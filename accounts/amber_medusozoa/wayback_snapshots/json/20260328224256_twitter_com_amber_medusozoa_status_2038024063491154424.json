@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2038024063491154424",
+    "created_at": "2026-03-28T22:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T23:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038024063491154424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1178773799287885825",
+          "start": 3,
+          "username": "NewsWire_US"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038024063491154424",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 201
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037999569263333761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NewsWire_US: Bill to track transgender Tennesseans passes state House"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2038024063491154424",
+        "created_at": "2026-03-28T22:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T23:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038024063491154424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1178773799287885825",
+              "start": 3,
+              "username": "NewsWire_US"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038024063491154424",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 201
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037999569263333761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NewsWire_US: Bill to track transgender Tennesseans passes state House"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1178773799287885825",
+        "conversation_id": "2037999569263333761",
+        "created_at": "2026-03-28T21:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T22:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037999569263333761"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037999569263333761",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 290,
+          "impression_count": 174527,
+          "like_count": 1425,
+          "quote_count": 316,
+          "reply_count": 156,
+          "retweet_count": 201
+        },
+        "reply_settings": "everyone",
+        "text": "Bill to track transgender Tennesseans passes state House"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 396,
+          "like_count": 616,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 431
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-30T20:49:40.000Z",
+        "description": "U.S. and world news aggregator.  Turn on notifications. Powered by @Polymarket. Bet on politics, elections and more: https://t.co/1n3rw5OCCU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 67,
+                "username": "Polymarket"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "newswireus.com",
+                "end": 140,
+                "expanded_url": "http://newswireus.com",
+                "start": 117,
+                "url": "https://t.co/1n3rw5OCCU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "newswireus.com",
+                "end": 23,
+                "expanded_url": "http://newswireus.com",
+                "start": 0,
+                "url": "https://t.co/1n3rw5OCCU"
+              }
+            ]
+          }
+        },
+        "id": "1178773799287885825",
+        "location": "Washington, D.C.",
+        "name": "NewsWire",
+        "pinned_tweet_id": "2037978557247373515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820825737982517248/yDHyolRX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145789,
+          "following_count": 206,
+          "like_count": 1420,
+          "listed_count": 1442,
+          "media_count": 2495,
+          "tweet_count": 21926
+        },
+        "url": "https://t.co/1n3rw5OCCU",
+        "username": "NewsWire_US",
+        "verified": true
+      }
+    ]
+  }
+}

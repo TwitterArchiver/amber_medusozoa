@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2045315934768734618",
+    "created_at": "2026-04-18T03:10:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T04:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045339058155532371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1169796366869991425",
+          "start": 0,
+          "username": "15O1473"
+        },
+        {
+          "end": 22,
+          "id": "1424779836938022913",
+          "start": 9,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045339058155532371",
+    "in_reply_to_user_id": "1169796366869991425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045338808632381479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@15O1473 @amber_toffee 因为现在我确实成功捍卫了自己高于llm的地位 那当姐姐的就可以让着点妹妹（什么）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2045315934768734618",
+        "created_at": "2026-04-18T03:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T04:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045339058155532371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1169796366869991425",
+              "start": 0,
+              "username": "15O1473"
+            },
+            {
+              "end": 22,
+              "id": "1424779836938022913",
+              "start": 9,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045339058155532371",
+        "in_reply_to_user_id": "1169796366869991425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045338808632381479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@15O1473 @amber_toffee 因为现在我确实成功捍卫了自己高于llm的地位 那当姐姐的就可以让着点妹妹（什么）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1169796366869991425",
+        "conversation_id": "2045315934768734618",
+        "created_at": "2026-04-18T03:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T04:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045338808632381479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/noaayoyaoaya/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/noaayoyaoaya/status/1918793615557509518",
+              "start": 24,
+              "url": "https://t.co/3siWEv5v54"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045338808632381479",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918793615557509518",
+            "type": "quoted"
+          },
+          {
+            "id": "2045315934768734618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 和大模型进行人竟（ https://t.co/3siWEv5v54"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/qBX9bbnFOS"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2366,
+          "following_count": 809,
+          "like_count": 2471,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 1761
+        },
+        "url": "https://t.co/qBX9bbnFOS",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-06T02:16:44.000Z",
+        "description": "呟き垢丨Trans! (they or She)丨GNHT R5.3.13丨ADHD丨Feminism丨Anarchism丨中文・日本語・English (poor) 丨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuyutuki.org",
+                "end": 23,
+                "expanded_url": "https://fuyutuki.org/",
+                "start": 0,
+                "url": "https://t.co/svuPnDSqd3"
+              }
+            ]
+          }
+        },
+        "id": "1169796366869991425",
+        "location": "MyDeadBody",
+        "name": "冬月 チヤ",
+        "pinned_tweet_id": "2039690956744851798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878750404177166336/ein0t76C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 1145,
+          "like_count": 67291,
+          "listed_count": 3,
+          "media_count": 575,
+          "tweet_count": 8477
+        },
+        "url": "https://t.co/svuPnDSqd3",
+        "username": "15O1473",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "☭ 🏳️‍⚧️ ⚢ / ᴢʜ, ᴇɴ / ❤︎ @noaayoyaoaya / ✦ @amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2040939467280674867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25710,
+          "following_count": 2761,
+          "like_count": 41086,
+          "listed_count": 13,
+          "media_count": 623,
+          "tweet_count": 21885
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051810263242797059",
+        "3_2051810263209222158"
+      ],
+      "media_source_tweet_id": [
+        "2051810270318580073",
+        "2051810270318580073"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Dance",
+          "id": "847870201580232704",
+          "name": "Dance"
+        }
+      }
+    ],
+    "conversation_id": "2058955411307266067",
+    "created_at": "2026-05-25T16:56:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T17:56:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058955411307266067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1717156772866142208",
+          "start": 3,
+          "username": "glirttery"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1BFAEJcgkz",
+          "end": 77,
+          "expanded_url": "https://x.com/glirttery/status/2051810270318580073/photo/1",
+          "media_key": "3_2051810263242797059",
+          "start": 54,
+          "url": "https://t.co/1BFAEJcgkz"
+        },
+        {
+          "display_url": "pic.x.com/1BFAEJcgkz",
+          "end": 77,
+          "expanded_url": "https://x.com/glirttery/status/2051810270318580073/photo/1",
+          "media_key": "3_2051810263209222158",
+          "start": 54,
+          "url": "https://t.co/1BFAEJcgkz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058955411307266067",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1302
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051810270318580073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @glirttery: maison margiela’s ballet shoe mini bag https://t.co/1BFAEJcgkz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 789,
+        "media_key": "3_2051810263242797059",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHl-kD8WcAMXZYF.jpg",
+        "width": 696
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2051810263209222158",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHl-kD0WIA4ID_y.jpg",
+        "width": 1018
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051810263242797059",
+            "3_2051810263209222158"
+          ],
+          "media_source_tweet_id": [
+            "2051810270318580073",
+            "2051810270318580073"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dance",
+              "id": "847870201580232704",
+              "name": "Dance"
+            }
+          }
+        ],
+        "conversation_id": "2058955411307266067",
+        "created_at": "2026-05-25T16:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058955411307266067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1717156772866142208",
+              "start": 3,
+              "username": "glirttery"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1BFAEJcgkz",
+              "end": 77,
+              "expanded_url": "https://x.com/glirttery/status/2051810270318580073/photo/1",
+              "media_key": "3_2051810263242797059",
+              "start": 54,
+              "url": "https://t.co/1BFAEJcgkz"
+            },
+            {
+              "display_url": "pic.x.com/1BFAEJcgkz",
+              "end": 77,
+              "expanded_url": "https://x.com/glirttery/status/2051810270318580073/photo/1",
+              "media_key": "3_2051810263209222158",
+              "start": 54,
+              "url": "https://t.co/1BFAEJcgkz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058955411307266067",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1302
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051810270318580073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @glirttery: maison margiela’s ballet shoe mini bag https://t.co/1BFAEJcgkz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051810263242797059",
+            "3_2051810263209222158"
+          ]
+        },
+        "author_id": "1717156772866142208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dance",
+              "id": "847870201580232704",
+              "name": "Dance"
+            }
+          }
+        ],
+        "conversation_id": "2051810270318580073",
+        "created_at": "2026-05-05T23:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T00:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051810270318580073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1BFAEJcgkz",
+              "end": 62,
+              "expanded_url": "https://x.com/glirttery/status/2051810270318580073/photo/1",
+              "media_key": "3_2051810263242797059",
+              "start": 39,
+              "url": "https://t.co/1BFAEJcgkz"
+            },
+            {
+              "display_url": "pic.x.com/1BFAEJcgkz",
+              "end": 62,
+              "expanded_url": "https://x.com/glirttery/status/2051810270318580073/photo/1",
+              "media_key": "3_2051810263209222158",
+              "start": 39,
+              "url": "https://t.co/1BFAEJcgkz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051810270318580073",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1039,
+          "impression_count": 382883,
+          "like_count": 13292,
+          "quote_count": 143,
+          "reply_count": 26,
+          "retweet_count": 1302
+        },
+        "reply_settings": "everyone",
+        "text": "maison margiela’s ballet shoe mini bag https://t.co/1BFAEJcgkz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya\n⚜️@irisdesombres\n✦ @amber_digit @amber_digit2\n➔ https://t.co/ifiQvlVhub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "amber_digit"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 87,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 64,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 Toronto",
+        "name": "amber",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4051,
+          "following_count": 866,
+          "like_count": 3770,
+          "listed_count": 11,
+          "media_count": 68,
+          "tweet_count": 1669
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-25T12:31:08.000Z",
+        "description": "𝓌𝒾𝓉𝒽 𝓁𝑜𝓋𝑒, 𝓂𝑒",
+        "id": "1717156772866142208",
+        "location": "cr to owners",
+        "name": "𝒶𝓃𝑔𝑒𝓁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048084522420555776/Vy6snD-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54439,
+          "following_count": 18,
+          "like_count": 5546,
+          "listed_count": 189,
+          "media_count": 2251,
+          "tweet_count": 2596
+        },
+        "username": "glirttery",
+        "verified": true
+      }
+    ]
+  }
+}

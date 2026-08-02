@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2071895965355950487",
+    "created_at": "2026-07-03T00:17:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T01:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072837216615764166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1836256614200020992",
+          "start": 0,
+          "username": "DimSumAgain"
+        },
+        {
+          "end": 26,
+          "id": "1781621357014286336",
+          "start": 13,
+          "username": "0rbital_obit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072837216615764166",
+    "in_reply_to_user_id": "1836256614200020992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071895965355950487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DimSumAgain @0rbital_obit ？草"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2071895958326042624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDaZY-XYAAqbip.jpg",
+        "width": 1866
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2071895965355950487",
+        "created_at": "2026-07-03T00:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T01:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072837216615764166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836256614200020992",
+              "start": 0,
+              "username": "DimSumAgain"
+            },
+            {
+              "end": 26,
+              "id": "1781621357014286336",
+              "start": 13,
+              "username": "0rbital_obit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072837216615764166",
+        "in_reply_to_user_id": "1836256614200020992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071895965355950487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DimSumAgain @0rbital_obit ？草"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071895958326042624"
+          ]
+        },
+        "author_id": "1836256614200020992",
+        "conversation_id": "2071895965355950487",
+        "created_at": "2026-06-30T09:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071895965355950487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oAqD6wBPXh",
+              "end": 30,
+              "expanded_url": "https://x.com/DimSumAgain/status/2071895965355950487/photo/1",
+              "media_key": "3_2071895958326042624",
+              "start": 7,
+              "url": "https://t.co/oAqD6wBPXh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071895965355950487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1212,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "打不过就后入 https://t.co/oAqD6wBPXh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya \n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6169,
+          "following_count": 1038,
+          "like_count": 5695,
+          "listed_count": 10,
+          "media_count": 254,
+          "tweet_count": 3166
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-18T04:12:07.000Z",
+        "description": "直男和男娘两种形态随机切换 | 西雅图旅游地陪 | 淫趴组织者，接北美投稿 | ENFJ-T | 业余私房棚拍摄影师，只管拍不管修 | 友跨顺男·大车将翻 | 性取向是直的，接受女生/伪娘/TS | 雷达关键字：丝袜",
+        "id": "1836256614200020992",
+        "location": "Seattle, WA",
+        "name": "點心DimSum",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009374805200404480/aib-p8ZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 1089,
+          "like_count": 8226,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 649
+        },
+        "url": "",
+        "username": "DimSumAgain",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 325,
+          "like_count": 1382,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1043
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      }
+    ]
+  }
+}

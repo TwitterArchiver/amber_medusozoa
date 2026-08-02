@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050583150288351232"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2050583153123754361",
+    "created_at": "2026-05-02T14:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T15:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050583153123754361"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6QTuPn4KVb",
+          "end": 36,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2050583153123754361/photo/1",
+          "media_key": "3_2050583150288351232",
+          "start": 13,
+          "url": "https://t.co/6QTuPn4KVb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050583153123754361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我发现好多人喜欢看体操服 https://t.co/6QTuPn4KVb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2050583153123754361].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2050583153123754361",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2050583153123754361"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050583150288351232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUigr9WsAAf2M9.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "原主号 @amber_toffee\n🇨🇦 #多伦多 #药娘 #TS\n🚪 ¥150/240 ($30/50)\nnsfw only",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 21,
+                "tag": "多伦多"
+              },
+              {
+                "end": 29,
+                "start": 26,
+                "tag": "药娘"
+              },
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "TS"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "支持Zelle Venmo口令红包，其他付款方式请私信联系",
+        "name": "/",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049527897036328960/hshFuKwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3235,
+          "following_count": 800,
+          "like_count": 3280,
+          "listed_count": 5,
+          "media_count": 14,
+          "tweet_count": 1298
+        },
+        "username": "amber_medusozoa",
+        "verified": false
+      }
+    ]
+  }
+}

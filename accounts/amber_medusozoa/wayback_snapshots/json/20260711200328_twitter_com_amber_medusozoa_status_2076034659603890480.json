@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2075988961462239307",
+    "created_at": "2026-07-11T20:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T21:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076034659603890480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "818567620509237248",
+          "start": 0,
+          "username": "nyuu03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076034659603890480",
+    "in_reply_to_user_id": "818567620509237248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076034590678843659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyuu03 谢谢…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2075988961462239307",
+        "created_at": "2026-07-11T20:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T21:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076034659603890480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "818567620509237248",
+              "start": 0,
+              "username": "nyuu03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076034659603890480",
+        "in_reply_to_user_id": "818567620509237248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076034590678843659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyuu03 谢谢…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "818567620509237248",
+        "conversation_id": "2075988961462239307",
+        "created_at": "2026-07-11T20:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T21:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076034590678843659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076034590678843659",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075988961462239307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa You don't have to prove anything to anyone, nobody has the right to comment on your life. I'm sorry you're going through these difficulties and I sympathize with you! Know that you will be in my prayers and that good things will come into your life."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2075988961462239307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6479,
+          "following_count": 1059,
+          "like_count": 5985,
+          "listed_count": 11,
+          "media_count": 289,
+          "tweet_count": 3381
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-09T21:18:23.000Z",
+        "description": "Feminist Marxist | Communist | Designer |🏳️‍🌈💜💙🇵🇸",
+        "id": "818567620509237248",
+        "location": "Brasil",
+        "name": "Lunamoon☭",
+        "pinned_tweet_id": "2044945424516079855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057505559495024641/fV2PSFUk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 688,
+          "like_count": 33758,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 18706
+        },
+        "url": "",
+        "username": "nyuu03",
+        "verified": false
+      }
+    ]
+  }
+}

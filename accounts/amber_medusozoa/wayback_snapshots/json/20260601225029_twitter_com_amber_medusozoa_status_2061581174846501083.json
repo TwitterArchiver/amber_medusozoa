@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2061568189239021935",
+    "created_at": "2026-06-01T22:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T23:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061581174846501083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3428345293",
+          "start": 0,
+          "username": "Human_Dregs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061581174846501083",
+    "in_reply_to_user_id": "3428345293",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061579738515206608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Human_Dregs 唉抱抱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3840,
+        "media_key": "3_2061579695406059520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJwzz2zWEAAaVyk.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2061568189239021935",
+        "created_at": "2026-06-01T22:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T23:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061581174846501083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3428345293",
+              "start": 0,
+              "username": "Human_Dregs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061581174846501083",
+        "in_reply_to_user_id": "3428345293",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061579738515206608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Human_Dregs 唉抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061579695406059520"
+          ]
+        },
+        "author_id": "3428345293",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          }
+        ],
+        "conversation_id": "2061568189239021935",
+        "created_at": "2026-06-01T22:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T23:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061579738515206608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/egHJBi88Pw",
+              "end": 70,
+              "expanded_url": "https://x.com/Human_Dregs/status/2061579738515206608/photo/1",
+              "media_key": "3_2061579695406059520",
+              "start": 47,
+              "url": "https://t.co/egHJBi88Pw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061579738515206608",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061568189239021935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 去年pride parade当天我穿着这身被店员叫了sir https://t.co/egHJBi88Pw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "☕️https://t.co/ifiQvlVhub\n❤️@noaayoyaoaya ⚜️@irisdesombres \n💖@amber_digit 🏳️‍⚧️@amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "amber_digit"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 25,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 2,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5484,
+          "following_count": 951,
+          "like_count": 4241,
+          "listed_count": 10,
+          "media_count": 114,
+          "tweet_count": 1989
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2015-09-02T18:00:23.000Z",
+        "description": "Toronto-🇨🇦 | MtF | HRT 5.23 2023 | 高P | 想变得更好看 | 喜欢猫🐈‍⬛ | @LightQuantumhah",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "LightQuantumhah"
+              }
+            ]
+          }
+        },
+        "id": "3428345293",
+        "location": "Toronto, Ontario",
+        "name": "人心沉淀物",
+        "pinned_tweet_id": "1934844514361069746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660189972438175744/rOdngCe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 995,
+          "like_count": 8067,
+          "listed_count": 12,
+          "media_count": 237,
+          "tweet_count": 1742
+        },
+        "username": "Human_Dregs",
+        "verified": false
+      }
+    ]
+  }
+}

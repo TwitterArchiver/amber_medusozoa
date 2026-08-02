@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037224611902087170",
+        "3_2037224611881115648"
+      ],
+      "media_source_tweet_id": [
+        "2037224638829461572",
+        "2037224638829461572"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2037225051536158947",
+    "created_at": "2026-03-26T17:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T18:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037225051536158947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1156469118523936768",
+          "start": 3,
+          "username": "Rinkothesen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XRXbWx4Fs7",
+          "end": 43,
+          "expanded_url": "https://x.com/Rinkothesen/status/2037224638829461572/photo/1",
+          "media_key": "3_2037224611902087170",
+          "start": 20,
+          "url": "https://t.co/XRXbWx4Fs7"
+        },
+        {
+          "display_url": "pic.x.com/XRXbWx4Fs7",
+          "end": 43,
+          "expanded_url": "https://x.com/Rinkothesen/status/2037224638829461572/photo/1",
+          "media_key": "3_2037224611881115648",
+          "start": 20,
+          "url": "https://t.co/XRXbWx4Fs7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037225051536158947",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037224638829461572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rinkothesen: 好累 https://t.co/XRXbWx4Fs7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2037225051536158947].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2037225051536158947",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2037225051536158947"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037224611902087170",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWs_agbYAIF5Ix.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037224611881115648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWs_abbYAAdVSB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037224611902087170",
+            "3_2037224611881115648"
+          ]
+        },
+        "author_id": "1156469118523936768",
+        "conversation_id": "2037224638829461572",
+        "created_at": "2026-03-26T17:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T18:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037224638829461572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XRXbWx4Fs7",
+              "end": 26,
+              "expanded_url": "https://x.com/Rinkothesen/status/2037224638829461572/photo/1",
+              "media_key": "3_2037224611902087170",
+              "start": 3,
+              "url": "https://t.co/XRXbWx4Fs7"
+            },
+            {
+              "display_url": "pic.x.com/XRXbWx4Fs7",
+              "end": 26,
+              "expanded_url": "https://x.com/Rinkothesen/status/2037224638829461572/photo/1",
+              "media_key": "3_2037224611881115648",
+              "start": 3,
+              "url": "https://t.co/XRXbWx4Fs7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037224638829461572",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好累 https://t.co/XRXbWx4Fs7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 349,
+          "like_count": 420,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 305
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-31T07:38:18.000Z",
+        "description": "我们一起去往新世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rin70004",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rin70004",
+                "start": 0,
+                "url": "https://t.co/YuJQFg3mM8"
+              }
+            ]
+          }
+        },
+        "id": "1156469118523936768",
+        "name": "Rin",
+        "pinned_tweet_id": "2030549878120808579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027385727399739393/_cDG2Nh4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3359,
+          "following_count": 597,
+          "like_count": 30257,
+          "listed_count": 11,
+          "media_count": 74,
+          "tweet_count": 1960
+        },
+        "url": "https://t.co/YuJQFg3mM8",
+        "username": "Rinkothesen",
+        "verified": false
+      }
+    ]
+  }
+}

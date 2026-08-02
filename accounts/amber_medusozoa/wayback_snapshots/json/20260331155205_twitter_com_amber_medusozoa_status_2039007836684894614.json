@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2039007836684894614",
+    "created_at": "2026-03-31T15:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T16:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039007836684894614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        },
+        {
+          "end": 33,
+          "id": "1534773109940789248",
+          "start": 18,
+          "username": "rainchngshainn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039007836684894614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038984027907002422",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: @rainchngshainn 要是我能做到的话其实也想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2039007836684894614",
+        "created_at": "2026-03-31T15:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039007836684894614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 33,
+              "id": "1534773109940789248",
+              "start": 18,
+              "username": "rainchngshainn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039007836684894614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038984027907002422",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: @rainchngshainn 要是我能做到的话其实也想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "2038869019063713953",
+        "created_at": "2026-03-31T14:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038984027907002422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1534773109940789248",
+              "start": 0,
+              "username": "rainchngshainn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038984027907002422",
+        "in_reply_to_user_id": "1534773109940789248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038869019063713953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainchngshainn 要是我能做到的话其实也想"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ ⚢ ☭ ",
+        "name": "amber",
+        "pinned_tweet_id": "2038459897726074909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1431,
+          "following_count": 429,
+          "like_count": 785,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 513
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ᴀʟᴛ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "🏳️‍⚧️ ⚢ ☭ ",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24159,
+          "following_count": 2728,
+          "like_count": 39221,
+          "listed_count": 7,
+          "media_count": 542,
+          "tweet_count": 20992
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-09T05:43:39.000Z",
+        "description": "一位神秘的mtf ≽^•⩊•^≼ 🇨🇦 大一生物在读，分享一些日常, 中/Eng/日, 欢迎同类互fo， よろしくお願い！好妹妹🥰：@blingbling712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 66,
+                "username": "blingbling712"
+              }
+            ]
+          }
+        },
+        "id": "1534773109940789248",
+        "location": "Toronto, Ontario",
+        "name": "Rainchngshainn 云欣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951680042330890240/9ErV2EFR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 539,
+          "like_count": 5734,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 789
+        },
+        "username": "rainchngshainn",
+        "verified": false
+      }
+    ]
+  }
+}

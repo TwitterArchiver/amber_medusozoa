@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2036713267939139675",
+    "created_at": "2026-03-25T07:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T08:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036713267939139675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1079519718",
+          "start": 3,
+          "username": "Megabits_mzq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036713267939139675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036670528346632347",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Megabits_mzq: 张雪峰是我老乡。在我们那个城市，考不出去人生真的就完了。大部分人没机会谈什么理想，考不进校前百就会死，离不开家乡就会死。所谓选专业也好报学校也罢，只是为了活下去。我们对未来只有恐惧，每个人都在对人生意义的纠结中落下一身的毛病。张雪峰说的一切，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2036713267939139675",
+        "created_at": "2026-03-25T07:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T08:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036713267939139675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1079519718",
+              "start": 3,
+              "username": "Megabits_mzq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036713267939139675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036670528346632347",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Megabits_mzq: 张雪峰是我老乡。在我们那个城市，考不出去人生真的就完了。大部分人没机会谈什么理想，考不进校前百就会死，离不开家乡就会死。所谓选专业也好报学校也罢，只是为了活下去。我们对未来只有恐惧，每个人都在对人生意义的纠结中落下一身的毛病。张雪峰说的一切，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079519718",
+        "conversation_id": "2036670528346632347",
+        "created_at": "2026-03-25T05:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T06:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036670528346632347"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036670528346632347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2941,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "following",
+        "text": "张雪峰是我老乡。在我们那个城市，考不出去人生真的就完了。大部分人没机会谈什么理想，考不进校前百就会死，离不开家乡就会死。所谓选专业也好报学校也罢，只是为了活下去。我们对未来只有恐惧，每个人都在对人生意义的纠结中落下一身的毛病。张雪峰说的一切，我都无法反驳。这里的现实就是这样绝望。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 295,
+          "like_count": 253,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 166
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2013-01-11T12:34:38.000Z",
+        "description": "English: @Megabits_Studio / 日本語: @Megabits_mzq_jp 金鱼一条 / 想当个艺术家，但只会写代码 / 这个世界没有未来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "Megabits_Studio"
+              },
+              {
+                "end": 49,
+                "start": 33,
+                "username": "Megabits_mzq_jp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "megabits.xyz",
+                "end": 23,
+                "expanded_url": "http://megabits.xyz",
+                "start": 0,
+                "url": "https://t.co/Y0tbaG653d"
+              }
+            ]
+          }
+        },
+        "id": "1079519718",
+        "location": "東京·鱼缸",
+        "name": "Megabits ❄️",
+        "pinned_tweet_id": "2030831959996617185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729733422757892096/WEmf0gS1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10255,
+          "following_count": 1428,
+          "like_count": 30076,
+          "listed_count": 117,
+          "media_count": 2302,
+          "tweet_count": 11086
+        },
+        "url": "https://t.co/Y0tbaG653d",
+        "username": "Megabits_mzq",
+        "verified": false
+      }
+    ]
+  }
+}

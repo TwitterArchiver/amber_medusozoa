@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2036801543991623818",
+    "created_at": "2026-03-25T13:45:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T14:45:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036801543991623818"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/polypearis/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/polypearis/status/2036500137996919296",
+          "start": 5,
+          "url": "https://t.co/eMIahNdvw0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036801543991623818",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036500137996919296",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了 https://t.co/eMIahNdvw0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 227,
+        "media_key": "3_2036500135820263424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEMaFWyaAAAqfjJ.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2036801543991623818",
+        "created_at": "2026-03-25T13:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T14:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036801543991623818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/polypearis/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/polypearis/status/2036500137996919296",
+              "start": 5,
+              "url": "https://t.co/eMIahNdvw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036801543991623818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036500137996919296",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了 https://t.co/eMIahNdvw0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036500135820263424"
+          ]
+        },
+        "author_id": "1234532802483322880",
+        "conversation_id": "2036500137996919296",
+        "created_at": "2026-03-24T17:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T18:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036500137996919296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uViV8mtTdT",
+              "end": 71,
+              "expanded_url": "https://x.com/polypearIs/status/2036500137996919296/photo/1",
+              "media_key": "3_2036500135820263424",
+              "start": 48,
+              "url": "https://t.co/uViV8mtTdT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036500137996919296",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 209,
+          "impression_count": 35701,
+          "like_count": 4428,
+          "quote_count": 8,
+          "reply_count": 6,
+          "retweet_count": 232
+        },
+        "reply_settings": "everyone",
+        "text": "Rose killed herself to stop this from happening https://t.co/uViV8mtTdT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 302,
+          "like_count": 263,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 178
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-02T17:35:43.000Z",
+        "description": "read carrd byf 💗 @staradolescent",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "staradolescent"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spearofselene.straw.page",
+                "end": 23,
+                "expanded_url": "https://spearofselene.straw.page",
+                "start": 0,
+                "url": "https://t.co/JX7WaCSPOY"
+              }
+            ]
+          }
+        },
+        "id": "1234532802483322880",
+        "location": "she/her, 23",
+        "name": "🌺",
+        "pinned_tweet_id": "1575614106799054851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666584402212581379/Rb__zSum_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17191,
+          "following_count": 1750,
+          "like_count": 114600,
+          "listed_count": 70,
+          "media_count": 21154,
+          "tweet_count": 378774
+        },
+        "url": "https://t.co/JX7WaCSPOY",
+        "username": "polypearIs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2040158049151680864",
+    "created_at": "2026-04-03T22:13:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T23:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040191050354921837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1561988293717176322",
+          "start": 0,
+          "username": "a19198108964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040191050354921837",
+    "in_reply_to_user_id": "1561988293717176322",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040190871107453140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a19198108964 肯定的吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2040158049151680864",
+        "created_at": "2026-04-03T22:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T23:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040191050354921837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561988293717176322",
+              "start": 0,
+              "username": "a19198108964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040191050354921837",
+        "in_reply_to_user_id": "1561988293717176322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040190871107453140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a19198108964 肯定的吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561988293717176322",
+        "conversation_id": "2040158049151680864",
+        "created_at": "2026-04-03T22:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T23:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040190871107453140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040190871107453140",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040158049151680864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 是不是所有玩绳子的都看妖狐吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 525,
+          "like_count": 990,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 629
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-23T08:06:55.000Z",
+        "description": "MTF/事 @114514191a8964 转生/战地薯条",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "114514191a8964"
+              }
+            ]
+          }
+        },
+        "id": "1561988293717176322",
+        "name": "爱歌【SMG 08/18】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039318140841250816/FFnBrMOT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2566,
+          "following_count": 3034,
+          "like_count": 211065,
+          "listed_count": 17,
+          "media_count": 1794,
+          "tweet_count": 40821
+        },
+        "username": "a19198108964",
+        "verified": false
+      }
+    ]
+  }
+}

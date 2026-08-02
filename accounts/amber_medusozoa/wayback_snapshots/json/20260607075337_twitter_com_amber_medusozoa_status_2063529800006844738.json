@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2063418610589032542",
+    "created_at": "2026-06-07T07:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T08:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063529800006844738"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063529800006844738",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063418610589032542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢大家！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063418605929156608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKK8SiVW0AAlUcJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2063418610589032542",
+        "created_at": "2026-06-07T07:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063529800006844738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063529800006844738",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063418610589032542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢大家！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063418605929156608"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2063418610589032542",
+        "created_at": "2026-06-07T00:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T01:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063418610589032542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hjdF3ZVbj5",
+              "end": 53,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2063418610589032542/photo/1",
+              "media_key": "3_2063418605929156608",
+              "start": 30,
+              "url": "https://t.co/hjdF3ZVbj5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063418610589032542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5993,
+          "like_count": 237,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "祝我们最可爱的那由小朋友生日快乐，大家可以去她主页戳气球啦 https://t.co/hjdF3ZVbj5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya ⚜️@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5568,
+          "following_count": 960,
+          "like_count": 4360,
+          "listed_count": 10,
+          "media_count": 126,
+          "tweet_count": 2060
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

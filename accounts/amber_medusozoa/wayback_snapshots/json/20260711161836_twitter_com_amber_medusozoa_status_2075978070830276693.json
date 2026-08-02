@@ -1,0 +1,752 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075978067835592704",
+        "3_2075978067789389824"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781972125179518977",
+          "name": "Auto Manufacturer - Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026363082",
+          "name": "Nissan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026363082",
+          "name": "Nissan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Car culture",
+          "id": "847528391163092993",
+          "name": "Automotive"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781972125179518977",
+          "name": "Auto Manufacturer - Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026363082",
+          "name": "Nissan"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10040410740",
+          "name": "Nissan - Sentra"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Car culture",
+          "id": "847528391163092993",
+          "name": "Automotive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Sedans",
+          "id": "847529130018996224",
+          "name": "Sedans"
+        }
+      }
+    ],
+    "conversation_id": "2075978070830276693",
+    "created_at": "2026-07-11T16:18:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T17:18:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075978070830276693"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6l5LIktrc8",
+          "end": 81,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2075978070830276693/photo/1",
+          "media_key": "3_2075978067835592704",
+          "start": 58,
+          "url": "https://t.co/6l5LIktrc8"
+        },
+        {
+          "display_url": "pic.x.com/6l5LIktrc8",
+          "end": 81,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2075978070830276693/photo/1",
+          "media_key": "3_2075978067789389824",
+          "start": 58,
+          "url": "https://t.co/6l5LIktrc8"
+        },
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 105,
+          "expanded_url": "https://twitter.com/amber_digit2/status/2075976199038189945",
+          "start": 82,
+          "url": "https://t.co/oKpznuoLpS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075978070830276693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075976199038189945",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "另外我之后也会在我的新小红书号上开启部分风火轮金标系列和MINIGT小车的售卖（旧账号被封了），欢迎大家继续关注！ https://t.co/6l5LIktrc8 https://t.co/oKpznuoLpS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1347,
+        "media_key": "3_2075978067835592704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9bDb7XoAAQiy_.jpg",
+        "width": 987
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075978067789389824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9bDbwWoAALAeJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075976195137527808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9ZWblW4AAOH6R.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075976195137531904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9ZWblW8AAoXR0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 732,
+        "media_key": "3_2075976195141758976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9ZWbmXcAA6KtU.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075978067835592704",
+            "3_2075978067789389824"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026363082",
+              "name": "Nissan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026363082",
+              "name": "Nissan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026363082",
+              "name": "Nissan"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040410740",
+              "name": "Nissan - Sentra"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Sedans",
+              "id": "847529130018996224",
+              "name": "Sedans"
+            }
+          }
+        ],
+        "conversation_id": "2075978070830276693",
+        "created_at": "2026-07-11T16:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075978070830276693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6l5LIktrc8",
+              "end": 81,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2075978070830276693/photo/1",
+              "media_key": "3_2075978067835592704",
+              "start": 58,
+              "url": "https://t.co/6l5LIktrc8"
+            },
+            {
+              "display_url": "pic.x.com/6l5LIktrc8",
+              "end": 81,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2075978070830276693/photo/1",
+              "media_key": "3_2075978067789389824",
+              "start": 58,
+              "url": "https://t.co/6l5LIktrc8"
+            },
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2075976199038189945",
+              "start": 82,
+              "url": "https://t.co/oKpznuoLpS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075978070830276693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075976199038189945",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "另外我之后也会在我的新小红书号上开启部分风火轮金标系列和MINIGT小车的售卖（旧账号被封了），欢迎大家继续关注！ https://t.co/6l5LIktrc8 https://t.co/oKpznuoLpS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075976195137527808",
+            "3_2075976195137531904",
+            "3_2075976195141758976"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026363082",
+              "name": "Nissan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026363082",
+              "name": "Nissan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026363082",
+              "name": "Nissan"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040410740",
+              "name": "Nissan - Sentra"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Sedans",
+              "id": "847529130018996224",
+              "name": "Sedans"
+            }
+          }
+        ],
+        "conversation_id": "2075976199038189945",
+        "created_at": "2026-07-11T16:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075976199038189945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KHHfbud9yO",
+              "end": 167,
+              "expanded_url": "https://x.com/amber_digit2/status/2075976199038189945/photo/1",
+              "media_key": "3_2075976195137527808",
+              "start": 144,
+              "url": "https://t.co/KHHfbud9yO"
+            },
+            {
+              "display_url": "pic.x.com/KHHfbud9yO",
+              "end": 167,
+              "expanded_url": "https://x.com/amber_digit2/status/2075976199038189945/photo/1",
+              "media_key": "3_2075976195137531904",
+              "start": 144,
+              "url": "https://t.co/KHHfbud9yO"
+            },
+            {
+              "display_url": "pic.x.com/KHHfbud9yO",
+              "end": 167,
+              "expanded_url": "https://x.com/amber_digit2/status/2075976199038189945/photo/1",
+              "media_key": "3_2075976195141758976",
+              "start": 144,
+              "url": "https://t.co/KHHfbud9yO"
+            },
+            {
+              "display_url": "x.com/willa_citrus/s…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/willa_citrus/status/2075747681541165225",
+              "start": 168,
+              "url": "https://t.co/p3Iv3t7Usv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075976199038189945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075747681541165225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢小檬老师帮忙宣传。我现在卡里的钱也不够付下个月房租的一半（并且欠了两个月没交了），所以打算忍痛割爱，现低价打包出以下风火轮小车，欢迎坐标多伦多市中心的朋友来私信购买。\n\nP1-2 日系车型：$28\n共14辆，含一辆银标尼桑Sentra和一辆可开门Majorette版Nissan Z https://t.co/KHHfbud9yO https://t.co/p3Iv3t7Usv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya \n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059731443828310311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6480,
+          "following_count": 1058,
+          "like_count": 5978,
+          "listed_count": 11,
+          "media_count": 286,
+          "tweet_count": 3360
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazehuZE\n📮 https://t.co/DV9hgFqCue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazehuZE"
+              },
+              {
+                "display_url": "ngl.link/amberjellyfish2",
+                "end": 71,
+                "expanded_url": "https://ngl.link/amberjellyfish2",
+                "start": 48,
+                "url": "https://t.co/DV9hgFqCue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2063040552594202699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3003,
+          "following_count": 510,
+          "like_count": 1341,
+          "listed_count": 5,
+          "media_count": 96,
+          "tweet_count": 1289
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      }
+    ]
+  }
+}

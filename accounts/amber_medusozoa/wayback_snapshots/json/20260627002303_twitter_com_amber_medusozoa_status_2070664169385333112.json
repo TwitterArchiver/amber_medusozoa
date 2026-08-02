@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2070664169385333112",
+    "created_at": "2026-06-27T00:23:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T01:23:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070664169385333112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "19377913",
+          "start": 3,
+          "username": "cityoftoronto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070664169385333112",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070239415612436872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cityoftoronto: A section of Church Street is officially a pedestrian zone for the next nine weeks - and the street is all yours to enjo…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Urban street scene with outdoor seating under umbrellas beside a brick building and pedestrians walking along the road.",
+        "height": 1638,
+        "media_key": "3_2070239411279663104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLr3xqVWkAAa14e.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2070664169385333112",
+        "created_at": "2026-06-27T00:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T01:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070664169385333112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "19377913",
+              "start": 3,
+              "username": "cityoftoronto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070664169385333112",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070239415612436872",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cityoftoronto: A section of Church Street is officially a pedestrian zone for the next nine weeks - and the street is all yours to enjo…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070239411279663104"
+          ]
+        },
+        "author_id": "19377913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ontario news",
+              "id": "1095441021033271296",
+              "name": "Ontario"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337065881617121280",
+              "name": "Toronto"
+            }
+          },
+          {
+            "domain": {
+              "description": "For local-level news entities",
+              "id": "171",
+              "name": "Local News"
+            },
+            "entity": {
+              "description": "Ontario news",
+              "id": "1095441021033271296",
+              "name": "Ontario"
+            }
+          },
+          {
+            "domain": {
+              "description": "For local-level news entities",
+              "id": "171",
+              "name": "Local News"
+            },
+            "entity": {
+              "id": "1337065881617121280",
+              "name": "Toronto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Toronto",
+              "id": "861961494438662144",
+              "name": "Toronto"
+            }
+          }
+        ],
+        "conversation_id": "2070239415612436872",
+        "created_at": "2026-06-25T20:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T21:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070239415612436872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Basi2fIIX",
+              "end": 294,
+              "expanded_url": "https://x.com/cityoftoronto/status/2070239415612436872/photo/1",
+              "media_key": "3_2070239411279663104",
+              "start": 271,
+              "url": "https://t.co/1Basi2fIIX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070239415612436872",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "torontocentreprojects.ca/en/projects/ch…",
+                "end": 515,
+                "expanded_url": "https://torontocentreprojects.ca/en/projects/church-street-pedestrianization-pilot/2",
+                "start": 492,
+                "url": "https://t.co/GB9ibh12vG"
+              }
+            ]
+          },
+          "text": "A section of Church Street is officially a pedestrian zone for the next nine weeks - and the street is all yours to enjoy!  \n\nFrom Wellesley Street East to Alexander Street, the road is closed to vehicles and open for walking, gathering, and enjoying summer in the area. \n\nResidents and drivers should expect changes and plan for extra travel time. We’re using clear signage, updated traffic signals, and real-time traffic management to help keep things moving. \n\nLearn more about the pilot: https://t.co/GB9ibh12vG"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 46935,
+          "like_count": 346,
+          "quote_count": 9,
+          "reply_count": 24,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "A section of Church Street is officially a pedestrian zone for the next nine weeks - and the street is all yours to enjoy!  \n\nFrom Wellesley Street East to Alexander Street, the road is closed to vehicles and open for walking, gathering, and enjoying summer in the area. https://t.co/1Basi2fIIX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6052,
+          "following_count": 1035,
+          "like_count": 5375,
+          "listed_count": 10,
+          "media_count": 229,
+          "tweet_count": 2876
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2009-01-23T02:54:56.000Z",
+        "description": "Official #CityOfTO account sharing #TOnews.  Monitored Mon-Fri, 8:30 am – 5 pm. Terms of use https://t.co/sD9XCzpRiv. Service request? Visit @311Toronto.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 9,
+                "tag": "CityOfTO"
+              },
+              {
+                "end": 42,
+                "start": 35,
+                "tag": "TOnews"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 152,
+                "start": 141,
+                "username": "311Toronto"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "toronto.ca/socialmedia",
+                "end": 116,
+                "expanded_url": "http://toronto.ca/socialmedia",
+                "start": 93,
+                "url": "https://t.co/sD9XCzpRiv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "toronto.ca",
+                "end": 23,
+                "expanded_url": "http://www.toronto.ca",
+                "start": 0,
+                "url": "https://t.co/qg2QhyY2Ta"
+              }
+            ]
+          }
+        },
+        "id": "19377913",
+        "location": "Toronto ON Canada",
+        "name": "City of Toronto 🇨🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841094779787980809/ybvVonnL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483452,
+          "following_count": 197,
+          "like_count": 5073,
+          "listed_count": 2221,
+          "media_count": 28159,
+          "tweet_count": 70608
+        },
+        "url": "https://t.co/qg2QhyY2Ta",
+        "username": "cityoftoronto",
+        "verified": true
+      }
+    ]
+  }
+}

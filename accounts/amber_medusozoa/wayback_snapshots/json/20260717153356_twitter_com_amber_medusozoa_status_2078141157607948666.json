@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2078141157607948666",
+    "created_at": "2026-07-17T15:33:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T16:33:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078141157607948666"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fellow_ashley/…",
+          "end": 208,
+          "expanded_url": "https://twitter.com/fellow_ashley/status/2077756298926432476",
+          "start": 185,
+          "url": "https://t.co/83XqYeYfYH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078141157607948666",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077756298926432476",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Would you date a person with this ideology?\n🟩 SocDem\n🟥 Liberal (all variants)\n🟨 Centrist\n🟩 Libertarian\n🟩 Left-Anarchist (not right-anarchist)\n🟩 Conservative\n🟩 Communist\n🟥 MAGA\n🟨 NeoCon https://t.co/83XqYeYfYH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2078141157607948666",
+        "created_at": "2026-07-17T15:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078141157607948666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fellow_ashley/…",
+              "end": 208,
+              "expanded_url": "https://twitter.com/fellow_ashley/status/2077756298926432476",
+              "start": 185,
+              "url": "https://t.co/83XqYeYfYH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078141157607948666",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077756298926432476",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Would you date a person with this ideology?\n🟩 SocDem\n🟥 Liberal (all variants)\n🟨 Centrist\n🟩 Libertarian\n🟩 Left-Anarchist (not right-anarchist)\n🟩 Conservative\n🟩 Communist\n🟥 MAGA\n🟨 NeoCon https://t.co/83XqYeYfYH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045017079665844224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2077756298926432476",
+        "created_at": "2026-07-16T14:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077756298926432476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RedwolfAlice/s…",
+              "end": 211,
+              "expanded_url": "https://twitter.com/RedwolfAlice/status/2077743703578255789",
+              "start": 188,
+              "url": "https://t.co/qbe5vnJ2qU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077756298926432476",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 915,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077743703578255789",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Woild you date a person with this ideology?\n\n🟩 SocDem\n🟨 Liberal (all variants)\n🟨 Centrist\n🟨 Libertarian\n🟦 Left-Anarchist (not right-anarchist)\n🟥 Conservative\n🟩/🟦 Communist\n🟥 MAGA\n🟥 NeoCon https://t.co/qbe5vnJ2qU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her #药娘\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0lo74G",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 15,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 59,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 36,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6653,
+          "following_count": 1130,
+          "like_count": 6520,
+          "listed_count": 11,
+          "media_count": 324,
+          "tweet_count": 3730
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-17T06:04:26.000Z",
+        "description": "MainlandChinese|19|She/Her|Transgender Queer🏳️‍⚧️🏳️‍🌈|IntersubjectivityPostExistentialist-Marxism🚩Mao-spontex🏴|AnCom|Anti-Soviet elements|Agnostics|DM open",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ashlilith.straw.page",
+                "end": 23,
+                "expanded_url": "https://ashlilith.straw.page",
+                "start": 0,
+                "url": "https://t.co/rNpvyYZ0rn"
+              }
+            ]
+          }
+        },
+        "id": "2045017079665844224",
+        "location": "Gensokyo",
+        "name": "FellowⒶshley红🏳️‍⚧️",
+        "pinned_tweet_id": "2054936008991600661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074855416450740224/vjc3nESL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 471,
+          "like_count": 13023,
+          "listed_count": 3,
+          "media_count": 205,
+          "tweet_count": 4324
+        },
+        "url": "https://t.co/rNpvyYZ0rn",
+        "username": "Fellow_Ashley",
+        "verified": true
+      }
+    ]
+  }
+}

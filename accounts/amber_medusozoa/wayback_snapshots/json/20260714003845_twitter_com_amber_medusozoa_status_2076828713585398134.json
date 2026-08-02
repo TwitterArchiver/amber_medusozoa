@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2076828713585398134",
+    "created_at": "2026-07-14T00:38:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T01:38:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076828713585398134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1585942498253238273",
+          "start": 3,
+          "username": "AliceEslight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076828713585398134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076719350283931860",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AliceEslight: 你说得对，但是如果不是条件不行，谁不想急头白脸的做个三好跨呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2076828713585398134",
+        "created_at": "2026-07-14T00:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076828713585398134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1585942498253238273",
+              "start": 3,
+              "username": "AliceEslight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076828713585398134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076719350283931860",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AliceEslight: 你说得对，但是如果不是条件不行，谁不想急头白脸的做个三好跨呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585942498253238273",
+        "conversation_id": "2076719350283931860",
+        "created_at": "2026-07-13T17:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076719350283931860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076719350283931860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你说得对，但是如果不是条件不行，谁不想急头白脸的做个三好跨呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n💖@amber_digit\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "amber_digit"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 70,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 47,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6534,
+          "following_count": 1072,
+          "like_count": 6153,
+          "listed_count": 11,
+          "media_count": 296,
+          "tweet_count": 3502
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-28T10:32:40.000Z",
+        "description": "爱丽丝，我爱着你……对吗？",
+        "id": "1585942498253238273",
+        "location": "想象界",
+        "name": "疯子酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075201772487147520/_IINP6uZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 86,
+          "like_count": 40162,
+          "listed_count": 4,
+          "media_count": 638,
+          "tweet_count": 14808
+        },
+        "url": "",
+        "username": "AliceEslight",
+        "verified": true
+      }
+    ]
+  }
+}

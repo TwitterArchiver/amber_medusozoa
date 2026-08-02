@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2069460307370791162",
+    "created_at": "2026-06-23T17:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T18:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069466294512996774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3824006113",
+          "start": 0,
+          "username": "shorttrber"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069466294512996774",
+    "in_reply_to_user_id": "3824006113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069460307370791162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shorttrber 我寻思Windows也不开源啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2069460307370791162",
+        "created_at": "2026-06-23T17:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T18:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069466294512996774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3824006113",
+              "start": 0,
+              "username": "shorttrber"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069466294512996774",
+        "in_reply_to_user_id": "3824006113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069460307370791162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shorttrber 我寻思Windows也不开源啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3824006113",
+        "conversation_id": "2069460307370791162",
+        "created_at": "2026-06-23T16:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069460307370791162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2069248444347150776",
+              "start": 25,
+              "url": "https://t.co/DpJFbY5TjG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069460307370791162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069248444347150776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一定要买一台windows电脑，只有开源才是王道 https://t.co/DpJFbY5TjG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5982,
+          "following_count": 1036,
+          "like_count": 5312,
+          "listed_count": 10,
+          "media_count": 211,
+          "tweet_count": 2807
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2015-10-08T09:40:18.000Z",
+        "description": "自称艺术家‖艺术能不能结合现实，那是现实的问题。币安返佣:https://t.co/R9lvfaQaCc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsmkweb.cc/referral/earn-…",
+                "end": 52,
+                "expanded_url": "https://www.bsmkweb.cc/referral/earn-together/refer2earn-usdc/claim?hl=zh-CN&ref=GRO_28502_5JCMO",
+                "start": 29,
+                "url": "https://t.co/R9lvfaQaCc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lmao.xo.je",
+                "end": 23,
+                "expanded_url": "http://lmao.xo.je",
+                "start": 0,
+                "url": "https://t.co/Bys1VJWxn2"
+              }
+            ]
+          }
+        },
+        "id": "3824006113",
+        "location": "网址我在撸的毛",
+        "name": "Suum cuique",
+        "pinned_tweet_id": "2064381646686871906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062742562054815744/8d95kcHK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2660,
+          "following_count": 2327,
+          "like_count": 6482,
+          "listed_count": 13,
+          "media_count": 811,
+          "tweet_count": 8770
+        },
+        "url": "https://t.co/Bys1VJWxn2",
+        "username": "shorttrber",
+        "verified": true
+      }
+    ]
+  }
+}

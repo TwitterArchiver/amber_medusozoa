@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2076029948528140504",
+    "created_at": "2026-07-11T19:44:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T20:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076029948528140504"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oliviawantshug…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/oliviawantshugs/status/2076020035630539089",
+          "start": 47,
+          "url": "https://t.co/bgAa0S8ZI6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076029948528140504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076020035630539089",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "众所周知「反腐」发挥的实际功能一般都和反腐没什么关系，你看最喜欢反腐的那位现在已经修宪成功了 https://t.co/bgAa0S8ZI6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2076029948528140504",
+        "created_at": "2026-07-11T19:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T20:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076029948528140504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oliviawantshug…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/oliviawantshugs/status/2076020035630539089",
+              "start": 47,
+              "url": "https://t.co/bgAa0S8ZI6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076029948528140504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076020035630539089",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "众所周知「反腐」发挥的实际功能一般都和反腐没什么关系，你看最喜欢反腐的那位现在已经修宪成功了 https://t.co/bgAa0S8ZI6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1004362078956613632",
+        "conversation_id": "2076020035630539089",
+        "created_at": "2026-07-11T19:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T20:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076020035630539089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076020035630539089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国人反腐有盯amber这么细早和新加坡一样清廉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2075988961462239307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6478,
+          "following_count": 1059,
+          "like_count": 5985,
+          "listed_count": 11,
+          "media_count": 289,
+          "tweet_count": 3379
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-06T13:59:14.000Z",
+        "description": "🇸🇬 / Traveller / Samoyed lover / Enjoying and exploring the world as you read this / work in Vietnam 🇻🇳 now",
+        "id": "1004362078956613632",
+        "location": "Singapore",
+        "name": "狗白白 🇸🇬",
+        "pinned_tweet_id": "2026234699723727291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047656161365893120/9K7zUYPw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4699,
+          "following_count": 534,
+          "like_count": 26801,
+          "listed_count": 18,
+          "media_count": 1558,
+          "tweet_count": 28976
+        },
+        "url": "",
+        "username": "OliviaWantsHugs",
+        "verified": false
+      }
+    ]
+  }
+}

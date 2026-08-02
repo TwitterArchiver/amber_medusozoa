@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2045200044253437995",
+    "created_at": "2026-04-17T17:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T18:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045200044253437995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1238452916660269056",
+          "start": 3,
+          "username": "nerossa19171107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045200044253437995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045130541184262156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nerossa19171107: 当年屁事不干职业瞎琢磨的左翼黑格尔派一声炮响，证明了劳动创造是人的目的，最后终于有了“劳动带来自由”的集中营哲学。如今经历同样屁事不干和瞎琢磨的批判理论和性别研究的大手们又要放炮了，天知道要不要最后搞一个“跨性别/吃屎/吃法国奶酪/不打…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2045200044253437995",
+        "created_at": "2026-04-17T17:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045200044253437995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1238452916660269056",
+              "start": 3,
+              "username": "nerossa19171107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045200044253437995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045130541184262156",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nerossa19171107: 当年屁事不干职业瞎琢磨的左翼黑格尔派一声炮响，证明了劳动创造是人的目的，最后终于有了“劳动带来自由”的集中营哲学。如今经历同样屁事不干和瞎琢磨的批判理论和性别研究的大手们又要放炮了，天知道要不要最后搞一个“跨性别/吃屎/吃法国奶酪/不打…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1238452916660269056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2045130541184262156",
+        "created_at": "2026-04-17T13:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045130541184262156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nerossa1917110…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/nerossa19171107/status/2045127392398643299",
+              "start": 131,
+              "url": "https://t.co/xDNb1OoYgy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045130541184262156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 681,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045127392398643299",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当年屁事不干职业瞎琢磨的左翼黑格尔派一声炮响，证明了劳动创造是人的目的，最后终于有了“劳动带来自由”的集中营哲学。如今经历同样屁事不干和瞎琢磨的批判理论和性别研究的大手们又要放炮了，天知道要不要最后搞一个“跨性别/吃屎/吃法国奶酪/不打疫苗不进医院带来自由。” https://t.co/xDNb1OoYgy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/qBX9bbnFOS"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2361,
+          "following_count": 805,
+          "like_count": 2418,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 1714
+        },
+        "url": "https://t.co/qBX9bbnFOS",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-13T13:12:50.000Z",
+        "description": "Fiamme dalla rosa. 玫瑰的火焰。｜ Vae victis！ ｜ mia amore- @hongjunlv ｜ 里账   @elyse200010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 52,
+                "username": "hongjunlv"
+              },
+              {
+                "end": 82,
+                "start": 70,
+                "username": "elyse200010"
+              }
+            ]
+          }
+        },
+        "id": "1238452916660269056",
+        "location": "Turin, Piedmont",
+        "name": "Nerossa",
+        "pinned_tweet_id": "1977588542080794954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632901489114116096/8GO7_9SU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617,
+          "following_count": 1314,
+          "like_count": 21064,
+          "listed_count": 8,
+          "media_count": 700,
+          "tweet_count": 20664
+        },
+        "username": "nerossa19171107",
+        "verified": false
+      }
+    ]
+  }
+}

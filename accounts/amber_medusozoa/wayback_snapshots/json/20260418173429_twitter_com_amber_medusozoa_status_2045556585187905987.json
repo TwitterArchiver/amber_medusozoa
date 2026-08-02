@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1193991001892745216",
+          "name": "Cuisines"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359137684623556608",
+          "name": "European cuisine"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1564316215580844032",
+          "name": "Greek cuisine"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "id": "1564316215580844032",
+          "name": "Greek cuisine"
+        }
+      }
+    ],
+    "conversation_id": "2045556585187905987",
+    "created_at": "2026-04-18T17:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T18:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045556585187905987"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jianjia9775886…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/jianjia97758868/status/2045333060753957209",
+          "start": 18,
+          "url": "https://t.co/NpHrxyPnBw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045556585187905987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045333060753957209",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这不就 tzatziki，绝对好吃 https://t.co/NpHrxyPnBw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1593,
+        "media_key": "3_2045333006970454016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJ7iH_bAAAAKz7.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1193991001892745216",
+              "name": "Cuisines"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359137684623556608",
+              "name": "European cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1564316215580844032",
+              "name": "Greek cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1564316215580844032",
+              "name": "Greek cuisine"
+            }
+          }
+        ],
+        "conversation_id": "2045556585187905987",
+        "created_at": "2026-04-18T17:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T18:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045556585187905987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jianjia9775886…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/jianjia97758868/status/2045333060753957209",
+              "start": 18,
+              "url": "https://t.co/NpHrxyPnBw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045556585187905987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045333060753957209",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这不就 tzatziki，绝对好吃 https://t.co/NpHrxyPnBw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045333006970454016"
+          ]
+        },
+        "author_id": "1481853057550159872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2045333060753957209",
+        "created_at": "2026-04-18T02:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T03:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045333060753957209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dQX09Ibdgl",
+              "end": 38,
+              "expanded_url": "https://x.com/jianjia97758868/status/2045333060753957209/photo/1",
+              "media_key": "3_2045333006970454016",
+              "start": 15,
+              "url": "https://t.co/dQX09Ibdgl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045333060753957209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 382,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "油泼辣子咸酸奶碗？这靠谱吗👀 https://t.co/dQX09Ibdgl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/qBX9bbnFOS"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2385,
+          "following_count": 822,
+          "like_count": 2537,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 1810
+        },
+        "url": "https://t.co/qBX9bbnFOS",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-14T04:58:10.000Z",
+        "description": "世界那么大，我却遇上了你～～\n面向阳光，拔节生长",
+        "id": "1481853057550159872",
+        "name": "蒹葭（互fo🇨🇳必回💞）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584790827515117569/wh4K0wPL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33657,
+          "following_count": 21827,
+          "like_count": 62338,
+          "listed_count": 31,
+          "media_count": 30254,
+          "tweet_count": 39152
+        },
+        "username": "jianjia97758868",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,462 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068749054843011072",
+        "3_2068749062745022464",
+        "3_2068749071485952000"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Exercises",
+          "id": "872554146750017536",
+          "name": "Exercises"
+        }
+      }
+    ],
+    "conversation_id": "2068749080457576916",
+    "created_at": "2026-06-21T17:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T18:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068749080457576916"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/a9k8p1eCcJ",
+          "end": 48,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2068749080457576916/photo/1",
+          "media_key": "3_2068749054843011072",
+          "start": 25,
+          "url": "https://t.co/a9k8p1eCcJ"
+        },
+        {
+          "display_url": "pic.x.com/a9k8p1eCcJ",
+          "end": 48,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2068749080457576916/photo/1",
+          "media_key": "3_2068749062745022464",
+          "start": 25,
+          "url": "https://t.co/a9k8p1eCcJ"
+        },
+        {
+          "display_url": "pic.x.com/a9k8p1eCcJ",
+          "end": 48,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2068749080457576916/photo/1",
+          "media_key": "3_2068749071485952000",
+          "start": 25,
+          "url": "https://t.co/a9k8p1eCcJ"
+        },
+        {
+          "display_url": "x.com/Savoirtw/statu…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/Savoirtw/status/2068695448131698701",
+          "start": 49,
+          "url": "https://t.co/h0jb1jwrrV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068749080457576916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068695448131698701",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "出乎意料地写得很好的一篇，也和我之前的意见很一致 https://t.co/a9k8p1eCcJ https://t.co/h0jb1jwrrV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1900,
+        "media_key": "3_2068749054843011072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWsTf9XwAAtUM2.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1971,
+        "media_key": "3_2068749062745022464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWsT9ZW4AAC7_U.jpg",
+        "width": 1080
+      },
+      {
+        "height": 3833,
+        "media_key": "3_2068749071485952000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWsUd9W4AAB_Ys.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068749054843011072",
+            "3_2068749062745022464",
+            "3_2068749071485952000"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2068749080457576916",
+        "created_at": "2026-06-21T17:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068749080457576916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a9k8p1eCcJ",
+              "end": 48,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2068749080457576916/photo/1",
+              "media_key": "3_2068749054843011072",
+              "start": 25,
+              "url": "https://t.co/a9k8p1eCcJ"
+            },
+            {
+              "display_url": "pic.x.com/a9k8p1eCcJ",
+              "end": 48,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2068749080457576916/photo/1",
+              "media_key": "3_2068749062745022464",
+              "start": 25,
+              "url": "https://t.co/a9k8p1eCcJ"
+            },
+            {
+              "display_url": "pic.x.com/a9k8p1eCcJ",
+              "end": 48,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2068749080457576916/photo/1",
+              "media_key": "3_2068749071485952000",
+              "start": 25,
+              "url": "https://t.co/a9k8p1eCcJ"
+            },
+            {
+              "display_url": "x.com/Savoirtw/statu…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/Savoirtw/status/2068695448131698701",
+              "start": 49,
+              "url": "https://t.co/h0jb1jwrrV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068749080457576916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068695448131698701",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "出乎意料地写得很好的一篇，也和我之前的意见很一致 https://t.co/a9k8p1eCcJ https://t.co/h0jb1jwrrV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452559301420060672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2068695398555029808",
+        "created_at": "2026-06-21T14:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068695448131698701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "反對 J.K. 羅琳，似乎早已成為進步派的條件反射。但跨性別女性參與女子運動的難題，並不會因為立場正確就自動消失。女性主義法學者 Kimberly Yuracko 在《Sex and Sports》中提醒我們：真正困難的問題，往往不在對錯之間，而在彼此衝突的善之間。",
+              "display_url": "savoirtw.org/article/4994",
+              "end": 170,
+              "expanded_url": "https://www.savoirtw.org/article/4994",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2068695451520675840/FSJeTIyJ?format=jpg&name=orig",
+                  "width": 900
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2068695451520675840/FSJeTIyJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 147,
+              "status": 200,
+              "title": "跨性別運動員之爭，真的只有支持或反對嗎？——一位女性主義法學者對平等的重新提問｜Savoir",
+              "unwound_url": "https://www.savoirtw.org/article/4994",
+              "url": "https://t.co/HioOOlLlhg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068695448131698701",
+        "in_reply_to_user_id": "1452559301420060672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 221,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068695398555029808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Kimberly Yuracko認為，無論支持全面納入還是全面排除，雙方其實都犯了同樣的錯誤：把女子運動的價值想得太簡單了。\n\n她的新書《Sex and Sports》帶來的，不是自認為正義的簡單答案，是一個更好、更深入的問問題角度──我們究竟希望體育運動為社會創造什麼樣的利益？（2/2）\n\nhttps://t.co/HioOOlLlhg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5957,
+          "following_count": 1022,
+          "like_count": 5267,
+          "listed_count": 10,
+          "media_count": 205,
+          "tweet_count": 2750
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-25T08:56:55.000Z",
+        "description": "✨嗨，這是Savoir Taiwan的官方帳號。台灣｜人文｜社會科學｜藝術｜科普｜非營利｜窮。\n🪑🎠傾聽世界變化的萬千聲音，1930直到未來的🎦電影、🎸音樂、📗書籍數位年代誌。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "savoirtw.org/linkhub.html",
+                "end": 23,
+                "expanded_url": "https://www.savoirtw.org/linkhub.html",
+                "start": 0,
+                "url": "https://t.co/0E2cfMEyoM"
+              }
+            ]
+          }
+        },
+        "id": "1452559301420060672",
+        "location": "earth",
+        "name": "Savoir｜影樂書年代誌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613802542164738053/rabXA8Pw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4486,
+          "following_count": 19,
+          "like_count": 54,
+          "listed_count": 30,
+          "media_count": 1373,
+          "tweet_count": 3648
+        },
+        "url": "https://t.co/0E2cfMEyoM",
+        "username": "Savoirtw",
+        "verified": false
+      }
+    ]
+  }
+}

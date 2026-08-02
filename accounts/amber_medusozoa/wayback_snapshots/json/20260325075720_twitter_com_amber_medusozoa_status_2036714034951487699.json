@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2036714034951487699",
+    "created_at": "2026-03-25T07:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T08:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036714034951487699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "954724026806448128",
+          "start": 3,
+          "username": "libertyelysium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036714034951487699",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036677247411925262",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @libertyelysium: 欧美咱喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2036714034951487699",
+        "created_at": "2026-03-25T07:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T08:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036714034951487699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "954724026806448128",
+              "start": 3,
+              "username": "libertyelysium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036714034951487699",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036677247411925262",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @libertyelysium: 欧美咱喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "954724026806448128",
+        "conversation_id": "2036677247411925262",
+        "created_at": "2026-03-25T05:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T06:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036677247411925262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Willowfoxxo/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Willowfoxxo/status/2035701832622674179",
+              "start": 5,
+              "url": "https://t.co/H1vUhEJST1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036677247411925262",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035701832622674179",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欧美咱喵 https://t.co/H1vUhEJST1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 295,
+          "like_count": 253,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 168
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-20T14:35:20.000Z",
+        "description": "@RGW90 我家忠实护卫犬",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "RGW90"
+              }
+            ]
+          }
+        },
+        "id": "954724026806448128",
+        "location": "精神科",
+        "name": "低功能自閉症",
+        "pinned_tweet_id": "1991859279842996718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934929099300212736/ICtzJ-Pe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11564,
+          "following_count": 672,
+          "like_count": 86077,
+          "listed_count": 39,
+          "media_count": 2045,
+          "tweet_count": 31636
+        },
+        "username": "libertyelysium",
+        "verified": false
+      }
+    ]
+  }
+}

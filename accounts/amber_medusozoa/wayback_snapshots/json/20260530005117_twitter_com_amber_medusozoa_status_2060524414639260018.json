@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2060524414639260018",
+    "created_at": "2026-05-30T00:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T01:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060524414639260018"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/human_dregs/st…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/human_dregs/status/2060503585603903902",
+          "start": 40,
+          "url": "https://t.co/UvLxLQ70uI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060524414639260018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060503585603903902",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "我喜欢绳子其实就是这个原因，我被绑起来以后就没办法伤害任何人了，我会觉得很安全 https://t.co/UvLxLQ70uI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2060524414639260018",
+        "created_at": "2026-05-30T00:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T01:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060524414639260018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/human_dregs/st…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/human_dregs/status/2060503585603903902",
+              "start": 40,
+              "url": "https://t.co/UvLxLQ70uI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060524414639260018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060503585603903902",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我喜欢绳子其实就是这个原因，我被绑起来以后就没办法伤害任何人了，我会觉得很安全 https://t.co/UvLxLQ70uI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3428345293",
+        "conversation_id": "2060382500237746568",
+        "created_at": "2026-05-29T23:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T00:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060503585603903902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1989191439339933696",
+              "start": 0,
+              "username": "Hiro8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060503585603903902",
+        "in_reply_to_user_id": "1989191439339933696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060382500237746568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiro8964 就应该把手反绑在身后"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "💰https://t.co/ifiQvlVhub\n❤️@noaayoyaoaya ⚜️@irisdesombres \n🪼@amber_digit @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 72,
+                "start": 60,
+                "username": "amber_digit"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 24,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 1,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5440,
+          "following_count": 936,
+          "like_count": 4143,
+          "listed_count": 11,
+          "media_count": 105,
+          "tweet_count": 1943
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2015-09-02T18:00:23.000Z",
+        "description": "Toronto-🇨🇦 | MtF | HRT 5.23 2023 | 高P | 想变得更好看 | 喜欢猫🐈‍⬛ | @LightQuantumhah",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "LightQuantumhah"
+              }
+            ]
+          }
+        },
+        "id": "3428345293",
+        "location": "Toronto, Ontario",
+        "name": "人心沉淀物",
+        "pinned_tweet_id": "1934844514361069746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660189972438175744/rOdngCe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 1000,
+          "like_count": 8063,
+          "listed_count": 12,
+          "media_count": 235,
+          "tweet_count": 1740
+        },
+        "username": "Human_Dregs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2057937808057061508",
+    "created_at": "2026-05-23T02:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T03:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058011707167912018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1596427841943793664",
+          "start": 0,
+          "username": "TheWonderofu_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058011707167912018",
+    "in_reply_to_user_id": "1596427841943793664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058010170761068622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheWonderofu_1 是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2057937808057061508",
+        "created_at": "2026-05-23T02:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058011707167912018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1596427841943793664",
+              "start": 0,
+              "username": "TheWonderofu_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058011707167912018",
+        "in_reply_to_user_id": "1596427841943793664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058010170761068622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheWonderofu_1 是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596427841943793664",
+        "conversation_id": "2057937808057061508",
+        "created_at": "2026-05-23T02:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058010170761068622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058010170761068622",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057937808057061508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 中国人对所有的残障都太凶狠了，尤其是精神疾病和自闭症谱系……视障听障还有些表面的肤浅的包容，然而也不多。前两天那个博主造假后出现大批“一看她就是假的，视障为什么要出门给路人添麻烦？”的言论，看得人要崩溃…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/XWFKRZnw6Y"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057203465730801664/2vAIcjtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3827,
+          "following_count": 847,
+          "like_count": 3658,
+          "listed_count": 9,
+          "media_count": 60,
+          "tweet_count": 1608
+        },
+        "url": "https://t.co/XWFKRZnw6Y",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-26T08:57:23.000Z",
+        "description": "想要成为人｜祝你愉快",
+        "id": "1596427841943793664",
+        "location": "直到世界把我们分开",
+        "name": "GZ_",
+        "pinned_tweet_id": "2053921691190059384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015678671093370880/gWA3z00l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 254,
+          "like_count": 7334,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 2570
+        },
+        "username": "TheWonderofu_1",
+        "verified": false
+      }
+    ]
+  }
+}

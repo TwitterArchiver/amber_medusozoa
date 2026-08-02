@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2079765781282484472",
+    "created_at": "2026-07-22T03:18:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T04:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079768039789105412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1397850509323554817",
+          "start": 0,
+          "username": "noaayoyaoaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079768039789105412",
+    "in_reply_to_user_id": "1397850509323554817",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079765781282484472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noaayoyaoaya 🪼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079765774462537729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNzP8-ra0AEAB9-.jpg",
+        "width": 1010
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2079765781282484472",
+        "created_at": "2026-07-22T03:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079768039789105412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1397850509323554817",
+              "start": 0,
+              "username": "noaayoyaoaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079768039789105412",
+        "in_reply_to_user_id": "1397850509323554817",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079765781282484472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noaayoyaoaya 🪼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079765774462537729"
+          ]
+        },
+        "author_id": "1397850509323554817",
+        "conversation_id": "2079765781282484472",
+        "created_at": "2026-07-22T03:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079765781282484472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/svjQ0X5mAi",
+              "end": 48,
+              "expanded_url": "https://x.com/noaayoyaoaya/status/2079765781282484472/photo/1",
+              "media_key": "3_2079765774462537729",
+              "start": 25,
+              "url": "https://t.co/svjQ0X5mAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079765781282484472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们amber老师的老家刚好有个水母山是什么意思 https://t.co/svjQ0X5mAi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0lo74G",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 55,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 32,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6870,
+          "following_count": 1168,
+          "like_count": 6871,
+          "listed_count": 10,
+          "media_count": 357,
+          "tweet_count": 3946
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-27T09:42:01.000Z",
+        "description": "你好 我是那由\n小号 @noaayoyaoaya1\n🪼@amber_medusozoa\n🐱@kirimarainfelis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "noaayoyaoaya1"
+              },
+              {
+                "end": 43,
+                "start": 27,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 61,
+                "start": 45,
+                "username": "kirimarainfelis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Hp2U0Rck9wU5O…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Hp2U0Rck9wU5OGY0",
+                "start": 0,
+                "url": "https://t.co/aEspHWqhXk"
+              }
+            ]
+          }
+        },
+        "id": "1397850509323554817",
+        "name": "那由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626023028818681860/Tg9u2Z8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22006,
+          "following_count": 899,
+          "like_count": 10847,
+          "listed_count": 32,
+          "media_count": 131,
+          "tweet_count": 5414
+        },
+        "url": "https://t.co/aEspHWqhXk",
+        "username": "noaayoyaoaya",
+        "verified": true
+      }
+    ]
+  }
+}

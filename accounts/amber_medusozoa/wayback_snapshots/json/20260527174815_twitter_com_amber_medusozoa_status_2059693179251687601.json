@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2059690653206892757",
+    "created_at": "2026-05-27T17:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059693179251687601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2486372011",
+          "start": 0,
+          "username": "Meowneko_Mio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059693179251687601",
+    "in_reply_to_user_id": "2486372011",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059692816637583837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meowneko_Mio 我知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2059690653206892757",
+        "created_at": "2026-05-27T17:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059693179251687601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2486372011",
+              "start": 0,
+              "username": "Meowneko_Mio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059693179251687601",
+        "in_reply_to_user_id": "2486372011",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059692816637583837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meowneko_Mio 我知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2486372011",
+        "conversation_id": "2059690653206892757",
+        "created_at": "2026-05-27T17:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059692816637583837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059692816637583837",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059690653206892757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 我認識的好多已逝之人死前沒有告訴任何人⋯都是確認自己死透的時候設好了的定時消息😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🥰 https://t.co/ifiQvlVhub\n❤️@noaayoyaoaya\n⚜️@irisdesombres\n📣 @amber_digit @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "amber_digit"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 25,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 2,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 Toronto",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4705,
+          "following_count": 898,
+          "like_count": 3998,
+          "listed_count": 11,
+          "media_count": 82,
+          "tweet_count": 1811
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2014-05-10T01:56:58.000Z",
+        "description": "Moonlight @RedteaCattleya ｜📷 | 🚃 | 🇲🇴 | 🇭🇰 | contact@amiya.eu.org ｜Best Linux @debian｜💫@McXiaowei @RenkoUsagi1155",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "RedteaCattleya"
+              },
+              {
+                "end": 85,
+                "start": 78,
+                "username": "debian"
+              },
+              {
+                "end": 97,
+                "start": 87,
+                "username": "McXiaowei"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "RenkoUsagi1155"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mio.mtf.im",
+                "end": 23,
+                "expanded_url": "https://mio.mtf.im/",
+                "start": 0,
+                "url": "https://t.co/pXwKl7p7Cy"
+              }
+            ]
+          }
+        },
+        "id": "2486372011",
+        "name": "Mio",
+        "pinned_tweet_id": "1911442925419975127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000262071259377664/pPzK0Ja7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 887,
+          "like_count": 79423,
+          "listed_count": 4,
+          "media_count": 572,
+          "tweet_count": 4664
+        },
+        "url": "https://t.co/pXwKl7p7Cy",
+        "username": "Meowneko_Mio",
+        "verified": false
+      }
+    ]
+  }
+}

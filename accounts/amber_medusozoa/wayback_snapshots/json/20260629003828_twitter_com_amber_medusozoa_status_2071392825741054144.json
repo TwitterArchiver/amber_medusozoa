@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2071375103372182003",
+    "created_at": "2026-06-29T00:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T01:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071392825741054144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1658764040884088833",
+          "start": 0,
+          "username": "JenieIsNotM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071392825741054144",
+    "in_reply_to_user_id": "1658764040884088833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071392320080199973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JenieIsNotM 因为我在学校系统里一开始的身份是男性，后来发现了问题也来不及改了，因为住了一段时间也不想换宿舍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2071375103372182003",
+        "created_at": "2026-06-29T00:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T01:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071392825741054144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1658764040884088833",
+              "start": 0,
+              "username": "JenieIsNotM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071392825741054144",
+        "in_reply_to_user_id": "1658764040884088833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071392320080199973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JenieIsNotM 因为我在学校系统里一开始的身份是男性，后来发现了问题也来不及改了，因为住了一段时间也不想换宿舍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658764040884088833",
+        "conversation_id": "2071375103372182003",
+        "created_at": "2026-06-29T00:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T01:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071392320080199973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071392320080199973",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071375103372182003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa ？為什麼住男生宿舍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6059,
+          "following_count": 1033,
+          "like_count": 5418,
+          "listed_count": 10,
+          "media_count": 238,
+          "tweet_count": 2924
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-17T09:19:01.000Z",
+        "description": "👑🌸🐝/混血毒舌肉肉女孩✨愛吃愛喝愛看靚女一切美麗新人類🌷/友跨友同友性少數但不友白癡也不友任何粉紅LGBT\n/宇宙最甜妹妹 @KawaiRabiori\n#bbw #肉肉女孩 《時不時整點小抽獎》",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 81,
+                "start": 77,
+                "tag": "bbw"
+              },
+              {
+                "end": 87,
+                "start": 82,
+                "tag": "肉肉女孩"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "KawaiRabiori"
+              }
+            ]
+          }
+        },
+        "id": "1658764040884088833",
+        "location": "距離您2km",
+        "name": "🌙✨妮娅不是M",
+        "pinned_tweet_id": "2006425129212170686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037023365563899904/pcJZv1Ml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 588,
+          "like_count": 3627,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 2873
+        },
+        "url": "",
+        "username": "JenieIsNotM",
+        "verified": false
+      }
+    ]
+  }
+}

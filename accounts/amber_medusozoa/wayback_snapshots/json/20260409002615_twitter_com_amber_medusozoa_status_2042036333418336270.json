@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1571905646437404672",
+          "name": "Sam Levinson"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "id": "1571905646437404672",
+          "name": "Sam Levinson"
+        }
+      },
+      {
+        "domain": {
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+          "id": "58",
+          "name": "Entertainment Personality"
+        },
+        "entity": {
+          "id": "1571905646437404672",
+          "name": "Sam Levinson"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303714393855672327",
+          "name": "Hollywood actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303715075421646849",
+          "name": "Actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1571905646437404672",
+          "name": "Sam Levinson"
+        }
+      }
+    ],
+    "conversation_id": "2042036333418336270",
+    "created_at": "2026-04-09T00:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T01:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042036333418336270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1909609985669251072",
+          "start": 3,
+          "username": "dearfranchaelas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042036333418336270",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2064
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041665750885380203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @dearfranchaelas: This being written mostly by Hunter and it’s so beautiful and profound that it pissed of Sam Levinson so much he decid…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1571905646437404672",
+              "name": "Sam Levinson"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1571905646437404672",
+              "name": "Sam Levinson"
+            }
+          },
+          {
+            "domain": {
+              "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+              "id": "58",
+              "name": "Entertainment Personality"
+            },
+            "entity": {
+              "id": "1571905646437404672",
+              "name": "Sam Levinson"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303714393855672327",
+              "name": "Hollywood actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303715075421646849",
+              "name": "Actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1571905646437404672",
+              "name": "Sam Levinson"
+            }
+          }
+        ],
+        "conversation_id": "2042036333418336270",
+        "created_at": "2026-04-09T00:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T01:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042036333418336270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1909609985669251072",
+              "start": 3,
+              "username": "dearfranchaelas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042036333418336270",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2064
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041665750885380203",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @dearfranchaelas: This being written mostly by Hunter and it’s so beautiful and profound that it pissed of Sam Levinson so much he decid…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909609985669251072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1571905646437404672",
+              "name": "Sam Levinson"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1571905646437404672",
+              "name": "Sam Levinson"
+            }
+          },
+          {
+            "domain": {
+              "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+              "id": "58",
+              "name": "Entertainment Personality"
+            },
+            "entity": {
+              "id": "1571905646437404672",
+              "name": "Sam Levinson"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303714393855672327",
+              "name": "Hollywood actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303715075421646849",
+              "name": "Actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1571905646437404672",
+              "name": "Sam Levinson"
+            }
+          }
+        ],
+        "conversation_id": "2041665750885380203",
+        "created_at": "2026-04-07T23:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T00:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041665750885380203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hbocontent/sta…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/hbocontent/status/2041601763967467791",
+              "start": 143,
+              "url": "https://t.co/1YmZIVGRnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041665750885380203",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1214,
+          "impression_count": 505103,
+          "like_count": 35329,
+          "quote_count": 21,
+          "reply_count": 15,
+          "retweet_count": 2064
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041601763967467791",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "This being written mostly by Hunter and it’s so beautiful and profound that it pissed of Sam Levinson so much he decided to ruin her character https://t.co/1YmZIVGRnu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 670,
+          "like_count": 1763,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1243
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T14:11:25.000Z",
+        "description": "mdni pls @silkchiffonss is my other acc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "silkchiffonss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dearfranchaelas.straw.page",
+                "end": 23,
+                "expanded_url": "https://dearfranchaelas.straw.page/",
+                "start": 0,
+                "url": "https://t.co/xMfypWj8uc"
+              }
+            ]
+          }
+        },
+        "id": "1909609985669251072",
+        "location": "she/her dyke",
+        "name": "🤍",
+        "pinned_tweet_id": "2039140307678437764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040827932634193920/X2U-xhHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2166,
+          "following_count": 554,
+          "like_count": 7939,
+          "listed_count": 8,
+          "media_count": 1602,
+          "tweet_count": 8681
+        },
+        "url": "https://t.co/xMfypWj8uc",
+        "username": "dearfranchaelas",
+        "verified": false
+      }
+    ]
+  }
+}

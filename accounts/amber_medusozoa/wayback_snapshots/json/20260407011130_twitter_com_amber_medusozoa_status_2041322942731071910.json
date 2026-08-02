@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2041322942731071910",
+    "created_at": "2026-04-07T01:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T02:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041322942731071910"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nagiexpress/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/nagiexpress/status/2041268620790005974",
+          "start": 17,
+          "url": "https://t.co/Op4KNoogxX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041322942731071910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041268620790005974",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "写这么一长串也是很把自己当回事了 https://t.co/Op4KNoogxX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2041322942731071910",
+        "created_at": "2026-04-07T01:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T02:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041322942731071910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nagiexpress/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/nagiexpress/status/2041268620790005974",
+              "start": 17,
+              "url": "https://t.co/Op4KNoogxX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041322942731071910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041268620790005974",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "写这么一长串也是很把自己当回事了 https://t.co/Op4KNoogxX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754494415152766976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2041268620790005974",
+        "created_at": "2026-04-06T21:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T22:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041268620790005974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/calsys456/stat…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/calsys456/status/2040800829859561708",
+              "start": 154,
+              "url": "https://t.co/jfwtceiAes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041268620790005974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有一说一\n要是我没看到别人说这事\n我还真把这事给忘了\n没想到一下子就过了两年了\n说真的时间过得挺快\n趁有蓝标可以写长文\n总结复盘一下吧\n\n24年初我创了个号叫心漪\n嗯就是现在这个号\ncosplay国内女高\n简单发发日常和赛博贴贴\n\n当初这么做，应该是两个原因\n一是试着通过角色扮演去体验普通xyn的心路历程\n二是觉得好玩\n还记得当时甚至每天晚上睡前还在3am（北京时间11am）发送定时推文，以提高真实性\n\n结果嘛\n角色扮演是挺好玩的\n可惜没体验到他们的心路历程\n人的经历确实是不可复制的，观念也是\n\n有一说一\n当初的心漪\n其实和现在的我一样\n也是个日常推\n当时喜欢粤菜\n现在是全球可飞吃遍世界美食\n如果把这些不入某些人眼的所谓“抽象文案”忽略掉\n这俩人其实没有本质区别\n无非一个手里有点零花钱\n一个天天要上学\n透过现象看本质\n这对于正常人来说\n应该是必备技能\n\n讲真我现在依然喜欢去扮演去体验各种不同的角色\n比如说之前混男同圈\n或者我喜欢到处旅游去体验不同国家不同城市人们的日常\n都是同样的原因\n正如我的口头禅：也算是一种独特的人生体验了\n\n似乎已经很久没玩多角色play了\n为什么呢\n可能是比之前更务实，或者是更功利了\n有这个时间精力\n跑欧陆尝美食\n跑拉美体验文化\n回国找帅哥或者吃xnh\n显然更有趣\n\n聊几句唐吧\n首先我对别人的评价标准\n与善恶无关\n除非影响到我切身利益\n否则一个人带来的信息量和信息密度\n就是他对我的价值\n\n唐带来的信息量也算是圈子里顶流了\n跟trump应该能一决高下\n看得出来在很用心的经营人设了\n再加上其他配角的加持\n确实是一部大剧\n可以算是跨圈川普\n密度的话\n在跨圈里也是中上水平了\n如果抛开善恶不谈（我价值观里确实没有善恶这个概念）\n唐在amber之上\n\n只可惜全程只在一个圈子里泡着\n嗯我觉得有点单调\n真正厉害的人\n能在很多圈子里都出彩\n只不过他现在才这个年龄\n人生应该还长\n可能再过个几年\n就会更厉害的吧\n但也说不准\n毕竟很多人把一个圈子当家\n就这么呆个几年甚至十几年\n\n顺带拆拆唐的某些心路历程\n他依然在乎善恶\n还需要一个行为或者证据\n来设法证明自己是善良的\n讲真有点狭隘\n只不过谁知道以后会变成什么样呢"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 504,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040800829859561708",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有一说一\n要是我没看到别人说这事\n我还真把这事给忘了\n没想到一下子就过了两年了\n说真的时间过得挺快\n趁有蓝标可以写长文\n总结复盘一下吧\n\n24年初我创了个号叫心漪\n嗯就是现在这个号\ncosplay国内女高\n简单发发日常和赛博贴贴\n\n当初这么做，应该是两个原因\n一是试着通过角色扮演去体验普通xyn的心路历程 https://t.co/jfwtceiAes"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 629,
+          "like_count": 1424,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 983
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "含糖男同",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhSw2y"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "Nagi想舔你喉结",
+        "pinned_tweet_id": "2040202395301319130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038314504044335104/MN_aoLzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5342,
+          "following_count": 2282,
+          "like_count": 25820,
+          "listed_count": 8,
+          "media_count": 2222,
+          "tweet_count": 21842
+        },
+        "url": "https://t.co/nRq8LhSw2y",
+        "username": "NagiExpress",
+        "verified": true
+      }
+    ]
+  }
+}

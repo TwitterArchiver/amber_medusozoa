@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2047175205001322540",
+    "created_at": "2026-04-28T08:59:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T09:59:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049050826585301117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1687475463474626560",
+          "start": 0,
+          "username": "CWorker62279"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049050826585301117",
+    "in_reply_to_user_id": "1687475463474626560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049050227231850843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CWorker62279 我没车"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2047175205001322540",
+        "created_at": "2026-04-28T08:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049050826585301117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1687475463474626560",
+              "start": 0,
+              "username": "CWorker62279"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049050826585301117",
+        "in_reply_to_user_id": "1687475463474626560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049050227231850843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CWorker62279 我没车"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687475463474626560",
+        "conversation_id": "2047175205001322540",
+        "created_at": "2026-04-28T08:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049050227231850843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049050227231850843",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047175205001322540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 不能送外卖吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2551,
+          "following_count": 923,
+          "like_count": 3227,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 2180
+        },
+        "username": "amber_medusozoa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T14:48:42.000Z",
+        "description": "泛性恋|糖姬🏳️‍⚧️|🍥攒|RLE💖|发电🔋|中/日/En|🐱宠抗力无|双相|重抑转轻|大证针娘|饿了么正规军🥺|LibreFox🦊-00后 |🎊177cm/61kg|HRT 2023.3.26|🎯厦门-海沧/湖里\\姐妹@szc055555 闺蜜@aronicaend",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 111,
+                "username": "szc055555"
+              },
+              {
+                "end": 135,
+                "start": 124,
+                "username": "aronicaend"
+              }
+            ]
+          }
+        },
+        "id": "1687475463474626560",
+        "location": "fujian.xiamen.",
+        "name": "カドビわか",
+        "pinned_tweet_id": "2008821549068059057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041211341516726272/rsngAW97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1818,
+          "following_count": 627,
+          "like_count": 8970,
+          "listed_count": 7,
+          "media_count": 1043,
+          "tweet_count": 6608
+        },
+        "username": "CWorker62279",
+        "verified": false
+      }
+    ]
+  }
+}

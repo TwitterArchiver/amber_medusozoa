@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1338367160410726401",
+          "name": "Xiao Zhan"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1338367160410726401",
+          "name": "Xiao Zhan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "C-Pop",
+          "id": "1098263006213881856",
+          "name": "C-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303715075421646849",
+          "name": "Actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1338367160410726401",
+          "name": "Xiao Zhan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453011703235444736",
+          "name": "Chinese actors"
+        }
+      }
+    ],
+    "conversation_id": "2060189787890286703",
+    "created_at": "2026-05-29T02:41:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T03:41:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060189787890286703"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tomatodeking/s…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/tomatodeking/status/2060071042610311198",
+          "start": 63,
+          "url": "https://t.co/0wSzurpV5d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060189787890286703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060071042610311198",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "看到这个忽然觉得很好笑，227的事情能引起那么多争议单纯是因为有人把肖战写成了跨女性工作者，整场争议是建立在对我们的贱斥上的 https://t.co/0wSzurpV5d"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1338367160410726401",
+              "name": "Xiao Zhan"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1338367160410726401",
+              "name": "Xiao Zhan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "C-Pop",
+              "id": "1098263006213881856",
+              "name": "C-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303715075421646849",
+              "name": "Actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1338367160410726401",
+              "name": "Xiao Zhan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453011703235444736",
+              "name": "Chinese actors"
+            }
+          }
+        ],
+        "conversation_id": "2060189787890286703",
+        "created_at": "2026-05-29T02:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060189787890286703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tomatodeking/s…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/tomatodeking/status/2060071042610311198",
+              "start": 63,
+              "url": "https://t.co/0wSzurpV5d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060189787890286703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060071042610311198",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "看到这个忽然觉得很好笑，227的事情能引起那么多争议单纯是因为有人把肖战写成了跨女性工作者，整场争议是建立在对我们的贱斥上的 https://t.co/0wSzurpV5d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703018982390087680",
+        "conversation_id": "2060071042610311198",
+        "created_at": "2026-05-28T18:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060071042610311198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060071042610311198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1583,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说实在的这次和227有什么区别，当时没告诉我227还有527鹿野番外篇啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "💰 https://t.co/ifiQvlVhub\n❤️@noaayoyaoaya ⚜️@irisdesombres \n🪼 @amber_digit @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "amber_digit"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 25,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 2,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 Toronto",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5375,
+          "following_count": 920,
+          "like_count": 4081,
+          "listed_count": 12,
+          "media_count": 97,
+          "tweet_count": 1884
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-16T12:12:28.000Z",
+        "description": "是的，我超级幸福🍅",
+        "id": "1703018982390087680",
+        "location": "番茄牛腩汤",
+        "name": "她猫头₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "1802660733219635442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802713783418437632/CYcZHolW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8725,
+          "following_count": 125,
+          "like_count": 30235,
+          "listed_count": 19,
+          "media_count": 4239,
+          "tweet_count": 33951
+        },
+        "username": "TomatodeKing",
+        "verified": false
+      }
+    ]
+  }
+}

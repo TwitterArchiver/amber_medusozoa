@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2040158049151680864",
+    "created_at": "2026-04-03T20:47:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T21:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040169446388515248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1407215903406706688",
+          "start": 0,
+          "username": "Zako_Fries"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040169446388515248",
+    "in_reply_to_user_id": "1407215903406706688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040168276098179253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zako_Fries 确实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2040158049151680864",
+        "created_at": "2026-04-03T20:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T21:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040169446388515248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1407215903406706688",
+              "start": 0,
+              "username": "Zako_Fries"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040169446388515248",
+        "in_reply_to_user_id": "1407215903406706688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040168276098179253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zako_Fries 确实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407215903406706688",
+        "conversation_id": "2040158049151680864",
+        "created_at": "2026-04-03T20:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T21:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040168276098179253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040168276098179253",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040158049151680864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 妳怎麼也看這些？\n\n隨便吐槽：現在ai文什麼的好多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 520,
+          "like_count": 981,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 620
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-22T05:57:05.000Z",
+        "description": "是一隻超級缺抱抱的女同海豹",
+        "id": "1407215903406706688",
+        "location": "United States",
+        "name": "☮️ZakoFries🍥",
+        "pinned_tweet_id": "1961988587861483558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960474406888804352/2GN4Zy-8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 476,
+          "like_count": 4587,
+          "listed_count": 0,
+          "media_count": 464,
+          "tweet_count": 5487
+        },
+        "username": "Zako_Fries",
+        "verified": true
+      }
+    ]
+  }
+}

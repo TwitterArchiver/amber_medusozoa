@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2040950839339045056",
+    "created_at": "2026-04-06T00:32:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T01:32:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040950839339045056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1974148813481738242",
+          "start": 3,
+          "username": "Erisalyoshy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040950839339045056",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040811527960191020",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Erisalyoshy: Why can’t I just be pretty. I’m so tired of these people :("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2040950839339045056",
+        "created_at": "2026-04-06T00:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T01:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040950839339045056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1974148813481738242",
+              "start": 3,
+              "username": "Erisalyoshy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040950839339045056",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040811527960191020",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Erisalyoshy: Why can’t I just be pretty. I’m so tired of these people :("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974148813481738242",
+        "conversation_id": "2040811527960191020",
+        "created_at": "2026-04-05T15:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040811527960191020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/veryultraviole…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/veryultraviolet/status/2040549925323264176",
+              "start": 60,
+              "url": "https://t.co/dCXu0YgDiI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040811527960191020",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 8244,
+          "like_count": 330,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040549925323264176",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Why can’t I just be pretty. I’m so tired of these people :( https://t.co/dCXu0YgDiI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 590,
+          "like_count": 1273,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 870
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-03T16:25:37.000Z",
+        "description": "19-year-old Trans girl🏳️‍⚧️ from Norway 🇳🇴. Student. DMs open. Minors DNI",
+        "id": "1974148813481738242",
+        "location": "she/her",
+        "name": "Erika 🇳🇴✝️",
+        "pinned_tweet_id": "2028614958401913280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974150211913039872/B1UMlyU7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 241,
+          "like_count": 29639,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 5537
+        },
+        "username": "Erisalyoshy",
+        "verified": false
+      }
+    ]
+  }
+}

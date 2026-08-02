@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2078351975909851162",
+    "created_at": "2026-07-18T05:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T06:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078351975909851162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1646454178091515904",
+          "start": 3,
+          "username": "dohyunize"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078351975909851162",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6955
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078135257245819290",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dohyunize: tw // queerphobia\n\nhi guys, please take ur time to read this.\n\nnot too long ago, the president of Indonesia release a statem…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2078351975909851162",
+        "created_at": "2026-07-18T05:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T06:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078351975909851162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1646454178091515904",
+              "start": 3,
+              "username": "dohyunize"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078351975909851162",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6955
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078135257245819290",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dohyunize: tw // queerphobia\n\nhi guys, please take ur time to read this.\n\nnot too long ago, the president of Indonesia release a statem…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646454178091515904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2078135257245819290",
+        "created_at": "2026-07-17T15:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:09:21.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078134969390747982",
+          "2078135257245819290"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078135257245819290",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "tw // queerphobia\n\nhi guys, please take ur time to read this.\n\nnot too long ago, the president of Indonesia release a statement naming LGBTQIA+ \"agenda\" as a non-military threat to the nation. in result, queer people in my country are being witch hunted. anarchist cishet men in my country created an organization called \"boti hunter\" (boti=bottom/twinks) for each city. yesterday they made a move and flex it on social media targetting trans women at night who were working to make ends meet. they brought bottles of alcoholic drinks and smashing it around them, and it resulted around 15 trans women getting beaten, kicked, and doused with urine.\n\nthey have been threatening queer people on social media by doxxing and cyber-bullying them with threats, as far as death and rape. there are screenshots of cishet men encouraging their fellows saying \"let's beat up lesbians and strip them naked so they can go back to normal\".\n\nas you know, i identify myself as a fem-leaning queer (closeted irl) and i have been actively using social media to retaliate against violence targetting marginalized people and i also make my time to speak about political crisis happening in my country. but, as far as my bravery can go, i'm starting to feel terrified, many of us queers don't even feel safe in our social media, which is our only safe space for so long. the government is oppressing us, this is a call for help!!! we really can't do anything to change this situation unless the world listen to us."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 997,
+          "impression_count": 158953,
+          "like_count": 13982,
+          "quote_count": 112,
+          "reply_count": 26,
+          "retweet_count": 6955
+        },
+        "reply_settings": "everyone",
+        "text": "tw // queerphobia\n\nhi guys, please take ur time to read this.\n\nnot too long ago, the president of Indonesia release a statement naming LGBTQIA+ \"agenda\" as a non-military threat to the nation. in result, queer people in my country are being witch hunted. anarchist cishet men in"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her #药娘\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0lo74G",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 15,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 59,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 36,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6719,
+          "following_count": 1152,
+          "like_count": 6641,
+          "listed_count": 11,
+          "media_count": 325,
+          "tweet_count": 3780
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-13T10:04:14.000Z",
+        "description": "pr manager for: #NotesFromTheLastRow #AShopForKillers2 #FourHandsTwoSonatas  — kdrama & film commentary + review ˚ʚ♡ɞ˚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 16,
+                "tag": "NotesFromTheLastRow"
+              },
+              {
+                "end": 54,
+                "start": 37,
+                "tag": "AShopForKillers2"
+              },
+              {
+                "end": 75,
+                "start": 55,
+                "tag": "FourHandsTwoSonatas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dohyunize.straw.page",
+                "end": 23,
+                "expanded_url": "http://dohyunize.straw.page",
+                "start": 0,
+                "url": "https://t.co/SoA21FiPWG"
+              }
+            ]
+          }
+        },
+        "id": "1646454178091515904",
+        "location": "#이도현 #최현욱 — ⋆𐙚˚",
+        "name": "june! ֶָ֢𐚁๋࣭⭑ֶָ֢",
+        "pinned_tweet_id": "2005350553392734317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076689926696075264/q15IjvZ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1665,
+          "following_count": 569,
+          "like_count": 50155,
+          "listed_count": 10,
+          "media_count": 3812,
+          "tweet_count": 23616
+        },
+        "url": "https://t.co/SoA21FiPWG",
+        "username": "dohyunize",
+        "verified": false
+      }
+    ]
+  }
+}

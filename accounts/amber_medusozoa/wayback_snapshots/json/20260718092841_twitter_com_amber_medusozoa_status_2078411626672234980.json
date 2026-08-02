@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2078411626672234980",
+    "created_at": "2026-07-18T09:28:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T10:28:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078411626672234980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1313169923376582662",
+          "start": 3,
+          "username": "IzayasKnife"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078411626672234980",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 117
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078165509099389133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IzayasKnife: America really gives out hrt to everyone but trans people"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2078411626672234980",
+        "created_at": "2026-07-18T09:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T10:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078411626672234980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1313169923376582662",
+              "start": 3,
+              "username": "IzayasKnife"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078411626672234980",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 117
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078165509099389133",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IzayasKnife: America really gives out hrt to everyone but trans people"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1313169923376582662",
+        "conversation_id": "2078165509099389133",
+        "created_at": "2026-07-17T17:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078165509099389133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/interesting_ai…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/interesting_ail/status/2077664535578820842",
+              "start": 58,
+              "url": "https://t.co/3WvxZVLb1L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078165509099389133",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 14974,
+          "like_count": 1941,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 117
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077664535578820842",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "America really gives out hrt to everyone but trans people https://t.co/3WvxZVLb1L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "前世 @amber_toffee\n🏳️‍⚧️☭ she/her #药娘\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 76,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 53,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6761,
+          "following_count": 1157,
+          "like_count": 6667,
+          "listed_count": 11,
+          "media_count": 326,
+          "tweet_count": 3796
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-05T17:31:40.000Z",
+        "description": "tmasc aroace bi",
+        "id": "1313169923376582662",
+        "location": "20s | they/any | 𐂂",
+        "name": "🩵",
+        "pinned_tweet_id": "1867011793995932057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995365952112705536/Ql-A29z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 405,
+          "like_count": 320818,
+          "listed_count": 13,
+          "media_count": 3028,
+          "tweet_count": 113702
+        },
+        "url": "",
+        "username": "IzayasKnife",
+        "verified": false
+      }
+    ]
+  }
+}

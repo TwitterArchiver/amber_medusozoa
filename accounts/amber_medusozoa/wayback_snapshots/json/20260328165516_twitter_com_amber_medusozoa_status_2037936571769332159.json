@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cartoons",
+          "id": "847872663875837952",
+          "name": "Cartoons"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1192082698568814592",
+          "name": "Animation"
+        }
+      }
+    ],
+    "conversation_id": "2037936571769332159",
+    "created_at": "2026-03-28T16:55:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T17:55:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037936571769332159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1302303814679232512",
+          "start": 3,
+          "username": "left_plain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037936571769332159",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037927859709493667",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @left_plain: 亡国 histories (lost countries, tales of the annihilation of a polity) (centrally: Poland and Turkey, later Korea) played a h…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cartoons",
+              "id": "847872663875837952",
+              "name": "Cartoons"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          }
+        ],
+        "conversation_id": "2037936571769332159",
+        "created_at": "2026-03-28T16:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T17:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037936571769332159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1302303814679232512",
+              "start": 3,
+              "username": "left_plain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037936571769332159",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037927859709493667",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @left_plain: 亡国 histories (lost countries, tales of the annihilation of a polity) (centrally: Poland and Turkey, later Korea) played a h…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1302303814679232512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585787075575455744",
+              "name": "Historical"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cartoons",
+              "id": "847872663875837952",
+              "name": "Cartoons"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          }
+        ],
+        "conversation_id": "2037927859709493667",
+        "created_at": "2026-03-28T16:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T17:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037927859709493667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/egasmb/status/…",
+              "end": 301,
+              "expanded_url": "https://twitter.com/egasmb/status/2037503638344814796",
+              "start": 278,
+              "url": "https://t.co/LzYSlQKzML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037927859709493667",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1858,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037503638344814796",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "亡国 histories (lost countries, tales of the annihilation of a polity) (centrally: Poland and Turkey, later Korea) played a huge role in proving social-Darwinist ideology’s explanatory power in the context of the early Republican era formation of Chinese historical consciousness https://t.co/LzYSlQKzML"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 393,
+          "like_count": 600,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 437
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-05T17:53:26.000Z",
+        "description": "Third World Fourier, Culture Worker, Scribe to the Asiatic Bolshevik Horde. PhD student interested in Marx, Mongols, Maoists, Manchuria, manga. 翻天覆地，唯铁与血",
+        "id": "1302303814679232512",
+        "name": "leftpain",
+        "pinned_tweet_id": "1315490137330114560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1322064233543147520/fqe2sv31_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8514,
+          "following_count": 1045,
+          "like_count": 114269,
+          "listed_count": 20,
+          "media_count": 87,
+          "tweet_count": 6946
+        },
+        "username": "left_plain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2063704239856115786",
+    "created_at": "2026-06-07T19:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T20:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063704239856115786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "708541868842356736",
+          "start": 3,
+          "username": "SakanaAndPommes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063704239856115786",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063636421160632400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SakanaAndPommes: 英式民主："
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2063704239856115786",
+        "created_at": "2026-06-07T19:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T20:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063704239856115786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "708541868842356736",
+              "start": 3,
+              "username": "SakanaAndPommes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063704239856115786",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063636421160632400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SakanaAndPommes: 英式民主："
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "708541868842356736",
+        "conversation_id": "2063636421160632400",
+        "created_at": "2026-06-07T14:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063636421160632400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nomosevents/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/nomosevents/status/2063549618214903844",
+              "start": 6,
+              "url": "https://t.co/RVkUUrZLIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063636421160632400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1015,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063549618214903844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "英式民主： https://t.co/RVkUUrZLIO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya ⚜️@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5578,
+          "following_count": 962,
+          "like_count": 4406,
+          "listed_count": 10,
+          "media_count": 129,
+          "tweet_count": 2078
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-12T06:35:20.000Z",
+        "description": "把鱼鱼做成鱼排或者鱼板都是可以的———🚎🚎🚎🚈🚋/无能的赛博面点师/鸟厨/IGBTQLA+(学EE学的)/一所G5大学/🦋：https://t.co/RYQutiRY2u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/fish-s…",
+                "end": 85,
+                "expanded_url": "http://bsky.app/profile/fish-sakana.bsky.social",
+                "start": 62,
+                "url": "https://t.co/RYQutiRY2u"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+4VNwm3ZnlCI4Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+4VNwm3ZnlCI4ZWM1",
+                "start": 0,
+                "url": "https://t.co/XuRKFIY7VI"
+              }
+            ]
+          }
+        },
+        "id": "708541868842356736",
+        "location": "旧纽约",
+        "name": "雜魚薯條",
+        "pinned_tweet_id": "1852689758939455829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943365713630052352/LBdlYEDt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 644,
+          "like_count": 90073,
+          "listed_count": 3,
+          "media_count": 915,
+          "tweet_count": 13575
+        },
+        "url": "https://t.co/XuRKFIY7VI",
+        "username": "SakanaAndPommes",
+        "verified": false
+      }
+    ]
+  }
+}

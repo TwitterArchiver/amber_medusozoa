@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2044022511931928973",
+    "created_at": "2026-04-14T18:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T19:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044118329317593409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2032112283103739907",
+          "start": 0,
+          "username": "Cubic929"
+        },
+        {
+          "end": 24,
+          "id": "1870084330267217920",
+          "start": 10,
+          "username": "annregato1500"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044118329317593409",
+    "in_reply_to_user_id": "2032112283103739907",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044118184387850273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cubic929 @annregato1500 ☭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2044022511931928973",
+        "created_at": "2026-04-14T18:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T19:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044118329317593409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2032112283103739907",
+              "start": 0,
+              "username": "Cubic929"
+            },
+            {
+              "end": 24,
+              "id": "1870084330267217920",
+              "start": 10,
+              "username": "annregato1500"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044118329317593409",
+        "in_reply_to_user_id": "2032112283103739907",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044118184387850273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cubic929 @annregato1500 ☭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032112283103739907",
+        "conversation_id": "2044022511931928973",
+        "created_at": "2026-04-14T18:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T19:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044118184387850273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 31,
+              "id": "1870084330267217920",
+              "start": 17,
+              "username": "annregato1500"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044118184387850273",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044034231043588096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa @annregato1500 这个替代性的，愿闻其详？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2212,
+          "following_count": 742,
+          "like_count": 2177,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1577
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-12T15:12:03.000Z",
+        "description": "@Square527某平方的弹射座椅/\n23届北语国政/enby→mtf(?)/ADHD/爱人@dissolvingspace",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "Square527"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "dissolvingspace"
+              }
+            ]
+          }
+        },
+        "id": "2032112283103739907",
+        "location": "天津市",
+        "name": "某立方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032113165404946442/xL1s6IiZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 126,
+          "like_count": 5981,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 386
+        },
+        "username": "Cubic929",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T12:30:42.000Z",
+        "description": "les / base japan 川渝 /不要叫我老婆",
+        "id": "1870084330267217920",
+        "name": "annregato",
+        "pinned_tweet_id": "2038953035356098590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994599477571923968/ddEcadpB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 516,
+          "like_count": 10821,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 3869
+        },
+        "username": "annregato1500",
+        "verified": false
+      }
+    ]
+  }
+}

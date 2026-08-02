@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2079329040075301053",
+    "created_at": "2026-07-20T22:14:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T23:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079329040075301053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1410646915390267392",
+          "start": 3,
+          "username": "burnthelilacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079329040075301053",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078972917182779543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @burnthelilacs: actually this is wrong, if you're still not on hormones despite knowing you're trans, whatever age, lock in."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2079329040075301053",
+        "created_at": "2026-07-20T22:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T23:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079329040075301053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1410646915390267392",
+              "start": 3,
+              "username": "burnthelilacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079329040075301053",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078972917182779543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @burnthelilacs: actually this is wrong, if you're still not on hormones despite knowing you're trans, whatever age, lock in."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1410646915390267392",
+        "conversation_id": "2078972917182779543",
+        "created_at": "2026-07-19T22:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T23:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078972917182779543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/snowbriight/st…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/snowbriight/status/2078932964210098380",
+              "start": 109,
+              "url": "https://t.co/ktT8ZMQaIM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078972917182779543",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 18899,
+          "like_count": 1088,
+          "quote_count": 5,
+          "reply_count": 18,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078932964210098380",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "actually this is wrong, if you're still not on hormones despite knowing you're trans, whatever age, lock in. https://t.co/ktT8ZMQaIM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "前世 @amber_toffee\n🏳️‍⚧️☭ she/her #药娘\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 76,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 53,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6877,
+          "following_count": 1164,
+          "like_count": 6810,
+          "listed_count": 11,
+          "media_count": 341,
+          "tweet_count": 3893
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-01T17:10:23.000Z",
+        "description": "22, autistic lesbian biohacker, LA𝛵𝛦𝛸 pronouncer, bad at quizzing, 'huge problem to a sane world'",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/amekyr…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/amekyras.bsky.social",
+                "start": 0,
+                "url": "https://t.co/5XQxTxPOWD"
+              }
+            ]
+          }
+        },
+        "id": "1410646915390267392",
+        "location": "(she/her)",
+        "name": "Aisling",
+        "pinned_tweet_id": "2068142819827409007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019813916000264192/-cGFbBBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2163,
+          "following_count": 2094,
+          "like_count": 12394,
+          "listed_count": 19,
+          "media_count": 658,
+          "tweet_count": 21950
+        },
+        "url": "https://t.co/5XQxTxPOWD",
+        "username": "burnthelilacs",
+        "verified": false
+      }
+    ]
+  }
+}

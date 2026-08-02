@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063937380415934464"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2063937385147019421",
+    "created_at": "2026-06-08T10:53:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063937385147019421"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iLtJIjcSFL",
+          "end": 37,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2063937385147019421/photo/1",
+          "media_key": "3_2063937380415934464",
+          "start": 14,
+          "url": "https://t.co/iLtJIjcSFL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063937385147019421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那由床上这个小狗玩具好可爱 https://t.co/iLtJIjcSFL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063937380415934464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSUHL5XkAAHeJ5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063937380415934464"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2063937385147019421",
+        "created_at": "2026-06-08T10:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063937385147019421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iLtJIjcSFL",
+              "end": 37,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2063937385147019421/photo/1",
+              "media_key": "3_2063937380415934464",
+              "start": 14,
+              "url": "https://t.co/iLtJIjcSFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063937385147019421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那由床上这个小狗玩具好可爱 https://t.co/iLtJIjcSFL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya ⚜️@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5604,
+          "following_count": 971,
+          "like_count": 4454,
+          "listed_count": 10,
+          "media_count": 135,
+          "tweet_count": 2114
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

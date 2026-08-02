@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2071562442677592202",
+    "created_at": "2026-06-29T11:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T12:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071562442677592202"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/minimalnerd1/s…",
+          "end": 105,
+          "expanded_url": "https://twitter.com/minimalnerd1/status/2071460473456021572",
+          "start": 82,
+          "url": "https://t.co/98xms5DR1v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071562442677592202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071460473456021572",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得 Liquid Glass 最失败的一点就是它完全没有起到像 MD 一样在视觉层面规范层级关系的功能型作用，形式并没有起到范导内容的作用还让一切变得更混乱了 https://t.co/98xms5DR1v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2071460468728934400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9OUjzaMAAT__2.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2071562442677592202",
+        "created_at": "2026-06-29T11:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071562442677592202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minimalnerd1/s…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/minimalnerd1/status/2071460473456021572",
+              "start": 82,
+              "url": "https://t.co/98xms5DR1v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071562442677592202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071460473456021572",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得 Liquid Glass 最失败的一点就是它完全没有起到像 MD 一样在视觉层面规范层级关系的功能型作用，形式并没有起到范导内容的作用还让一切变得更混乱了 https://t.co/98xms5DR1v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071460468728934400"
+          ]
+        },
+        "author_id": "1279370446261981184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2071460473456021572",
+        "created_at": "2026-06-29T05:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T06:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071460473456021572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aZXnbujhVn",
+              "end": 94,
+              "expanded_url": "https://x.com/minimalnerd1/status/2071460473456021572/photo/1",
+              "media_key": "3_2071460468728934400",
+              "start": 71,
+              "url": "https://t.co/aZXnbujhVn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071460473456021572",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 5275,
+          "like_count": 183,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Liquid Glass on macOS 27 finally feels well refined across the system! https://t.co/aZXnbujhVn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6091,
+          "following_count": 1032,
+          "like_count": 5441,
+          "listed_count": 10,
+          "media_count": 239,
+          "tweet_count": 2949
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-04T11:04:52.000Z",
+        "description": "Designer × Tech Creator | Viral  concepts | Bridging design and tech, minimally | Industry-featured",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/minimalnerd",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/minimalnerd",
+                "start": 0,
+                "url": "https://t.co/vcA7kEqIDC"
+              }
+            ]
+          }
+        },
+        "id": "1279370446261981184",
+        "name": "Minimal Nerd",
+        "pinned_tweet_id": "1938291369661063571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066736757568339968/VZPTOSsm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8257,
+          "following_count": 498,
+          "like_count": 14924,
+          "listed_count": 50,
+          "media_count": 3315,
+          "tweet_count": 6128
+        },
+        "url": "https://t.co/vcA7kEqIDC",
+        "username": "minimalnerd1",
+        "verified": true
+      }
+    ]
+  }
+}

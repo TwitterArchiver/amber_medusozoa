@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2065024304656339309",
+    "created_at": "2026-06-11T17:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T18:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065127269467652511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1546075741430751232",
+          "start": 0,
+          "username": "0GaS_Pr0toc0l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065127269467652511",
+    "in_reply_to_user_id": "1546075741430751232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065062372713369729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0GaS_Pr0toc0l 你真的只吃碳水吗？不吃油脂吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2065024304656339309",
+        "created_at": "2026-06-11T17:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T18:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065127269467652511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1546075741430751232",
+              "start": 0,
+              "username": "0GaS_Pr0toc0l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065127269467652511",
+        "in_reply_to_user_id": "1546075741430751232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065062372713369729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0GaS_Pr0toc0l 你真的只吃碳水吗？不吃油脂吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546075741430751232",
+        "conversation_id": "2065024304656339309",
+        "created_at": "2026-06-11T13:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065062372713369729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065062372713369729",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065024304656339309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 你们这些怎么吃碳水都不会胖的人没有权利为我们胖子发声😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya ⚜️@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5777,
+          "following_count": 988,
+          "like_count": 4789,
+          "listed_count": 10,
+          "media_count": 161,
+          "tweet_count": 2313
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-10T10:16:13.000Z",
+        "description": "🌈 Pansexual | he/them |CN/EN|现在是生活推了，但我会骂所有我看不惯的玩意。二次元/计算机/战雷/猫猫友好",
+        "id": "1546075741430751232",
+        "location": "Jurong West, Singapore",
+        "name": "6Ж1П-ЕВ 🇲🇾🏳️‍⚧️",
+        "pinned_tweet_id": "2055733292327149898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018773427046539264/L2oVMaOM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1626,
+          "following_count": 1761,
+          "like_count": 20207,
+          "listed_count": 10,
+          "media_count": 770,
+          "tweet_count": 14821
+        },
+        "username": "0GaS_Pr0toc0l",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072667180278087680"
+      ],
+      "media_source_tweet_id": [
+        "2072667184526987646"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2072913639753888006",
+    "created_at": "2026-07-03T05:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T06:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072913639753888006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1512336335050350594",
+          "start": 3,
+          "username": "brinehav3n"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lWM6PsmPqi",
+          "end": 46,
+          "expanded_url": "https://x.com/brinehav3n/status/2072667184526987646/photo/1",
+          "media_key": "3_2072667180278087680",
+          "start": 23,
+          "url": "https://t.co/lWM6PsmPqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072913639753888006",
+    "lang": "no",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1232
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072667184526987646",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @brinehav3n: brutal https://t.co/lWM6PsmPqi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1308,
+        "media_key": "3_2072667180278087680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOX0aoWAAAfMBy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072667180278087680"
+          ],
+          "media_source_tweet_id": [
+            "2072667184526987646"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2072913639753888006",
+        "created_at": "2026-07-03T05:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072913639753888006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1512336335050350594",
+              "start": 3,
+              "username": "brinehav3n"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lWM6PsmPqi",
+              "end": 46,
+              "expanded_url": "https://x.com/brinehav3n/status/2072667184526987646/photo/1",
+              "media_key": "3_2072667180278087680",
+              "start": 23,
+              "url": "https://t.co/lWM6PsmPqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072913639753888006",
+        "lang": "no",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1232
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072667184526987646",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @brinehav3n: brutal https://t.co/lWM6PsmPqi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072667180278087680"
+          ]
+        },
+        "author_id": "1512336335050350594",
+        "conversation_id": "2072667184526987646",
+        "created_at": "2026-07-02T13:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072667184526987646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lWM6PsmPqi",
+              "end": 30,
+              "expanded_url": "https://x.com/brinehav3n/status/2072667184526987646/photo/1",
+              "media_key": "3_2072667180278087680",
+              "start": 7,
+              "url": "https://t.co/lWM6PsmPqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072667184526987646",
+        "lang": "no",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3985,
+          "impression_count": 746615,
+          "like_count": 39246,
+          "quote_count": 371,
+          "reply_count": 137,
+          "retweet_count": 1232
+        },
+        "reply_settings": "everyone",
+        "text": "brutal https://t.co/lWM6PsmPqi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya \n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6176,
+          "following_count": 1039,
+          "like_count": 5708,
+          "listed_count": 10,
+          "media_count": 256,
+          "tweet_count": 3169
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-08T07:48:38.000Z",
+        "description": "afagabamafab eunuch. not having a good time.",
+        "id": "1512336335050350594",
+        "name": "brinebrine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058805439815413761/5bHg02Sj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2001,
+          "following_count": 360,
+          "like_count": 5060,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 1979
+        },
+        "url": "",
+        "username": "brinehav3n",
+        "verified": false
+      }
+    ]
+  }
+}

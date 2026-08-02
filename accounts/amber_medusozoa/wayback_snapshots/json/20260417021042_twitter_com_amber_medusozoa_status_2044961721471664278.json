@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2044955053815951585",
+    "created_at": "2026-04-17T02:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T03:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044961721471664278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1646905533386100738",
+          "start": 0,
+          "username": "du_allen45136"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044961721471664278",
+    "in_reply_to_user_id": "1646905533386100738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044961594031980915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@du_allen45136 本人前几天刚被打过肚子 感觉很喜欢捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2044955053815951585",
+        "created_at": "2026-04-17T02:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T03:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044961721471664278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1646905533386100738",
+              "start": 0,
+              "username": "du_allen45136"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044961721471664278",
+        "in_reply_to_user_id": "1646905533386100738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044961594031980915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@du_allen45136 本人前几天刚被打过肚子 感觉很喜欢捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646905533386100738",
+        "conversation_id": "2044955053815951585",
+        "created_at": "2026-04-17T02:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T03:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044961594031980915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044961594031980915",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044955053815951585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 啊啊真的吗？难道不是本子里发明出来的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/qBX9bbnFOS"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2317,
+          "following_count": 790,
+          "like_count": 2343,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 1679
+        },
+        "url": "https://t.co/qBX9bbnFOS",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-14T15:58:06.000Z",
+        "description": "哲学专业大二丨生活推和一些随想 丨喜欢单机主机游戏丨如果你经常点赞或者给出了有价值的回复，我就会回fo",
+        "id": "1646905533386100738",
+        "location": "Massachusetts, USA",
+        "name": "Duber",
+        "pinned_tweet_id": "1672938437538885637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950224135340064770/UQm44Rlv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 80,
+          "like_count": 3641,
+          "listed_count": 2,
+          "media_count": 314,
+          "tweet_count": 1671
+        },
+        "username": "du_allen45136",
+        "verified": true
+      }
+    ]
+  }
+}

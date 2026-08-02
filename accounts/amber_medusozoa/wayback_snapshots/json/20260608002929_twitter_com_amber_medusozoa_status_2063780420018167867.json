@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063780415836442624"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063780420018167867",
+    "created_at": "2026-06-08T00:29:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T01:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063780420018167867"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RNZuYhjSCe",
+          "end": 27,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2063780420018167867/photo/1",
+          "media_key": "3_2063780415836442624",
+          "start": 4,
+          "url": "https://t.co/RNZuYhjSCe"
+        },
+        {
+          "display_url": "x.com/amber_medusozo…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/amber_medusozoa/status/2063766274652397783",
+          "start": 28,
+          "url": "https://t.co/MNSKlJJB2N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063780420018167867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063766274652397783",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "开炫😋 https://t.co/RNZuYhjSCe https://t.co/MNSKlJJB2N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063780415836442624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQFWpRW0AA4nXa.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063765826587525120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKP4FcFXAAAxi8U.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1496,
+        "media_key": "3_2063765826595860481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKP4FcHWMAEz1XB.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063766270730702848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKP4fSpWEAAmZoz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063780415836442624"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063780420018167867",
+        "created_at": "2026-06-08T00:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T01:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063780420018167867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RNZuYhjSCe",
+              "end": 27,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2063780420018167867/photo/1",
+              "media_key": "3_2063780415836442624",
+              "start": 4,
+              "url": "https://t.co/RNZuYhjSCe"
+            },
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2063766274652397783",
+              "start": 28,
+              "url": "https://t.co/MNSKlJJB2N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063780420018167867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063766274652397783",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开炫😋 https://t.co/RNZuYhjSCe https://t.co/MNSKlJJB2N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063765826587525120",
+            "3_2063765826595860481",
+            "3_2063766270730702848"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063766274652397783",
+        "created_at": "2026-06-07T23:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T00:31:31.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063765831096361104",
+          "2063766274652397783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wz8IsIQGBL",
+              "end": 56,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2063766274652397783/photo/1",
+              "media_key": "3_2063765826587525120",
+              "start": 33,
+              "url": "https://t.co/Wz8IsIQGBL"
+            },
+            {
+              "display_url": "pic.x.com/Wz8IsIQGBL",
+              "end": 56,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2063766274652397783/photo/1",
+              "media_key": "3_2063765826595860481",
+              "start": 33,
+              "url": "https://t.co/Wz8IsIQGBL"
+            },
+            {
+              "display_url": "pic.x.com/Wz8IsIQGBL",
+              "end": 56,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2063766274652397783/photo/1",
+              "media_key": "3_2063766270730702848",
+              "start": 33,
+              "url": "https://t.co/Wz8IsIQGBL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063766274652397783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "脂肪掉完了，开始增重，看看能不能让新长出来的肉调整到正确的地方去 https://t.co/Wz8IsIQGBL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya ⚜️@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5584,
+          "following_count": 966,
+          "like_count": 4429,
+          "listed_count": 10,
+          "media_count": 134,
+          "tweet_count": 2092
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

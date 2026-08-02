@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2063692094779113895",
+    "created_at": "2026-06-07T18:38:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T19:38:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063692094779113895"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lgbtr_ellenya/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/lgbtr_ellenya/status/2063612920257257618",
+          "start": 24,
+          "url": "https://t.co/j0do9W71z5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063692094779113895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063612920257257618",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我拼命减肥饿自己把自己搞成ed就是因为这种评论 https://t.co/j0do9W71z5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2063692094779113895",
+        "created_at": "2026-06-07T18:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063692094779113895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lgbtr_ellenya/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/lgbtr_ellenya/status/2063612920257257618",
+              "start": 24,
+              "url": "https://t.co/j0do9W71z5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063692094779113895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063612920257257618",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我拼命减肥饿自己把自己搞成ed就是因为这种评论 https://t.co/j0do9W71z5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1180408815478607873",
+        "conversation_id": "2063611430763405524",
+        "created_at": "2026-06-07T13:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063612920257257618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063612920257257618",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063611430763405524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 因为肥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya ⚜️@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5579,
+          "following_count": 962,
+          "like_count": 4401,
+          "listed_count": 10,
+          "media_count": 129,
+          "tweet_count": 2074
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-05T09:06:17.000Z",
+        "description": "痛定思痛，感谢你在世界的角落找到我，生理结构侏罗兽大黑耗子，心理认同哈基咪。哈基咪一世秽土转生 @LGBBQ_Ellenya\n痛定思痛，不发布观点，不造谣，只讲事实逻辑\n痛定思痛为党为国为民\n误b私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "LGBBQ_Ellenya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cpc.people.com.cn/GB/64107/index…",
+                "end": 23,
+                "expanded_url": "https://cpc.people.com.cn/GB/64107/index.html",
+                "start": 0,
+                "url": "https://t.co/d0OuSTuUTO"
+              }
+            ]
+          }
+        },
+        "id": "1180408815478607873",
+        "location": "Iberian Union",
+        "name": "糖基哈德•艾琳娜•千秋（推友寻回中）",
+        "pinned_tweet_id": "2043764375232663560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042929657192886272/iYyUQHtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 1088,
+          "like_count": 52974,
+          "listed_count": 10,
+          "media_count": 2207,
+          "tweet_count": 22858
+        },
+        "url": "https://t.co/d0OuSTuUTO",
+        "username": "LGBTR_Ellenya",
+        "verified": true
+      }
+    ]
+  }
+}

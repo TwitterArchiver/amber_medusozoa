@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2042439222368288873",
+    "created_at": "2026-04-10T03:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T04:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042440439479865385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1167640618539147265",
+          "start": 0,
+          "username": "ChibaSaki2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042440439479865385",
+    "in_reply_to_user_id": "1167640618539147265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042440317589196892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChibaSaki2 等你身材恢复咱们一起穿好看裙子拍照"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2042439222368288873",
+        "created_at": "2026-04-10T03:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042440439479865385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1167640618539147265",
+              "start": 0,
+              "username": "ChibaSaki2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042440439479865385",
+        "in_reply_to_user_id": "1167640618539147265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042440317589196892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChibaSaki2 等你身材恢复咱们一起穿好看裙子拍照"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1167640618539147265",
+        "conversation_id": "2042439222368288873",
+        "created_at": "2026-04-10T03:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042440317589196892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042440317589196892",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042439222368288873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 不知道该说啥 但是我也为你开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1999,
+          "following_count": 691,
+          "like_count": 1912,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1330
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-31T03:30:01.000Z",
+        "description": "I am who we used to be. @laurelbbmode",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "laurelbbmode"
+              }
+            ]
+          }
+        },
+        "id": "1167640618539147265",
+        "location": "University, Toronto",
+        "name": "Laurel（履霜）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761786056087666688/fOBPiQdg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 189,
+          "like_count": 5059,
+          "listed_count": 6,
+          "media_count": 200,
+          "tweet_count": 749
+        },
+        "username": "ChibaSaki2",
+        "verified": false
+      }
+    ]
+  }
+}

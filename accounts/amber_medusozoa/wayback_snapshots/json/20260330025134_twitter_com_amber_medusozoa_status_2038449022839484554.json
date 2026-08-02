@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2038446924349477196",
+    "created_at": "2026-03-30T02:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T03:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038449022839484554"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038449022839484554",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038446924349477196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家说的都挺好的我就不参与了捏  喜欢看大家都很有活力的样子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038446920020926466",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEoErHFWIAIenB2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2038446924349477196",
+        "created_at": "2026-03-30T02:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T03:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038449022839484554"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038449022839484554",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038446924349477196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家说的都挺好的我就不参与了捏  喜欢看大家都很有活力的样子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038446920020926466"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2038446924349477196",
+        "created_at": "2026-03-30T02:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T03:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038446924349477196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BlE8Z7DKcu",
+              "end": 63,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2038446924349477196/photo/1",
+              "media_key": "3_2038446920020926466",
+              "start": 40,
+              "url": "https://t.co/BlE8Z7DKcu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038446924349477196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只要我努力伸脖子\n我就会拥有长脖子\n\n以后只要我的首页互关们吵架\n我就会发自拍 https://t.co/BlE8Z7DKcu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 412,
+          "like_count": 698,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 487
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

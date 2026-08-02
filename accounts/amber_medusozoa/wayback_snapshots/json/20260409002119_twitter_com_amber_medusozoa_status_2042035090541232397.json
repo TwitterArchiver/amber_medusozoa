@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2042035090541232397",
+    "created_at": "2026-04-09T00:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T01:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042035090541232397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1969872854528536576",
+          "start": 3,
+          "username": "IzanamiTickler"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042035090541232397",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 692
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041771641265434718",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IzanamiTickler: are you dumb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2042035090541232397",
+        "created_at": "2026-04-09T00:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T01:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042035090541232397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1969872854528536576",
+              "start": 3,
+              "username": "IzanamiTickler"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042035090541232397",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 692
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041771641265434718",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IzanamiTickler: are you dumb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969872854528536576",
+        "conversation_id": "2041771641265434718",
+        "created_at": "2026-04-08T06:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T07:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041771641265434718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/heyshipz/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/heyshipz/status/2041436367398543747",
+              "start": 13,
+              "url": "https://t.co/9Gf9HbiEV6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041771641265434718",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1222,
+          "impression_count": 3051099,
+          "like_count": 35181,
+          "quote_count": 14,
+          "reply_count": 98,
+          "retweet_count": 692
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041436367398543747",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "are you dumb https://t.co/9Gf9HbiEV6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 670,
+          "like_count": 1762,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1242
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T21:14:30.000Z",
+        "description": "mw - sani @wolfwooff1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "wolfwooff1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sakiglaze.straw.page",
+                "end": 23,
+                "expanded_url": "https://sakiglaze.straw.page",
+                "start": 0,
+                "url": "https://t.co/sNmkVMhfBL"
+              }
+            ]
+          }
+        },
+        "id": "1969872854528536576",
+        "name": "Eden ⚢ 🇺🇦🇮🇷🇵🇸",
+        "pinned_tweet_id": "2027827469940576424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037841136828751872/G028qeVY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 292,
+          "like_count": 61208,
+          "listed_count": 10,
+          "media_count": 5566,
+          "tweet_count": 29770
+        },
+        "url": "https://t.co/sNmkVMhfBL",
+        "username": "IzanamiTickler",
+        "verified": false
+      }
+    ]
+  }
+}

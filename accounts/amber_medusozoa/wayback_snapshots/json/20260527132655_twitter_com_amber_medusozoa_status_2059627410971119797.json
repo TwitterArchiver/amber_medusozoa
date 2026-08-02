@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Conversation about eating",
+          "id": "1006277774384828416",
+          "name": "Food experience"
+        }
+      }
+    ],
+    "conversation_id": "2059627410971119797",
+    "created_at": "2026-05-27T13:26:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:26:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059627410971119797"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/peppercoyote/s…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/peppercoyote/status/2059466964549226702",
+          "start": 46,
+          "url": "https://t.co/wLgHq4MNyr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059627410971119797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059466964549226702",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "到底是中产中国人觉得只有中国没人穷到吃不起饭更可笑，还是我们美国锤子镰刀友人居然信了更可笑 https://t.co/wLgHq4MNyr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Conversation about eating",
+              "id": "1006277774384828416",
+              "name": "Food experience"
+            }
+          }
+        ],
+        "conversation_id": "2059627410971119797",
+        "created_at": "2026-05-27T13:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059627410971119797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/peppercoyote/s…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/peppercoyote/status/2059466964549226702",
+              "start": 46,
+              "url": "https://t.co/wLgHq4MNyr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059627410971119797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059466964549226702",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到底是中产中国人觉得只有中国没人穷到吃不起饭更可笑，还是我们美国锤子镰刀友人居然信了更可笑 https://t.co/wLgHq4MNyr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "58082510",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Conversation about eating",
+              "id": "1006277774384828416",
+              "name": "Food experience"
+            }
+          }
+        ],
+        "conversation_id": "2059466964549226702",
+        "created_at": "2026-05-27T02:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059466964549226702"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059466964549226702",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 785,
+          "impression_count": 491872,
+          "like_count": 27111,
+          "quote_count": 26,
+          "reply_count": 149,
+          "retweet_count": 955
+        },
+        "reply_settings": "everyone",
+        "text": "When I was in China, a Chinese friend of mine looked me straight in the face and asked:\n\n“I hear in America that if you don’t have food to eat, they will just let you starve and die. That can’t be true, right?”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🥰 https://t.co/ifiQvlVhub\n❤️@noaayoyaoaya\n⚜️@irisdesombres\n📣 @amber_digit @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "amber_digit"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 25,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 2,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 Toronto",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4655,
+          "following_count": 897,
+          "like_count": 3964,
+          "listed_count": 12,
+          "media_count": 78,
+          "tweet_count": 1767
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2009-07-19T01:17:01.000Z",
+        "description": "First and only furry musician. La ti do re ti, sol la. Google me. https://t.co/2v5CxvIjeP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/peppercoyote",
+                "end": 89,
+                "expanded_url": "http://patreon.com/peppercoyote",
+                "start": 66,
+                "url": "https://t.co/2v5CxvIjeP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "PepperCoyote.bandcamp.com",
+                "end": 23,
+                "expanded_url": "http://PepperCoyote.bandcamp.com",
+                "start": 0,
+                "url": "https://t.co/GOI0E8nJCF"
+              }
+            ]
+          }
+        },
+        "id": "58082510",
+        "location": "Phoenix",
+        "name": "PepperCoyote🇺🇸☭",
+        "pinned_tweet_id": "2040837872366800924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895190752004628481/0JEMrJSF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18245,
+          "following_count": 2499,
+          "like_count": 159012,
+          "listed_count": 147,
+          "media_count": 7048,
+          "tweet_count": 108626
+        },
+        "url": "https://t.co/GOI0E8nJCF",
+        "username": "peppercoyote",
+        "verified": true
+      }
+    ]
+  }
+}

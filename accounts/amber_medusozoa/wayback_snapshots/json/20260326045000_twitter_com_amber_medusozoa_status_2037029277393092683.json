@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2036971581994316131",
+    "created_at": "2026-03-26T04:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T05:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037029277393092683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1623489861251661824",
+          "start": 0,
+          "username": "qiqizi1204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037029277393092683",
+    "in_reply_to_user_id": "1623489861251661824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037026936501973356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiqizi1204 ！这是什么 哪里来的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037026928402849795",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HET5MuFbYAMvSC3.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2036971581994316131",
+        "created_at": "2026-03-26T04:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T05:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037029277393092683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1623489861251661824",
+              "start": 0,
+              "username": "qiqizi1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037029277393092683",
+        "in_reply_to_user_id": "1623489861251661824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037026936501973356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiqizi1204 ！这是什么 哪里来的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037026928402849795"
+          ]
+        },
+        "author_id": "1623489861251661824",
+        "conversation_id": "2036971581994316131",
+        "created_at": "2026-03-26T04:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T05:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037026936501973356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I7M4QfmfRs",
+              "end": 66,
+              "expanded_url": "https://x.com/qiqizi1204/status/2037026936501973356/photo/1",
+              "media_key": "3_2037026928402849795",
+              "start": 43,
+              "url": "https://t.co/I7M4QfmfRs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037026936501973356",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036971690337468647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 想起了一个片段，虽然不是那么合适叭，但还是想发给你 https://t.co/I7M4QfmfRs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 329,
+          "like_count": 338,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 236
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-09T01:12:14.000Z",
+        "description": "",
+        "id": "1623489861251661824",
+        "name": "依依",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018131349253832704/5Xpee1X8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 22,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 67
+        },
+        "username": "qiqizi1204",
+        "verified": false
+      }
+    ]
+  }
+}

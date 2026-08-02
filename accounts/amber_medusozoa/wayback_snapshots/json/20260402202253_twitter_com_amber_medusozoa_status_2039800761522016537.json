@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2039764889816694968",
+    "created_at": "2026-04-02T20:22:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T21:22:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039800761522016537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1962556266196418560",
+          "start": 0,
+          "username": "HCl_Chen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039800761522016537",
+    "in_reply_to_user_id": "1962556266196418560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039800554432454902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HCl_Chen 确实不太够，我后面又吃了三个馒头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2039764889816694968",
+        "created_at": "2026-04-02T20:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T21:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039800761522016537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1962556266196418560",
+              "start": 0,
+              "username": "HCl_Chen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039800761522016537",
+        "in_reply_to_user_id": "1962556266196418560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039800554432454902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HCl_Chen 确实不太够，我后面又吃了三个馒头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962556266196418560",
+        "conversation_id": "2039764889816694968",
+        "created_at": "2026-04-02T20:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T21:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039800554432454902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039800554432454902",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039764889816694968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 又是魔芋面吗，好可怕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2038459897726074909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1483,
+          "following_count": 487,
+          "like_count": 889,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 563
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-01T16:41:00.000Z",
+        "description": "是稀盐酸\nA cup of 0.1M HCl(aq)\n前化竞人，BBO，BCHO，CCHO老登\n没闯出名堂的家伙\nUofTSG G1 LifeSci 在读\n好痛苦",
+        "id": "1962556266196418560",
+        "name": "HCl_HClO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000629619783872521/Q3L3wRRQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 117,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 515
+        },
+        "username": "HCl_Chen",
+        "verified": true
+      }
+    ]
+  }
+}

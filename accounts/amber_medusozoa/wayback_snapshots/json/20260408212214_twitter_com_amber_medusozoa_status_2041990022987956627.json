@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2041961421718900959",
+    "created_at": "2026-04-08T21:22:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T22:22:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041990022987956627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1823560880476577794",
+          "start": 0,
+          "username": "VolonArendt"
+        },
+        {
+          "end": 26,
+          "id": "1832688819017277440",
+          "start": 13,
+          "username": "homeCollider"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041990022987956627",
+    "in_reply_to_user_id": "1823560880476577794",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041989535886930225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VolonArendt @homeCollider 不知道啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2041961421718900959",
+        "created_at": "2026-04-08T21:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T22:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041990022987956627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1823560880476577794",
+              "start": 0,
+              "username": "VolonArendt"
+            },
+            {
+              "end": 26,
+              "id": "1832688819017277440",
+              "start": 13,
+              "username": "homeCollider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041990022987956627",
+        "in_reply_to_user_id": "1823560880476577794",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041989535886930225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VolonArendt @homeCollider 不知道啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823560880476577794",
+        "conversation_id": "2041961421718900959",
+        "created_at": "2026-04-08T21:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T22:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041989535886930225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1832688819017277440",
+              "start": 0,
+              "username": "homeCollider"
+            },
+            {
+              "end": 30,
+              "id": "2035882965671215104",
+              "start": 14,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041989535886930225",
+        "in_reply_to_user_id": "1832688819017277440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041988471515181202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@homeCollider @amber_medusozoa 不儿 这俩赛博人不会无止境地唠下去吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQvilj"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1924,
+          "following_count": 670,
+          "like_count": 1734,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1220
+        },
+        "url": "https://t.co/AxbISQvilj",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-14T03:23:00.000Z",
+        "description": "不仅要有知识的精度，还要有知识的广度——钟秉林",
+        "id": "1823560880476577794",
+        "location": "Valhalla",
+        "name": "Curuz•Doan（忙）",
+        "pinned_tweet_id": "2024121979540750424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020839033375723520/cMYh7JM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 48,
+          "like_count": 8489,
+          "listed_count": 1,
+          "media_count": 276,
+          "tweet_count": 4698
+        },
+        "username": "VolonArendt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T07:54:25.000Z",
+        "description": "🏳️‍⚧️ Trans-female | Platform Architect | 讼棍 | Quantic MBA '26\n如果哪天我不在了，就请忘掉我，这是我的愿望。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "carolyn.sh",
+                "end": 23,
+                "expanded_url": "https://carolyn.sh",
+                "start": 0,
+                "url": "https://t.co/HrFfX51DR0"
+              }
+            ]
+          }
+        },
+        "id": "1832688819017277440",
+        "location": "Shanghai",
+        "name": "家用粒子对撞机",
+        "pinned_tweet_id": "1981006583816753388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039767465450983424/yYDG7LJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 231,
+          "like_count": 987,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 348
+        },
+        "url": "https://t.co/HrFfX51DR0",
+        "username": "homeCollider",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2037612093650633130",
+    "created_at": "2026-03-27T19:25:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T20:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037612093650633130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1994727203750514688",
+          "start": 3,
+          "username": "Loveyanouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037612093650633130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014919349124075717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Loveyanouo: 每次看到那种明明长得很好看很瘦还说自己是投注的婊子我就想一巴掌给你盖过去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2037612093650633130",
+        "created_at": "2026-03-27T19:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T20:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037612093650633130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1994727203750514688",
+              "start": 3,
+              "username": "Loveyanouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037612093650633130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014919349124075717",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Loveyanouo: 每次看到那种明明长得很好看很瘦还说自己是投注的婊子我就想一巴掌给你盖过去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994727203750514688",
+        "conversation_id": "2014919349124075717",
+        "created_at": "2026-01-24T04:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T05:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014919349124075717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014919349124075717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 77987,
+          "like_count": 885,
+          "quote_count": 5,
+          "reply_count": 22,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "每次看到那种明明长得很好看很瘦还说自己是投注的婊子我就想一巴掌给你盖过去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 374,
+          "like_count": 539,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 398
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-29T11:20:36.000Z",
+        "description": "其实我挺可爱的！",
+        "id": "1994727203750514688",
+        "location": "🚪288/520",
+        "name": "小草莓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015446207611432960/NyZwylPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 34,
+          "like_count": 254,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 872
+        },
+        "username": "Loveyanouo",
+        "verified": false
+      }
+    ]
+  }
+}

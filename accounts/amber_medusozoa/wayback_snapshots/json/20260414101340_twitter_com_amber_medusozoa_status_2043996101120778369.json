@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2043978671610810745",
+    "created_at": "2026-04-14T10:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T11:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043996101120778369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1466804204983693313",
+          "start": 0,
+          "username": "TiluTiluAcc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043996101120778369",
+    "in_reply_to_user_id": "1466804204983693313",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043989277244326233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TiluTiluAcc 我不懂啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2043978671610810745",
+        "created_at": "2026-04-14T10:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043996101120778369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1466804204983693313",
+              "start": 0,
+              "username": "TiluTiluAcc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043996101120778369",
+        "in_reply_to_user_id": "1466804204983693313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043989277244326233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TiluTiluAcc 我不懂啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1466804204983693313",
+        "conversation_id": "2043978671610810745",
+        "created_at": "2026-04-14T09:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043989277244326233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043989277244326233",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043978671610810745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa ?????他到底在说什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2078,
+          "following_count": 735,
+          "like_count": 2138,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1533
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-03T16:19:15.000Z",
+        "description": "priv: @Izzonii_is_on_E , the transsexualism is real, #1 rated faggem since 2005, I am the tgirl agenda, Marxism with bæddelist characteristics",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 6,
+                "username": "Izzonii_is_on_E"
+              }
+            ]
+          }
+        },
+        "id": "1466804204983693313",
+        "location": "HRT 2024/10/1🇨🇳 ",
+        "name": "Ul‘tilu ☭/acc Bæddelmoder",
+        "pinned_tweet_id": "1747956416235872452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965387703568269317/g7CVxMpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 1028,
+          "like_count": 18200,
+          "listed_count": 5,
+          "media_count": 696,
+          "tweet_count": 8213
+        },
+        "username": "TiluTiluAcc",
+        "verified": false
+      }
+    ]
+  }
+}

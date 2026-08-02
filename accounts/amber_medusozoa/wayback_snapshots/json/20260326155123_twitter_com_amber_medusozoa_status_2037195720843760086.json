@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2037195042549272918",
+    "created_at": "2026-03-26T15:51:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T16:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037195720843760086"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037195720843760086",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037195042549272918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然后谁批评你你就说对方没有大慧根"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2037195042549272918",
+        "created_at": "2026-03-26T15:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037195720843760086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037195720843760086",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037195042549272918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后谁批评你你就说对方没有大慧根"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2037195042549272918",
+        "created_at": "2026-03-26T15:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037195042549272918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linyue7523/sta…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/linyue7523/status/2037087084054454447",
+              "start": 59,
+              "url": "https://t.co/Pj4K6zy3JO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037195042549272918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037087084054454447",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你这样说肯定会被骂嘛，你得说大部分人都是性压抑男用跨性别正当化自己的xp，再骂一骂性别研究就齐活了，到时候一堆人夸你 https://t.co/Pj4K6zy3JO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 346,
+          "like_count": 413,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 290
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

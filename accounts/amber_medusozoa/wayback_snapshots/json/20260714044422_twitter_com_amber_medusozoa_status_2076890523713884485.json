@@ -1,0 +1,546 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076890519494402048",
+        "3_2076890519494356992",
+        "3_2076890519502831616",
+        "3_2076890519494332416"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "986247671663898625",
+          "name": "Star Wars"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "986247671663898625",
+          "name": "Star Wars"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2076890523713884485",
+    "created_at": "2026-07-14T04:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T05:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076890523713884485"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZdrmEbGmGi",
+          "end": 23,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2076890523713884485/photo/1",
+          "media_key": "3_2076890519494402048",
+          "start": 0,
+          "url": "https://t.co/ZdrmEbGmGi"
+        },
+        {
+          "display_url": "pic.x.com/ZdrmEbGmGi",
+          "end": 23,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2076890523713884485/photo/1",
+          "media_key": "3_2076890519494356992",
+          "start": 0,
+          "url": "https://t.co/ZdrmEbGmGi"
+        },
+        {
+          "display_url": "pic.x.com/ZdrmEbGmGi",
+          "end": 23,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2076890523713884485/photo/1",
+          "media_key": "3_2076890519502831616",
+          "start": 0,
+          "url": "https://t.co/ZdrmEbGmGi"
+        },
+        {
+          "display_url": "pic.x.com/ZdrmEbGmGi",
+          "end": 23,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2076890523713884485/photo/1",
+          "media_key": "3_2076890519494332416",
+          "start": 0,
+          "url": "https://t.co/ZdrmEbGmGi"
+        },
+        {
+          "display_url": "x.com/pierbiwierbi/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/pierbiwierbi/status/2076863158636138981",
+          "start": 24,
+          "url": "https://t.co/CXwZY3wUm8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076890523713884485",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076863158636138981",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/ZdrmEbGmGi https://t.co/CXwZY3wUm8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2002,
+        "media_key": "3_2076890519494402048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKY7HPXIAAa9EL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2076890519494356992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKY7HPWcAAXDIf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076890519502831616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKY7HRXwAASNsK.jpg",
+        "width": 1540
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076890519494332416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKY7HPWEAAq7j-.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076890519494402048",
+            "3_2076890519494356992",
+            "3_2076890519502831616",
+            "3_2076890519494332416"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "986247671663898625",
+              "name": "Star Wars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "986247671663898625",
+              "name": "Star Wars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2076890523713884485",
+        "created_at": "2026-07-14T04:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076890523713884485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZdrmEbGmGi",
+              "end": 23,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2076890523713884485/photo/1",
+              "media_key": "3_2076890519494402048",
+              "start": 0,
+              "url": "https://t.co/ZdrmEbGmGi"
+            },
+            {
+              "display_url": "pic.x.com/ZdrmEbGmGi",
+              "end": 23,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2076890523713884485/photo/1",
+              "media_key": "3_2076890519494356992",
+              "start": 0,
+              "url": "https://t.co/ZdrmEbGmGi"
+            },
+            {
+              "display_url": "pic.x.com/ZdrmEbGmGi",
+              "end": 23,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2076890523713884485/photo/1",
+              "media_key": "3_2076890519502831616",
+              "start": 0,
+              "url": "https://t.co/ZdrmEbGmGi"
+            },
+            {
+              "display_url": "pic.x.com/ZdrmEbGmGi",
+              "end": 23,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2076890523713884485/photo/1",
+              "media_key": "3_2076890519494332416",
+              "start": 0,
+              "url": "https://t.co/ZdrmEbGmGi"
+            },
+            {
+              "display_url": "x.com/pierbiwierbi/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/pierbiwierbi/status/2076863158636138981",
+              "start": 24,
+              "url": "https://t.co/CXwZY3wUm8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076890523713884485",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076863158636138981",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZdrmEbGmGi https://t.co/CXwZY3wUm8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554569213448273922",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "986247671663898625",
+              "name": "Star Wars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "986247671663898625",
+              "name": "Star Wars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2076863158636138981",
+        "created_at": "2026-07-14T02:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T03:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076863158636138981"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076863158636138981",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 12847,
+          "like_count": 522,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "they sometimes forget to tell u that sw eats at ur soul\n\nno i dont mean star wars"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n💖@amber_digit\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "amber_digit"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 70,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 47,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6541,
+          "following_count": 1077,
+          "like_count": 6187,
+          "listed_count": 11,
+          "media_count": 303,
+          "tweet_count": 3532
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-02T20:46:05.000Z",
+        "description": "vancouver 🇨🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.me/pierbi",
+                "end": 23,
+                "expanded_url": "http://link.me/pierbi",
+                "start": 0,
+                "url": "https://t.co/u9ZuYR3qwO"
+              }
+            ]
+          }
+        },
+        "id": "1554569213448273922",
+        "location": "my other socials →",
+        "name": "pierbi 🏳️‍⚧️",
+        "pinned_tweet_id": "2013429286263226496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052130835785191424/ptFntN1B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477799,
+          "following_count": 1128,
+          "like_count": 50844,
+          "listed_count": 565,
+          "media_count": 2842,
+          "tweet_count": 31358
+        },
+        "url": "https://t.co/u9ZuYR3qwO",
+        "username": "pierbiwierbi",
+        "verified": true
+      }
+    ]
+  }
+}

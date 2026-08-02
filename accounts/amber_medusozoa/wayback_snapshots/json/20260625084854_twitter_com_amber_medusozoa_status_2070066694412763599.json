@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2070039706751140090",
+    "created_at": "2026-06-25T08:48:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T09:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070066694412763599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1151704605140504576",
+          "start": 0,
+          "username": "zhongshui_L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070066694412763599",
+    "in_reply_to_user_id": "1151704605140504576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070039706751140090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhongshui_L 祝贺！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2070039706751140090",
+        "created_at": "2026-06-25T08:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070066694412763599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1151704605140504576",
+              "start": 0,
+              "username": "zhongshui_L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070066694412763599",
+        "in_reply_to_user_id": "1151704605140504576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070039706751140090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhongshui_L 祝贺！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1151704605140504576",
+        "conversation_id": "2070039706751140090",
+        "created_at": "2026-06-25T07:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070039706751140090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070039706751140090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天手术了🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6007,
+          "following_count": 1036,
+          "like_count": 5356,
+          "listed_count": 10,
+          "media_count": 222,
+          "tweet_count": 2843
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-18T04:05:50.000Z",
+        "description": "trans lesbian/女权主义/INF(T)P/社会民主主义/不爱回fo，见谅",
+        "id": "1151704605140504576",
+        "name": "中水🏳️‍⚧️",
+        "pinned_tweet_id": "1894321523529584804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815262362523643904/IhZ3igMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 306,
+          "like_count": 6480,
+          "listed_count": 6,
+          "media_count": 70,
+          "tweet_count": 1986
+        },
+        "url": "",
+        "username": "zhongshui_L",
+        "verified": false
+      }
+    ]
+  }
+}

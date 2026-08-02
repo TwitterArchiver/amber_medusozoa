@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2058745798477631977",
+    "created_at": "2026-05-28T17:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T18:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060054043880288426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1673913022711234562",
+          "start": 0,
+          "username": "wanxian5555"
+        },
+        {
+          "end": 26,
+          "id": "1424779836938022913",
+          "start": 13,
+          "username": "amber_toffee"
+        },
+        {
+          "end": 39,
+          "id": "2040565175514779648",
+          "start": 27,
+          "username": "amber_digit"
+        },
+        {
+          "end": 53,
+          "id": "2041159531657416704",
+          "start": 40,
+          "username": "amber_digit2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060054043880288426",
+    "in_reply_to_user_id": "1673913022711234562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060053564379271659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanxian5555 @amber_toffee @amber_digit @amber_digit2 是的（但我推特上的形象和小红书上有点不符 最好还是只记住我在小红书上的样子"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [amber_toffee].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "amber_toffee",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "amber_toffee"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060053561493594112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbHzK8aoAARSw5.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2058745798477631977",
+        "created_at": "2026-05-28T17:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060054043880288426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1673913022711234562",
+              "start": 0,
+              "username": "wanxian5555"
+            },
+            {
+              "end": 26,
+              "id": "1424779836938022913",
+              "start": 13,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 39,
+              "id": "2040565175514779648",
+              "start": 27,
+              "username": "amber_digit"
+            },
+            {
+              "end": 53,
+              "id": "2041159531657416704",
+              "start": 40,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060054043880288426",
+        "in_reply_to_user_id": "1673913022711234562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060053564379271659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanxian5555 @amber_toffee @amber_digit @amber_digit2 是的（但我推特上的形象和小红书上有点不符 最好还是只记住我在小红书上的样子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060053561493594112"
+          ]
+        },
+        "author_id": "1673913022711234562",
+        "conversation_id": "2058745798477631977",
+        "created_at": "2026-05-28T17:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060053564379271659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 30,
+              "id": "1424779836938022913",
+              "start": 17,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 43,
+              "id": "2040565175514779648",
+              "start": 31,
+              "username": "amber_digit"
+            },
+            {
+              "end": 57,
+              "id": "2041159531657416704",
+              "start": 44,
+              "username": "amber_digit2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NpoL2hy25y",
+              "end": 115,
+              "expanded_url": "https://x.com/wanxian5555/status/2060053564379271659/photo/1",
+              "media_key": "3_2060053561493594112",
+              "start": 92,
+              "url": "https://t.co/NpoL2hy25y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060053564379271659",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058745798477631977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa @amber_toffee @amber_digit @amber_digit2 真的是你！关注小红书好久了，我就说有点熟悉，没想到刷到本人推特号了 https://t.co/NpoL2hy25y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🥰 https://t.co/ifiQvlVhub\n❤️@noaayoyaoaya\n⚜️@irisdesombres\n📣 @amber_digit @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "amber_digit"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 25,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 2,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 Toronto",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5357,
+          "following_count": 915,
+          "like_count": 4056,
+          "listed_count": 12,
+          "media_count": 91,
+          "tweet_count": 1863
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-28T04:35:50.000Z",
+        "description": "这里是小鱼，文手，自家oc梦女，皮下MtF🏳️‍⚧️⚧️，跨女同🏳️‍🌈。女本位至上，跨女主义者（Transfeminism）。不要键政，不要开黄腔，不要反LGBTQ+，不要辱ally，其他都可以",
+        "id": "1673913022711234562",
+        "location": "蓬莱",
+        "name": "小鱼Nako",
+        "pinned_tweet_id": "1965314971988099540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965310160454516736/T4V9NTBF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 33,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 102
+        },
+        "username": "wanxian5555",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T23:00:50.000Z",
+        "description": "📢 @amber_medusozoa\n☕️ https://t.co/8wrbgvmggP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/8wrbgvmggP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/8wrbgvmggP"
+              }
+            ]
+          }
+        },
+        "id": "2040565175514779648",
+        "location": "🏳️‍⚧️she/her・🇨🇦 Toronto",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "pinned_tweet_id": "2052291257251123405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052280202512719874/upe5_UUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1847,
+          "following_count": 282,
+          "like_count": 301,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 1145
+        },
+        "url": "https://t.co/8wrbgvmggP",
+        "username": "amber_digit",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "📢 @amber_medusozoa\n💕 https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 44,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 21,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🪼",
+        "pinned_tweet_id": "2058909194775146809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2471,
+          "following_count": 425,
+          "like_count": 727,
+          "listed_count": 4,
+          "media_count": 45,
+          "tweet_count": 749
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

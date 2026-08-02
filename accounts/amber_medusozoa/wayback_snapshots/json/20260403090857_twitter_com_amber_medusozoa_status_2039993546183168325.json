@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2039993546183168325",
+    "created_at": "2026-04-03T09:08:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T10:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039993546183168325"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rococo90933671…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/rococo90933671/status/2039847850289291738",
+          "start": 14,
+          "url": "https://t.co/7lfS7ud69D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039993546183168325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039847850289291738",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是 虚数到底哪里反直觉了 https://t.co/7lfS7ud69D"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2039993546183168325",
+        "created_at": "2026-04-03T09:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039993546183168325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rococo90933671…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/rococo90933671/status/2039847850289291738",
+              "start": 14,
+              "url": "https://t.co/7lfS7ud69D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039993546183168325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039847850289291738",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是 虚数到底哪里反直觉了 https://t.co/7lfS7ud69D"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2039847850289291738",
+        "created_at": "2026-04-02T23:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T00:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039847850289291738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039847850289291738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "读高中的时候，你有没有想过：\n\n为什么会有虚数这种很反直觉，让人感觉不合逻辑的概念的存在？\n\n虚数的出现到底是为了解决什么问题？\n\n答案其实很简单，虚数的出现是为了解决实数系统的不完备性。\n\n什么意思呢？在数学中有一个很重要的概念叫“封闭性”。一个数集对某种运算封闭，意思是你在这个数集里任取两个数进行这种运算，结果仍然在这个数集里。\n\n自然数对加法封闭，因为任何两个自然数相加，结果还是自然数。\n\n但自然数对减法不封闭，因为3-5等于-2，-2不是自然数，于是我们引入负数，把自然数扩展成整数。\n\n整数对乘法封闭，但对除法不封闭。于是我们引入分数，把整数扩展成有理数。\n\n有理数对四则运算都封闭了，但对取极限不封闭。有些有理数列的极限是无理数，不在有理数集里。\n\n于是我们引入无理数，把有理数扩展成实数。\n\n实数看起来已经很完美了，但他对开方运算不封闭，负数的平方根不在实数集里。\n\n于是，我们引入虚数，把实数扩展成复数，复数对代数运算终于封闭了，任何一个负系数多项式方程在复数范围内都有解。\n\n这就是著名的代数基本定理，N次方程在复数范围内恰好有N个根。\n\n所以虚数的出现不是数学家的心血来潮，而是数学结构内在逻辑的必然要求。\n\n当运算规则遇到边界，要么放弃运算的普遍性，承认有些运算没有结果，要么扩展数的范围，让运算继续成立。数学家选择了后者，于是虚数诞生了。\n\n这个选择背后有一个深刻的哲学：保护运算规则，牺牲直观意义"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 14635,
+          "like_count": 135,
+          "quote_count": 6,
+          "reply_count": 21,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "读高中的时候，你有没有想过：\n\n为什么会有虚数这种很反直觉，让人感觉不合逻辑的概念的存在？\n\n虚数的出现到底是为了解决什么问题？\n\n答案其实很简单，虚数的出现是为了解决实数系统的不完备性。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 515,
+          "like_count": 962,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 610
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9930,
+          "following_count": 2819,
+          "like_count": 33568,
+          "listed_count": 28,
+          "media_count": 3530,
+          "tweet_count": 19682
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

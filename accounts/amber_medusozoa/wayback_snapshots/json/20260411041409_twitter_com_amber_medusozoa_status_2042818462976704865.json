@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2042818462976704865",
+    "created_at": "2026-04-11T04:14:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T05:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042818462976704865"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/syhily/status/…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/syhily/status/2041263522735395265",
+          "start": 17,
+          "url": "https://t.co/6yFqUotQz1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042818462976704865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041263522735395265",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得单纯是因为你自己都不理解… https://t.co/6yFqUotQz1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2042818462976704865",
+        "created_at": "2026-04-11T04:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042818462976704865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/syhily/status/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/syhily/status/2041263522735395265",
+              "start": 17,
+              "url": "https://t.co/6yFqUotQz1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042818462976704865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041263522735395265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得单纯是因为你自己都不理解… https://t.co/6yFqUotQz1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573206509625876481",
+        "conversation_id": "2041205065948823682",
+        "created_at": "2026-04-06T21:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T22:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041263522735395265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "786479809647869952",
+              "start": 0,
+              "username": "skywind3000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041263522735395265",
+        "in_reply_to_user_id": "786479809647869952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3135,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041251316014678358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skywind3000 对一个四岁的小孩，很难理解吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044,
+          "following_count": 695,
+          "like_count": 1977,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 1372
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-23T07:04:02.000Z",
+        "description": "#INTP-T @ApacheFlink の貢献者。Java、Go、Scala、Kotlin、ECMAScript、Python、Lua その他 6 つのプログラム言語でコーディング。読書が唯一の娯楽。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "INTP"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "ApacheFlink"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yufan.me",
+                "end": 23,
+                "expanded_url": "https://yufan.me",
+                "start": 0,
+                "url": "https://t.co/GxDZqZtWFB"
+              }
+            ]
+          }
+        },
+        "id": "1573206509625876481",
+        "location": "テイワット",
+        "name": "Yufan Sheng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011084413967482887/Kx4wh-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28907,
+          "following_count": 896,
+          "like_count": 5701,
+          "listed_count": 178,
+          "media_count": 2359,
+          "tweet_count": 10206
+        },
+        "url": "https://t.co/GxDZqZtWFB",
+        "username": "syhily",
+        "verified": false
+      }
+    ]
+  }
+}

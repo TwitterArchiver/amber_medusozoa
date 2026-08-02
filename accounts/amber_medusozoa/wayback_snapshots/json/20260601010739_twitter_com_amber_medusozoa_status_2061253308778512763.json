@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2060948060692193405",
+    "created_at": "2026-06-01T01:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T02:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061253308778512763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1015788561088630791",
+          "start": 0,
+          "username": "neko_ruyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061253308778512763",
+    "in_reply_to_user_id": "1015788561088630791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060951215899558331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neko_ruyue 你先回fo我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2060948060692193405",
+        "created_at": "2026-06-01T01:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T02:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061253308778512763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1015788561088630791",
+              "start": 0,
+              "username": "neko_ruyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061253308778512763",
+        "in_reply_to_user_id": "1015788561088630791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060951215899558331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko_ruyue 你先回fo我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1015788561088630791",
+        "conversation_id": "2060948060692193405",
+        "created_at": "2026-05-31T05:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060951215899558331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060951215899558331",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060948060692193405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 我可以吗老师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "☕️https://t.co/ifiQvlUJED\n❤️@noaayoyaoaya ⚜️@irisdesombres \n✨@amber_digit 🏳️‍⚧️@amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "amber_digit"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 25,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 2,
+                "url": "https://t.co/ifiQvlUJED"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5467,
+          "following_count": 946,
+          "like_count": 4205,
+          "listed_count": 10,
+          "media_count": 111,
+          "tweet_count": 1968
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-08T02:44:00.000Z",
+        "description": "",
+        "id": "1015788561088630791",
+        "name": "小猫月月",
+        "pinned_tweet_id": "2028420666077384893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006421945345286144/XZYVb9aR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33172,
+          "following_count": 4085,
+          "like_count": 151927,
+          "listed_count": 80,
+          "media_count": 2727,
+          "tweet_count": 30755
+        },
+        "username": "neko_ruyue",
+        "verified": false
+      }
+    ]
+  }
+}

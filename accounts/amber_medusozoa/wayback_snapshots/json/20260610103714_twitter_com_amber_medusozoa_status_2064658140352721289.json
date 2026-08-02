@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2064658140352721289",
+    "created_at": "2026-06-10T10:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064658140352721289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1454360653",
+          "start": 3,
+          "username": "1greencat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064658140352721289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064394870580777148",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1greencat: 这点确实 win的字真的是tm太丑太丑太丑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2064658140352721289",
+        "created_at": "2026-06-10T10:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064658140352721289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1454360653",
+              "start": 3,
+              "username": "1greencat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064658140352721289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064394870580777148",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1greencat: 这点确实 win的字真的是tm太丑太丑太丑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1454360653",
+        "conversation_id": "2064394870580777148",
+        "created_at": "2026-06-09T17:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064394870580777148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2064184270873092121",
+              "start": 23,
+              "url": "https://t.co/KWmLMtDXRz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064394870580777148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3136,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064184270873092121",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这点确实 win的字真的是tm太丑太丑太丑了 https://t.co/KWmLMtDXRz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya ⚜️@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5700,
+          "following_count": 979,
+          "like_count": 4681,
+          "listed_count": 10,
+          "media_count": 148,
+          "tweet_count": 2257
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2013-05-24T14:15:27.000Z",
+        "description": "不是所有的平板都是韩小寒",
+        "id": "1454360653",
+        "name": "一只绿喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1080051674855571456/AJ0OUWtp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8367,
+          "following_count": 479,
+          "like_count": 35495,
+          "listed_count": 37,
+          "media_count": 1569,
+          "tweet_count": 24659
+        },
+        "username": "1greencat",
+        "verified": false
+      }
+    ]
+  }
+}

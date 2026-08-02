@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2036297114464952419",
+    "created_at": "2026-03-24T04:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T05:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036297114464952419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1982450015927971840",
+          "start": 3,
+          "username": "xichuan412888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036297114464952419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034447753036923253",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xichuan412888: 大家，再也不见了哦，我活的真的好痛苦啊\n\n24t喹硫平35t坦度螺酮11t苯磺酸氨氯地平片26t度洛西汀3t草酸艾司西酞普兰36t劳拉西泮\n2400mg喹硫平350mg坦度螺酮55mg苯磺酸氨氯地平520mg度洛西汀30mg草酸艾司西酞普兰…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2036297114464952419].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2036297114464952419",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2036297114464952419"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2034447734456094720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDvPb35akAAUAXz.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1007,
+        "media_key": "3_2034447734464544769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDvPb37bgAEVmq1.jpg",
+        "width": 1796
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034447734456094720",
+            "3_2034447734464544769"
+          ]
+        },
+        "author_id": "1982450015927971840",
+        "conversation_id": "2034447753036923253",
+        "created_at": "2026-03-19T01:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T02:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034447753036923253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eZHpboqcNi",
+              "end": 152,
+              "expanded_url": "https://x.com/xichuan412888/status/2034447753036923253/photo/1",
+              "media_key": "3_2034447734456094720",
+              "start": 129,
+              "url": "https://t.co/eZHpboqcNi"
+            },
+            {
+              "display_url": "pic.x.com/eZHpboqcNi",
+              "end": 152,
+              "expanded_url": "https://x.com/xichuan412888/status/2034447753036923253/photo/1",
+              "media_key": "3_2034447734464544769",
+              "start": 129,
+              "url": "https://t.co/eZHpboqcNi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034447753036923253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 21668,
+          "like_count": 154,
+          "quote_count": 3,
+          "reply_count": 82,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "大家，再也不见了哦，我活的真的好痛苦啊\n\n24t喹硫平35t坦度螺酮11t苯磺酸氨氯地平片26t度洛西汀3t草酸艾司西酞普兰36t劳拉西泮\n2400mg喹硫平350mg坦度螺酮55mg苯磺酸氨氯地平520mg度洛西汀30mg草酸艾司西酞普兰36mg劳拉西泮 https://t.co/eZHpboqcNi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035886196761542656/0cI4TLVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 221,
+          "like_count": 123,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 93
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:12:03.000Z",
+        "description": "苦学生:(｜负面情绪警告⚠️｜不谈论政治｜随时可能会消失｜是小废物(哭)｜网络上的大家都好温柔(///▽///)你们一定要幸福地活下去哦(*^o^*)",
+        "id": "1982450015927971840",
+        "name": "栖川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020093341980041216/KrJBngjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 364,
+          "like_count": 8200,
+          "listed_count": 4,
+          "media_count": 26,
+          "tweet_count": 281
+        },
+        "username": "xichuan412888",
+        "verified": false
+      }
+    ]
+  }
+}

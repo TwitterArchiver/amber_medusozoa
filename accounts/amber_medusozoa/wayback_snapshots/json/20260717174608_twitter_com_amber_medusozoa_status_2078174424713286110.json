@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2053764952872431714",
+    "created_at": "2026-07-17T17:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T18:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078174424713286110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907220368559112192",
+          "start": 0,
+          "username": "Renasama1014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078174424713286110",
+    "in_reply_to_user_id": "1907220368559112192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078174334707970454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Renasama1014 呜呜谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2053764952872431714",
+        "created_at": "2026-07-17T17:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078174424713286110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907220368559112192",
+              "start": 0,
+              "username": "Renasama1014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078174424713286110",
+        "in_reply_to_user_id": "1907220368559112192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078174334707970454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Renasama1014 呜呜谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907220368559112192",
+        "conversation_id": "2053764952872431714",
+        "created_at": "2026-07-17T17:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078174334707970454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078174334707970454",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078171596905193862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 我是真的觉得你身材挺好的啊，之前狂偷你的穿搭~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her #药娘\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0lo74G",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 15,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 59,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 36,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6664,
+          "following_count": 1131,
+          "like_count": 6530,
+          "listed_count": 11,
+          "media_count": 324,
+          "tweet_count": 3739
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-01T23:55:56.000Z",
+        "description": "现居北美湾区，SDE / Game Developer\n\nmtx (无性别，也不在意这个)，不过性取向仍是女！\n\n如果您在其他地方看到过我，或者在现实中认识我，都请替我保密，真的真的非常感谢您！🙏\n\n不搞黄🚫 ，谢谢！",
+        "id": "1907220368559112192",
+        "location": "United States, California",
+        "name": "Rena",
+        "pinned_tweet_id": "1907562937423892786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033278330414485504/8sMRPNp-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10403,
+          "following_count": 47,
+          "like_count": 906,
+          "listed_count": 63,
+          "media_count": 49,
+          "tweet_count": 536
+        },
+        "url": "",
+        "username": "Renasama1014",
+        "verified": true
+      }
+    ]
+  }
+}

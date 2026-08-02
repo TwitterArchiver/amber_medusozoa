@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2045327317472358579",
+    "created_at": "2026-04-18T02:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T03:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045327317472358579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2043263151173758976",
+          "start": 3,
+          "username": "babybbing1234"
+        },
+        {
+          "end": 26,
+          "id": "2034586230881722368",
+          "start": 19,
+          "username": "hgds03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045327317472358579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044413404786606535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @babybbing1234: @hgds03 我压根不需要od 我活着已经是脑残了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2045327317472358579",
+        "created_at": "2026-04-18T02:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T03:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045327317472358579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2043263151173758976",
+              "start": 3,
+              "username": "babybbing1234"
+            },
+            {
+              "end": 26,
+              "id": "2034586230881722368",
+              "start": 19,
+              "username": "hgds03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045327317472358579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044413404786606535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @babybbing1234: @hgds03 我压根不需要od 我活着已经是脑残了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043263151173758976",
+        "conversation_id": "2044400304238788973",
+        "created_at": "2026-04-15T13:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T14:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044413404786606535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2034586230881722368",
+              "start": 0,
+              "username": "hgds03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044413404786606535",
+        "in_reply_to_user_id": "2034586230881722368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3474,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044400304238788973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds03 我压根不需要od 我活着已经是脑残了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/qBX9bbnFOS"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2366,
+          "following_count": 808,
+          "like_count": 2460,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 1753
+        },
+        "url": "https://t.co/qBX9bbnFOS",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-12T09:42:31.000Z",
+        "description": "只想过好自己烂烂的生活=⩌⩊⩌=\n🚪20纯绿 能不能看清楚是纯绿！！",
+        "id": "2043263151173758976",
+        "location": "T^T",
+        "name": "芋圆mm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043263710568062977/dPYq8mSv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 19,
+          "like_count": 357,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 86
+        },
+        "username": "babybbing1234",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T11:02:47.000Z",
+        "description": "我们只是网友，你把手机摔了我就死了，放过彼此OK？放下手中的屠刀，神在救你\n匿名箱📮https://t.co/2OAcbUUA79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hgds03",
+                "end": 65,
+                "expanded_url": "https://ngl.link/hgds03",
+                "start": 42,
+                "url": "https://t.co/2OAcbUUA79"
+              }
+            ]
+          }
+        },
+        "id": "2034586230881722368",
+        "location": "江浙沪",
+        "name": "哈根达斯",
+        "pinned_tweet_id": "2044021776032886975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043304519770226688/xqFH8lfE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 164,
+          "like_count": 1021,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 108
+        },
+        "username": "hgds03",
+        "verified": false
+      }
+    ]
+  }
+}

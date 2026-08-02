@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2035887937301151790",
+    "created_at": "2026-03-23T01:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T02:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035887988199030847"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035887988199030847",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035887937301151790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "欢迎大家转发"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035887932377341952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEDtSbPbIAA3FkR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2035887937301151790",
+        "created_at": "2026-03-23T01:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T02:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035887988199030847"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035887988199030847",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035887937301151790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欢迎大家转发"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035887932377341952"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2035887937301151790",
+        "created_at": "2026-03-23T01:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T02:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035887937301151790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1424779836938022913",
+              "start": 7,
+              "username": "amber_toffee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GUXDJyfnzD",
+              "end": 74,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2035887937301151790/photo/1",
+              "media_key": "3_2035887932377341952",
+              "start": 51,
+              "url": "https://t.co/GUXDJyfnzD"
+            },
+            {
+              "display_url": "x.com/noaayoyaoaya/s…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/noaayoyaoaya/status/2035882133059678258",
+              "start": 75,
+              "url": "https://t.co/ebtkQowvPb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035887937301151790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035882133059678258",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "各位好 我是 @amber_toffee 我的大号被封了七天 欢迎关注这个号 配图放个之前的自拍好了 https://t.co/GUXDJyfnzD https://t.co/ebtkQowvPb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 分身",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035886196761542656/0cI4TLVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "amber_medusozoa",
+        "verified": false
+      }
+    ]
+  }
+}

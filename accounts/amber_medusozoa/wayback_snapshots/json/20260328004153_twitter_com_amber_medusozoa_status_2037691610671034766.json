@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2037691610671034766",
+    "created_at": "2026-03-28T00:41:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T01:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037691610671034766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2274066715",
+          "start": 3,
+          "username": "gothamshitty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037691610671034766",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 186
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037595734699327873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gothamshitty: Many people on here are trying to do a feminist critique of heterosexuality but they haven’t actually read a single thing…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2037691610671034766",
+        "created_at": "2026-03-28T00:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T01:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037691610671034766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2274066715",
+              "start": 3,
+              "username": "gothamshitty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037691610671034766",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 186
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037595734699327873",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gothamshitty: Many people on here are trying to do a feminist critique of heterosexuality but they haven’t actually read a single thing…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2274066715",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "2037595734699327873",
+        "created_at": "2026-03-27T18:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T19:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037595734699327873"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037595734699327873",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 13114,
+          "like_count": 1025,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 186
+        },
+        "reply_settings": "everyone",
+        "text": "Many people on here are trying to do a feminist critique of heterosexuality but they haven’t actually read a single thing on the topic so they’re just parroting the conservative sexual politics they’re familiar with and replacing terms with feminist jargon."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 379,
+          "like_count": 554,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 395
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2014-01-03T06:13:54.000Z",
+        "description": "29 | she/her | materialist feminist",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "antiTERF.carrd.co",
+                "end": 23,
+                "expanded_url": "http://antiTERF.carrd.co",
+                "start": 0,
+                "url": "https://t.co/9CZ3UNkCCV"
+              }
+            ]
+          }
+        },
+        "id": "2274066715",
+        "name": "Lauren",
+        "pinned_tweet_id": "1762602392569418180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1615916206791471104/juyE6g6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5908,
+          "following_count": 605,
+          "like_count": 91454,
+          "listed_count": 14,
+          "media_count": 3231,
+          "tweet_count": 38636
+        },
+        "url": "https://t.co/9CZ3UNkCCV",
+        "username": "gothamshitty",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Data centers",
+          "id": "848921562422026240",
+          "name": "Data centers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Data centers",
+          "id": "848921562422026240",
+          "name": "Data centers"
+        }
+      }
+    ],
+    "conversation_id": "2078121135858700404",
+    "created_at": "2026-07-17T14:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078121135858700404"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/doseofpurple_/…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/doseofpurple_/status/2077866177666166948",
+          "start": 55,
+          "url": "https://t.co/KTNt7MmXqY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078121135858700404",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077866177666166948",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“you are the main data center” this is truly orwellian https://t.co/KTNt7MmXqY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 401,
+        "media_key": "3_2077866170737197056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNYQRfWXgAAU8yR.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Data centers",
+              "id": "848921562422026240",
+              "name": "Data centers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Data centers",
+              "id": "848921562422026240",
+              "name": "Data centers"
+            }
+          }
+        ],
+        "conversation_id": "2078121135858700404",
+        "created_at": "2026-07-17T14:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078121135858700404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/doseofpurple_/…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/doseofpurple_/status/2077866177666166948",
+              "start": 55,
+              "url": "https://t.co/KTNt7MmXqY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078121135858700404",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077866177666166948",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“you are the main data center” this is truly orwellian https://t.co/KTNt7MmXqY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077866170737197056"
+          ]
+        },
+        "author_id": "1946825355278565376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "2077866177666166948",
+        "created_at": "2026-07-16T21:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T22:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077866177666166948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KOY0U1L3eL",
+              "end": 23,
+              "expanded_url": "https://x.com/doseofpurple_/status/2077866177666166948/photo/1",
+              "media_key": "3_2077866170737197056",
+              "start": 0,
+              "url": "https://t.co/KOY0U1L3eL"
+            },
+            {
+              "display_url": "x.com/doseofpurple_/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/doseofpurple_/status/2077659493991657497",
+              "start": 24,
+              "url": "https://t.co/QKIUOlK9ZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077866177666166948",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1464,
+          "impression_count": 291614,
+          "like_count": 29455,
+          "quote_count": 15,
+          "reply_count": 6,
+          "retweet_count": 5377
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077659493991657497",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/KOY0U1L3eL https://t.co/QKIUOlK9ZY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her #药娘\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0lo74G",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 15,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 59,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 36,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6644,
+          "following_count": 1125,
+          "like_count": 6506,
+          "listed_count": 11,
+          "media_count": 324,
+          "tweet_count": 3719
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-20T06:52:50.000Z",
+        "description": "Well yeah...taking in all the good life has to offer. Daily doses of real life + thoughts  | some thoughts ain't mine 🌱🍃\n\nNO DMs",
+        "id": "1946825355278565376",
+        "location": "earth",
+        "name": "purple🍃✨",
+        "pinned_tweet_id": "2066235758105579930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043176043725410304/fb1afFK9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 198,
+          "like_count": 5500,
+          "listed_count": 2,
+          "media_count": 480,
+          "tweet_count": 7311
+        },
+        "url": "",
+        "username": "doseofpurple_",
+        "verified": false
+      }
+    ]
+  }
+}

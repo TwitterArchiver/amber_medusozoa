@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073555128943091712"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Author\n",
+          "id": "808408440301232128",
+          "name": "JK Rowling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Author\n",
+          "id": "808408440301232128",
+          "name": "JK Rowling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166408461485101056",
+          "name": "Authors"
+        }
+      }
+    ],
+    "conversation_id": "2073555132554342718",
+    "created_at": "2026-07-04T23:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T00:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073555132554342718"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hqRpgD0za0",
+          "end": 250,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2073555132554342718/photo/1",
+          "media_key": "3_2073555128943091712",
+          "start": 227,
+          "url": "https://t.co/hqRpgD0za0"
+        },
+        {
+          "display_url": "x.com/sappholives83/…",
+          "end": 274,
+          "expanded_url": "https://twitter.com/sappholives83/status/2072675768698573289",
+          "start": 251,
+          "url": "https://t.co/HjVBD5H8ke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073555132554342718",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072675768698573289",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "whenever i see fear mongering like this i just bring up this post by jk rowling. womanhood in social settings is just pure vibes. some trans women are just so woman that even the biggest terf on earth cannot deny her womanhood https://t.co/hqRpgD0za0 https://t.co/HjVBD5H8ke"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2073555128943091712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMa_Z1LXoAADtvH.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1422,
+        "media_key": "3_2072675764403687425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOfoE_X0AEjFox.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1217,
+        "media_key": "3_2072675764395204608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOfoE9WYAAZCOV.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073555128943091712"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "2073555132554342718",
+        "created_at": "2026-07-04T23:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T00:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073555132554342718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hqRpgD0za0",
+              "end": 250,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2073555132554342718/photo/1",
+              "media_key": "3_2073555128943091712",
+              "start": 227,
+              "url": "https://t.co/hqRpgD0za0"
+            },
+            {
+              "display_url": "x.com/sappholives83/…",
+              "end": 274,
+              "expanded_url": "https://twitter.com/sappholives83/status/2072675768698573289",
+              "start": 251,
+              "url": "https://t.co/HjVBD5H8ke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073555132554342718",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072675768698573289",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "whenever i see fear mongering like this i just bring up this post by jk rowling. womanhood in social settings is just pure vibes. some trans women are just so woman that even the biggest terf on earth cannot deny her womanhood https://t.co/hqRpgD0za0 https://t.co/HjVBD5H8ke"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072675764403687425",
+            "3_2072675764395204608"
+          ]
+        },
+        "author_id": "1604066387030409216",
+        "conversation_id": "2072675768698573289",
+        "created_at": "2026-07-02T13:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072675768698573289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AVMVsQ2rl3",
+              "end": 94,
+              "expanded_url": "https://x.com/sappholives83/status/2072675768698573289/photo/1",
+              "media_key": "3_2072675764403687425",
+              "start": 71,
+              "url": "https://t.co/AVMVsQ2rl3"
+            },
+            {
+              "display_url": "pic.x.com/AVMVsQ2rl3",
+              "end": 94,
+              "expanded_url": "https://x.com/sappholives83/status/2072675768698573289/photo/1",
+              "media_key": "3_2072675764395204608",
+              "start": 71,
+              "url": "https://t.co/AVMVsQ2rl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072675768698573289",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1430,
+          "impression_count": 562032,
+          "like_count": 6588,
+          "quote_count": 89,
+          "reply_count": 215,
+          "retweet_count": 357
+        },
+        "reply_settings": "everyone",
+        "text": "A rare moment of honesty at r/mtf today. The commenters are not happy. https://t.co/AVMVsQ2rl3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya \n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059625440348610808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6316,
+          "following_count": 1042,
+          "like_count": 5792,
+          "listed_count": 10,
+          "media_count": 269,
+          "tweet_count": 3212
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-17T10:50:23.000Z",
+        "description": "Cop, writer, lesbian, radfem. Eppur sono uomini. sappholives83@gmail.com; https://t.co/zK8SeictD8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/sappholives83",
+                "end": 97,
+                "expanded_url": "http://buymeacoffee.com/sappholives83",
+                "start": 74,
+                "url": "https://t.co/zK8SeictD8"
+              }
+            ]
+          }
+        },
+        "id": "1604066387030409216",
+        "name": "Diana Alastair💚🤍💜 ⚢ ❌❌✡️",
+        "pinned_tweet_id": "2069010569139535898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072148251961110528/cbF2ahBX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56827,
+          "following_count": 3872,
+          "like_count": 48160,
+          "listed_count": 248,
+          "media_count": 7167,
+          "tweet_count": 57939
+        },
+        "url": "",
+        "username": "sappholives83",
+        "verified": true
+      }
+    ]
+  }
+}

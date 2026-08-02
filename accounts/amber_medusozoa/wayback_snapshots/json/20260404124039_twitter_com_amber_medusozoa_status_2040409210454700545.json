@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2040409156616683567",
+    "created_at": "2026-04-04T12:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T13:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040409210454700545"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040409210454700545",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040409156616683567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然不一定这么极端吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040409151252148224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFD9UADXMAAsVo_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2040409156616683567",
+        "created_at": "2026-04-04T12:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T13:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040409210454700545"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040409210454700545",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040409156616683567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然不一定这么极端吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040409151252148224"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2040409156616683567",
+        "created_at": "2026-04-04T12:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T13:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040409156616683567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sZf2pvLOMW",
+              "end": 45,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2040409156616683567/photo/1",
+              "media_key": "3_2040409151252148224",
+              "start": 22,
+              "url": "https://t.co/sZf2pvLOMW"
+            },
+            {
+              "display_url": "x.com/prettierdaily/…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/prettierdaily/status/2040239846703137186",
+              "start": 46,
+              "url": "https://t.co/UdvX1dNu4T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040409156616683567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040239846703137186",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实只要你的腿和我一样短 你也可以有折角腰 https://t.co/sZf2pvLOMW https://t.co/UdvX1dNu4T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672,
+          "following_count": 552,
+          "like_count": 1067,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 695
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

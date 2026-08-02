@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2081393326402740687",
+    "created_at": "2026-07-26T16:36:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:36:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081418412186542470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "343278091",
+          "start": 0,
+          "username": "shyhaimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081418412186542470",
+    "in_reply_to_user_id": "343278091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081393326402740687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shyhaimao 更喜欢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2081393326402740687",
+        "created_at": "2026-07-26T16:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081418412186542470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "343278091",
+              "start": 0,
+              "username": "shyhaimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081418412186542470",
+        "in_reply_to_user_id": "343278091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081393326402740687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shyhaimao 更喜欢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "343278091",
+        "conversation_id": "2081393326402740687",
+        "created_at": "2026-07-26T14:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081393326402740687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081393326402740687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1024,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "接受自己是病娇的设定，不装人美心善大姐姐了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2080801154435326152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080483846097629184/ano5UN60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7160,
+          "following_count": 1188,
+          "like_count": 7205,
+          "listed_count": 10,
+          "media_count": 358,
+          "tweet_count": 4104
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2011-07-27T09:41:05.000Z",
+        "description": "碎碎念 / 大量自拍供应 / 🐄系女子 / Dom / 偶有 #Latex 内容 /",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 31,
+                "tag": "Latex"
+              }
+            ]
+          }
+        },
+        "id": "343278091",
+        "location": "@yaminas0",
+        "name": "紫",
+        "pinned_tweet_id": "1927758691350045153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1327949313306107904/_X2CsouO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11376,
+          "following_count": 1041,
+          "like_count": 1387,
+          "listed_count": 37,
+          "media_count": 397,
+          "tweet_count": 7915
+        },
+        "url": "",
+        "username": "shyhaimao",
+        "verified": true
+      }
+    ]
+  }
+}

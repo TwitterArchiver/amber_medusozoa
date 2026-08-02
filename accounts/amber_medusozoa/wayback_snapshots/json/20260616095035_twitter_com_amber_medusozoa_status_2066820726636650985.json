@@ -1,0 +1,525 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1402638109116821511",
+          "name": "Keiko Fujimori"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1402638109116821511",
+          "name": "Keiko Fujimori"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1402638109116821511",
+          "name": "Keiko Fujimori"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555191759906361345",
+          "name": "Peru politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555191871281868800",
+          "name": "Peru political figures"
+        }
+      }
+    ],
+    "conversation_id": "2066820726636650985",
+    "created_at": "2026-06-16T09:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T10:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066820726636650985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1640887419925872647",
+          "start": 3,
+          "username": "meioindep"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/z91ysiZ",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/z91ysiZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066820726636650985",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2497
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066625763864973399",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meioindep: 🚨HISTÓRICO: Com vitória confirmada, Keiko Fujimori se torna a primeira mulher eleita presidente do Peru https://t.co/z91ysiZ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 692,
+        "media_key": "3_2066625748857696256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK4hK0xWsAAhUVM.jpg",
+        "width": 1022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1402638109116821511",
+              "name": "Keiko Fujimori"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1402638109116821511",
+              "name": "Keiko Fujimori"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1402638109116821511",
+              "name": "Keiko Fujimori"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555191759906361345",
+              "name": "Peru politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555191871281868800",
+              "name": "Peru political figures"
+            }
+          }
+        ],
+        "conversation_id": "2066820726636650985",
+        "created_at": "2026-06-16T09:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066820726636650985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1640887419925872647",
+              "start": 3,
+              "username": "meioindep"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/z91ysiZ",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/z91ysiZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066820726636650985",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2497
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066625763864973399",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meioindep: 🚨HISTÓRICO: Com vitória confirmada, Keiko Fujimori se torna a primeira mulher eleita presidente do Peru https://t.co/z91ysiZ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066625748857696256"
+          ]
+        },
+        "author_id": "1640887419925872647",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1402638109116821511",
+              "name": "Keiko Fujimori"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1402638109116821511",
+              "name": "Keiko Fujimori"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1402638109116821511",
+              "name": "Keiko Fujimori"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555191759906361345",
+              "name": "Peru politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555191871281868800",
+              "name": "Peru political figures"
+            }
+          }
+        ],
+        "conversation_id": "2066625763864973399",
+        "created_at": "2026-06-15T20:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T21:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066625763864973399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z91ysiZJm7",
+              "end": 127,
+              "expanded_url": "https://x.com/meioindep/status/2066625763864973399/photo/1",
+              "media_key": "3_2066625748857696256",
+              "start": 104,
+              "url": "https://t.co/z91ysiZJm7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066625763864973399",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 577,
+          "impression_count": 863414,
+          "like_count": 18521,
+          "quote_count": 180,
+          "reply_count": 110,
+          "retweet_count": 2497
+        },
+        "reply_settings": "everyone",
+        "text": "🚨HISTÓRICO: Com vitória confirmada, Keiko Fujimori se torna a primeira mulher eleita presidente do Peru https://t.co/z91ysiZJm7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5910,
+          "following_count": 1019,
+          "like_count": 5075,
+          "listed_count": 10,
+          "media_count": 181,
+          "tweet_count": 2513
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-29T01:23:53.000Z",
+        "description": "Informação de qualidade. A serviço da democracia e da clareza dos fatos. Independência no real sentido da palavra. Por @kferreira_a @yuriaragao_.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 119,
+                "username": "kferreira_a"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "yuriaragao_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/meioindependen…",
+                "end": 23,
+                "expanded_url": "http://instagram.com/meioindependente",
+                "start": 0,
+                "url": "https://t.co/erI1gTS0fz"
+              }
+            ]
+          }
+        },
+        "id": "1640887419925872647",
+        "name": "Meio Independente",
+        "pinned_tweet_id": "1910440590380040372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772313362136793088/kVtUkEU__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118053,
+          "following_count": 379,
+          "like_count": 19430,
+          "listed_count": 177,
+          "media_count": 11234,
+          "tweet_count": 18153
+        },
+        "url": "https://t.co/erI1gTS0fz",
+        "username": "meioindep",
+        "verified": true
+      }
+    ]
+  }
+}

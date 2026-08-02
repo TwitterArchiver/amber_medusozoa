@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2080256978115248294",
+    "created_at": "2026-07-23T11:41:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T12:41:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080256978115248294"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nwa12302/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/nwa12302/status/2080249692739571753",
+          "start": 13,
+          "url": "https://t.co/wTOm1srlCW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080256978115248294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080249692739571753",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "草 谁跟你说的看这个入门 https://t.co/wTOm1srlCW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2080256978115248294",
+        "created_at": "2026-07-23T11:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080256978115248294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nwa12302/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/nwa12302/status/2080249692739571753",
+              "start": 13,
+              "url": "https://t.co/wTOm1srlCW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080256978115248294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080249692739571753",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草 谁跟你说的看这个入门 https://t.co/wTOm1srlCW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627301480440164352",
+        "conversation_id": "2080249692739571753",
+        "created_at": "2026-07-23T11:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080249692739571753"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080249692739571753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哲学入门真的要从康德的《纯粹理性批判》看起吗\n看康德让我痛苦（\n可能其实只是现在的我不喜欢看文字而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️she/her\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0lo74G",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 53,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 30,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6877,
+          "following_count": 1171,
+          "like_count": 6972,
+          "listed_count": 10,
+          "media_count": 358,
+          "tweet_count": 3998
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-19T13:38:19.000Z",
+        "description": "地质学Geology & 陨石学 Meteoritics ｜科研日记本｜我永远喜欢蜜莓、黍、嵯峨、玉藻十字、艾蕾｜粥9摆烂选手｜业余摄影师｜jpop 日摇 术力口｜INFJ｜华枝春满，天心月圆@LihaigeUpasaka｜芦毛偏爱｜眼镜娘厨｜做个好玩的人\n｜我推@hatunagi_yuzuki｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 96,
+                "username": "LihaigeUpasaka"
+              },
+              {
+                "end": 148,
+                "start": 132,
+                "username": "hatunagi_yuzuki"
+              }
+            ]
+          }
+        },
+        "id": "1627301480440164352",
+        "location": "Kyoto-fu, Japan",
+        "name": "AAA特雷森糖浆专卖🐱",
+        "pinned_tweet_id": "1780992344306983398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063466222734430208/FnOg_4u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 1502,
+          "like_count": 152243,
+          "listed_count": 8,
+          "media_count": 2287,
+          "tweet_count": 11403
+        },
+        "url": "",
+        "username": "NWA12302",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2036845406223560973",
+    "created_at": "2026-03-26T00:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T01:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036966365349781844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1738437488912617472",
+          "start": 0,
+          "username": "Nemesis114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036966365349781844",
+    "in_reply_to_user_id": "1738437488912617472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036966136823373968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nemesis114514 理解"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2036845406223560973",
+        "created_at": "2026-03-26T00:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T01:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036966365349781844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1738437488912617472",
+              "start": 0,
+              "username": "Nemesis114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036966365349781844",
+        "in_reply_to_user_id": "1738437488912617472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036966136823373968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nemesis114514 理解"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738437488912617472",
+        "conversation_id": "2036845406223560973",
+        "created_at": "2026-03-26T00:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T01:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036966136823373968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036966136823373968",
+        "in_reply_to_user_id": "1738437488912617472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036854231223984161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 其实我更喜欢程思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 313,
+          "like_count": 302,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 202
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-23T05:53:01.000Z",
+        "description": "鼠鼠我呀",
+        "id": "1738437488912617472",
+        "name": "Νέμεσις",
+        "pinned_tweet_id": "1941481518221930888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984527035948285957/rwIm3jqQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 186,
+          "like_count": 9741,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1540
+        },
+        "username": "Nemesis114514",
+        "verified": false
+      }
+    ]
+  }
+}

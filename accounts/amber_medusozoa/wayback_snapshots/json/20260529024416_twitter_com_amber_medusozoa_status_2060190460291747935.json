@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "2060190460291747935",
+    "created_at": "2026-05-29T02:44:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T03:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060190460291747935"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nooo1noone/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/nooo1noone/status/2060015907548872728",
+          "start": 13,
+          "url": "https://t.co/ACZ54TGomT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060190460291747935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060015907548872728",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "充分体现出婚姻制度的本质 https://t.co/ACZ54TGomT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2060190460291747935",
+        "created_at": "2026-05-29T02:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060190460291747935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nooo1noone/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/nooo1noone/status/2060015907548872728",
+              "start": 13,
+              "url": "https://t.co/ACZ54TGomT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060190460291747935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060015907548872728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "充分体现出婚姻制度的本质 https://t.co/ACZ54TGomT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670762627872751616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2060015907548872728",
+        "created_at": "2026-05-28T15:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060015907548872728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060015907548872728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3854,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "主奴走到結婚真的是最浪漫的事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "💰 https://t.co/ifiQvlVhub\n❤️@noaayoyaoaya ⚜️@irisdesombres \n🪼 @amber_digit @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "amber_digit"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 25,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 2,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 Toronto",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5375,
+          "following_count": 920,
+          "like_count": 4081,
+          "listed_count": 12,
+          "media_count": 98,
+          "tweet_count": 1887
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-19T11:57:25.000Z",
+        "description": "活躍於IG，不喜純發情笨蛋｜現有一個完美寶寶🍼主人兼狗狗兼男友｜Switch偏sub、brat、24/7、INFP-T、小貓咪(*ฅ́˘ฅ̀*)💛、little小孩子、NTR、怕痛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/no._.oo1",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/no._.oo1",
+                "start": 0,
+                "url": "https://t.co/LRxoSYGfzl"
+              }
+            ]
+          }
+        },
+        "id": "1670762627872751616",
+        "name": "諾晚 𝗡𝗼 𝗢𝗻𝗲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903244970125037570/95VQjFXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 254,
+          "like_count": 6346,
+          "listed_count": 3,
+          "media_count": 56,
+          "tweet_count": 657
+        },
+        "url": "https://t.co/LRxoSYGfzl",
+        "username": "nooo1noone",
+        "verified": false
+      }
+    ]
+  }
+}

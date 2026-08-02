@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2036108432210559217",
+    "created_at": "2026-03-23T15:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T16:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036108432210559217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2289619658",
+          "start": 3,
+          "username": "youquzhiji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036108432210559217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036081050275753993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youquzhiji: 又想起之前一个郭楠说“我不歧视lgbt，只要你们不带坏小孩不占用医保了”，一回事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2036108432210559217",
+        "created_at": "2026-03-23T15:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T16:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036108432210559217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2289619658",
+              "start": 3,
+              "username": "youquzhiji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036108432210559217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036081050275753993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youquzhiji: 又想起之前一个郭楠说“我不歧视lgbt，只要你们不带坏小孩不占用医保了”，一回事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2289619658",
+        "conversation_id": "2036081050275753993",
+        "created_at": "2026-03-23T14:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T15:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036081050275753993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wodanggangqian…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/wodanggangqiang/status/2035768102198432184",
+              "start": 41,
+              "url": "https://t.co/D36M61Dehn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036081050275753993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035768102198432184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又想起之前一个郭楠说“我不歧视lgbt，只要你们不带坏小孩不占用医保了”，一回事 https://t.co/D36M61Dehn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035886196761542656/0cI4TLVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 159,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 42
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2014-01-13T12:39:58.000Z",
+        "description": "在你的个人资料中添加简介",
+        "id": "2289619658",
+        "name": "无聊至极🏳️‍⚧️",
+        "pinned_tweet_id": "1637127694184853507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690381924466937857/gcIObNkH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 367,
+          "like_count": 25050,
+          "listed_count": 4,
+          "media_count": 477,
+          "tweet_count": 9141
+        },
+        "username": "youquzhiji",
+        "verified": false
+      }
+    ]
+  }
+}

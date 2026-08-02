@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2037055878357041250",
+    "created_at": "2026-03-26T06:35:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T07:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037055878357041250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2035882965671215104",
+          "start": 3,
+          "username": "amber_medusozoa"
+        },
+        {
+          "end": 32,
+          "id": "1766858890636120064",
+          "start": 21,
+          "username": "Linyue7523"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037055878357041250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036970936159678911",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_medusozoa: @Linyue7523 因为pass不了啊所以只能特意标注一下 这样可以安慰自己别人是通过这个看出来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2037055878357041250",
+        "created_at": "2026-03-26T06:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T07:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037055878357041250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2035882965671215104",
+              "start": 3,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 32,
+              "id": "1766858890636120064",
+              "start": 21,
+              "username": "Linyue7523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037055878357041250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036970936159678911",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_medusozoa: @Linyue7523 因为pass不了啊所以只能特意标注一下 这样可以安慰自己别人是通过这个看出来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2036735900689027541",
+        "created_at": "2026-03-26T00:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T01:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036970936159678911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1766858890636120064",
+              "start": 0,
+              "username": "Linyue7523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036970936159678911",
+        "in_reply_to_user_id": "1766858890636120064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036735900689027541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linyue7523 因为pass不了啊所以只能特意标注一下 这样可以安慰自己别人是通过这个看出来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 334,
+          "like_count": 350,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 250
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "对每个人保持善意/摄影/东方/世界上最好的姐姐@Kietter387803",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Kietter387803"
+              }
+            ]
+          }
+        },
+        "id": "1766858890636120064",
+        "name": "霖",
+        "pinned_tweet_id": "2035405077222138018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3678,
+          "following_count": 1529,
+          "like_count": 21012,
+          "listed_count": 3,
+          "media_count": 335,
+          "tweet_count": 2959
+        },
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

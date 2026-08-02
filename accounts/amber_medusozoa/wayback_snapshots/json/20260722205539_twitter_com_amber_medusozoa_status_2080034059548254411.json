@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2080006617274151276",
+    "created_at": "2026-07-22T20:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T21:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080034059548254411"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080034059548254411",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080006617274151276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求点赞转发谢谢喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2800,
+        "height": 1748,
+        "media_key": "13_2080006599393861632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080006599393861632/img/Gg-E3npmrPH74-Mp.jpg",
+        "public_metrics": {
+          "view_count": 152
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080006599393861632/vid/avc1/320x426/rNxrwQG1Dl07YxSW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080006599393861632/pl/GYSCmeudRpDtxYN5.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080006599393861632/vid/avc1/480x638/exyWSkcHo-p4pIE4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080006599393861632/vid/avc1/720x958/Huc1gLMH_-YefAdx.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080006599393861632/vid/avc1/1312x1748/_h1orvJ9uYFI7P9G.mp4"
+          }
+        ],
+        "width": 1312
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2080006617274151276",
+        "created_at": "2026-07-22T20:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T21:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080034059548254411"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080034059548254411",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080006617274151276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求点赞转发谢谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080006599393861632"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2080006617274151276",
+        "created_at": "2026-07-22T19:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T20:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080006617274151276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1362497240682483716",
+              "start": 29,
+              "username": "ZhaoXi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XdsAByvSam",
+              "end": 61,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2080006617274151276/video/1",
+              "media_key": "13_2080006599393861632",
+              "start": 38,
+              "url": "https://t.co/XdsAByvSam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080006617274151276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 381,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "空中芭蕾（大概）\n这么一看感觉我身体也挺漂亮的\n\n🏠📷🪢 @ZhaoXi_ https://t.co/XdsAByvSam"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️she/her\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0lo74G",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 53,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 30,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6870,
+          "following_count": 1171,
+          "like_count": 6926,
+          "listed_count": 10,
+          "media_count": 358,
+          "tweet_count": 3976
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

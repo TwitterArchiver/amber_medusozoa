@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2065046265902317568"
+      ],
+      "media_source_tweet_id": [
+        "2065047006721245593"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2065110916278948105",
+    "created_at": "2026-06-11T16:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T17:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065110916278948105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "635941366",
+          "start": 3,
+          "username": "unixzii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dv6wQzRSmF",
+          "end": 126,
+          "expanded_url": "https://x.com/unixzii/status/2065047006721245593/video/1",
+          "media_key": "13_2065046265902317568",
+          "start": 103,
+          "url": "https://t.co/dv6wQzRSmF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065110916278948105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065047006721245593",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @unixzii: 偶然发现 Apple 有一个叫 PrototypeTools 的 framework 用来给内部设计师调参，系统里大量 UI 的交互和动画细节都可以实时调整，并且还支持远程控制。 https://t.co/dv6wQzRSmF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 68921,
+        "height": 1938,
+        "media_key": "13_2065046265902317568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065046265902317568/img/Oq6Sb0G4HQyWZaxD.jpg",
+        "public_metrics": {
+          "view_count": 5618
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065046265902317568/vid/avc1/480x986/2iRrEcC_QMS_u3CU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065046265902317568/pl/o1ruGn1fsjPIIxBi.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065046265902317568/vid/avc1/320x658/Cu-BfDtvnNhthlus.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065046265902317568/vid/avc1/720x1480/OdO1X9CJ6d12vx5L.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065046265902317568/vid/avc1/942x1938/JVJNIU7rHT4SYTYi.mp4"
+          }
+        ],
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065046265902317568"
+          ],
+          "media_source_tweet_id": [
+            "2065047006721245593"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2065110916278948105",
+        "created_at": "2026-06-11T16:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065110916278948105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "635941366",
+              "start": 3,
+              "username": "unixzii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dv6wQzRSmF",
+              "end": 126,
+              "expanded_url": "https://x.com/unixzii/status/2065047006721245593/video/1",
+              "media_key": "13_2065046265902317568",
+              "start": 103,
+              "url": "https://t.co/dv6wQzRSmF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065110916278948105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065047006721245593",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @unixzii: 偶然发现 Apple 有一个叫 PrototypeTools 的 framework 用来给内部设计师调参，系统里大量 UI 的交互和动画细节都可以实时调整，并且还支持远程控制。 https://t.co/dv6wQzRSmF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065046265902317568"
+          ]
+        },
+        "author_id": "635941366",
+        "conversation_id": "2065047006721245593",
+        "created_at": "2026-06-11T12:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065047006721245593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dv6wQzRSmF",
+              "end": 113,
+              "expanded_url": "https://x.com/unixzii/status/2065047006721245593/video/1",
+              "media_key": "13_2065046265902317568",
+              "start": 90,
+              "url": "https://t.co/dv6wQzRSmF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065047006721245593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 149,
+          "impression_count": 14923,
+          "like_count": 204,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "偶然发现 Apple 有一个叫 PrototypeTools 的 framework 用来给内部设计师调参，系统里大量 UI 的交互和动画细节都可以实时调整，并且还支持远程控制。 https://t.co/dv6wQzRSmF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya ⚜️@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5776,
+          "following_count": 989,
+          "like_count": 4785,
+          "listed_count": 10,
+          "media_count": 160,
+          "tweet_count": 2311
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-15T05:48:20.000Z",
+        "description": "keep curiosity, keep creativity. he/him. opinions are my own.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cy4n.dev",
+                "end": 23,
+                "expanded_url": "https://cy4n.dev",
+                "start": 0,
+                "url": "https://t.co/eqRNBiQ4DD"
+              }
+            ]
+          }
+        },
+        "id": "635941366",
+        "location": "Universe",
+        "name": "Cyandev",
+        "pinned_tweet_id": "2006302911354245624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047230973243510784/0Flt4WBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16349,
+          "following_count": 200,
+          "like_count": 6201,
+          "listed_count": 126,
+          "media_count": 1288,
+          "tweet_count": 9853
+        },
+        "url": "https://t.co/eqRNBiQ4DD",
+        "username": "unixzii",
+        "verified": true
+      }
+    ]
+  }
+}

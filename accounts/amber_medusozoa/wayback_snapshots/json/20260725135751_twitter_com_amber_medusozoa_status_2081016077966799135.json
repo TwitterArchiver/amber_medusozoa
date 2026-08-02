@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "1284135743791620096",
+          "name": "College sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1284135743791620096",
+          "name": "College sports"
+        }
+      }
+    ],
+    "conversation_id": "2081016077966799135",
+    "created_at": "2026-07-25T13:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081016077966799135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "739607592",
+          "start": 3,
+          "username": "MinModulation"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081016077966799135",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080693636669317568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MinModulation: that doesn't matter at all. it could be 0. they were angry at a trans woman playing jeopardy. it doesn't matter"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1284135743791620096",
+              "name": "College sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284135743791620096",
+              "name": "College sports"
+            }
+          }
+        ],
+        "conversation_id": "2081016077966799135",
+        "created_at": "2026-07-25T13:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081016077966799135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "739607592",
+              "start": 3,
+              "username": "MinModulation"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081016077966799135",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080693636669317568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MinModulation: that doesn't matter at all. it could be 0. they were angry at a trans woman playing jeopardy. it doesn't matter"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "739607592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1284135743791620096",
+              "name": "College sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284135743791620096",
+              "name": "College sports"
+            }
+          }
+        ],
+        "conversation_id": "2080693636669317568",
+        "created_at": "2026-07-24T16:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080693636669317568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_celia_bedelia…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/_celia_bedelia_/status/2080302802442555737",
+              "start": 112,
+              "url": "https://t.co/XgoMHOeEEd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080693636669317568",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 24179,
+          "like_count": 1809,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080302802442555737",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "that doesn't matter at all. it could be 0. they were angry at a trans woman playing jeopardy. it doesn't matter https://t.co/XgoMHOeEEd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2080801154435326152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080483846097629184/ano5UN60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6940,
+          "following_count": 1178,
+          "like_count": 7121,
+          "listed_count": 10,
+          "media_count": 359,
+          "tweet_count": 4064
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2012-08-06T01:36:50.000Z",
+        "description": "Min Modulation, right next to the Min Pitch Bend knob. \n\nhttps://t.co/0EMglp3voH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/minmodu",
+                "end": 80,
+                "expanded_url": "http://twitch.tv/minmodu",
+                "start": 57,
+                "url": "https://t.co/0EMglp3voH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/minmod",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/minmod",
+                "start": 0,
+                "url": "https://t.co/7ywZGLB7Pc"
+              }
+            ]
+          }
+        },
+        "id": "739607592",
+        "name": "Mini Modu",
+        "pinned_tweet_id": "905661038032330753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882675239307415552/oDdqS7um_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24749,
+          "following_count": 2912,
+          "like_count": 1135336,
+          "listed_count": 127,
+          "media_count": 19694,
+          "tweet_count": 340925
+        },
+        "url": "https://t.co/7ywZGLB7Pc",
+        "username": "MinModulation",
+        "verified": false
+      }
+    ]
+  }
+}

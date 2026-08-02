@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2065665626257952888",
+    "created_at": "2026-06-13T06:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T07:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065683329790124482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "891159653341478912",
+          "start": 0,
+          "username": "Yuvvannn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065683329790124482",
+    "in_reply_to_user_id": "891159653341478912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065683282424115271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuvvannn 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2065665626257952888",
+        "created_at": "2026-06-13T06:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065683329790124482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "891159653341478912",
+              "start": 0,
+              "username": "Yuvvannn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065683329790124482",
+        "in_reply_to_user_id": "891159653341478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065683282424115271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuvvannn 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "891159653341478912",
+        "conversation_id": "2065665626257952888",
+        "created_at": "2026-06-13T06:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065683282424115271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065683282424115271",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065665626257952888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 我喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5825,
+          "following_count": 996,
+          "like_count": 4883,
+          "listed_count": 10,
+          "media_count": 170,
+          "tweet_count": 2393
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-29T04:53:13.000Z",
+        "description": "🏳️‍⚧️Mtx | Gerontology Researcher | UNC 26 | Incoming PhD at UofLiverpool",
+        "id": "891159653341478912",
+        "location": "Chapel Hill, NC",
+        "name": "Yuviannnn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935651616817881088/zQo-ufnS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 702,
+          "like_count": 8593,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 338
+        },
+        "username": "Yuvvannn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2051853351885873262",
+    "created_at": "2026-05-06T02:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T03:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051853812483207183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1339017385647325187",
+          "start": 0,
+          "username": "JiangAspirin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051853812483207183",
+    "in_reply_to_user_id": "1339017385647325187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051853351885873262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiangAspirin 没有的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2051853351885873262",
+        "created_at": "2026-05-06T02:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T03:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051853812483207183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1339017385647325187",
+              "start": 0,
+              "username": "JiangAspirin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051853812483207183",
+        "in_reply_to_user_id": "1339017385647325187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051853351885873262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiangAspirin 没有的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339017385647325187",
+        "conversation_id": "2051853351885873262",
+        "created_at": "2026-05-06T02:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T03:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051853351885873262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2051839099066068992",
+              "start": 12,
+              "url": "https://t.co/LA3WAYwUq0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051853351885873262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051839099066068992",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "算不算是…帮倒忙其实… https://t.co/LA3WAYwUq0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🇨🇦 #多伦多 #药娘 #TS #trans \n💬 ¥150/240 ($30/50)\n❤️ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 3,
+                "tag": "多伦多"
+              },
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "药娘"
+              },
+              {
+                "end": 15,
+                "start": 12,
+                "tag": "TS"
+              },
+              {
+                "end": 22,
+                "start": 16,
+                "tag": "trans"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 47,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051680473894584328/Se8BKTA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3585,
+          "following_count": 827,
+          "like_count": 3498,
+          "listed_count": 9,
+          "media_count": 43,
+          "tweet_count": 1439
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-16T01:20:10.000Z",
+        "description": "🍥药娘 | hrt2025.01.01 | 家有妹魔大王@她不让我挂 | 超级无敌爱红烧肉 | 不喜键政 | 颜值非常抱歉，身材初具人形 | ❤️爱你们❤️",
+        "id": "1339017385647325187",
+        "location": "东部星区",
+        "name": "姜酱姜姜酱🍋",
+        "pinned_tweet_id": "1947127145018573136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013853703682289664/8UlZxPRn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 217,
+          "like_count": 6251,
+          "listed_count": 7,
+          "media_count": 1450,
+          "tweet_count": 4971
+        },
+        "username": "JiangAspirin",
+        "verified": false
+      }
+    ]
+  }
+}

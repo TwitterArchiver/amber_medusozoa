@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2037251879822909499",
+    "created_at": "2026-03-26T19:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T20:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037252086904082680"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037252086904082680",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037251879822909499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "is this not rape, my fellow “feminists?”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2037251879822909499",
+        "created_at": "2026-03-26T19:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T20:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037252086904082680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037252086904082680",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037251879822909499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "is this not rape, my fellow “feminists?”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2037251879822909499",
+        "created_at": "2026-03-26T19:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T20:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037251879822909499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/espressobaddie…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/espressobaddie/status/2037229304933703850",
+              "start": 46,
+              "url": "https://t.co/jBo5nqDPPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037251879822909499",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037229304933703850",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "funniest thing is that no one cares except us https://t.co/jBo5nqDPPK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 354,
+          "like_count": 437,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 321
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

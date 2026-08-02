@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2057136177900064841",
+    "created_at": "2026-05-21T06:39:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T07:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057350534948921353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1455052587145723904",
+          "start": 0,
+          "username": "MizukiWorkshop"
+        },
+        {
+          "end": 28,
+          "id": "1406049068548169729",
+          "start": 16,
+          "username": "AetherKyalo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057350534948921353",
+    "in_reply_to_user_id": "1455052587145723904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057136177900064841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MizukiWorkshop @AetherKyalo 也可以用来描述美国加拿大之类的地方吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2057136177900064841",
+        "created_at": "2026-05-21T06:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T07:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057350534948921353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1455052587145723904",
+              "start": 0,
+              "username": "MizukiWorkshop"
+            },
+            {
+              "end": 28,
+              "id": "1406049068548169729",
+              "start": 16,
+              "username": "AetherKyalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057350534948921353",
+        "in_reply_to_user_id": "1455052587145723904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057136177900064841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MizukiWorkshop @AetherKyalo 也可以用来描述美国加拿大之类的地方吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455052587145723904",
+        "conversation_id": "2057136177900064841",
+        "created_at": "2026-05-20T16:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057136177900064841"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057136177900064841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 183,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“定居殖民”这个概念的危害大于收益其实"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2057203502472946047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057203465730801664/2vAIcjtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3704,
+          "following_count": 839,
+          "like_count": 3564,
+          "listed_count": 9,
+          "media_count": 52,
+          "tweet_count": 1541
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-01T06:02:30.000Z",
+        "description": "🫧 ⬩ ME JIANG ⬩ @ringochichidim ⬩ @stellachan0w0 ⬩ @NekoChan6684816",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ringochichidim"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "stellachan0w0"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "NekoChan6684816"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Muentzer",
+                "end": 23,
+                "expanded_url": "https://t.me/Muentzer",
+                "start": 0,
+                "url": "https://t.co/uom95KFHj4"
+              }
+            ]
+          }
+        },
+        "id": "1455052587145723904",
+        "location": "L'Internationale",
+        "name": "水月 遥 🪼🫧",
+        "pinned_tweet_id": "1865957499418951947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791874009308545025/7yD_VYMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 1166,
+          "like_count": 117012,
+          "listed_count": 8,
+          "media_count": 1738,
+          "tweet_count": 23723
+        },
+        "url": "https://t.co/uom95KFHj4",
+        "username": "MizukiWorkshop",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-19T00:40:07.000Z",
+        "description": "03年｜惠灵顿维多利亚大学｜Bachelor of Art｜从极权国家走出的革命者｜Gay🏳️‍🌈 Furry🦊 Neurodiversity🧠｜无政府共产主义者，社会主义人本主义者，黑格尔马克思主义者 & 文化女性主义者 | 规则改变将结局撼动，就是我们——这世界的英雄 | 中文，English 🆗|",
+        "id": "1406049068548169729",
+        "location": "Wellington City, New Zealand",
+        "name": "Kyalo 凯犽洛🏳️‍🌈🏳️‍⚧️🇵🇸🇺🇦",
+        "pinned_tweet_id": "1840547733717074257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880945817273397249/vevg9eel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 732,
+          "like_count": 1027,
+          "listed_count": 3,
+          "media_count": 215,
+          "tweet_count": 9403
+        },
+        "username": "AetherKyalo",
+        "verified": true
+      }
+    ]
+  }
+}

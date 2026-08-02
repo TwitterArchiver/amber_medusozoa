@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052083710015524874"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1792595821940113408",
+          "name": "Matcha"
+        }
+      }
+    ],
+    "conversation_id": "2052083713651949980",
+    "created_at": "2026-05-06T17:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T18:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052083713651949980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mM61rftRy0",
+          "end": 52,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2052083713651949980/photo/1",
+          "media_key": "3_2052083710015524874",
+          "start": 29,
+          "url": "https://t.co/mM61rftRy0"
+        },
+        {
+          "display_url": "x.com/huan35503/stat…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/huan35503/status/2051945328975233201",
+          "start": 53,
+          "url": "https://t.co/cawlxuabNb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052083713651949980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051945328975233201",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "确实是 之前会见李在明也开过一次关于手机有没有后门的玩笑 https://t.co/mM61rftRy0 https://t.co/cawlxuabNb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2052083713651949980].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2052083713651949980",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2052083713651949980"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1619,
+        "media_key": "3_2052083710015524874",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHp3QwjXUAoRuth.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035948600002490368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "2051944684801667231",
+        "created_at": "2026-05-06T08:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051945328975233201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1282337602436120577",
+              "start": 0,
+              "username": "x19917675"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051945328975233201",
+        "in_reply_to_user_id": "1282337602436120577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 11014,
+          "like_count": 171,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051944684801667231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x19917675 🍵其实真的很幽默，我记得有一次他去访问说福建有功夫🍵很好喝，可惜他现在没有闲工夫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🇨🇦 #多伦多 #药娘 #TS #trans \n💬 ¥150/240 ($30/50)\n❤️ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 3,
+                "tag": "多伦多"
+              },
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "药娘"
+              },
+              {
+                "end": 15,
+                "start": 12,
+                "tag": "TS"
+              },
+              {
+                "end": 22,
+                "start": 16,
+                "tag": "trans"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 47,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051870964342738946/SeJ2kbJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3633,
+          "following_count": 827,
+          "like_count": 3525,
+          "listed_count": 8,
+          "media_count": 47,
+          "tweet_count": 1460
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T05:16:02.000Z",
+        "description": "普通的杂食表姐罢了，晶哥憋看我",
+        "id": "2035948600002490368",
+        "location": "中南海会议桌下",
+        "name": "表达了作者的思乡之情",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038689179643846656/5ntL0ts9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 110,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 180
+        },
+        "username": "Huan35503",
+        "verified": false
+      }
+    ]
+  }
+}

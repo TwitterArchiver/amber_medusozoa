@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2051786402996617221"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2051786529316446501",
+    "created_at": "2026-05-05T22:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T23:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051786529316446501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 28,
+          "id": "1362497240682483716",
+          "start": 20,
+          "username": "ZhaoXi_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DP26rLwqt3",
+          "end": 52,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2051786529316446501/video/1",
+          "media_key": "13_2051786402996617221",
+          "start": 29,
+          "url": "https://t.co/DP26rLwqt3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051786529316446501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "意义不明但指向又很明确的运镜\n\n🏠🪢📷 @ZhaoXi_ https://t.co/DP26rLwqt3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2051786529316446501].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2051786529316446501",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2051786529316446501"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6303,
+        "height": 3840,
+        "media_key": "13_2051786402996617221",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051786402996617221/img/X4686n6sA0k-Oi7n.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051786402996617221/vid/avc1/480x852/GWrl_Ygx7FmaSrCc.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051786402996617221/vid/avc1/320x568/ZFV56GhdgRqc5pPT.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051786402996617221/vid/avc1/2160x3840/RAgv5f3htVp_2hVW.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051786402996617221/vid/avc1/1080x1920/IqcCelNiqynlbQzr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051786402996617221/pl/1J4gCbcR18YFvrPO.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051786402996617221/vid/avc1/720x1280/oFdQmxouyR1GC-kn.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🇨🇦 #多伦多 #药娘 #TS #trans \n💬 ¥150/240 ($30/50)\n❤️ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 3,
+                "tag": "多伦多"
+              },
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "药娘"
+              },
+              {
+                "end": 15,
+                "start": 12,
+                "tag": "TS"
+              },
+              {
+                "end": 22,
+                "start": 16,
+                "tag": "trans"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 47,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051680473894584328/Se8BKTA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3585,
+          "following_count": 828,
+          "like_count": 3482,
+          "listed_count": 8,
+          "media_count": 36,
+          "tweet_count": 1419
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-18T20:20:43.000Z",
+        "description": "Switch(M), Shibari Only/碎碎念话痨bot/人在土伦土宅到失联/混乱邪恶同人女&菜鸡画手+摄影/CHN+ENG",
+        "id": "1362497240682483716",
+        "location": "大瀑布啊你全是水",
+        "name": "朝夕",
+        "pinned_tweet_id": "1688935996308500480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012652658029465601/VxvCsH7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48343,
+          "following_count": 364,
+          "like_count": 3273,
+          "listed_count": 85,
+          "media_count": 309,
+          "tweet_count": 3328
+        },
+        "username": "ZhaoXi_",
+        "verified": false
+      }
+    ]
+  }
+}

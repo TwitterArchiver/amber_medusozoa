@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2040958816649433318",
+    "created_at": "2026-04-06T01:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T02:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040958816649433318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1332355294303838211",
+          "start": 3,
+          "username": "doaavci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040958816649433318",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1556
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040660167079972888",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doaavci: venus is transgender"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2040958816649433318",
+        "created_at": "2026-04-06T01:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T02:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040958816649433318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1332355294303838211",
+              "start": 3,
+              "username": "doaavci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040958816649433318",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1556
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040660167079972888",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doaavci: venus is transgender"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1332355294303838211",
+        "conversation_id": "2040660167079972888",
+        "created_at": "2026-04-05T05:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T06:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040660167079972888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moondailys/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/moondailys/status/2040305677336228041",
+              "start": 21,
+              "url": "https://t.co/v05wfnKqLf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040660167079972888",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 296,
+          "impression_count": 158005,
+          "like_count": 20702,
+          "quote_count": 47,
+          "reply_count": 57,
+          "retweet_count": 1556
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040305677336228041",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "venus is transgender https://t.co/v05wfnKqLf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 592,
+          "like_count": 1286,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 874
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-27T16:07:16.000Z",
+        "description": "ve dövüşebilirim doğru bulduğum, haklı bulduğum, güzel bulduğum her şey ve herkes için.. yaşım başım buna engel değil..\n🏳️‍⚧️🇵🇸🇺🇦",
+        "id": "1332355294303838211",
+        "location": "Brussels, Belgium",
+        "name": "Sylvia",
+        "pinned_tweet_id": "2026918967693234187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039140526734372864/5oof_ysv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 1053,
+          "like_count": 26506,
+          "listed_count": 3,
+          "media_count": 739,
+          "tweet_count": 19448
+        },
+        "username": "doaavci",
+        "verified": false
+      }
+    ]
+  }
+}

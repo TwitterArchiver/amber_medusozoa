@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060193204935258116"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2060193208068362249",
+    "created_at": "2026-05-29T02:55:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T03:55:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060193208068362249"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dSDpL11vex",
+          "end": 31,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2060193208068362249/photo/1",
+          "media_key": "3_2060193204935258116",
+          "start": 8,
+          "url": "https://t.co/dSDpL11vex"
+        },
+        {
+          "display_url": "x.com/asako200311/st…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/asako200311/status/2059971008329879867",
+          "start": 32,
+          "url": "https://t.co/77hDoFSyYL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060193208068362249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059971008329879867",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "自然男是这样的 https://t.co/dSDpL11vex https://t.co/77hDoFSyYL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060193204935258116",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdGzfTW8AQ14yJ.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059970940159823872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZ8p-fakAApOFR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060193204935258116"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2060193208068362249",
+        "created_at": "2026-05-29T02:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060193208068362249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dSDpL11vex",
+              "end": 31,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2060193208068362249/photo/1",
+              "media_key": "3_2060193204935258116",
+              "start": 8,
+              "url": "https://t.co/dSDpL11vex"
+            },
+            {
+              "display_url": "x.com/asako200311/st…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/asako200311/status/2059971008329879867",
+              "start": 32,
+              "url": "https://t.co/77hDoFSyYL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060193208068362249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059971008329879867",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "自然男是这样的 https://t.co/dSDpL11vex https://t.co/77hDoFSyYL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059970940159823872"
+          ]
+        },
+        "author_id": "1901021870239215619",
+        "conversation_id": "2059971008329879867",
+        "created_at": "2026-05-28T12:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059971008329879867"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "男娘"
+            },
+            {
+              "end": 19,
+              "start": 12,
+              "tag": "femboy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GIAmzCaBca",
+              "end": 43,
+              "expanded_url": "https://x.com/asako200311/status/2059971008329879867/photo/1",
+              "media_key": "3_2059970940159823872",
+              "start": 20,
+              "url": "https://t.co/GIAmzCaBca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059971008329879867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 10876,
+          "like_count": 638,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "自然男是这样的\n#男娘 #femboy https://t.co/GIAmzCaBca"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "💰 https://t.co/ifiQvlVhub\n❤️@noaayoyaoaya ⚜️@irisdesombres \n🪼 @amber_digit @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "amber_digit"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 25,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 2,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 Toronto",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5375,
+          "following_count": 920,
+          "like_count": 4082,
+          "listed_count": 12,
+          "media_count": 101,
+          "tweet_count": 1891
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-15T21:25:20.000Z",
+        "description": "不回口令之外的 大号鼠了@sadbabyxiaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "sadbabyxiaos"
+              }
+            ]
+          }
+        },
+        "id": "1901021870239215619",
+        "location": "🚪520",
+        "name": "sadbaby",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901022037491281921/TQihAeGv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18469,
+          "following_count": 37,
+          "like_count": 346,
+          "listed_count": 86,
+          "media_count": 60,
+          "tweet_count": 187
+        },
+        "username": "asako200311",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2044086934591447569",
+    "created_at": "2026-04-14T16:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T17:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044086934591447569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1408751443360710662",
+          "start": 3,
+          "username": "Jellyfi77885103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044086934591447569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044040825961886189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jellyfi77885103: 有没有人特别特别喜欢我这样我自杀就可以让它抱憾终身了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2044086934591447569",
+        "created_at": "2026-04-14T16:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044086934591447569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1408751443360710662",
+              "start": 3,
+              "username": "Jellyfi77885103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044086934591447569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044040825961886189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jellyfi77885103: 有没有人特别特别喜欢我这样我自杀就可以让它抱憾终身了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408751443360710662",
+        "conversation_id": "2044040825961886189",
+        "created_at": "2026-04-14T13:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044040825961886189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044040825961886189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人特别特别喜欢我这样我自杀就可以让它抱憾终身了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2206,
+          "following_count": 739,
+          "like_count": 2174,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1571
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-26T11:38:21.000Z",
+        "description": "为什么世界上有那么多水母\n\n小红书https://t.co/zw3IwFNWyN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/2m8xweaDpgX",
+                "end": 40,
+                "expanded_url": "https://xhslink.com/m/2m8xweaDpgX",
+                "start": 17,
+                "url": "https://t.co/zw3IwFNWyN"
+              }
+            ]
+          }
+        },
+        "id": "1408751443360710662",
+        "name": "Jellyfish",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1408751578396258305/13hH-iJB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 120,
+          "like_count": 677,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 480
+        },
+        "username": "Jellyfi77885103",
+        "verified": false
+      }
+    ]
+  }
+}

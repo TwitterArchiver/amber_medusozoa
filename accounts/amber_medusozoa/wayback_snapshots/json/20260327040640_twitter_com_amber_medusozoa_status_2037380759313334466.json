@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2037373375396319271",
+    "created_at": "2026-03-27T04:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T05:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037380759313334466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1869775126113443840",
+          "start": 0,
+          "username": "gongwu1919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037380759313334466",
+    "in_reply_to_user_id": "1869775126113443840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037373375396319271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gongwu1919 好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2037373375396319271",
+        "created_at": "2026-03-27T04:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T05:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037380759313334466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1869775126113443840",
+              "start": 0,
+              "username": "gongwu1919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037380759313334466",
+        "in_reply_to_user_id": "1869775126113443840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037373375396319271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gongwu1919 好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869775126113443840",
+        "conversation_id": "2037373375396319271",
+        "created_at": "2026-03-27T03:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T04:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037373375396319271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2036997817948942622",
+              "start": 25,
+              "url": "https://t.co/UjufBG9IoO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037373375396319271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036997817948942622",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "水母人作为互联网性别研究的头面，应该有点自知之明 https://t.co/UjufBG9IoO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 363,
+          "like_count": 470,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 340
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-19T16:02:10.000Z",
+        "description": "带犹太帽子的女网友 | burner account",
+        "id": "1869775126113443840",
+        "name": "公无渡河",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024470091933380608/WFj-ryQ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 41,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 94
+        },
+        "username": "gongwu1919",
+        "verified": false
+      }
+    ]
+  }
+}

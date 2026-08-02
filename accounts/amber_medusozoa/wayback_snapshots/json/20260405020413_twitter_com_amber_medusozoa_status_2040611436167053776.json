@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2040608687174058261",
+    "created_at": "2026-04-05T02:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T03:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040611436167053776"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040611436167053776",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040608687174058261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "并且设定上来讲这位就是最适合当s/dom的（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040608678890573824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFGyyCbaEAAnns1.jpg",
+        "width": 1412
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2040608687174058261",
+        "created_at": "2026-04-05T02:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T03:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040611436167053776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040611436167053776",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040608687174058261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "并且设定上来讲这位就是最适合当s/dom的（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040608678890573824"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2040608687174058261",
+        "created_at": "2026-04-05T01:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T02:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040608687174058261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8AhFDgVEnh",
+              "end": 28,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2040608687174058261/photo/1",
+              "media_key": "3_2040608678890573824",
+              "start": 5,
+              "url": "https://t.co/8AhFDgVEnh"
+            },
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/2040565886877098026",
+              "start": 29,
+              "url": "https://t.co/TxnhElQUO8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040608687174058261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040565886877098026",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这样的。 https://t.co/8AhFDgVEnh https://t.co/TxnhElQUO8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1780,
+          "following_count": 577,
+          "like_count": 1166,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 774
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

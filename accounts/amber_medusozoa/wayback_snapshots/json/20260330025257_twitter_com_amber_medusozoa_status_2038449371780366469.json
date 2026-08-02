@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2038437249189077012",
+    "created_at": "2026-03-30T02:52:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T03:52:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038449371780366469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1880464788276539392",
+          "start": 0,
+          "username": "haorikotoha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038449371780366469",
+    "in_reply_to_user_id": "1880464788276539392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038441144145907904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haorikotoha 一般这样就是在刷推（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2038437249189077012",
+        "created_at": "2026-03-30T02:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T03:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038449371780366469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880464788276539392",
+              "start": 0,
+              "username": "haorikotoha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038449371780366469",
+        "in_reply_to_user_id": "1880464788276539392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038441144145907904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haorikotoha 一般这样就是在刷推（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880464788276539392",
+        "conversation_id": "2038437249189077012",
+        "created_at": "2026-03-30T02:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T03:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038441144145907904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038441144145907904",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038437249189077012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 有一种“我得仔细看看这什么东西？”的故事感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 412,
+          "like_count": 704,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 488
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-18T03:58:53.000Z",
+        "description": "败犬女配 / TransLes",
+        "id": "1880464788276539392",
+        "location": "反正不在北欧",
+        "name": "琴葉🏳️‍⚧️HYY",
+        "pinned_tweet_id": "1944960722972369260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962137875354644480/L-XnrHgT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 138,
+          "like_count": 896,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 895
+        },
+        "username": "haorikotoha",
+        "verified": false
+      }
+    ]
+  }
+}

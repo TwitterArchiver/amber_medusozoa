@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2079566650152743337",
+    "created_at": "2026-07-21T22:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T23:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079693223144919163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1586375892154036224",
+          "start": 0,
+          "username": "LyraSumusha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079693223144919163",
+    "in_reply_to_user_id": "1586375892154036224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079566650152743337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LyraSumusha 好漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079566639927078912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwa10ubMAA4WbL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2079566650152743337",
+        "created_at": "2026-07-21T22:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T23:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079693223144919163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1586375892154036224",
+              "start": 0,
+              "username": "LyraSumusha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079693223144919163",
+        "in_reply_to_user_id": "1586375892154036224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079566650152743337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LyraSumusha 好漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079566639927078912"
+          ]
+        },
+        "author_id": "1586375892154036224",
+        "conversation_id": "2079566650152743337",
+        "created_at": "2026-07-21T13:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079566650152743337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z0tQZLNxoz",
+              "end": 30,
+              "expanded_url": "https://x.com/LyraSumusha/status/2079566650152743337/photo/1",
+              "media_key": "3_2079566639927078912",
+              "start": 7,
+              "url": "https://t.co/Z0tQZLNxoz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079566650152743337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 423,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不敢穿出去… https://t.co/Z0tQZLNxoz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "前世 @amber_toffee\n🏳️‍⚧️☭ she/her #药娘\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 76,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 53,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6872,
+          "following_count": 1168,
+          "like_count": 6851,
+          "listed_count": 10,
+          "media_count": 350,
+          "tweet_count": 3932
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-29T15:14:37.000Z",
+        "description": "MTF/ADHD/INFP/178cm/65kg/会化妆会伪音/化妆品研发工程师（/喜欢夸夸/需要回fo请引起我的注意/里推@yumaohu0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "yumaohu0"
+              }
+            ]
+          }
+        },
+        "id": "1586375892154036224",
+        "location": "距您 7.9 km",
+        "name": "羽毛Lyra💄",
+        "pinned_tweet_id": "1657380686091939840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733567241688428544/AKBoYBC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4429,
+          "following_count": 371,
+          "like_count": 4963,
+          "listed_count": 15,
+          "media_count": 283,
+          "tweet_count": 4412
+        },
+        "url": "",
+        "username": "LyraSumusha",
+        "verified": false
+      }
+    ]
+  }
+}

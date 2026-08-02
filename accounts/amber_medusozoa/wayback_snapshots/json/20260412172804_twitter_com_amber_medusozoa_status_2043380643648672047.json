@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2043380643648672047",
+    "created_at": "2026-04-12T17:28:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T18:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043380643648672047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1832688819017277440",
+          "start": 3,
+          "username": "homeCollider"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043380643648672047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043352329626472626",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @homeCollider: 我相信高自尊约等于高自卑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2043380643648672047",
+        "created_at": "2026-04-12T17:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043380643648672047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1832688819017277440",
+              "start": 3,
+              "username": "homeCollider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043380643648672047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043352329626472626",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @homeCollider: 我相信高自尊约等于高自卑。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832688819017277440",
+        "conversation_id": "2043352329626472626",
+        "created_at": "2026-04-12T15:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043352329626472626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IzayoiMarin/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/IzayoiMarin/status/2043007129682866430",
+              "start": 14,
+              "url": "https://t.co/ZeGPDyo36C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043352329626472626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043007129682866430",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我相信高自尊约等于高自卑。 https://t.co/ZeGPDyo36C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2051,
+          "following_count": 725,
+          "like_count": 2041,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 1428
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-08T07:54:25.000Z",
+        "description": "🏳️‍⚧️ MtF | 架构师 | 讼棍 | Quantic MBA '26 | 水母饲养员 | 神经罕见病患者\n- 部署你的 X Agent 账号: https://t.co/oxPjs4Nzen\n- 如果哪天我不在了，请忘记我，这是我的愿望。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jellyfishai.org",
+                "end": 99,
+                "expanded_url": "http://jellyfishai.org",
+                "start": 76,
+                "url": "https://t.co/oxPjs4Nzen"
+              }
+            ]
+          }
+        },
+        "id": "1832688819017277440",
+        "name": "家用粒子对撞机",
+        "pinned_tweet_id": "2043280317520482577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039767465450983424/yYDG7LJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 289,
+          "like_count": 1543,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 746
+        },
+        "username": "homeCollider",
+        "verified": true
+      }
+    ]
+  }
+}

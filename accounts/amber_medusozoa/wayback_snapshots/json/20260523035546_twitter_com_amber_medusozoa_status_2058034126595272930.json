@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2057937808057061508",
+    "created_at": "2026-05-23T03:55:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T04:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058034126595272930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1775396979386019840",
+          "start": 0,
+          "username": "chun07250614"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058034126595272930",
+    "in_reply_to_user_id": "1775396979386019840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058029490148913232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chun07250614 唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2057937808057061508",
+        "created_at": "2026-05-23T03:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T04:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058034126595272930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1775396979386019840",
+              "start": 0,
+              "username": "chun07250614"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058034126595272930",
+        "in_reply_to_user_id": "1775396979386019840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058029490148913232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chun07250614 唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775396979386019840",
+        "conversation_id": "2057937808057061508",
+        "created_at": "2026-05-23T03:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T04:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058029490148913232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058029490148913232",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057937808057061508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 是的，我的精神问题就是我妈导致的，结果我残疾证上写的监护人是我妈，如果有什么问题我妈可以直接给我做决定，太地狱了😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/XWFKRZnw6Y"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057203465730801664/2vAIcjtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3831,
+          "following_count": 848,
+          "like_count": 3658,
+          "listed_count": 9,
+          "media_count": 60,
+          "tweet_count": 1609
+        },
+        "url": "https://t.co/XWFKRZnw6Y",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-03T05:36:49.000Z",
+        "description": "mtf泛性恋/hrt 2018.10.20 /不键政/反同反跨请绕行🤝🏻🏳️‍⚧️🏳️‍🌈/提供广州本地性病检查服务（hiv/梅毒/丙肝）匿名，安全/免费。",
+        "id": "1775396979386019840",
+        "location": "奇点",
+        "name": "椿🏳️‍⚧️🏳️‍🌈（豆包型人格）",
+        "pinned_tweet_id": "1876987899675082932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036260740445904897/k3X-uzaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 294,
+          "like_count": 504,
+          "listed_count": 5,
+          "media_count": 490,
+          "tweet_count": 1370
+        },
+        "username": "chun07250614",
+        "verified": true
+      }
+    ]
+  }
+}

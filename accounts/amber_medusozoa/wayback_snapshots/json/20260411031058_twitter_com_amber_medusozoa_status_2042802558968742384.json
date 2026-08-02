@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042643803027251200"
+      ],
+      "media_source_tweet_id": [
+        "2042643807632527514"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2042802558968742384",
+    "created_at": "2026-04-11T03:10:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T04:10:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042802558968742384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870313420807163904",
+          "start": 3,
+          "username": "IzayoiMarin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6gKZeCQW08",
+          "end": 40,
+          "expanded_url": "https://x.com/IzayoiMarin/status/2042643807632527514/photo/1",
+          "media_key": "3_2042643803027251200",
+          "start": 17,
+          "url": "https://t.co/6gKZeCQW08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042802558968742384",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042643807632527514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IzayoiMarin: https://t.co/6gKZeCQW08"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 635,
+        "media_key": "3_2042643803027251200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjtt2oXoAAQOd_.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042643803027251200"
+          ],
+          "media_source_tweet_id": [
+            "2042643807632527514"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2042802558968742384",
+        "created_at": "2026-04-11T03:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T04:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042802558968742384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870313420807163904",
+              "start": 3,
+              "username": "IzayoiMarin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6gKZeCQW08",
+              "end": 40,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2042643807632527514/photo/1",
+              "media_key": "3_2042643803027251200",
+              "start": 17,
+              "url": "https://t.co/6gKZeCQW08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042802558968742384",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042643807632527514",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IzayoiMarin: https://t.co/6gKZeCQW08"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042643803027251200"
+          ]
+        },
+        "author_id": "1870313420807163904",
+        "conversation_id": "2042643807632527514",
+        "created_at": "2026-04-10T16:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042643807632527514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6gKZeCQW08",
+              "end": 23,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2042643807632527514/photo/1",
+              "media_key": "3_2042643803027251200",
+              "start": 0,
+              "url": "https://t.co/6gKZeCQW08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042643807632527514",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 113049,
+          "like_count": 812,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6gKZeCQW08"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2042,
+          "following_count": 695,
+          "like_count": 1970,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 1365
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "星野真凛（hoshino marin） | 白夜行（びゃくやこう）|   09高二🇨🇳   |   梗图源网络，如有侵权可删   |  永遠のlove💍： @Yogiuras  ❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "Yogiuras"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQro7WH"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "Mr.'Broken Heart' ——松下優也",
+        "name": "星野 まりん",
+        "pinned_tweet_id": "2041538833016324297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035001529271263232/11cFwK_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2585,
+          "following_count": 2283,
+          "like_count": 40201,
+          "listed_count": 5,
+          "media_count": 2000,
+          "tweet_count": 19731
+        },
+        "url": "https://t.co/BABPQro7WH",
+        "username": "IzayoiMarin",
+        "verified": false
+      }
+    ]
+  }
+}

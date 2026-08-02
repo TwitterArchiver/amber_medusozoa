@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2045129059001081865",
+    "created_at": "2026-04-17T13:15:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T14:15:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045129059001081865"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iyliess/status…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/iyliess/status/2045128275241160818",
+          "start": 2,
+          "url": "https://t.co/fHvHZCPbbi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045129059001081865",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045128275241160818",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😭 https://t.co/fHvHZCPbbi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2045129059001081865",
+        "created_at": "2026-04-17T13:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045129059001081865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iyliess/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/iyliess/status/2045128275241160818",
+              "start": 2,
+              "url": "https://t.co/fHvHZCPbbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045129059001081865",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045128275241160818",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭 https://t.co/fHvHZCPbbi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037242416298905600",
+        "conversation_id": "2045125741952549362",
+        "created_at": "2026-04-17T13:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045128275241160818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045128275241160818",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045125741952549362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa At least we're united in hating ourselves."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/qBX9bbnFOS"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2349,
+          "following_count": 802,
+          "like_count": 2392,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 1702
+        },
+        "url": "https://t.co/qBX9bbnFOS",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-26T18:56:58.000Z",
+        "description": "🏳️‍⚧️ | Marxist Leninist | Begrudgingly Canadian | 25\n\nYankees DNI",
+        "id": "2037242416298905600",
+        "location": "Alberta",
+        "name": "Iylies",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037243945420546049/hxNlkOYI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 46,
+          "like_count": 824,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 176
+        },
+        "username": "iyliess",
+        "verified": false
+      }
+    ]
+  }
+}

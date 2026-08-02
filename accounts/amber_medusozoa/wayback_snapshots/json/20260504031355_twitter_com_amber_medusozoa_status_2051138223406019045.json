@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2051138172730462209"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2051138223406019045",
+    "created_at": "2026-05-04T03:13:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T04:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051138223406019045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1362497240682483716",
+          "start": 9,
+          "username": "ZhaoXi_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fo0OnH86hT",
+          "end": 41,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2051138223406019045/video/1",
+          "media_key": "13_2051138172730462209",
+          "start": 18,
+          "url": "https://t.co/Fo0OnH86hT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051138223406019045",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "转圈圈\n\n🏠🪢📷 @ZhaoXi_ https://t.co/Fo0OnH86hT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2051138223406019045].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2051138223406019045",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2051138223406019045"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2866,
+        "height": 1280,
+        "media_key": "13_2051138172730462209",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051138172730462209/img/0w9jnjdlZkq70a5e.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051138172730462209/vid/avc1/480x672/H8hilc4FoTapIV0t.mp4?tag=27"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051138172730462209/vid/avc1/912x1280/fNpdbKhJKf5Gpi0q.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051138172730462209/vid/avc1/720x1010/g8raciCF9GDYv6Rv.mp4?tag=27"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051138172730462209/vid/avc1/320x448/Rvivi-V70aRBmml3.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051138172730462209/pl/qq95RvQfMQ2eZKQt.m3u8?tag=27"
+          }
+        ],
+        "width": 912
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🇨🇦 #多伦多 #药娘 #TS #trans \n💬 ¥150/240 ($30/50)\n🔞 nsfw only",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 3,
+                "tag": "多伦多"
+              },
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "药娘"
+              },
+              {
+                "end": 15,
+                "start": 12,
+                "tag": "TS"
+              },
+              {
+                "end": 22,
+                "start": 16,
+                "tag": "trans"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049527897036328960/hshFuKwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3471,
+          "following_count": 818,
+          "like_count": 3372,
+          "listed_count": 6,
+          "media_count": 30,
+          "tweet_count": 1370
+        },
+        "username": "amber_medusozoa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-18T20:20:43.000Z",
+        "description": "Switch(M), Shibari Only/碎碎念话痨bot/人在土伦土宅到失联/混乱邪恶同人女&菜鸡画手+摄影/CHN+ENG",
+        "id": "1362497240682483716",
+        "location": "大瀑布啊你全是水",
+        "name": "朝夕",
+        "pinned_tweet_id": "1688935996308500480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012652658029465601/VxvCsH7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48269,
+          "following_count": 363,
+          "like_count": 3274,
+          "listed_count": 85,
+          "media_count": 309,
+          "tweet_count": 3328
+        },
+        "username": "ZhaoXi_",
+        "verified": false
+      }
+    ]
+  }
+}

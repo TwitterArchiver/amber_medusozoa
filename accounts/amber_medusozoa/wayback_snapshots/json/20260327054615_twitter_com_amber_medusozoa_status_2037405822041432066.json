@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2037405822041432066",
+    "created_at": "2026-03-27T05:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T06:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037405822041432066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1035640248720601088",
+          "start": 3,
+          "username": "awo_dufie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037405822041432066",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036618378891157662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @awo_dufie: we should also be extremely critical with any call for reparations that isn't led by a decolonial movement of West Africans.…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2037405822041432066",
+        "created_at": "2026-03-27T05:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T06:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037405822041432066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1035640248720601088",
+              "start": 3,
+              "username": "awo_dufie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037405822041432066",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036618378891157662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @awo_dufie: we should also be extremely critical with any call for reparations that isn't led by a decolonial movement of West Africans.…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1035640248720601088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2036618378891157662",
+        "created_at": "2026-03-25T01:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T02:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036618378891157662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AbdulwadudMoh1…",
+              "end": 298,
+              "expanded_url": "https://twitter.com/AbdulwadudMoh15/status/2036386416419017063",
+              "start": 275,
+              "url": "https://t.co/g0msYKvPSP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036618378891157662",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3121,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036386416419017063",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "we should also be extremely critical with any call for reparations that isn't led by a decolonial movement of West Africans.\n\nthe same political elites who taught us the benefits of slavery and has commodified the experience of slavery itself for the richest Black Americans https://t.co/g0msYKvPSP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 363,
+          "like_count": 477,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 347
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-31T21:27:31.000Z",
+        "description": "queer west african archivist researching and archiving queer history, politics, and future.\n\nintersex and trans. decolonial separatist. mami wata & maa kali. 🛐",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "selar.com/showlove/docum…",
+                "end": 23,
+                "expanded_url": "https://selar.com/showlove/documentingqueerness",
+                "start": 0,
+                "url": "https://t.co/ILHfLutqvn"
+              }
+            ]
+          }
+        },
+        "id": "1035640248720601088",
+        "location": "West Africa",
+        "name": "awo dufie föfie 🦋",
+        "pinned_tweet_id": "2007176340806771151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982389342275358720/1QzZnqRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9049,
+          "following_count": 4038,
+          "like_count": 20669,
+          "listed_count": 13,
+          "media_count": 1475,
+          "tweet_count": 18317
+        },
+        "url": "https://t.co/ILHfLutqvn",
+        "username": "awo_dufie",
+        "verified": false
+      }
+    ]
+  }
+}

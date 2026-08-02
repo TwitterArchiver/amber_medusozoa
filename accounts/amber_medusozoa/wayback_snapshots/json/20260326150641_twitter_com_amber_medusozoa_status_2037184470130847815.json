@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2037184470130847815",
+    "created_at": "2026-03-26T15:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T16:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037184470130847815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1104873036694671361",
+          "start": 3,
+          "username": "Lizzie_Baseball"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037184470130847815",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036842089078501569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lizzie_Baseball: Internalized transphobia is so interesting. I don’t get dysphoric, but I do third gender myself internally. It’s a sel…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2037184470130847815",
+        "created_at": "2026-03-26T15:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037184470130847815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1104873036694671361",
+              "start": 3,
+              "username": "Lizzie_Baseball"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037184470130847815",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036842089078501569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lizzie_Baseball: Internalized transphobia is so interesting. I don’t get dysphoric, but I do third gender myself internally. It’s a sel…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1104873036694671361",
+        "conversation_id": "2036842089078501569",
+        "created_at": "2026-03-25T16:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T17:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036842089078501569"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036842089078501569",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 8565,
+          "like_count": 497,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "Internalized transphobia is so interesting. I don’t get dysphoric, but I do third gender myself internally. It’s a self fulfilling prophecy where I don’t feel comfortable around cіs girls because I feel different to them, so I don’t hang out with them, so I feel different to them"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 346,
+          "like_count": 411,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 285
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-10T22:33:54.000Z",
+        "description": "Thinking way too much about baseball. The only zoomer Kiyoshi Tamura mark. Razorback sports make me sad. Pitchfork Music’s strongest soldier. She/Her",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/oYmqJl4MoNI?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/oYmqJl4MoNI?si=8t3rvGy360B9WEbr",
+                "start": 0,
+                "url": "https://t.co/Q7fCUm0QYs"
+              }
+            ]
+          }
+        },
+        "id": "1104873036694671361",
+        "location": "University of Arkansas",
+        "name": "She/Her Ohtani",
+        "pinned_tweet_id": "1825621320245325844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849486266468864010/N8vGiRAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2448,
+          "following_count": 676,
+          "like_count": 385440,
+          "listed_count": 18,
+          "media_count": 2472,
+          "tweet_count": 38668
+        },
+        "url": "https://t.co/Q7fCUm0QYs",
+        "username": "Lizzie_Baseball",
+        "verified": false
+      }
+    ]
+  }
+}

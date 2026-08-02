@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2073154630775648379",
+    "created_at": "2026-07-03T21:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T22:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073154630775648379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "177004672",
+          "start": 3,
+          "username": "asian_catfish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073154630775648379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073137840293110183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asian_catfish: 小時候我做作業就這樣問我媽字典可以查的字。我媽說：自己不會查嗎？於是我一直自己查，長大變成了不會和人聊天的博士。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2073154630775648379",
+        "created_at": "2026-07-03T21:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T22:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073154630775648379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "177004672",
+              "start": 3,
+              "username": "asian_catfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073154630775648379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073137840293110183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asian_catfish: 小時候我做作業就這樣問我媽字典可以查的字。我媽說：自己不會查嗎？於是我一直自己查，長大變成了不會和人聊天的博士。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "177004672",
+        "conversation_id": "2073137840293110183",
+        "created_at": "2026-07-03T20:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T21:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073137840293110183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/user88881102/s…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/user88881102/status/2073135557765669115",
+              "start": 57,
+              "url": "https://t.co/w62GWhYwI2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073137840293110183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073135557765669115",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小時候我做作業就這樣問我媽字典可以查的字。我媽說：自己不會查嗎？於是我一直自己查，長大變成了不會和人聊天的博士。 https://t.co/w62GWhYwI2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya \n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6273,
+          "following_count": 1041,
+          "like_count": 5735,
+          "listed_count": 10,
+          "media_count": 262,
+          "tweet_count": 3180
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2010-08-11T00:46:00.000Z",
+        "description": "finally sane but at what cost",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/asian_catfish",
+                "end": 23,
+                "expanded_url": "http://instagram.com/asian_catfish",
+                "start": 0,
+                "url": "https://t.co/kXYN0WixrY"
+              }
+            ]
+          }
+        },
+        "id": "177004672",
+        "location": " london/粵",
+        "name": "straight ally in july",
+        "pinned_tweet_id": "2069063519635493036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041632470668603393/uu6B9TiA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 391,
+          "like_count": 20379,
+          "listed_count": 3,
+          "media_count": 1246,
+          "tweet_count": 6772
+        },
+        "url": "https://t.co/kXYN0WixrY",
+        "username": "asian_catfish",
+        "verified": false
+      }
+    ]
+  }
+}

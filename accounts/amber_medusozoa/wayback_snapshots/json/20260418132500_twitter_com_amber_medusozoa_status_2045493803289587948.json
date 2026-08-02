@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Biology",
+          "id": "847896837532995585",
+          "name": "Biology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Chemistry",
+          "id": "847896929698668544",
+          "name": "Chemistry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2045493803289587948",
+    "created_at": "2026-04-18T13:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T14:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045493803289587948"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiayigongheqiu…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/xiayigongheqiu/status/2045010394163642758",
+          "start": 54,
+          "url": "https://t.co/Vl5Kjv7Myl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045493803289587948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045010394163642758",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你看这个时候我就会采用我小时候最喜欢的论述策略：因为我是男的所以我的大脑比女性低劣 因此数理化完全都学不会 https://t.co/Vl5Kjv7Myl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Biology",
+              "id": "847896837532995585",
+              "name": "Biology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Chemistry",
+              "id": "847896929698668544",
+              "name": "Chemistry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2045493803289587948",
+        "created_at": "2026-04-18T13:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045493803289587948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiayigongheqiu…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/xiayigongheqiu/status/2045010394163642758",
+              "start": 54,
+              "url": "https://t.co/Vl5Kjv7Myl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045493803289587948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045010394163642758",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你看这个时候我就会采用我小时候最喜欢的论述策略：因为我是男的所以我的大脑比女性低劣 因此数理化完全都学不会 https://t.co/Vl5Kjv7Myl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443439089710092288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Biology",
+              "id": "847896837532995585",
+              "name": "Biology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Chemistry",
+              "id": "847896929698668544",
+              "name": "Chemistry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2045010394163642758",
+        "created_at": "2026-04-17T05:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045010394163642758"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045010394163642758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4952,
+          "like_count": 64,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉最适合木桶饭的职业都在理工医科\n生物、化学、医学、计算机……\n我是色弱，全学不了😭\n什么？计算机？我数学很差啊啊啊😭😭😭\n所以学的accountancy🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/qBX9bbnFOS"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2381,
+          "following_count": 821,
+          "like_count": 2511,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 1792
+        },
+        "url": "https://t.co/qBX9bbnFOS",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-30T04:54:53.000Z",
+        "description": "サブ垢@XiaYGHQiu ｜持证含糖MtF｜College student in Accountancy｜linguaphile (zh, en, eo, etc.)｜bipolar｜同类回fo｜欢迎和我聊天喵🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "XiaYGHQiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiayigongheqiu.mysxl.cn",
+                "end": 23,
+                "expanded_url": "http://xiayigongheqiu.mysxl.cn",
+                "start": 0,
+                "url": "https://t.co/s94hBVliY8"
+              }
+            ]
+          }
+        },
+        "id": "1443439089710092288",
+        "location": "山東省煙臺市萊山區",
+        "name": "🦐虾球🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024404971329056768/rYyGwh02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 456,
+          "like_count": 20950,
+          "listed_count": 4,
+          "media_count": 127,
+          "tweet_count": 3242
+        },
+        "url": "https://t.co/s94hBVliY8",
+        "username": "XiaYiGongHeQiu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2081196950880231431",
+    "created_at": "2026-07-26T01:56:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T02:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081196950880231431"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/takotamawasabi…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/takotamawasabi/status/2081194082442059907",
+          "start": 14,
+          "url": "https://t.co/GTuWOzhxpY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081196950880231431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081194082442059907",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也要拍这个 看起来好好玩 https://t.co/GTuWOzhxpY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9266,
+        "height": 1280,
+        "media_key": "13_2081194047415484416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081194047415484416/img/bqgrM5RYqJranSmk.jpg",
+        "public_metrics": {
+          "view_count": 58
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081194047415484416/vid/avc1/320x568/QwbeniICLMtA2jPX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081194047415484416/vid/avc1/480x852/UllHMqM0waAmwy5P.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081194047415484416/vid/avc1/720x1280/j7srAwg_phIddFK7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081194047415484416/pl/4Z9zv6SPFdj86lgm.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2081196950880231431",
+        "created_at": "2026-07-26T01:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T02:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081196950880231431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/takotamawasabi…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/takotamawasabi/status/2081194082442059907",
+              "start": 14,
+              "url": "https://t.co/GTuWOzhxpY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081196950880231431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081194082442059907",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也要拍这个 看起来好好玩 https://t.co/GTuWOzhxpY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081194047415484416"
+          ]
+        },
+        "author_id": "1973517116126142468",
+        "conversation_id": "2081194082442059907",
+        "created_at": "2026-07-26T01:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T02:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081194082442059907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BF3UCDxsf2",
+              "end": 23,
+              "expanded_url": "https://x.com/takotamawasabi/status/2081194082442059907/video/1",
+              "media_key": "13_2081194047415484416",
+              "start": 0,
+              "url": "https://t.co/BF3UCDxsf2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081194082442059907",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BF3UCDxsf2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2080801154435326152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080483846097629184/ano5UN60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6952,
+          "following_count": 1183,
+          "like_count": 7165,
+          "listed_count": 10,
+          "media_count": 358,
+          "tweet_count": 4075
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-01T22:35:33.000Z",
+        "description": "男娘/#femboy/#NSFW/喜欢我可以来fansly订阅支持 https://t.co/QJgAYtq7PY /无tg无小号/定制、闲置🚪288",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 3,
+                "tag": "femboy"
+              },
+              {
+                "end": 16,
+                "start": 11,
+                "tag": "NSFW"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fansly.com/Tako",
+                "end": 57,
+                "expanded_url": "https://fansly.com/Tako",
+                "start": 34,
+                "url": "https://t.co/QJgAYtq7PY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fansly.com/Tako",
+                "end": 23,
+                "expanded_url": "https://fansly.com/Tako",
+                "start": 0,
+                "url": "https://t.co/QJgAYtq7PY"
+              }
+            ]
+          }
+        },
+        "id": "1973517116126142468",
+        "name": "タコの裏部屋",
+        "pinned_tweet_id": "1973523246621548948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984770263184261121/eFMncrJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23344,
+          "following_count": 219,
+          "like_count": 433,
+          "listed_count": 145,
+          "media_count": 285,
+          "tweet_count": 752
+        },
+        "url": "https://t.co/QJgAYtq7PY",
+        "username": "takotamawasabi",
+        "verified": false
+      }
+    ]
+  }
+}

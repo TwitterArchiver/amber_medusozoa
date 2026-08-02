@@ -1,0 +1,440 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "British politician and lawyer",
+          "id": "1070735166069334017",
+          "name": "Keir Starmer"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "British politician and lawyer",
+          "id": "1070735166069334017",
+          "name": "Keir Starmer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "British politician and lawyer",
+          "id": "1070735166069334017",
+          "name": "Keir Starmer"
+        }
+      }
+    ],
+    "conversation_id": "2068986349550510533",
+    "created_at": "2026-06-22T09:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T10:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068986349550510533"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GlobeEyeNews/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/GlobeEyeNews/status/2068975762880041160",
+          "start": 3,
+          "url": "https://t.co/8XFx1BL31L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068986349550510533",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068975762880041160",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死 https://t.co/8XFx1BL31L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1157,
+        "media_key": "3_2068975755766431744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZ6fOtagAAI9vF.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "British politician and lawyer",
+              "id": "1070735166069334017",
+              "name": "Keir Starmer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "British politician and lawyer",
+              "id": "1070735166069334017",
+              "name": "Keir Starmer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "British politician and lawyer",
+              "id": "1070735166069334017",
+              "name": "Keir Starmer"
+            }
+          }
+        ],
+        "conversation_id": "2068986349550510533",
+        "created_at": "2026-06-22T09:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068986349550510533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GlobeEyeNews/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/GlobeEyeNews/status/2068975762880041160",
+              "start": 3,
+              "url": "https://t.co/8XFx1BL31L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068986349550510533",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068975762880041160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死 https://t.co/8XFx1BL31L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068975755766431744"
+          ]
+        },
+        "author_id": "1683054351647121408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "British politician and lawyer",
+              "id": "1070735166069334017",
+              "name": "Keir Starmer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "British politician and lawyer",
+              "id": "1070735166069334017",
+              "name": "Keir Starmer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "British politician and lawyer",
+              "id": "1070735166069334017",
+              "name": "Keir Starmer"
+            }
+          }
+        ],
+        "conversation_id": "2068975762880041160",
+        "created_at": "2026-06-22T08:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068975762880041160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nQEmJn7ufW",
+              "end": 107,
+              "expanded_url": "https://x.com/GlobeEyeNews/status/2068975762880041160/photo/1",
+              "media_key": "3_2068975755766431744",
+              "start": 84,
+              "url": "https://t.co/nQEmJn7ufW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068975762880041160",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 144267,
+          "like_count": 6073,
+          "quote_count": 228,
+          "reply_count": 311,
+          "retweet_count": 758
+        },
+        "reply_settings": "everyone",
+        "text": "BREAKING:\n\nKeir Starmer officially resigns as Prime Minister of the United Kingdom. https://t.co/nQEmJn7ufW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5964,
+          "following_count": 1021,
+          "like_count": 5285,
+          "listed_count": 10,
+          "media_count": 206,
+          "tweet_count": 2762
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T10:00:20.000Z",
+        "description": "International Affairs, Politics, Sports, Trends, and Global Happenings from South Asia to the Middle East and Beyond.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/GlobEyeNews",
+                "end": 23,
+                "expanded_url": "https://t.me/GlobEyeNews",
+                "start": 0,
+                "url": "https://t.co/R0Ear7RY8U"
+              }
+            ]
+          }
+        },
+        "id": "1683054351647121408",
+        "location": "World",
+        "name": "Globe Eye News",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693932087798267904/euVdeaHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890522,
+          "following_count": 157,
+          "like_count": 21,
+          "listed_count": 2421,
+          "media_count": 9831,
+          "tweet_count": 10302
+        },
+        "url": "https://t.co/R0Ear7RY8U",
+        "username": "GlobeEyeNews",
+        "verified": true
+      }
+    ]
+  }
+}

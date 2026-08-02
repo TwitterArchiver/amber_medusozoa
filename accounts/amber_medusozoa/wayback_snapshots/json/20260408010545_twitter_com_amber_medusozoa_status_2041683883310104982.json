@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2041528953559728128"
+      ],
+      "media_source_tweet_id": [
+        "2041529055397523931"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2041683883310104982",
+    "created_at": "2026-04-08T01:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T02:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041683883310104982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "359985193",
+          "start": 3,
+          "username": "DeltyThe73rd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zs6FYWhFmd",
+          "end": 134,
+          "expanded_url": "https://x.com/DeltyThe73rd/status/2041529055397523931/video/1",
+          "media_key": "7_2041528953559728128",
+          "start": 111,
+          "url": "https://t.co/zs6FYWhFmd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041683883310104982",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1789
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041529055397523931",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DeltyThe73rd: Accessibility is so beautiful man I stumbled upon this vid recently I think it's pretty neat https://t.co/zs6FYWhFmd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 64086,
+        "height": 1024,
+        "media_key": "7_2041528953559728128",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2041528953559728128/pu/img/8H9IjP2pAYWx_0Xi.jpg",
+        "public_metrics": {
+          "view_count": 260487
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041528953559728128/pu/vid/avc1/320x568/6R3n4A-3MLp4FkH9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041528953559728128/pu/vid/avc1/480x852/PEHRXNqNiQ169nQu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041528953559728128/pu/vid/avc1/576x1024/Zg_2WJUZyZqolndR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2041528953559728128/pu/pl/iGzZ2M8atAEkQeol.m3u8?v=f39"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2041528953559728128"
+          ],
+          "media_source_tweet_id": [
+            "2041529055397523931"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2041683883310104982",
+        "created_at": "2026-04-08T01:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T02:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041683883310104982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "359985193",
+              "start": 3,
+              "username": "DeltyThe73rd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zs6FYWhFmd",
+              "end": 134,
+              "expanded_url": "https://x.com/DeltyThe73rd/status/2041529055397523931/video/1",
+              "media_key": "7_2041528953559728128",
+              "start": 111,
+              "url": "https://t.co/zs6FYWhFmd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041683883310104982",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1789
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041529055397523931",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DeltyThe73rd: Accessibility is so beautiful man I stumbled upon this vid recently I think it's pretty neat https://t.co/zs6FYWhFmd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2041528953559728128"
+          ]
+        },
+        "author_id": "359985193",
+        "conversation_id": "2041529055397523931",
+        "created_at": "2026-04-07T14:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T15:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041529055397523931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zs6FYWhFmd",
+              "end": 116,
+              "expanded_url": "https://x.com/DeltyThe73rd/status/2041529055397523931/video/1",
+              "media_key": "7_2041528953559728128",
+              "start": 93,
+              "url": "https://t.co/zs6FYWhFmd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041529055397523931",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1330,
+          "impression_count": 473072,
+          "like_count": 18421,
+          "quote_count": 64,
+          "reply_count": 38,
+          "retweet_count": 1789
+        },
+        "reply_settings": "everyone",
+        "text": "Accessibility is so beautiful man I stumbled upon this vid recently I think it's pretty neat https://t.co/zs6FYWhFmd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 651,
+          "like_count": 1637,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1142
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2011-08-22T14:12:31.000Z",
+        "description": "DMs are open! | header: @batta18th | Singaporean talking about their hobbies | Business Email: delteus73@gmail.com| WarframeIGN: DeltyThe73rd#765",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "batta18th"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "deltythe73rd.carrd.co",
+                "end": 23,
+                "expanded_url": "https://deltythe73rd.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/TPaqpXVpQ4"
+              }
+            ]
+          }
+        },
+        "id": "359985193",
+        "location": "Singapore",
+        "name": "delty",
+        "pinned_tweet_id": "1452144800304549900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1445290191757864960/KjNGQ_uG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50967,
+          "following_count": 2672,
+          "like_count": 262170,
+          "listed_count": 108,
+          "media_count": 24487,
+          "tweet_count": 85261
+        },
+        "url": "https://t.co/TPaqpXVpQ4",
+        "username": "DeltyThe73rd",
+        "verified": true
+      }
+    ]
+  }
+}

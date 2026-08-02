@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2037569710603300865"
+      ],
+      "media_source_tweet_id": [
+        "2037569827313733689"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2037596239307346172",
+    "created_at": "2026-03-27T18:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T19:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037596239307346172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1761850835460374528",
+          "start": 3,
+          "username": "Blacksword011"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zjbdnK8EsR",
+          "end": 103,
+          "expanded_url": "https://x.com/Blacksword011/status/2037569827313733689/video/1",
+          "media_key": "13_2037569710603300865",
+          "start": 80,
+          "url": "https://t.co/zjbdnK8EsR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037596239307346172",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 398
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037569827313733689",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Blacksword011: \"Everybody wants third spaces until a homeless guy shows up\" https://t.co/zjbdnK8EsR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 108366,
+        "height": 1024,
+        "media_key": "13_2037569710603300865",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037569710603300865/img/2z_-unoUO9Lst4TQ.jpg",
+        "public_metrics": {
+          "view_count": 14728
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037569710603300865/vid/avc1/320x568/8Z9gc9803CKNvk2Z.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037569710603300865/vid/avc1/480x852/xZ8rClhodvPlfnsG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037569710603300865/vid/avc1/576x1024/S_M4pj0qPla4OpE1.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037569710603300865/pl/ygCEsbvrBctLRi19.m3u8?tag=14&v=7a2"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037569710603300865"
+          ],
+          "media_source_tweet_id": [
+            "2037569827313733689"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037596239307346172",
+        "created_at": "2026-03-27T18:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T19:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037596239307346172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1761850835460374528",
+              "start": 3,
+              "username": "Blacksword011"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zjbdnK8EsR",
+              "end": 103,
+              "expanded_url": "https://x.com/Blacksword011/status/2037569827313733689/video/1",
+              "media_key": "13_2037569710603300865",
+              "start": 80,
+              "url": "https://t.co/zjbdnK8EsR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037596239307346172",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 398
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037569827313733689",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Blacksword011: \"Everybody wants third spaces until a homeless guy shows up\" https://t.co/zjbdnK8EsR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037569710603300865"
+          ]
+        },
+        "author_id": "1761850835460374528",
+        "conversation_id": "2037569827313733689",
+        "created_at": "2026-03-27T16:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T17:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037569827313733689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zjbdnK8EsR",
+              "end": 84,
+              "expanded_url": "https://x.com/Blacksword011/status/2037569827313733689/video/1",
+              "media_key": "13_2037569710603300865",
+              "start": 61,
+              "url": "https://t.co/zjbdnK8EsR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037569827313733689",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 419,
+          "impression_count": 42111,
+          "like_count": 2034,
+          "quote_count": 12,
+          "reply_count": 4,
+          "retweet_count": 398
+        },
+        "reply_settings": "everyone",
+        "text": "\"Everybody wants third spaces until a homeless guy shows up\" https://t.co/zjbdnK8EsR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 373,
+          "like_count": 535,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 396
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-25T20:29:19.000Z",
+        "description": "Black American. Posts = General Informational + Educational Purposes Only. Disclaimer under section 107 of the Copyright Act of 1976",
+        "id": "1761850835460374528",
+        "name": "BlackSword",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001402545973977089/WVWGFOL1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16624,
+          "following_count": 2655,
+          "like_count": 55857,
+          "listed_count": 36,
+          "media_count": 1510,
+          "tweet_count": 25924
+        },
+        "username": "Blacksword011",
+        "verified": false
+      }
+    ]
+  }
+}

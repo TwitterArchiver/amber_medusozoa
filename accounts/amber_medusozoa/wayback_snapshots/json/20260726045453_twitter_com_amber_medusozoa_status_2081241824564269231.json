@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2081126472773730578",
+    "created_at": "2026-07-26T04:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T05:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081241824564269231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1717106855019692032",
+          "start": 0,
+          "username": "YiiiiR0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081241824564269231",
+    "in_reply_to_user_id": "1717106855019692032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081173908993311096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YiiiiR0 我一吃就停不下来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2081126472773730578",
+        "created_at": "2026-07-26T04:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081241824564269231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1717106855019692032",
+              "start": 0,
+              "username": "YiiiiR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081241824564269231",
+        "in_reply_to_user_id": "1717106855019692032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081173908993311096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YiiiiR0 我一吃就停不下来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717106855019692032",
+        "conversation_id": "2081126472773730578",
+        "created_at": "2026-07-26T00:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T01:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081173908993311096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081173908993311096",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081126472773730578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 可以尝试过去曾经熟悉的饭菜，这样也比较方便以直觉判断份量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2080801154435326152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080483846097629184/ano5UN60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6979,
+          "following_count": 1185,
+          "like_count": 7175,
+          "listed_count": 10,
+          "media_count": 358,
+          "tweet_count": 4081
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-25T09:12:44.000Z",
+        "description": "",
+        "id": "1717106855019692032",
+        "name": "yiiiir",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978148348390518784/QyjskgmT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 76,
+          "like_count": 1007,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "YiiiiR0",
+        "verified": true
+      }
+    ]
+  }
+}

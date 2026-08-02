@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2037753490743677075",
+    "created_at": "2026-03-28T04:47:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T05:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037753490743677075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1666070178134896642",
+          "start": 3,
+          "username": "headlesssoygirl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037753490743677075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037746735670518060",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @headlesssoygirl: 不，这完全没必要，作为一个也不喜欢围绕“自然女”的各种胡说八道的人。 服美役应该被理解为在父权制社会下女性因为社会压力遭受的强制性的外貌要求（不要跟我说“没人强迫我呀”）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2037753490743677075",
+        "created_at": "2026-03-28T04:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T05:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037753490743677075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1666070178134896642",
+              "start": 3,
+              "username": "headlesssoygirl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037753490743677075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037746735670518060",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @headlesssoygirl: 不，这完全没必要，作为一个也不喜欢围绕“自然女”的各种胡说八道的人。 服美役应该被理解为在父权制社会下女性因为社会压力遭受的强制性的外貌要求（不要跟我说“没人强迫我呀”）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666070178134896642",
+        "conversation_id": "2037746735670518060",
+        "created_at": "2026-03-28T04:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T05:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037746735670518060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Shen20020210/s…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/Shen20020210/status/2037468969398112719",
+              "start": 86,
+              "url": "https://t.co/9zSdxqi15D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037746735670518060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037468969398112719",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不，这完全没必要，作为一个也不喜欢围绕“自然女”的各种胡说八道的人。 服美役应该被理解为在父权制社会下女性因为社会压力遭受的强制性的外貌要求（不要跟我说“没人强迫我呀”） https://t.co/9zSdxqi15D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 386,
+          "like_count": 572,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 415
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-06T13:11:09.000Z",
+        "description": "trans woman/lesbian/lesfem",
+        "id": "1666070178134896642",
+        "name": "headlesssoygirl",
+        "pinned_tweet_id": "2020504244223398218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995870503857520641/lQljI4aC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 299,
+          "like_count": 9536,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 328
+        },
+        "username": "headlesssoygirl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,510 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Health, mind and body",
+          "id": "859532297376219136",
+          "name": "Health & wellness books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Health, mind and body",
+          "id": "859532297376219136",
+          "name": "Health & wellness books"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2058254519075479978",
+    "created_at": "2026-05-23T18:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T19:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058254519075479978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1542581410762227712",
+          "start": 3,
+          "username": "go1415926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058254519075479978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058246691137233251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @go1415926: 一个很反直觉的知识\n从保护弱势（而非单纯道德象征）的角度看，完全禁止性服务产业是最不利于保护弱势群体的模式之一。新西兰式完全去罪化 + 严厉打击贩卖和强迫行为，目前证据显示对工作者安全、健康和权利保护效果最好，但跟本上还是需要强有力的社会福利支持来…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Health, mind and body",
+              "id": "859532297376219136",
+              "name": "Health & wellness books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Health, mind and body",
+              "id": "859532297376219136",
+              "name": "Health & wellness books"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2058254519075479978",
+        "created_at": "2026-05-23T18:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T19:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058254519075479978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1542581410762227712",
+              "start": 3,
+              "username": "go1415926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058254519075479978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058246691137233251",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @go1415926: 一个很反直觉的知识\n从保护弱势（而非单纯道德象征）的角度看，完全禁止性服务产业是最不利于保护弱势群体的模式之一。新西兰式完全去罪化 + 严厉打击贩卖和强迫行为，目前证据显示对工作者安全、健康和权利保护效果最好，但跟本上还是需要强有力的社会福利支持来…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542581410762227712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Health, mind and body",
+              "id": "859532297376219136",
+              "name": "Health & wellness books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Health, mind and body",
+              "id": "859532297376219136",
+              "name": "Health & wellness books"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2058246691137233251",
+        "created_at": "2026-05-23T18:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T19:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058246691137233251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Sex workers are at disproportionate risk of violence and sexual and emotional ill health, harms that have been linked to the criminalisation of sex work. We synthesised evidence on the extent to which sex work laws and policing practices affect sex ...",
+              "display_url": "pmc.ncbi.nlm.nih.gov/articles/PMC62…",
+              "end": 154,
+              "expanded_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6289426/",
+              "images": [
+                {
+                  "height": 836,
+                  "url": "https://pbs.twimg.com/news_img/2058246691468488705/gpkaPO08?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2058246691468488705/gpkaPO08?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 131,
+              "status": 200,
+              "title": "Associations between sex work laws and sex workers’ health: A systematic review and meta-analysis of quantitative and qualitative studies",
+              "unwound_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6289426/",
+              "url": "https://t.co/LPIRzJxw7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058246691137233251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一个很反直觉的知识\n从保护弱势（而非单纯道德象征）的角度看，完全禁止性服务产业是最不利于保护弱势群体的模式之一。新西兰式完全去罪化 + 严厉打击贩卖和强迫行为，目前证据显示对工作者安全、健康和权利保护效果最好，但跟本上还是需要强有力的社会福利支持来减少被迫进入\nhttps://t.co/LPIRzJxw7x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057203465730801664/2vAIcjtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3836,
+          "following_count": 849,
+          "like_count": 3672,
+          "listed_count": 9,
+          "media_count": 60,
+          "tweet_count": 1620
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-30T18:50:53.000Z",
+        "description": "想用文字为你编织一个梦（本人女同性恋🌈）\n在推除了写性幻想，也会说些不会在墙内说的话，你爱我，我也爱你。你骂我，我就骂你。\nhttps://t.co/khe28WRcj6欢迎留言",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/song50181",
+                "end": 85,
+                "expanded_url": "http://ngl.link/song50181",
+                "start": 62,
+                "url": "https://t.co/khe28WRcj6"
+              }
+            ]
+          }
+        },
+        "id": "1542581410762227712",
+        "location": "一个人待在路边纸壳箱子里",
+        "name": "白首莫离",
+        "pinned_tweet_id": "2021581265850277995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592428269860945920/1jnxiiYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11659,
+          "following_count": 711,
+          "like_count": 10730,
+          "listed_count": 10,
+          "media_count": 118,
+          "tweet_count": 1121
+        },
+        "username": "go1415926",
+        "verified": false
+      }
+    ]
+  }
+}

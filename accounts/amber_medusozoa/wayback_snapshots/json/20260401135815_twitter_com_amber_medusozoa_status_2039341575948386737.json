@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2039329156366991742",
+    "created_at": "2026-04-01T13:58:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T14:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039341575948386737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2023762324038004736",
+          "start": 0,
+          "username": "salmon__sukiii"
+        },
+        {
+          "end": 32,
+          "id": "967064259661189120",
+          "start": 16,
+          "username": "Chocola_Kheshig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039341575948386737",
+    "in_reply_to_user_id": "2023762324038004736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039329156366991742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@salmon__sukiii @Chocola_Kheshig 好厉害的生日礼物"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2039329156366991742].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2039329156366991742",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2039329156366991742"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2039329156366991742",
+        "created_at": "2026-04-01T13:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039341575948386737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2023762324038004736",
+              "start": 0,
+              "username": "salmon__sukiii"
+            },
+            {
+              "end": 32,
+              "id": "967064259661189120",
+              "start": 16,
+              "username": "Chocola_Kheshig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039341575948386737",
+        "in_reply_to_user_id": "2023762324038004736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039329156366991742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@salmon__sukiii @Chocola_Kheshig 好厉害的生日礼物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ ⚢ ☭ ",
+        "name": "amber",
+        "pinned_tweet_id": "2038459897726074909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 435,
+          "like_count": 828,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 537
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-17T14:12:00.000Z",
+        "description": "你好我是三文鱼 转推内容可能有人彘或血腥画面请注意/无浪漫倾向异性恋 开放关系寻找中/♥️@sissysi89217873/只是发着玩请不要跟我私聊色情内容 不知道怎么回复的话就会已读不回非常抱歉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "sissysi89217873"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thaliana_su",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thaliana_su",
+                "start": 0,
+                "url": "https://t.co/DXWS26FaJd"
+              }
+            ]
+          }
+        },
+        "id": "2023762324038004736",
+        "name": "如果我是三文鱼腩就好了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023776500336783366/mPP3hQaZ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 133,
+          "like_count": 2568,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 523
+        },
+        "url": "https://t.co/DXWS26FaJd",
+        "username": "salmon__sukiii",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-23T15:51:01.000Z",
+        "description": "首先，是犯下首先之罪的首先",
+        "id": "967064259661189120",
+        "name": "巧克力怯薛",
+        "pinned_tweet_id": "1654878118664974338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654870694335791105/LCfJ4npL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 351,
+          "like_count": 5259,
+          "listed_count": 4,
+          "media_count": 46,
+          "tweet_count": 2714
+        },
+        "username": "Chocola_Kheshig",
+        "verified": false
+      }
+    ]
+  }
+}

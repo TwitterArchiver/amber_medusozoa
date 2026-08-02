@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2041693184489595071",
+    "created_at": "2026-04-08T01:42:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T02:42:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041693184489595071"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mizukiworkshop…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/mizukiworkshop/status/2041452455515340998",
+          "start": 9,
+          "url": "https://t.co/XrvfS3GsJL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041693184489595071",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041452455515340998",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国人只骟中国人 https://t.co/XrvfS3GsJL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2041693184489595071",
+        "created_at": "2026-04-08T01:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T02:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041693184489595071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mizukiworkshop…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/mizukiworkshop/status/2041452455515340998",
+              "start": 9,
+              "url": "https://t.co/XrvfS3GsJL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041693184489595071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041452455515340998",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国人只骟中国人 https://t.co/XrvfS3GsJL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455052587145723904",
+        "conversation_id": "2041452455515340998",
+        "created_at": "2026-04-07T09:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T10:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041452455515340998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Stanleysobest/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Stanleysobest/status/2040772890824777808",
+              "start": 11,
+              "url": "https://t.co/UeLnBzeuao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041452455515340998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 833,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040772890824777808",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“中国人不骟中国人” https://t.co/UeLnBzeuao"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 654,
+          "like_count": 1654,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1151
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-01T06:02:30.000Z",
+        "description": "🫧 ⬩ ME JIANG ⬩ @ringochichidim ⬩ @stellachan0w0 ⬩ @NekoChan6684816",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ringochichidim"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "stellachan0w0"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "NekoChan6684816"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Muentzer",
+                "end": 23,
+                "expanded_url": "https://t.me/Muentzer",
+                "start": 0,
+                "url": "https://t.co/uom95KFHj4"
+              }
+            ]
+          }
+        },
+        "id": "1455052587145723904",
+        "location": "L'Internationale",
+        "name": "水月 遥 🪼🫧",
+        "pinned_tweet_id": "1865957499418951947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791874009308545025/7yD_VYMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1725,
+          "following_count": 1140,
+          "like_count": 113565,
+          "listed_count": 8,
+          "media_count": 1632,
+          "tweet_count": 22551
+        },
+        "url": "https://t.co/uom95KFHj4",
+        "username": "MizukiWorkshop",
+        "verified": false
+      }
+    ]
+  }
+}

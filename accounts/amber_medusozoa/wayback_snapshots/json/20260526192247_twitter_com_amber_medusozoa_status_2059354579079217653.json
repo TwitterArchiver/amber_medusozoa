@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2059275745982358002",
+    "created_at": "2026-05-26T19:22:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T20:22:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059354579079217653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1237070364523425792",
+          "start": 0,
+          "username": "shishi_zuibang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059354579079217653",
+    "in_reply_to_user_id": "1237070364523425792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059354203445670260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shishi_zuibang 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2059275745982358002",
+        "created_at": "2026-05-26T19:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T20:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059354579079217653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1237070364523425792",
+              "start": 0,
+              "username": "shishi_zuibang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059354579079217653",
+        "in_reply_to_user_id": "1237070364523425792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059354203445670260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shishi_zuibang 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1237070364523425792",
+        "conversation_id": "2059275745982358002",
+        "created_at": "2026-05-26T19:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T20:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059354203445670260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059354203445670260",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059275745982358002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 🥲🥲🥲很辛苦 是自己营销打品牌的纯服务业"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "前世 @amber_toffee 小号 @amber_digit @amber_digit2\n☕️ https://t.co/ifiQvlVhub\n❤️@noaayoyaoaya\n⚜️@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 32,
+                "start": 20,
+                "username": "amber_digit"
+              },
+              {
+                "end": 46,
+                "start": 33,
+                "username": "amber_digit2"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 Toronto",
+        "name": "amber ଳ（推友寻回中）",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4327,
+          "following_count": 888,
+          "like_count": 3876,
+          "listed_count": 12,
+          "media_count": 76,
+          "tweet_count": 1736
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-09T17:39:03.000Z",
+        "description": "🌸 Trans women 🏳️‍⚧️ | Bisexual | 假dom真sub | 与姐妹见面最快乐了💞 | 生活态度：温温暖暖🐴🐴🐯🐯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/melissa67339",
+                "end": 23,
+                "expanded_url": "https://ngl.link/melissa67339",
+                "start": 0,
+                "url": "https://t.co/puc9IhAC9D"
+              }
+            ]
+          }
+        },
+        "id": "1237070364523425792",
+        "location": "Allentown, PA",
+        "name": "Melissa🥰莎莎🇺🇸",
+        "pinned_tweet_id": "2056477907720044791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052354659801600003/LBrrP-hP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 540,
+          "like_count": 9975,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1776
+        },
+        "url": "https://t.co/puc9IhAC9D",
+        "username": "shishi_zuibang",
+        "verified": false
+      }
+    ]
+  }
+}

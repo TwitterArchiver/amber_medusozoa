@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2040277983810752839",
+    "created_at": "2026-04-04T04:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T05:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040287596446650779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1564251283984650241",
+          "start": 0,
+          "username": "Citricat_miaow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040287596446650779",
+    "in_reply_to_user_id": "1564251283984650241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040287501307281738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citricat_miaow 没我说我转发的那句"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2040277983810752839",
+        "created_at": "2026-04-04T04:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T05:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040287596446650779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1564251283984650241",
+              "start": 0,
+              "username": "Citricat_miaow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040287596446650779",
+        "in_reply_to_user_id": "1564251283984650241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040287501307281738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citricat_miaow 没我说我转发的那句"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564251283984650241",
+        "conversation_id": "2040277983810752839",
+        "created_at": "2026-04-04T04:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T05:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040287501307281738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040287501307281738",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040284640796180635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 哪一个原文，我写的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 541,
+          "like_count": 1041,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 676
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-29T13:59:12.000Z",
+        "description": "bisexual with gf,she/her, Language: Chinese, English, chiranny",
+        "id": "1564251283984650241",
+        "location": "Mitochondria ",
+        "name": "Citric acid",
+        "pinned_tweet_id": "1941305177346277612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663411578467938305/ypoACmu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 554,
+          "like_count": 11370,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 5346
+        },
+        "username": "Citricat_miaow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2038710852438708539",
+    "created_at": "2026-04-06T05:53:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T06:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041031493909119397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1880464788276539392",
+          "start": 0,
+          "username": "haorikotoha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041031493909119397",
+    "in_reply_to_user_id": "1880464788276539392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038811325074403585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haorikotoha 那个小蛇就是那由本体（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2038710852438708539",
+        "created_at": "2026-04-06T05:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041031493909119397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880464788276539392",
+              "start": 0,
+              "username": "haorikotoha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041031493909119397",
+        "in_reply_to_user_id": "1880464788276539392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038811325074403585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haorikotoha 那个小蛇就是那由本体（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880464788276539392",
+        "conversation_id": "2038710852438708539",
+        "created_at": "2026-03-31T02:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T03:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038811325074403585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038811325074403585",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038710852438708539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 那个小蛇好可爱啊！！！\n还有监控我竟然有同款哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1868,
+          "following_count": 603,
+          "like_count": 1334,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 911
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-18T03:58:53.000Z",
+        "description": "败犬女配 / TransLes",
+        "id": "1880464788276539392",
+        "location": "反正不在北欧",
+        "name": "琴葉🏳️‍⚧️HYY",
+        "pinned_tweet_id": "1944960722972369260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962137875354644480/L-XnrHgT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 138,
+          "like_count": 955,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 935
+        },
+        "username": "haorikotoha",
+        "verified": false
+      }
+    ]
+  }
+}

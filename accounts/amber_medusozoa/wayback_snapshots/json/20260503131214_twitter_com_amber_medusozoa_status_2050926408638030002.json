@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2050789857237319813",
+    "created_at": "2026-05-03T13:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T14:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050926408638030002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1958479507712798720",
+          "start": 0,
+          "username": "weebyreina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050926408638030002",
+    "in_reply_to_user_id": "1958479507712798720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050789857237319813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weebyreina 确实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2050789857237319813",
+        "created_at": "2026-05-03T13:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050926408638030002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1958479507712798720",
+              "start": 0,
+              "username": "weebyreina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050926408638030002",
+        "in_reply_to_user_id": "1958479507712798720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050789857237319813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weebyreina 确实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958479507712798720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2050789857237319813",
+        "created_at": "2026-05-03T04:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T05:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050789857237319813"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050789857237319813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 341,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "所以我不能理解amber下海为什么引起的争议这么大 可能在一般大众眼里phd就是“高材生” 实际上由于现在的过度教育和学历内卷 绝大多数的phd也只是廉价的耗材和奴工 根本没什么钱 难道下海不是因为现在钱太难赚了吗 说实话如果知道从小学开始读二十多年书也找不到工作不如十几岁就去下海了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🇨🇦 #多伦多 #药娘 #TS #trans \n💬 ¥150/240 ($30/50)\n🔞 nsfw only",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 3,
+                "tag": "多伦多"
+              },
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "药娘"
+              },
+              {
+                "end": 15,
+                "start": 12,
+                "tag": "TS"
+              },
+              {
+                "end": 22,
+                "start": 16,
+                "tag": "trans"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "/",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049527897036328960/hshFuKwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3375,
+          "following_count": 809,
+          "like_count": 3324,
+          "listed_count": 6,
+          "media_count": 24,
+          "tweet_count": 1341
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-21T10:41:35.000Z",
+        "description": "18+ NSFW | TS | cosplay | 地雷系 | 纹身 | 穿孔 \n\n江浙沪地区活跃\n\nTG群：https://t.co/ucfQPEH7In 请用tg联系",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hibikihut",
+                "end": 78,
+                "expanded_url": "http://t.me/hibikihut",
+                "start": 55,
+                "url": "https://t.co/ucfQPEH7In"
+              }
+            ]
+          }
+        },
+        "id": "1958479507712798720",
+        "name": "伊達 鈴奈@推友寻回中",
+        "pinned_tweet_id": "2041793400329195633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039878164747579392/iDamLKYG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2475,
+          "following_count": 153,
+          "like_count": 268,
+          "listed_count": 17,
+          "media_count": 52,
+          "tweet_count": 355
+        },
+        "username": "weebyreina",
+        "verified": true
+      }
+    ]
+  }
+}

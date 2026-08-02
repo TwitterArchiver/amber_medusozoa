@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2036611935026692478",
+    "created_at": "2026-03-25T01:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T02:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036614777569476718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1846949815755984897",
+          "start": 0,
+          "username": "Miller239374"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036614777569476718",
+    "in_reply_to_user_id": "1846949815755984897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036613947235905792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miller239374 所以文科有什么用呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2036611935026692478",
+        "created_at": "2026-03-25T01:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T02:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036614777569476718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1846949815755984897",
+              "start": 0,
+              "username": "Miller239374"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036614777569476718",
+        "in_reply_to_user_id": "1846949815755984897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036613947235905792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miller239374 所以文科有什么用呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846949815755984897",
+        "conversation_id": "2036611935026692478",
+        "created_at": "2026-03-25T01:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T02:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036613947235905792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20364…",
+              "end": 40,
+              "expanded_url": "https://x.com/i/status/2036484960312549406",
+              "start": 17,
+              "url": "https://t.co/S8f7DnkMmY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036613947235905792",
+        "in_reply_to_user_id": "1846949815755984897",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036484960312549406",
+            "type": "quoted"
+          },
+          {
+            "id": "2036613789500715037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa https://t.co/S8f7DnkMmY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 285,
+          "like_count": 230,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 156
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-17T16:22:29.000Z",
+        "description": "他人的眼睛是我们的监狱，他人的思想是我们的牢笼。",
+        "id": "1846949815755984897",
+        "name": "Miller",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946459504641490944/RgDex3JV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 361,
+          "like_count": 10993,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1899
+        },
+        "username": "Miller239374",
+        "verified": false
+      }
+    ]
+  }
+}

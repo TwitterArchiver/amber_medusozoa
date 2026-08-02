@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075690177414983680"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2075690179252154751",
+    "created_at": "2026-07-10T21:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T22:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075690179252154751"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S5lJMvlext",
+          "end": 30,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2075690179252154751/photo/1",
+          "media_key": "3_2075690177414983680",
+          "start": 7,
+          "url": "https://t.co/S5lJMvlext"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075690179252154751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原来是这样吗 https://t.co/S5lJMvlext"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2075690177414983680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM5VOAiWcAAoLNm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075690177414983680"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2075690179252154751",
+        "created_at": "2026-07-10T21:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T22:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075690179252154751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S5lJMvlext",
+              "end": 30,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2075690179252154751/photo/1",
+              "media_key": "3_2075690177414983680",
+              "start": 7,
+              "url": "https://t.co/S5lJMvlext"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075690179252154751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来是这样吗 https://t.co/S5lJMvlext"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya \n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059731443828310311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6473,
+          "following_count": 1059,
+          "like_count": 5969,
+          "listed_count": 10,
+          "media_count": 286,
+          "tweet_count": 3353
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

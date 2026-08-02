@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2044278646039261410",
+    "created_at": "2026-04-15T04:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T05:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044278646039261410"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bigmummyabby/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/bigmummyabby/status/2043962676724809880",
+          "start": 13,
+          "url": "https://t.co/57Juji9gz5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044278646039261410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043962676724809880",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是的！目前给两个人做过（ https://t.co/57Juji9gz5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2044278646039261410",
+        "created_at": "2026-04-15T04:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T05:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044278646039261410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bigmummyabby/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/bigmummyabby/status/2043962676724809880",
+              "start": 13,
+              "url": "https://t.co/57Juji9gz5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044278646039261410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043962676724809880",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的！目前给两个人做过（ https://t.co/57Juji9gz5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713063363989614592",
+        "conversation_id": "2043962676724809880",
+        "created_at": "2026-04-14T08:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043962676724809880"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043962676724809880",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1108,
+          "impression_count": 740568,
+          "like_count": 15576,
+          "quote_count": 5154,
+          "reply_count": 982,
+          "retweet_count": 1384
+        },
+        "reply_settings": "everyone",
+        "text": "Do people actually create playlists for people they love?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2245,
+          "following_count": 752,
+          "like_count": 2198,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1592
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-14T05:25:45.000Z",
+        "description": "Unilag :)🌸 💕 eo🎀 I post relatable and intellectual content. I’m funny sometimes. Snapchat: https://t.co/P9ZfyNlWDC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "snapchat.com/t/NxrEl9sK",
+                "end": 114,
+                "expanded_url": "https://snapchat.com/t/NxrEl9sK",
+                "start": 91,
+                "url": "https://t.co/P9ZfyNlWDC"
+              }
+            ]
+          }
+        },
+        "id": "1713063363989614592",
+        "location": "Lagos, Nigeria",
+        "name": "Abby🫧💕",
+        "pinned_tweet_id": "2029104643607760926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938311537128591360/Jaitz5Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3232,
+          "following_count": 1866,
+          "like_count": 26433,
+          "listed_count": 0,
+          "media_count": 333,
+          "tweet_count": 10322
+        },
+        "username": "BigmummyAbby",
+        "verified": false
+      }
+    ]
+  }
+}

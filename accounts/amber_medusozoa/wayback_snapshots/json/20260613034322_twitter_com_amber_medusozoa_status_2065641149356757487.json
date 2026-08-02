@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2065626825305272456",
+    "created_at": "2026-06-13T03:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T04:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065641149356757487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1723047974677479424",
+          "start": 0,
+          "username": "ReedPascal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065641149356757487",
+    "in_reply_to_user_id": "1723047974677479424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065640314392723665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ReedPascal 哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2065626825305272456",
+        "created_at": "2026-06-13T03:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065641149356757487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1723047974677479424",
+              "start": 0,
+              "username": "ReedPascal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065641149356757487",
+        "in_reply_to_user_id": "1723047974677479424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065640314392723665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ReedPascal 哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723047974677479424",
+        "conversation_id": "2065626825305272456",
+        "created_at": "2026-06-13T03:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065640314392723665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065640314392723665",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065626825305272456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa amr21，当年还是积分区战车，甚至能在阿塞拜疆拿p2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya\n⚜️@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5816,
+          "following_count": 991,
+          "like_count": 4864,
+          "listed_count": 10,
+          "media_count": 167,
+          "tweet_count": 2374
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-10T18:40:48.000Z",
+        "description": "和平，自由，勇气与爱.",
+        "id": "1723047974677479424",
+        "location": "Yamanashi-ken, Japan",
+        "name": "Pascal Reed🕊️",
+        "pinned_tweet_id": "2006756660673720629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064403527422906368/4lVKqeOT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2124,
+          "following_count": 99,
+          "like_count": 100806,
+          "listed_count": 2,
+          "media_count": 2913,
+          "tweet_count": 9355
+        },
+        "username": "ReedPascal",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2072312980977467538",
+    "created_at": "2026-07-01T18:32:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T19:32:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072387914084802581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1069931275698335744",
+          "start": 0,
+          "username": "TponyS_xiaoma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072387914084802581",
+    "in_reply_to_user_id": "1069931275698335744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072336680179413491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TponyS_xiaoma 不懂啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2072312980977467538",
+        "created_at": "2026-07-01T18:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T19:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072387914084802581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1069931275698335744",
+              "start": 0,
+              "username": "TponyS_xiaoma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072387914084802581",
+        "in_reply_to_user_id": "1069931275698335744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072336680179413491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TponyS_xiaoma 不懂啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1069931275698335744",
+        "conversation_id": "2072312980977467538",
+        "created_at": "2026-07-01T15:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072336680179413491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072336680179413491",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 480,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072312980977467538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 所以酷儿到底是啥意思，有人能解释下吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya \n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6164,
+          "following_count": 1034,
+          "like_count": 5585,
+          "listed_count": 10,
+          "media_count": 249,
+          "tweet_count": 3061
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-04T12:27:49.000Z",
+        "description": "",
+        "id": "1069931275698335744",
+        "location": "浙江",
+        "name": "TponyS",
+        "pinned_tweet_id": "2072316487369445686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055113613850144769/k_Qc-JmY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21511,
+          "following_count": 361,
+          "like_count": 5680,
+          "listed_count": 131,
+          "media_count": 745,
+          "tweet_count": 6891
+        },
+        "url": "",
+        "username": "TponyS_xiaoma",
+        "verified": false
+      }
+    ]
+  }
+}

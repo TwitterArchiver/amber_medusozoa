@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2071559430622101569",
+    "created_at": "2026-06-29T12:12:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T13:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071567394858774671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1532095464081739776",
+          "start": 0,
+          "username": "Yuiibaoii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071567394858774671",
+    "in_reply_to_user_id": "1532095464081739776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071567254265724991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuiibaoii 我不喜欢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2071559430622101569",
+        "created_at": "2026-06-29T12:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071567394858774671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1532095464081739776",
+              "start": 0,
+              "username": "Yuiibaoii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071567394858774671",
+        "in_reply_to_user_id": "1532095464081739776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071567254265724991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuiibaoii 我不喜欢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1532095464081739776",
+        "conversation_id": "2071559430622101569",
+        "created_at": "2026-06-29T12:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071567254265724991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071567254265724991",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071559430622101569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa (•̀ө•́ ) 嗯。。。。。我以为你喜欢激烈的讨论行为"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6090,
+          "following_count": 1032,
+          "like_count": 5446,
+          "listed_count": 10,
+          "media_count": 239,
+          "tweet_count": 2955
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-01T20:23:26.000Z",
+        "description": "性别男 | 天才交易员 ！| 坐标山东 | 想要变可爱 | 搞点涩涩 | 抽象网左",
+        "id": "1532095464081739776",
+        "location": "🚪88解锁线下",
+        "name": "昕子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040789243447107586/hjUDv59p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13522,
+          "following_count": 638,
+          "like_count": 662,
+          "listed_count": 79,
+          "media_count": 249,
+          "tweet_count": 1150
+        },
+        "url": "",
+        "username": "Yuiibaoii",
+        "verified": false
+      }
+    ]
+  }
+}

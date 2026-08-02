@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2051844330592124935"
+      ],
+      "media_source_tweet_id": [
+        "2051844452537295278"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2072083871823245771",
+    "created_at": "2026-06-30T22:24:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T23:24:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072083871823245771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2035882965671215104",
+          "start": 3,
+          "username": "amber_medusozoa"
+        },
+        {
+          "end": 44,
+          "id": "1362497240682483716",
+          "start": 36,
+          "username": "ZhaoXi_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2bi61hs1tt",
+          "end": 68,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2051844452537295278/video/1",
+          "media_key": "13_2051844330592124935",
+          "start": 45,
+          "url": "https://t.co/2bi61hs1tt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072083871823245771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051844452537295278",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_medusozoa: 呜呜 好羞耻的姿势\n\n🪢🏠📷 @ZhaoXi_ https://t.co/2bi61hs1tt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5635,
+        "height": 3840,
+        "media_key": "13_2051844330592124935",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051844330592124935/img/ArVjZsJWfsqwSLlx.jpg",
+        "public_metrics": {
+          "view_count": 2125
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051844330592124935/vid/avc1/2160x3840/odVETEfgftS91AYY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051844330592124935/vid/avc1/720x1280/pM8-KCkLnzwufWRx.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051844330592124935/vid/avc1/320x568/0PPU6itGpEC0g7ta.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051844330592124935/vid/avc1/1080x1920/CxT7jkFCRCZE1qs8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051844330592124935/vid/avc1/480x852/wR_qVoEaSd_QRRb2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051844330592124935/pl/HJOCuvEVrwNQZrBW.m3u8"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051844330592124935"
+          ],
+          "media_source_tweet_id": [
+            "2051844452537295278"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2072083871823245771",
+        "created_at": "2026-06-30T22:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T23:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072083871823245771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2035882965671215104",
+              "start": 3,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 44,
+              "id": "1362497240682483716",
+              "start": 36,
+              "username": "ZhaoXi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2bi61hs1tt",
+              "end": 68,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2051844452537295278/video/1",
+              "media_key": "13_2051844330592124935",
+              "start": 45,
+              "url": "https://t.co/2bi61hs1tt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072083871823245771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051844452537295278",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_medusozoa: 呜呜 好羞耻的姿势\n\n🪢🏠📷 @ZhaoXi_ https://t.co/2bi61hs1tt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051844330592124935"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2051844452537295278",
+        "created_at": "2026-05-06T02:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T03:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051844452537295278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1362497240682483716",
+              "start": 15,
+              "username": "ZhaoXi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2bi61hs1tt",
+              "end": 47,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2051844452537295278/video/1",
+              "media_key": "13_2051844330592124935",
+              "start": 24,
+              "url": "https://t.co/2bi61hs1tt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051844452537295278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 4174,
+          "like_count": 136,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜 好羞耻的姿势\n\n🪢🏠📷 @ZhaoXi_ https://t.co/2bi61hs1tt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6158,
+          "following_count": 1035,
+          "like_count": 5557,
+          "listed_count": 10,
+          "media_count": 248,
+          "tweet_count": 3036
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-18T20:20:43.000Z",
+        "description": "Switch(M), Shibari Only/碎碎念话痨bot/人在土伦土宅到失联/混乱邪恶同人女&菜鸡画手+摄影/CHN+ENG",
+        "id": "1362497240682483716",
+        "location": "大瀑布啊你全是水",
+        "name": "朝夕",
+        "pinned_tweet_id": "1688935996308500480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012652658029465601/VxvCsH7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49992,
+          "following_count": 383,
+          "like_count": 3375,
+          "listed_count": 87,
+          "media_count": 314,
+          "tweet_count": 3350
+        },
+        "url": "",
+        "username": "ZhaoXi_",
+        "verified": false
+      }
+    ]
+  }
+}

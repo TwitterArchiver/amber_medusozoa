@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037737938033713152"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2037737942462935424",
+    "created_at": "2026-03-28T03:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T04:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037737942462935424"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sylPsW8eVA",
+          "end": 33,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2037737942462935424/photo/1",
+          "media_key": "3_2037737938033713152",
+          "start": 10,
+          "url": "https://t.co/sylPsW8eVA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037737942462935424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "两处比较轻微的痕迹 https://t.co/sylPsW8eVA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037737938033713152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEd_27XWIAADw3s.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037737938033713152"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2037737942462935424",
+        "created_at": "2026-03-28T03:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T04:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037737942462935424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sylPsW8eVA",
+              "end": 33,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2037737942462935424/photo/1",
+              "media_key": "3_2037737938033713152",
+              "start": 10,
+              "url": "https://t.co/sylPsW8eVA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037737942462935424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两处比较轻微的痕迹 https://t.co/sylPsW8eVA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 384,
+          "like_count": 569,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 407
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

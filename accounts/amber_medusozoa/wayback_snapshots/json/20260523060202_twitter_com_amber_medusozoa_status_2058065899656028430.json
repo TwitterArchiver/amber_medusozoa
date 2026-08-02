@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2058065899656028430",
+    "created_at": "2026-05-23T06:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T07:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058065899656028430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gabaprotin/sta…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/gabaprotin/status/2057784091051958548",
+          "start": 36,
+          "url": "https://t.co/bQuCZ2qGPC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058065899656028430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057784091051958548",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "现实生活的阶级差异已经足够压死人了为什么在网上都不愿意给人点喘息的空间 https://t.co/bQuCZ2qGPC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2058065899656028430",
+        "created_at": "2026-05-23T06:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058065899656028430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gabaprotin/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/gabaprotin/status/2057784091051958548",
+              "start": 36,
+              "url": "https://t.co/bQuCZ2qGPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058065899656028430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057784091051958548",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "现实生活的阶级差异已经足够压死人了为什么在网上都不愿意给人点喘息的空间 https://t.co/bQuCZ2qGPC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600119610543857666",
+        "conversation_id": "2057784091051958548",
+        "created_at": "2026-05-22T11:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057784091051958548"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057784091051958548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 926,
+          "like_count": 25,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "于是很多社区会逐渐形成一种隐性的“失败者联盟文化”——颓废、自嘲、阴暗可以获得共鸣，积极、自律、现实生活丰富反而会被认为是在炫耀、装逼、背叛群体。说到底，这不是“现充有问题”，而是很多人的现实生活已经贫瘠到只能把互联网当精神地下室，因此他们会本能排斥一切让自己意识到现实差距的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057203465730801664/2vAIcjtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3827,
+          "following_count": 850,
+          "like_count": 3666,
+          "listed_count": 9,
+          "media_count": 60,
+          "tweet_count": 1615
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T13:27:45.000Z",
+        "description": "一只会思考问题并以行动解决的海豚/Furry福瑞/Gay/Shanghai/M.D/博士后/30多岁/不键政/AI Healthcare/Doctor医师/社会＆变态心理学/LGBT社会公益 \n「愿你的一身混乱，能够平息」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhihu.com/column/weirdsea",
+                "end": 23,
+                "expanded_url": "https://www.zhihu.com/column/weirdsea",
+                "start": 0,
+                "url": "https://t.co/emj7DToICm"
+              }
+            ]
+          }
+        },
+        "id": "1600119610543857666",
+        "location": "Shanghai",
+        "name": "包包Dr.B🐬",
+        "pinned_tweet_id": "1990986293703311420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439385311592448/hiJxte-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5307,
+          "following_count": 1183,
+          "like_count": 191,
+          "listed_count": 4,
+          "media_count": 819,
+          "tweet_count": 3183
+        },
+        "url": "https://t.co/emj7DToICm",
+        "username": "GabaProtin",
+        "verified": false
+      }
+    ]
+  }
+}

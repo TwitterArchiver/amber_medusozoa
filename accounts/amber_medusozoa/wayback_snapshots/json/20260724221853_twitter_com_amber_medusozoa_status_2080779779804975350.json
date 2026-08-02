@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080724501021827072"
+      ],
+      "media_source_tweet_id": [
+        "2080724509372678466"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2080779779804975350",
+    "created_at": "2026-07-24T22:18:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T23:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080779779804975350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2010816143846768640",
+          "start": 3,
+          "username": "luo_240110"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ht3NRU6Kju",
+          "end": 39,
+          "expanded_url": "https://x.com/luo_240110/status/2080724509372678466/photo/1",
+          "media_key": "3_2080724501021827072",
+          "start": 16,
+          "url": "https://t.co/Ht3NRU6Kju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080779779804975350",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080724509372678466",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luo_240110: https://t.co/Ht3NRU6Kju"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 761,
+        "media_key": "3_2080724501021827072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOA36NbboAAhl2W.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080724501021827072"
+          ]
+        },
+        "author_id": "2010816143846768640",
+        "conversation_id": "2080724509372678466",
+        "created_at": "2026-07-24T18:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080724509372678466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ht3NRU6Kju",
+              "end": 23,
+              "expanded_url": "https://x.com/luo_240110/status/2080724509372678466/photo/1",
+              "media_key": "3_2080724501021827072",
+              "start": 0,
+              "url": "https://t.co/Ht3NRU6Kju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080724509372678466",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ht3NRU6Kju"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080724501021827072"
+          ],
+          "media_source_tweet_id": [
+            "2080724509372678466"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2080779779804975350",
+        "created_at": "2026-07-24T22:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T23:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080779779804975350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010816143846768640",
+              "start": 3,
+              "username": "luo_240110"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ht3NRU6Kju",
+              "end": 39,
+              "expanded_url": "https://x.com/luo_240110/status/2080724509372678466/photo/1",
+              "media_key": "3_2080724501021827072",
+              "start": 16,
+              "url": "https://t.co/Ht3NRU6Kju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080779779804975350",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080724509372678466",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luo_240110: https://t.co/Ht3NRU6Kju"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080483846097629184/ano5UN60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6915,
+          "following_count": 1177,
+          "like_count": 7057,
+          "listed_count": 10,
+          "media_count": 357,
+          "tweet_count": 4039
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-12T20:48:47.000Z",
+        "description": "話したくない｜Ciallo～(∠・ω ≤ )︵★四代目｜互fo寻回\n一代目@YunoQiu56649｜二代目@Ciallo_114_514｜三代目@qi_bu64350\n妹妹@Luoyu147258 \n*互fo请私信谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 37,
+                "username": "YunoQiu56649"
+              },
+              {
+                "end": 69,
+                "start": 54,
+                "username": "Ciallo_114_514"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "qi_bu64350"
+              },
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Luoyu147258"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wrin520t",
+                "end": 23,
+                "expanded_url": "http://t.me/Wrin520t",
+                "start": 0,
+                "url": "https://t.co/qKIDVMQsor"
+              }
+            ]
+          }
+        },
+        "id": "2010816143846768640",
+        "location": "地球",
+        "name": "Ciallo🍥",
+        "pinned_tweet_id": "2029933065028743443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058074498285617152/2kdhJxKg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 345,
+          "like_count": 536,
+          "listed_count": 4,
+          "media_count": 30,
+          "tweet_count": 235
+        },
+        "url": "https://t.co/qKIDVMQsor",
+        "username": "luo_240110",
+        "verified": true
+      }
+    ]
+  }
+}

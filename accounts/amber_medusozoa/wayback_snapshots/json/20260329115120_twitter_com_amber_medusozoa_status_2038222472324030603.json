@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038222468738154496"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2038222472324030603",
+    "created_at": "2026-03-29T11:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T12:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038222472324030603"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aTwouAD03o",
+          "end": 31,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2038222472324030603/photo/1",
+          "media_key": "3_2038222468738154496",
+          "start": 8,
+          "url": "https://t.co/aTwouAD03o"
+        },
+        {
+          "display_url": "x.com/amber_medusozo…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/amber_medusozoa/status/2038106616021578202",
+          "start": 32,
+          "url": "https://t.co/PY9KRpaMhH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038222472324030603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038106616021578202",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "挺好 问题解决 https://t.co/aTwouAD03o https://t.co/PY9KRpaMhH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 508,
+        "media_key": "3_2038222468738154496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEk4iU5bgAAxInV.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038106612057948160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEjPKlIWwAACEaH.jpg",
+        "width": 1406
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038222468738154496"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2038222472324030603",
+        "created_at": "2026-03-29T11:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T12:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038222472324030603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aTwouAD03o",
+              "end": 31,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2038222472324030603/photo/1",
+              "media_key": "3_2038222468738154496",
+              "start": 8,
+              "url": "https://t.co/aTwouAD03o"
+            },
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2038106616021578202",
+              "start": 32,
+              "url": "https://t.co/PY9KRpaMhH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038222472324030603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038106616021578202",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "挺好 问题解决 https://t.co/aTwouAD03o https://t.co/PY9KRpaMhH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038106612057948160"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2038087763925602574",
+        "created_at": "2026-03-29T04:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T05:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038106616021578202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b8Op0OvtKK",
+              "end": 91,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2038106616021578202/photo/1",
+              "media_key": "3_2038106612057948160",
+              "start": 68,
+              "url": "https://t.co/b8Op0OvtKK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038106616021578202",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038087763925602574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 我看到了。上次已经有吴某做过先例了，各位应该也有经验了，这条道歉是否诚恳，话里话外是什么意思，各位自己判断吧。 https://t.co/b8Op0OvtKK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2038019049733476756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 398,
+          "like_count": 634,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 442
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

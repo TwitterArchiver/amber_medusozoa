@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2041966745640935936",
+    "created_at": "2026-04-08T19:49:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T20:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041966745640935936"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yangyang200413…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/yangyang200413/status/2041755556592152814",
+          "start": 27,
+          "url": "https://t.co/1y0jRYfhnF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041966745640935936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041755556592152814",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不敢想象没有互联网的时代前辈是怎么徒手搓出毕业论文的 https://t.co/1y0jRYfhnF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2041966745640935936",
+        "created_at": "2026-04-08T19:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T20:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041966745640935936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yangyang200413…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/yangyang200413/status/2041755556592152814",
+              "start": 27,
+              "url": "https://t.co/1y0jRYfhnF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041966745640935936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041755556592152814",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不敢想象没有互联网的时代前辈是怎么徒手搓出毕业论文的 https://t.co/1y0jRYfhnF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886965038608736256",
+        "conversation_id": "2041755556592152814",
+        "created_at": "2026-04-08T05:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T06:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041755556592152814"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041755556592152814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2763,
+          "like_count": 60,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不敢想象没有ai的时代前辈是怎么徒手搓出毕业论文的😄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQvilj"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1925,
+          "following_count": 671,
+          "like_count": 1729,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1216
+        },
+        "url": "https://t.co/AxbISQvilj",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-05T02:28:34.000Z",
+        "description": "femboy💕/SPQR/求fo💗/mo3/Apex Legends             \n关注yangyang谢谢喵，每日美图敬请期待！",
+        "id": "1886965038608736256",
+        "location": "维爱",
+        "name": "yangyang",
+        "pinned_tweet_id": "2040224155359187315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038541972621991936/eEV8Il3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 99,
+          "like_count": 1541,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 605
+        },
+        "username": "yangyang200413",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2036769441103622517",
+    "created_at": "2026-03-25T15:53:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T16:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036833946999099449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1778616836214439936",
+          "start": 0,
+          "username": "H20_chemistry_x"
+        },
+        {
+          "end": 30,
+          "id": "1039728538482606085",
+          "start": 17,
+          "username": "imnotrealray"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036833946999099449",
+    "in_reply_to_user_id": "1778616836214439936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036832287745323389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H20_chemistry_x @imnotrealray 反正到后面就不用做题了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2036769441103622517",
+        "created_at": "2026-03-25T15:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036833946999099449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1778616836214439936",
+              "start": 0,
+              "username": "H20_chemistry_x"
+            },
+            {
+              "end": 30,
+              "id": "1039728538482606085",
+              "start": 17,
+              "username": "imnotrealray"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036833946999099449",
+        "in_reply_to_user_id": "1778616836214439936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036832287745323389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H20_chemistry_x @imnotrealray 反正到后面就不用做题了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778616836214439936",
+        "conversation_id": "2036769441103622517",
+        "created_at": "2026-03-25T15:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036832287745323389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 30,
+              "id": "1039728538482606085",
+              "start": 17,
+              "username": "imnotrealray"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036832287745323389",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036802286693827054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa @imnotrealray 将道理我也不喜欢里面的做题元素"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 307,
+          "like_count": 283,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 188
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-12T02:51:20.000Z",
+        "description": "No one like me,doesn't mean you won't like me./🏳‍⚧️友跨/infp/欢迎互fo交朋友喵/日本語を勉強中/防失联@h20_chemistry2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "h20_chemistry2"
+              }
+            ]
+          }
+        },
+        "id": "1778616836214439936",
+        "name": "一氧化二氢",
+        "pinned_tweet_id": "1874417607568494921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010329620286193664/P18zuZhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 1853,
+          "like_count": 42019,
+          "listed_count": 3,
+          "media_count": 995,
+          "tweet_count": 12858
+        },
+        "username": "H20_chemistry_x",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-12T04:12:55.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈 | she/her if needed | 其实是一只兔兔 | 分享一些生活 | daily life",
+        "id": "1039728538482606085",
+        "location": "Rabbit Lake, Saskatchewan",
+        "name": "Ray_the_Rabbit🎐💐",
+        "pinned_tweet_id": "2008365279672496608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010487530467229696/12XehjH8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 250,
+          "like_count": 30095,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 836
+        },
+        "username": "imnotrealray",
+        "verified": false
+      }
+    ]
+  }
+}

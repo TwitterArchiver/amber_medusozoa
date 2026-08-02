@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2076869610003993033",
+    "created_at": "2026-07-14T03:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T04:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076876962765689088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1252502289568464896",
+          "start": 0,
+          "username": "yui_ovoo"
+        },
+        {
+          "end": 18,
+          "id": "1362497240682483716",
+          "start": 10,
+          "username": "ZhaoXi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076876962765689088",
+    "in_reply_to_user_id": "1252502289568464896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076869610003993033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yui_ovoo @ZhaoXi_ 我的天好厉害"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2731,
+        "media_key": "3_2076869238321491968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKFkYsWsAAyuMG.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2076869407087734784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKFuNZXMAAxl_9.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2076869610003993033",
+        "created_at": "2026-07-14T03:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076876962765689088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1252502289568464896",
+              "start": 0,
+              "username": "yui_ovoo"
+            },
+            {
+              "end": 18,
+              "id": "1362497240682483716",
+              "start": 10,
+              "username": "ZhaoXi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076876962765689088",
+        "in_reply_to_user_id": "1252502289568464896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076869610003993033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yui_ovoo @ZhaoXi_ 我的天好厉害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076869238321491968",
+            "3_2076869407087734784"
+          ]
+        },
+        "author_id": "1252502289568464896",
+        "conversation_id": "2076869610003993033",
+        "created_at": "2026-07-14T03:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076869610003993033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1362497240682483716",
+              "start": 12,
+              "username": "ZhaoXi_"
+            },
+            {
+              "end": 35,
+              "id": "1252502289568464896",
+              "start": 26,
+              "username": "yui_ovoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PpU7Fs6zfU",
+              "end": 59,
+              "expanded_url": "https://x.com/yui_ovoo/status/2076869610003993033/photo/1",
+              "media_key": "3_2076869238321491968",
+              "start": 36,
+              "url": "https://t.co/PpU7Fs6zfU"
+            },
+            {
+              "display_url": "pic.x.com/PpU7Fs6zfU",
+              "end": 59,
+              "expanded_url": "https://x.com/yui_ovoo/status/2076869610003993033/photo/1",
+              "media_key": "3_2076869407087734784",
+              "start": 36,
+              "url": "https://t.co/PpU7Fs6zfU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076869610003993033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 361,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "双生舞怜训练中\n\n🪢📷:@ZhaoXi_ \n填充物:@yui_ovoo https://t.co/PpU7Fs6zfU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n💖@amber_digit\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "amber_digit"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 70,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 47,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6540,
+          "following_count": 1074,
+          "like_count": 6173,
+          "listed_count": 11,
+          "media_count": 300,
+          "tweet_count": 3520
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-21T07:39:59.000Z",
+        "description": "玩塑料大头和放屁鼓包的",
+        "id": "1252502289568464896",
+        "name": "Yui🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940628637427847168/gY6Qt2-S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17538,
+          "following_count": 533,
+          "like_count": 3374,
+          "listed_count": 89,
+          "media_count": 36,
+          "tweet_count": 2194
+        },
+        "url": "",
+        "username": "yui_ovoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-18T20:20:43.000Z",
+        "description": "Switch(M), Shibari Only/碎碎念话痨bot/人在土伦土宅到失联/混乱邪恶同人女&菜鸡画手+摄影/CHN+ENG",
+        "id": "1362497240682483716",
+        "location": "大瀑布啊你全是水",
+        "name": "朝夕",
+        "pinned_tweet_id": "1688935996308500480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012652658029465601/VxvCsH7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50371,
+          "following_count": 387,
+          "like_count": 3406,
+          "listed_count": 88,
+          "media_count": 314,
+          "tweet_count": 3365
+        },
+        "url": "",
+        "username": "ZhaoXi_",
+        "verified": false
+      }
+    ]
+  }
+}

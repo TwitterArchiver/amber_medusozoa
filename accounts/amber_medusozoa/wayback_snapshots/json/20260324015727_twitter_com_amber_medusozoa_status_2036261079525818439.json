@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2036215038394933514",
+    "created_at": "2026-03-24T01:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T02:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036261079525818439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2001343525095636992",
+          "start": 0,
+          "username": "Nliesbeneath"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036261079525818439",
+    "in_reply_to_user_id": "2001343525095636992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036215038394933514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nliesbeneath 激女所谓向上向下的区分 只是老中家长「吃得苦中苦 方为人上人」的翻版"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2036215038394933514",
+        "created_at": "2026-03-24T01:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T02:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036261079525818439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2001343525095636992",
+              "start": 0,
+              "username": "Nliesbeneath"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036261079525818439",
+        "in_reply_to_user_id": "2001343525095636992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036215038394933514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nliesbeneath 激女所谓向上向下的区分 只是老中家长「吃得苦中苦 方为人上人」的翻版"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001343525095636992",
+        "conversation_id": "2036215038394933514",
+        "created_at": "2026-03-23T22:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T23:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036215038394933514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KillHypocricy/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/KillHypocricy/status/2036099213180948646",
+              "start": 18,
+              "url": "https://t.co/bMtmczmIx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036215038394933514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036099213180948646",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是。后来我意识到没有向下和向上一说 https://t.co/bMtmczmIx0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035886196761542656/0cI4TLVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 210,
+          "like_count": 108,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 79
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-17T17:27:52.000Z",
+        "description": "没谈恋爱/并非讽刺或者道德绑架一些人不敢冲塔",
+        "id": "2001343525095636992",
+        "name": "N",
+        "pinned_tweet_id": "2032472138330874252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002041794532352002/Ld0kQxqS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 16,
+          "like_count": 3087,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 1832
+        },
+        "username": "Nliesbeneath",
+        "verified": false
+      }
+    ]
+  }
+}

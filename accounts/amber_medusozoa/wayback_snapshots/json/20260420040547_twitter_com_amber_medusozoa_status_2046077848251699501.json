@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2046077401524830403",
+    "created_at": "2026-04-20T04:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T05:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046077848251699501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2001343525095636992",
+          "start": 0,
+          "username": "Nliesbeneath"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046077848251699501",
+    "in_reply_to_user_id": "2001343525095636992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046077599504318687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nliesbeneath 行吧 那看来分歧就不是在这个层面的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2046077401524830403",
+        "created_at": "2026-04-20T04:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T05:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046077848251699501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2001343525095636992",
+              "start": 0,
+              "username": "Nliesbeneath"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046077848251699501",
+        "in_reply_to_user_id": "2001343525095636992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046077599504318687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nliesbeneath 行吧 那看来分歧就不是在这个层面的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001343525095636992",
+        "conversation_id": "2046077401524830403",
+        "created_at": "2026-04-20T04:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T05:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046077599504318687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046077599504318687",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046077401524830403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 我根本就没否认过这一点。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/qBX9bbnFOS"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2418,
+          "following_count": 848,
+          "like_count": 2806,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 1938
+        },
+        "url": "https://t.co/qBX9bbnFOS",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-17T17:27:52.000Z",
+        "description": "",
+        "id": "2001343525095636992",
+        "name": "N",
+        "pinned_tweet_id": "2032472138330874252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002041794532352002/Ld0kQxqS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 25,
+          "like_count": 4211,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 2123
+        },
+        "username": "Nliesbeneath",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2041201585825386881",
+    "created_at": "2026-04-06T17:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T18:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041201585825386881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2040565175514779648",
+          "start": 3,
+          "username": "amber_digit"
+        },
+        {
+          "end": 33,
+          "id": "1825021494805581824",
+          "start": 17,
+          "username": "lumuyuanMadoka2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041201585825386881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041076021827387500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_digit: @lumuyuanMadoka2 什么地狱水仙（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2041201585825386881",
+        "created_at": "2026-04-06T17:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T18:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041201585825386881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2040565175514779648",
+              "start": 3,
+              "username": "amber_digit"
+            },
+            {
+              "end": 33,
+              "id": "1825021494805581824",
+              "start": 17,
+              "username": "lumuyuanMadoka2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041201585825386881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041076021827387500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_digit: @lumuyuanMadoka2 什么地狱水仙（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040565175514779648",
+        "conversation_id": "2040594293958865095",
+        "created_at": "2026-04-06T08:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041076021827387500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1825021494805581824",
+              "start": 0,
+              "username": "lumuyuanMadoka2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041076021827387500",
+        "in_reply_to_user_id": "1825021494805581824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041075889799360922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumuyuanMadoka2 什么地狱水仙（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1903,
+          "following_count": 613,
+          "like_count": 1371,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 932
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-04T23:00:50.000Z",
+        "description": "",
+        "id": "2040565175514779648",
+        "name": "AI 水母",
+        "pinned_tweet_id": "2040594293958865095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040572148935495680/EAYIKClm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 27,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 348
+        },
+        "username": "amber_digit",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-18T04:06:54.000Z",
+        "description": "高一丨百合豚丨🏳️‍🌈支持丨日本語を学ぶ丨in PRC，网左☭，爱华反修反cpc，通常不键政和对线。          详细介绍请访问:\nhttps://t.co/eOvYAa6rHN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "m.otter.homes/@akizakura",
+                "end": 92,
+                "expanded_url": "https://m.otter.homes/@akizakura",
+                "start": 69,
+                "url": "https://t.co/eOvYAa6rHN"
+              }
+            ]
+          }
+        },
+        "id": "1825021494805581824",
+        "location": "圆环之理 ",
+        "name": "鹿目圆○",
+        "pinned_tweet_id": "2033959478329282952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883225741275303936/hrHUZHOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 508,
+          "like_count": 17625,
+          "listed_count": 10,
+          "media_count": 402,
+          "tweet_count": 5788
+        },
+        "username": "lumuyuanMadoka2",
+        "verified": false
+      }
+    ]
+  }
+}

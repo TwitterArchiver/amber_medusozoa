@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2060049044878045450",
+    "created_at": "2026-05-28T19:12:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T20:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060076836957155451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "745607352355721217",
+          "start": 0,
+          "username": "WilliamPAIvanov"
+        },
+        {
+          "end": 30,
+          "id": "1069706510916182017",
+          "start": 17,
+          "username": "doumiaojiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060076836957155451",
+    "in_reply_to_user_id": "745607352355721217",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060049241683231095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@WilliamPAIvanov @doumiaojiang 镜像"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2060049044878045450",
+        "created_at": "2026-05-28T19:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060076836957155451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "745607352355721217",
+              "start": 0,
+              "username": "WilliamPAIvanov"
+            },
+            {
+              "end": 30,
+              "id": "1069706510916182017",
+              "start": 17,
+              "username": "doumiaojiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060076836957155451",
+        "in_reply_to_user_id": "745607352355721217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060049241683231095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@WilliamPAIvanov @doumiaojiang 镜像"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "745607352355721217",
+        "conversation_id": "2060049044878045450",
+        "created_at": "2026-05-28T17:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060049241683231095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 30,
+              "id": "1069706510916182017",
+              "start": 17,
+              "username": "doumiaojiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060049241683231095",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060049044878045450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@amber_medusozoa @doumiaojiang 你心脏在右边？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🥰 https://t.co/ifiQvlVhub\n❤️@noaayoyaoaya\n⚜️@irisdesombres\n📣 @amber_digit @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "amber_digit"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 25,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 2,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 Toronto",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5356,
+          "following_count": 916,
+          "like_count": 4061,
+          "listed_count": 12,
+          "media_count": 92,
+          "tweet_count": 1869
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2016-06-22T13:20:20.000Z",
+        "description": "国民大会主要整活师｜国家一级退堂鼓表演艺术家｜著名抬杠运动员｜世界划水锦标赛冠军｜历届摸鱼大赛种子选手｜四字一等恩封躺平不起公世袭罔替｜吃光阁内大臣｜私聊🚪€2999的私人精神导师｜向日葵听完都不发光的过气负能量老干部｜满洲特务头子｜只为权贵说真话不给牛马唱赞歌｜习近平最敬最爱的亲阿玛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.net/a/GurunPartae",
+                "end": 23,
+                "expanded_url": "https://afdian.net/a/GurunPartae",
+                "start": 0,
+                "url": "https://t.co/aCvhudDZ42"
+              }
+            ]
+          }
+        },
+        "id": "745607352355721217",
+        "location": "Italy",
+        "name": "William P. A. da H. Ivanov🟦⬜️⬛️",
+        "pinned_tweet_id": "2060064828496941426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796731073038090241/qB450jx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2147,
+          "following_count": 2039,
+          "like_count": 267719,
+          "listed_count": 18,
+          "media_count": 358,
+          "tweet_count": 38969
+        },
+        "url": "https://t.co/aCvhudDZ42",
+        "username": "WilliamPAIvanov",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-03T21:34:41.000Z",
+        "description": "博客地址：https://t.co/7M8ViEAzt6 淘宝店铺：https://t.co/Y1GDDhKigw 推特知名清水推主，成人用品卖家！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sissy.game",
+                "end": 28,
+                "expanded_url": "http://sissy.game",
+                "start": 5,
+                "url": "https://t.co/7M8ViEAzt6"
+              },
+              {
+                "display_url": "doumiaojiang.taobao.com",
+                "end": 57,
+                "expanded_url": "http://doumiaojiang.taobao.com",
+                "start": 34,
+                "url": "https://t.co/Y1GDDhKigw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sissy.game",
+                "end": 23,
+                "expanded_url": "https://sissy.game/",
+                "start": 0,
+                "url": "https://t.co/ihsgHYxpKa"
+              }
+            ]
+          }
+        },
+        "id": "1069706510916182017",
+        "location": "台湾",
+        "name": "抖喵酱 咕咕咕～",
+        "pinned_tweet_id": "1617060823465357312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1069709712751382528/2YUWSw3m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146651,
+          "following_count": 2965,
+          "like_count": 13785,
+          "listed_count": 499,
+          "media_count": 519,
+          "tweet_count": 6904
+        },
+        "url": "https://t.co/ihsgHYxpKa",
+        "username": "doumiaojiang",
+        "verified": true
+      }
+    ]
+  }
+}

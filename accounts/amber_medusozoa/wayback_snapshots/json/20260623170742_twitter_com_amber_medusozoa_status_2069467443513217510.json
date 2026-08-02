@@ -1,0 +1,487 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2069467443513217510",
+    "created_at": "2026-06-23T17:07:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T18:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069467443513217510"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hrichina/statu…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/hrichina/status/2069372321622577366",
+          "start": 25,
+          "url": "https://t.co/aovfBUDzAi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069467443513217510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069372321622577366",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "果然极端民族主义披上自由主义的皮就没人能认出来了 https://t.co/aovfBUDzAi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 670,
+        "media_key": "3_2069372310385987584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfjJvyWEAArOBn.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1800,
+        "media_key": "3_2069372311791386624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfjJ1BawAAulQd.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1651,
+        "media_key": "3_2069372311602647040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfjJ0Ua0AAdcEd.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1455,
+        "media_key": "3_2069372311187419136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfjJyxa8AAw6ml.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2069467443513217510",
+        "created_at": "2026-06-23T17:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T18:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069467443513217510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hrichina/statu…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/hrichina/status/2069372321622577366",
+              "start": 25,
+              "url": "https://t.co/aovfBUDzAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069467443513217510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069372321622577366",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "果然极端民族主义披上自由主义的皮就没人能认出来了 https://t.co/aovfBUDzAi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069372310385987584",
+            "3_2069372311791386624",
+            "3_2069372311602647040",
+            "3_2069372311187419136"
+          ]
+        },
+        "author_id": "20784367",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2069372321622577366",
+        "created_at": "2026-06-23T10:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069372321622577366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FSPCvqRkUD",
+              "end": 145,
+              "expanded_url": "https://x.com/hrichina/status/2069372321622577366/photo/1",
+              "media_key": "3_2069372310385987584",
+              "start": 122,
+              "url": "https://t.co/FSPCvqRkUD"
+            },
+            {
+              "display_url": "pic.x.com/FSPCvqRkUD",
+              "end": 145,
+              "expanded_url": "https://x.com/hrichina/status/2069372321622577366/photo/1",
+              "media_key": "3_2069372311791386624",
+              "start": 122,
+              "url": "https://t.co/FSPCvqRkUD"
+            },
+            {
+              "display_url": "pic.x.com/FSPCvqRkUD",
+              "end": 145,
+              "expanded_url": "https://x.com/hrichina/status/2069372321622577366/photo/1",
+              "media_key": "3_2069372311602647040",
+              "start": 122,
+              "url": "https://t.co/FSPCvqRkUD"
+            },
+            {
+              "display_url": "pic.x.com/FSPCvqRkUD",
+              "end": 145,
+              "expanded_url": "https://x.com/hrichina/status/2069372321622577366/photo/1",
+              "media_key": "3_2069372311187419136",
+              "start": 122,
+              "url": "https://t.co/FSPCvqRkUD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069372321622577366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【柴静最新节目掀起年轻一代六四大讨论】前央视记者柴静在YouTube上最新一期节目聚焦六四，采访了在天安门广场中弹的台湾《中国时报》记者徐宗懋，3天时间获得超47万点击量，并在各社交平台上让许多中国年轻人第一次突破禁忌，展开对六四的热烈讨论。\n\n有人表示，看完恍如隔世。那时的新闻联播居然会播出示威的画面，市民会保护学生，会给军人递烟、劝他们不要开枪，会有护士请记者把北京发生的一切告诉全世界。可如今他所认识的中国人，大多要么对政治极端冷漠，要么粉红入脑，仿佛还记得这一切的，只剩很小很小的一群人。\n\n有人写道，这远不只是记忆里的一场\"学生运动\"。百万北京市民上街阻挡军队，清场时市民与学生的伤亡比高达十比一；来自江苏的木匠救下了来自台湾的记者，全城医院无条件接诊伤者以至人满为患，北京的护士平静地把取出的子弹交给台湾学者，只希望\"让全世界看到\"这里发生的事。把它简化为热血学生反对政府，正是为了忘却另一个事实：那是全中国各阶层人民的集体表达，也曾是全世界华人共同的梦想。\n\nta继续评论说，柴静没有把当年的人塑造成完美无缺的受害者，也没有居高临下地苛责学生的稚嫩，而是平静而不失温度地承认那份青涩，也痛惜他们的遭遇。市民、学生、护士、扬州木匠、台湾记者、香港记者，还有那个说\"命令来了我就先自杀\"的军人，都是\"中国人\"这个身份在威权阴影之外，本来该有的样子。\n\n有人表示第一次意识到：那不是一场学生运动，而是整个中国社会都在参与的全民运动。北京市民承诺保护学生，最终市民与学生的伤亡比高达十比一；镇压发生后，市民仍在军队的注视下自发救援，全城医院不问来处、不收费用地救治伤者；台湾记者送医时血库告急，李护士输自己的血给他，只求他帮中国人一个忙，把真相报道出去。三十七年后几乎再难想象这些画面，社会共同体的联结溃散，新闻自由遥不可及，连\"8964\"都被一些人当成嘲讽中国人的梗。这期节目让ta决定日后要用过好日常生活的勇气对抗无力改变的虚无。\n\n还有人写下，原来我们并不孤单，原来那些关于共同体的想象，不只是一个年轻学生的胡思乱想。这是对抗这几年\"政治抑郁\"的一剂强心针。8964，不要忘记就对了，不能忘记那一群曾经最接近自由空气的中国青年。\n\n三十七年过去，这些声音之所以动人，是因为它们一起还原了一个被中共刻意抹去的事实：八九民运不是少数学生的一时冲动，而是一场全民参与的民主运动。柴静节目结尾说，生命是生活，生命不是政治，政治是保证这些生活能够平稳运行的架构。记住它的全貌，记住那些挺身而出的普通人，就是对遗忘最朴素、也最有力的抵抗。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 44944,
+          "like_count": 407,
+          "quote_count": 5,
+          "reply_count": 28,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "【柴静最新节目掀起年轻一代六四大讨论】前央视记者柴静在YouTube上最新一期节目聚焦六四，采访了在天安门广场中弹的台湾《中国时报》记者徐宗懋，3天时间获得超47万点击量，并在各社交平台上让许多中国年轻人第一次突破禁忌，展开对六四的热烈讨论。 https://t.co/FSPCvqRkUD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5982,
+          "following_count": 1036,
+          "like_count": 5312,
+          "listed_count": 10,
+          "media_count": 211,
+          "tweet_count": 2809
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2009-02-13T16:45:40.000Z",
+        "description": "Founded in March 1989, HRIC is dedicated to promoting international human rights and advancing the institutional protection of these rights in #China.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 149,
+                "start": 143,
+                "tag": "China"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "new.hrichina.org",
+                "end": 23,
+                "expanded_url": "http://new.hrichina.org",
+                "start": 0,
+                "url": "https://t.co/MyUsDtkaqv"
+              }
+            ]
+          }
+        },
+        "id": "20784367",
+        "location": "New York & Hong Kong",
+        "name": "中国人权-Human Rights in China",
+        "pinned_tweet_id": "2061411498350538858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678842988393291779/U4Nl3HSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92441,
+          "following_count": 1143,
+          "like_count": 3706,
+          "listed_count": 801,
+          "media_count": 3705,
+          "tweet_count": 18105
+        },
+        "url": "https://t.co/MyUsDtkaqv",
+        "username": "hrichina",
+        "verified": true
+      }
+    ]
+  }
+}

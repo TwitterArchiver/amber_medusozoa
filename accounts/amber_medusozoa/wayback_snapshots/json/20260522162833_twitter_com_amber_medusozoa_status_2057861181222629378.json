@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2057861181222629378",
+    "created_at": "2026-05-22T16:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T17:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057861181222629378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2020285701183401985",
+          "start": 3,
+          "username": "hellspatisserie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057861181222629378",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057846605114470435",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hellspatisserie: The main difference in transphobic discourse in the U.S. versus the UK, I think, is that in the latter obsessing over…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2057861181222629378",
+        "created_at": "2026-05-22T16:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057861181222629378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2020285701183401985",
+              "start": 3,
+              "username": "hellspatisserie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057861181222629378",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057846605114470435",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hellspatisserie: The main difference in transphobic discourse in the U.S. versus the UK, I think, is that in the latter obsessing over…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020285701183401985",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "TONIGHT: Democratic Gov. Tim Walz of Minnesota and GOP Sen. JD Vance of Ohio participate in the CBS News Vice Presidential Debate live in New York City. Watch live at 9pm ET via @CBSNews on @X.",
+              "id": "1840858535829057537",
+              "name": "CBS News 2024 Vice Presidential Debate"
+            }
+          }
+        ],
+        "conversation_id": "2057846605114470435",
+        "created_at": "2026-05-22T15:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057846605114470435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057846605114470435",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 4930,
+          "like_count": 359,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "The main difference in transphobic discourse in the U.S. versus the UK, I think, is that in the latter obsessing over it is seen as the domain of obsessed crazies except half the country is obsessed and crazy, while in the UK it is a Topic Of Respectable Debate In Polite Society"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/XWFKRZnw6Y"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2057203502472946047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057203465730801664/2vAIcjtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3820,
+          "following_count": 846,
+          "like_count": 3631,
+          "listed_count": 10,
+          "media_count": 58,
+          "tweet_count": 1587
+        },
+        "url": "https://t.co/XWFKRZnw6Y",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-07T23:58:03.000Z",
+        "description": "⋆˙⟡ — 𝚒 𝚍𝚘𝚗'𝚝 𝚔𝚗𝚘𝚠 𝚊𝚗𝚢𝚝𝚑𝚒𝚗𝚐. 𝚢𝚘𝚞'𝚛𝚎 𝚝𝚑𝚎 𝚘𝚗𝚎 𝚠𝚑𝚘 𝚔𝚗𝚘𝚠𝚜. — ⋆˙⟡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dahirinsaat.com",
+                "end": 23,
+                "expanded_url": "http://dahirinsaat.com",
+                "start": 0,
+                "url": "https://t.co/2pVArcbBDs"
+              }
+            ]
+          }
+        },
+        "id": "2020285701183401985",
+        "location": "nyc",
+        "name": "𝚑𝚎𝚕𝚕𝚜𝚙𝚊𝚝𝚒𝚜𝚜𝚎𝚛𝚒𝚎",
+        "pinned_tweet_id": "2020289317269303457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046415323524644864/2WIgM29K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6266,
+          "following_count": 853,
+          "like_count": 7742,
+          "listed_count": 7,
+          "media_count": 214,
+          "tweet_count": 3042
+        },
+        "url": "https://t.co/2pVArcbBDs",
+        "username": "hellspatisserie",
+        "verified": false
+      }
+    ]
+  }
+}

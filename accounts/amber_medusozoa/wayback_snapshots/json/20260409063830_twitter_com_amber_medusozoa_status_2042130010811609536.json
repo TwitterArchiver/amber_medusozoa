@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2042014854505017505",
+    "created_at": "2026-04-09T06:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T07:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042130010811609536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1415196690772987906",
+          "start": 0,
+          "username": "qongsumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042130010811609536",
+    "in_reply_to_user_id": "1415196690772987906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042112829705302282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qongsumi 我喜欢 RS7（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2042014854505017505",
+        "created_at": "2026-04-09T06:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042130010811609536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1415196690772987906",
+              "start": 0,
+              "username": "qongsumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042130010811609536",
+        "in_reply_to_user_id": "1415196690772987906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042112829705302282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qongsumi 我喜欢 RS7（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1415196690772987906",
+        "conversation_id": "2042014854505017505",
+        "created_at": "2026-04-09T05:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042112829705302282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042112829705302282",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042015068108230897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 喜欢A7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 674,
+          "like_count": 1819,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 1267
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-14T06:29:25.000Z",
+        "description": "🚪88 Male Makeup Beauty https://t.co/62iIDITg7U",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/qongsumi",
+                "end": 46,
+                "expanded_url": "https://t.me/qongsumi",
+                "start": 23,
+                "url": "https://t.co/62iIDITg7U"
+              }
+            ]
+          }
+        },
+        "id": "1415196690772987906",
+        "location": "杭州",
+        "name": "濑户椰子",
+        "pinned_tweet_id": "1978255005250376130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036362691795890176/v7kbceeg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5926,
+          "following_count": 61,
+          "like_count": 84,
+          "listed_count": 26,
+          "media_count": 210,
+          "tweet_count": 303
+        },
+        "username": "qongsumi",
+        "verified": false
+      }
+    ]
+  }
+}

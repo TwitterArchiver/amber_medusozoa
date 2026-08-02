@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2043016587897377236",
+    "created_at": "2026-04-11T17:27:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:27:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043018208618127746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1846949815755984897",
+          "start": 0,
+          "username": "Miller239374"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043018208618127746",
+    "in_reply_to_user_id": "1846949815755984897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043016587897377236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miller239374 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2043016587897377236",
+        "created_at": "2026-04-11T17:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043018208618127746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1846949815755984897",
+              "start": 0,
+              "username": "Miller239374"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043018208618127746",
+        "in_reply_to_user_id": "1846949815755984897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043016587897377236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miller239374 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846949815755984897",
+        "conversation_id": "2043016587897377236",
+        "created_at": "2026-04-11T17:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043016587897377236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/amber_toffee/status/2042798705481318455",
+              "start": 45,
+              "url": "https://t.co/7a9QrBA5bj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043016587897377236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042798705481318455",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发现很多朋友都很讨厌药娘这个词，我建议大家把真女人这个词用起来，这才是真正属于跨妹的身份 https://t.co/7a9QrBA5bj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2050,
+          "following_count": 714,
+          "like_count": 2014,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 1397
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-17T16:22:29.000Z",
+        "description": "他人的眼睛是我们的监狱，他人的思想是我们的牢笼。",
+        "id": "1846949815755984897",
+        "name": "Miller",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946459504641490944/RgDex3JV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 360,
+          "like_count": 11120,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 1953
+        },
+        "username": "Miller239374",
+        "verified": false
+      }
+    ]
+  }
+}

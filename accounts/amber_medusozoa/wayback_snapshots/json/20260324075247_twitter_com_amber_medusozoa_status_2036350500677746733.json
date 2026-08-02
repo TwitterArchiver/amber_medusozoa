@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2036350500677746733",
+    "created_at": "2026-03-24T07:52:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T08:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036350500677746733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2289619658",
+          "start": 3,
+          "username": "youquzhiji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036350500677746733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036343791649525857",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youquzhiji: 我看acab得多喊，如果acab太激进了那就是“只有知乎才有好警察”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2036350500677746733",
+        "created_at": "2026-03-24T07:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T08:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036350500677746733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2289619658",
+              "start": 3,
+              "username": "youquzhiji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036350500677746733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036343791649525857",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youquzhiji: 我看acab得多喊，如果acab太激进了那就是“只有知乎才有好警察”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2289619658",
+        "conversation_id": "2036343791649525857",
+        "created_at": "2026-03-24T07:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T08:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036343791649525857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2035884232862806234",
+              "start": 35,
+              "url": "https://t.co/3JAI5HgEsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036343791649525857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 40,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035884232862806234",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看acab得多喊，如果acab太激进了那就是“只有知乎才有好警察” https://t.co/3JAI5HgEsh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035886196761542656/0cI4TLVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 235,
+          "like_count": 145,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 104
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2014-01-13T12:39:58.000Z",
+        "description": "在你的个人资料中添加简介",
+        "id": "2289619658",
+        "name": "无聊至极🏳️‍⚧️",
+        "pinned_tweet_id": "1637127694184853507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690381924466937857/gcIObNkH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 367,
+          "like_count": 25068,
+          "listed_count": 4,
+          "media_count": 478,
+          "tweet_count": 9152
+        },
+        "username": "youquzhiji",
+        "verified": false
+      }
+    ]
+  }
+}

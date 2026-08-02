@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2077642439318212949",
+    "created_at": "2026-07-16T06:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T07:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077642439318212949"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/x09cotcc/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/x09cotcc/status/2077593363113783716",
+          "start": 18,
+          "url": "https://t.co/kcPIUQjriy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077642439318212949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077593363113783716",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实是因为这样被虐的时候比较好出片 https://t.co/kcPIUQjriy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2077642439318212949",
+        "created_at": "2026-07-16T06:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T07:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077642439318212949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/x09cotcc/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/x09cotcc/status/2077593363113783716",
+              "start": 18,
+              "url": "https://t.co/kcPIUQjriy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077642439318212949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077593363113783716",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实是因为这样被虐的时候比较好出片 https://t.co/kcPIUQjriy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247769753097101318",
+        "conversation_id": "2077593363113783716",
+        "created_at": "2026-07-16T03:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T04:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077593363113783716"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077593363113783716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 694,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些M瘦得跟那个骷髅兵一样骨头都清晰可见虐起来真的不怕散架吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n💖@amber_digit\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "amber_digit"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 70,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 47,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6590,
+          "following_count": 1096,
+          "like_count": 6371,
+          "listed_count": 11,
+          "media_count": 314,
+          "tweet_count": 3640
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-08T06:15:29.000Z",
+        "description": "I GET SO GAY OFF THAT TEQUILA",
+        "id": "1247769753097101318",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "太阳瓜",
+        "pinned_tweet_id": "1842967681949106335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071191146970353665/GxgeGKiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8069,
+          "following_count": 1956,
+          "like_count": 180026,
+          "listed_count": 23,
+          "media_count": 1467,
+          "tweet_count": 50574
+        },
+        "url": "",
+        "username": "X09COTCC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2076883797967245387",
+    "created_at": "2026-07-14T04:22:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T05:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076884935399387550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1439465002851725314",
+          "start": 0,
+          "username": "chengzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076884935399387550",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076884853396545919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chengzi 哦不对我不符合条件"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2076883797967245387",
+        "created_at": "2026-07-14T04:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076884935399387550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1439465002851725314",
+              "start": 0,
+              "username": "chengzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076884935399387550",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076884853396545919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chengzi 哦不对我不符合条件"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2076883797967245387",
+        "created_at": "2026-07-14T04:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076884853396545919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1439465002851725314",
+              "start": 0,
+              "username": "chengzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076884853396545919",
+        "in_reply_to_user_id": "1439465002851725314",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076883797967245387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chengzi 111"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n💖@amber_digit\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "amber_digit"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 70,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 47,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6541,
+          "following_count": 1077,
+          "like_count": 6187,
+          "listed_count": 11,
+          "media_count": 302,
+          "tweet_count": 3530
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-19T05:43:05.000Z",
+        "description": "iiii | 欢迎来到橙子便利店快去挑选有用的东西吧！｜vlog博主｜日常LC｜私信都会回｜工作邮箱：chengzi@sissydream.cn | This is an interesting account.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chengzi.baby",
+                "end": 23,
+                "expanded_url": "http://chengzi.baby",
+                "start": 0,
+                "url": "https://t.co/VCsG9lSP0q"
+              }
+            ]
+          }
+        },
+        "id": "1439465002851725314",
+        "location": "everywhere",
+        "name": "橙子𝗖𝗵𝗲𝗻𝗴𝘇𝗶",
+        "pinned_tweet_id": "2066759541056999809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044051122789273600/7sRjs3xI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20006,
+          "following_count": 1141,
+          "like_count": 3675,
+          "listed_count": 57,
+          "media_count": 588,
+          "tweet_count": 2098
+        },
+        "url": "https://t.co/VCsG9lSP0q",
+        "username": "chengzi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064200887720173569"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Michigan",
+          "id": "1004448635902259200",
+          "name": "Michigan"
+        }
+      }
+    ],
+    "conversation_id": "2064200897358639139",
+    "created_at": "2026-06-09T04:20:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T05:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064200897358639139"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0YmxcndvEX",
+          "end": 104,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2064200897358639139/photo/1",
+          "media_key": "3_2064200887720173569",
+          "start": 81,
+          "url": "https://t.co/0YmxcndvEX"
+        },
+        {
+          "display_url": "x.com/yihang941/stat…",
+          "end": 128,
+          "expanded_url": "https://twitter.com/yihang941/status/2063872519040340004",
+          "start": 105,
+          "url": "https://t.co/PNNHhoXIl1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064200897358639139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063872519040340004",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "芝加哥的 Architecture Tour 是我见过最好的文旅宣传，我这辈子都忘不掉黄昏将至、船头调转时见到的那种，阳光照射在玻璃和钢筋组建的庞大造物上的壮丽 https://t.co/0YmxcndvEX https://t.co/PNNHhoXIl1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064200887720173569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKWDxVGbYAEqsXz.jpg",
+        "width": 1638
+      },
+      {
+        "height": 1365,
+        "media_key": "3_2063872514837610496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRZHgyWgAASI-v.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_2063872515940782080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRZHk5XkAA5_5M.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_2063872516779622400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRZHoBXQAANBdh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_2063872517236789248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRZHpuXEAAzpNo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064200887720173569"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Michigan",
+              "id": "1004448635902259200",
+              "name": "Michigan"
+            }
+          }
+        ],
+        "conversation_id": "2064200897358639139",
+        "created_at": "2026-06-09T04:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064200897358639139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0YmxcndvEX",
+              "end": 104,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2064200897358639139/photo/1",
+              "media_key": "3_2064200887720173569",
+              "start": 81,
+              "url": "https://t.co/0YmxcndvEX"
+            },
+            {
+              "display_url": "x.com/yihang941/stat…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/yihang941/status/2063872519040340004",
+              "start": 105,
+              "url": "https://t.co/PNNHhoXIl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064200897358639139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063872519040340004",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "芝加哥的 Architecture Tour 是我见过最好的文旅宣传，我这辈子都忘不掉黄昏将至、船头调转时见到的那种，阳光照射在玻璃和钢筋组建的庞大造物上的壮丽 https://t.co/0YmxcndvEX https://t.co/PNNHhoXIl1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063872514837610496",
+            "3_2063872515940782080",
+            "3_2063872516779622400",
+            "3_2063872517236789248"
+          ]
+        },
+        "author_id": "1807613187380178944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Michigan",
+              "id": "1004448635902259200",
+              "name": "Michigan"
+            }
+          }
+        ],
+        "conversation_id": "2063872519040340004",
+        "created_at": "2026-06-08T06:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063872519040340004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xDYDqAENoS",
+              "end": 78,
+              "expanded_url": "https://x.com/Yihang941/status/2063872519040340004/photo/1",
+              "media_key": "3_2063872514837610496",
+              "start": 55,
+              "url": "https://t.co/xDYDqAENoS"
+            },
+            {
+              "display_url": "pic.x.com/xDYDqAENoS",
+              "end": 78,
+              "expanded_url": "https://x.com/Yihang941/status/2063872519040340004/photo/1",
+              "media_key": "3_2063872515940782080",
+              "start": 55,
+              "url": "https://t.co/xDYDqAENoS"
+            },
+            {
+              "display_url": "pic.x.com/xDYDqAENoS",
+              "end": 78,
+              "expanded_url": "https://x.com/Yihang941/status/2063872519040340004/photo/1",
+              "media_key": "3_2063872516779622400",
+              "start": 55,
+              "url": "https://t.co/xDYDqAENoS"
+            },
+            {
+              "display_url": "pic.x.com/xDYDqAENoS",
+              "end": 78,
+              "expanded_url": "https://x.com/Yihang941/status/2063872519040340004/photo/1",
+              "media_key": "3_2063872517236789248",
+              "start": 55,
+              "url": "https://t.co/xDYDqAENoS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063872519040340004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1694,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Michigan Lakeshore Tour\n夏日的晚风配着清爽的水汽，在夕阳中慢慢欣赏进入夜色的芝加哥🌆 https://t.co/xDYDqAENoS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya ⚜️@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5625,
+          "following_count": 977,
+          "like_count": 4576,
+          "listed_count": 10,
+          "media_count": 144,
+          "tweet_count": 2188
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-01T03:12:33.000Z",
+        "description": "05. Desire to explore different dimensions of self and world around. Hope to push boundaries of both tech frontier and personal development.",
+        "id": "1807613187380178944",
+        "name": "hang_exp",
+        "pinned_tweet_id": "2005100401256014298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920491951796760576/m3fBcssv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 262,
+          "like_count": 3245,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 481
+        },
+        "username": "Yihang941",
+        "verified": false
+      }
+    ]
+  }
+}

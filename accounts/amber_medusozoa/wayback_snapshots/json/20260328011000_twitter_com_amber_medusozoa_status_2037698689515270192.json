@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037616306233421824"
+      ],
+      "media_source_tweet_id": [
+        "2037616459631780335"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2037698689515270192",
+    "created_at": "2026-03-28T01:10:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T02:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037698689515270192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1297187352129961991",
+          "start": 3,
+          "username": "JeremiahDJohns"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4Wl6TotTxj",
+          "end": 115,
+          "expanded_url": "https://x.com/JeremiahDJohns/status/2037616459631780335/photo/1",
+          "media_key": "3_2037616306233421824",
+          "start": 92,
+          "url": "https://t.co/4Wl6TotTxj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037698689515270192",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 433
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037616459631780335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JeremiahDJohns: Ok we're finally getting into serious contender season for Worst Tweets https://t.co/4Wl6TotTxj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 733,
+        "media_key": "3_2037616306233421824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEcRPBmWMAA2Ay3.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037616306233421824"
+          ],
+          "media_source_tweet_id": [
+            "2037616459631780335"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2037698689515270192",
+        "created_at": "2026-03-28T01:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T02:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037698689515270192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1297187352129961991",
+              "start": 3,
+              "username": "JeremiahDJohns"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Wl6TotTxj",
+              "end": 115,
+              "expanded_url": "https://x.com/JeremiahDJohns/status/2037616459631780335/photo/1",
+              "media_key": "3_2037616306233421824",
+              "start": 92,
+              "url": "https://t.co/4Wl6TotTxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037698689515270192",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 433
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037616459631780335",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JeremiahDJohns: Ok we're finally getting into serious contender season for Worst Tweets https://t.co/4Wl6TotTxj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037616306233421824"
+          ]
+        },
+        "author_id": "1297187352129961991",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2037616459631780335",
+        "created_at": "2026-03-27T19:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T20:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037616459631780335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Wl6TotTxj",
+              "end": 95,
+              "expanded_url": "https://x.com/JeremiahDJohns/status/2037616459631780335/photo/1",
+              "media_key": "3_2037616306233421824",
+              "start": 72,
+              "url": "https://t.co/4Wl6TotTxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037616459631780335",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 600,
+          "impression_count": 168871,
+          "like_count": 8313,
+          "quote_count": 58,
+          "reply_count": 90,
+          "retweet_count": 433
+        },
+        "reply_settings": "everyone",
+        "text": "Ok we're finally getting into serious contender season for Worst Tweets https://t.co/4Wl6TotTxj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 380,
+          "like_count": 556,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 396
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-22T15:02:29.000Z",
+        "description": "Founder @CNLiberalism. Writing at Infinite Scroll. Carly Rae Jepsen stan. Send me the worst tweets on this site. https://t.co/xONcXY5PQv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "CNLiberalism"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "infinitescroll.us",
+                "end": 136,
+                "expanded_url": "http://www.infinitescroll.us",
+                "start": 113,
+                "url": "https://t.co/xONcXY5PQv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "infinitescroll.us",
+                "end": 23,
+                "expanded_url": "https://www.infinitescroll.us/",
+                "start": 0,
+                "url": "https://t.co/ZcQYgHtvW7"
+              }
+            ]
+          }
+        },
+        "id": "1297187352129961991",
+        "location": "New York",
+        "name": "Jeremiah Johnson 🌐",
+        "pinned_tweet_id": "2036851933193843198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1298983543314370560/1OnfDOq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56113,
+          "following_count": 1,
+          "like_count": 10707,
+          "listed_count": 435,
+          "media_count": 2516,
+          "tweet_count": 13708
+        },
+        "url": "https://t.co/ZcQYgHtvW7",
+        "username": "JeremiahDJohns",
+        "verified": true
+      }
+    ]
+  }
+}

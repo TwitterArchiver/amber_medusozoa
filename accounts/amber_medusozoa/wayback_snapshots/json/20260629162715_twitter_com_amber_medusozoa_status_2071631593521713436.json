@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071631590661255168"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1676746772255850496",
+          "name": "Threads (Meta)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453808088054525953",
+          "name": "Meta"
+        }
+      }
+    ],
+    "conversation_id": "2071631593521713436",
+    "created_at": "2026-06-29T16:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T17:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071631593521713436"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MR8wntXaqt",
+          "end": 44,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2071631593521713436/photo/1",
+          "media_key": "3_2071631590661255168",
+          "start": 21,
+          "url": "https://t.co/MR8wntXaqt"
+        },
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2071574402479911085",
+          "start": 45,
+          "url": "https://t.co/TFKyZvqI6e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071631593521713436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071574402479911085",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你丫从Threads偷图又不给出处是吧？ https://t.co/MR8wntXaqt https://t.co/TFKyZvqI6e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071631590661255168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_p9KrXcAAW_XZ.jpg",
+        "width": 794
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2071560909567180800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-pq_FWQAA3TnV.jpg",
+        "width": 892
+      },
+      {
+        "height": 1447,
+        "media_key": "3_2071560905763016704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-pqw6XUAAGdpH.jpg",
+        "width": 1085
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071631590661255168"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2071631593521713436",
+        "created_at": "2026-06-29T16:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071631593521713436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MR8wntXaqt",
+              "end": 44,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2071631593521713436/photo/1",
+              "media_key": "3_2071631590661255168",
+              "start": 21,
+              "url": "https://t.co/MR8wntXaqt"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2071574402479911085",
+              "start": 45,
+              "url": "https://t.co/TFKyZvqI6e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071631593521713436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071574402479911085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你丫从Threads偷图又不给出处是吧？ https://t.co/MR8wntXaqt https://t.co/TFKyZvqI6e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071560909567180800",
+            "3_2071560905763016704"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2071574402479911085",
+        "created_at": "2026-06-29T12:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071574402479911085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rnyCO3eoTB",
+              "end": 65,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2071574402479911085/photo/1",
+              "media_key": "3_2071560909567180800",
+              "start": 42,
+              "url": "https://t.co/rnyCO3eoTB"
+            },
+            {
+              "display_url": "pic.x.com/rnyCO3eoTB",
+              "end": 65,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2071574402479911085/photo/1",
+              "media_key": "3_2071560905763016704",
+              "start": 42,
+              "url": "https://t.co/rnyCO3eoTB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071574402479911085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 50134,
+          "like_count": 644,
+          "quote_count": 6,
+          "reply_count": 55,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "6月28日，多伦多彩虹游行现场\n和伙伴们“寻衅滋事”、“颠覆国家政权” 我很骄傲！ https://t.co/rnyCO3eoTB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6094,
+          "following_count": 1033,
+          "like_count": 5491,
+          "listed_count": 10,
+          "media_count": 243,
+          "tweet_count": 2982
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242143,
+          "following_count": 1072,
+          "like_count": 9766,
+          "listed_count": 8805,
+          "media_count": 49491,
+          "tweet_count": 56676
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

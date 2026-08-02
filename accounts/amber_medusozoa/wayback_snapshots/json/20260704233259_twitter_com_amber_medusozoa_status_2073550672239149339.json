@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073436321339576321"
+      ],
+      "media_source_tweet_id": [
+        "2073436323617100247"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2073550672239149339",
+    "created_at": "2026-07-04T23:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T00:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073550672239149339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "291963165",
+          "start": 3,
+          "username": "theallergygirl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VetNAffSzH",
+          "end": 88,
+          "expanded_url": "https://x.com/theallergygirl/status/2073436323617100247/photo/1",
+          "media_key": "3_2073436321339576321",
+          "start": 65,
+          "url": "https://t.co/VetNAffSzH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073550672239149339",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 292
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073436323617100247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @theallergygirl: i think about this poem at least twice a day https://t.co/VetNAffSzH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1092,
+        "media_key": "3_2073436321339576321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZTWUXWkAEQDnU.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073436321339576321"
+          ],
+          "media_source_tweet_id": [
+            "2073436323617100247"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2073550672239149339",
+        "created_at": "2026-07-04T23:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T00:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073550672239149339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "291963165",
+              "start": 3,
+              "username": "theallergygirl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VetNAffSzH",
+              "end": 88,
+              "expanded_url": "https://x.com/theallergygirl/status/2073436323617100247/photo/1",
+              "media_key": "3_2073436321339576321",
+              "start": 65,
+              "url": "https://t.co/VetNAffSzH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073550672239149339",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 292
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073436323617100247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @theallergygirl: i think about this poem at least twice a day https://t.co/VetNAffSzH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073436321339576321"
+          ]
+        },
+        "author_id": "291963165",
+        "conversation_id": "2073436323617100247",
+        "created_at": "2026-07-04T15:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073436323617100247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VetNAffSzH",
+              "end": 68,
+              "expanded_url": "https://x.com/theallergygirl/status/2073436323617100247/photo/1",
+              "media_key": "3_2073436321339576321",
+              "start": 45,
+              "url": "https://t.co/VetNAffSzH"
+            },
+            {
+              "display_url": "x.com/145k4/status/2…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/145k4/status/2072088378388926942",
+              "start": 69,
+              "url": "https://t.co/B53gN7G5Ox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073436323617100247",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 563,
+          "impression_count": 34718,
+          "like_count": 2348,
+          "quote_count": 12,
+          "reply_count": 7,
+          "retweet_count": 292
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072088378388926942",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "i think about this poem at least twice a day https://t.co/VetNAffSzH https://t.co/B53gN7G5Ox"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya \n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059625440348610808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6315,
+          "following_count": 1042,
+          "like_count": 5791,
+          "listed_count": 10,
+          "media_count": 268,
+          "tweet_count": 3211
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2011-05-02T22:06:55.000Z",
+        "description": "“disrespectfully pretty” // bad at video games // minors DNI // 🏳️‍⚧️ (she/her)\n\nhttps://t.co/il9MZpat5w",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/theallergygirl",
+                "end": 104,
+                "expanded_url": "https://linktr.ee/theallergygirl",
+                "start": 81,
+                "url": "https://t.co/il9MZpat5w"
+              }
+            ]
+          }
+        },
+        "id": "291963165",
+        "location": "Elsewhere, US",
+        "name": "TheAllergyGirl 💜🏳️‍⚧️",
+        "pinned_tweet_id": "2066513541914316873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966506935085076480/AIXymnE3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21955,
+          "following_count": 2089,
+          "like_count": 131774,
+          "listed_count": 41,
+          "media_count": 4960,
+          "tweet_count": 37968
+        },
+        "url": "",
+        "username": "theallergygirl",
+        "verified": false
+      }
+    ]
+  }
+}

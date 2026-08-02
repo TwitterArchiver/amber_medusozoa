@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078686303437062145"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2078686314937844025",
+    "created_at": "2026-07-19T03:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T04:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078686314937844025"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pk9pL6FUkz",
+          "end": 52,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2078686314937844025/video/1",
+          "media_key": "13_2078686303437062145",
+          "start": 29,
+          "url": "https://t.co/Pk9pL6FUkz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078686314937844025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "翻到两年前某次吃韩餐的视频 发现我干饭的时候的侧脸好可爱 https://t.co/Pk9pL6FUkz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1946,
+        "height": 1280,
+        "media_key": "13_2078686303437062145",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078686303437062145/img/UtSzN1CueBICWRRC.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078686303437062145/vid/avc1/320x568/yQOJa2lfBY2bs0en.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078686303437062145/vid/avc1/480x852/VTIgFA47Exvx7xOI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078686303437062145/vid/avc1/720x1280/16G9RnnvuHYurgvn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078686303437062145/pl/4xwN3AuVY2JGVnSU.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078686303437062145"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2078686314937844025",
+        "created_at": "2026-07-19T03:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T04:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078686314937844025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pk9pL6FUkz",
+              "end": 52,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2078686314937844025/video/1",
+              "media_key": "13_2078686303437062145",
+              "start": 29,
+              "url": "https://t.co/Pk9pL6FUkz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078686314937844025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "翻到两年前某次吃韩餐的视频 发现我干饭的时候的侧脸好可爱 https://t.co/Pk9pL6FUkz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "前世 @amber_toffee\n🏳️‍⚧️☭ she/her #药娘\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 76,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 53,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6850,
+          "following_count": 1159,
+          "like_count": 6714,
+          "listed_count": 11,
+          "media_count": 337,
+          "tweet_count": 3833
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

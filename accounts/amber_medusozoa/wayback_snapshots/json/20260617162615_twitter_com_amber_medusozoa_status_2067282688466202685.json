@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038632021363441664",
+        "3_2038632046915137536"
+      ],
+      "media_source_tweet_id": [
+        "2038632493155561895",
+        "2038632493155561895"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2067282688466202685",
+    "created_at": "2026-06-17T16:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T17:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067282688466202685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "906829343480938496",
+          "start": 3,
+          "username": "Nevernessian"
+        },
+        {
+          "end": 31,
+          "id": "1424779836938022913",
+          "start": 18,
+          "username": "amber_toffee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fg9ApiFmOQ",
+          "end": 123,
+          "expanded_url": "https://x.com/Nevernessian/status/2038632493155561895/photo/1",
+          "media_key": "3_2038632021363441664",
+          "start": 100,
+          "url": "https://t.co/fg9ApiFmOQ"
+        },
+        {
+          "display_url": "pic.x.com/fg9ApiFmOQ",
+          "end": 123,
+          "expanded_url": "https://x.com/Nevernessian/status/2038632493155561895/photo/1",
+          "media_key": "3_2038632046915137536",
+          "start": 100,
+          "url": "https://t.co/fg9ApiFmOQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067282688466202685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038632493155561895",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nevernessian: @amber_toffee 之前的一点模糊经验，但是应该不难找，比如我大概找了下一个湖北的学校，办学许可证是专门学校性质的，这种大概率就是以前的公办工读学校改制的 https://t.co/fg9ApiFmOQ"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [amber_toffee].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "amber_toffee",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "amber_toffee"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1133,
+        "media_key": "3_2038632021363441664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqtBbUawAAQ1P8.jpg",
+        "width": 1591
+      },
+      {
+        "height": 1219,
+        "media_key": "3_2038632046915137536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqtC6gasAAAU_v.jpg",
+        "width": 1734
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038632021363441664",
+            "3_2038632046915137536"
+          ],
+          "media_source_tweet_id": [
+            "2038632493155561895",
+            "2038632493155561895"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2067282688466202685",
+        "created_at": "2026-06-17T16:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067282688466202685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "906829343480938496",
+              "start": 3,
+              "username": "Nevernessian"
+            },
+            {
+              "end": 31,
+              "id": "1424779836938022913",
+              "start": 18,
+              "username": "amber_toffee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fg9ApiFmOQ",
+              "end": 123,
+              "expanded_url": "https://x.com/Nevernessian/status/2038632493155561895/photo/1",
+              "media_key": "3_2038632021363441664",
+              "start": 100,
+              "url": "https://t.co/fg9ApiFmOQ"
+            },
+            {
+              "display_url": "pic.x.com/fg9ApiFmOQ",
+              "end": 123,
+              "expanded_url": "https://x.com/Nevernessian/status/2038632493155561895/photo/1",
+              "media_key": "3_2038632046915137536",
+              "start": 100,
+              "url": "https://t.co/fg9ApiFmOQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067282688466202685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038632493155561895",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nevernessian: @amber_toffee 之前的一点模糊经验，但是应该不难找，比如我大概找了下一个湖北的学校，办学许可证是专门学校性质的，这种大概率就是以前的公办工读学校改制的 https://t.co/fg9ApiFmOQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038632021363441664",
+            "3_2038632046915137536"
+          ]
+        },
+        "author_id": "906829343480938496",
+        "conversation_id": "2038610666584477813",
+        "created_at": "2026-03-30T15:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T16:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038632493155561895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fg9ApiFmOQ",
+              "end": 105,
+              "expanded_url": "https://x.com/Nevernessian/status/2038632493155561895/photo/1",
+              "media_key": "3_2038632021363441664",
+              "start": 82,
+              "url": "https://t.co/fg9ApiFmOQ"
+            },
+            {
+              "display_url": "pic.x.com/fg9ApiFmOQ",
+              "end": 105,
+              "expanded_url": "https://x.com/Nevernessian/status/2038632493155561895/photo/1",
+              "media_key": "3_2038632046915137536",
+              "start": 82,
+              "url": "https://t.co/fg9ApiFmOQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038632493155561895",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1712,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038624935774474426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 之前的一点模糊经验，但是应该不难找，比如我大概找了下一个湖北的学校，办学许可证是专门学校性质的，这种大概率就是以前的公办工读学校改制的 https://t.co/fg9ApiFmOQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5925,
+          "following_count": 1025,
+          "like_count": 5136,
+          "listed_count": 10,
+          "media_count": 189,
+          "tweet_count": 2616
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-10T10:38:58.000Z",
+        "description": "穷打工的👩‍💼不善良😈所以也不怎么焦虑🤷‍♀️没有社群联系🙅‍♀️性冷淡😐相关专业出身但不会coding⌨️掌勺但不懂美食🍚前电务但不懂铁路🚆更不懂民航✈️不懂数学🔢不懂语言学🔡不懂军武🔫也不会拍照📷不懂穿搭👗裤子比裙子多👖但是mtf🤔\n@nevernessian@m.cmx.im",
+        "id": "906829343480938496",
+        "name": "魏淑淑淑芬芬芬",
+        "pinned_tweet_id": "2058549888393384391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486710720834117636/8z2GHsnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2650,
+          "following_count": 94,
+          "like_count": 6088,
+          "listed_count": 7,
+          "media_count": 930,
+          "tweet_count": 7036
+        },
+        "url": "",
+        "username": "Nevernessian",
+        "verified": false
+      }
+    ]
+  }
+}

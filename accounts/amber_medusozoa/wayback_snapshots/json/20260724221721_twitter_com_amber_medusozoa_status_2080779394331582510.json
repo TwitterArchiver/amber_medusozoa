@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2080779394331582510",
+    "created_at": "2026-07-24T22:17:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T23:17:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080779394331582510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1962556266196418560",
+          "start": 3,
+          "username": "HCl_Chen"
+        },
+        {
+          "end": 25,
+          "id": "1794266757995343872",
+          "start": 14,
+          "username": "miyuki_114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080779394331582510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080766114863432038",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HCl_Chen: @miyuki_114 经常鉴赏未来主义艺术，摒弃意大利劣质碳水意大利面的小伙伴们都知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2080779394331582510",
+        "created_at": "2026-07-24T22:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T23:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080779394331582510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1962556266196418560",
+              "start": 3,
+              "username": "HCl_Chen"
+            },
+            {
+              "end": 25,
+              "id": "1794266757995343872",
+              "start": 14,
+              "username": "miyuki_114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080779394331582510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080766114863432038",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HCl_Chen: @miyuki_114 经常鉴赏未来主义艺术，摒弃意大利劣质碳水意大利面的小伙伴们都知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962556266196418560",
+        "conversation_id": "2080611674634236128",
+        "created_at": "2026-07-24T21:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T22:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080766114863432038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1794266757995343872",
+              "start": 0,
+              "username": "miyuki_114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080766114863432038",
+        "in_reply_to_user_id": "1794266757995343872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080611674634236128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyuki_114 经常鉴赏未来主义艺术，摒弃意大利劣质碳水意大利面的小伙伴们都知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080483846097629184/ano5UN60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6915,
+          "following_count": 1176,
+          "like_count": 7056,
+          "listed_count": 10,
+          "media_count": 357,
+          "tweet_count": 4037
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-01T16:41:00.000Z",
+        "description": "稀盐酸 任意人称代词 MTX\nA cup of 0.1M HCl(aq）\n前化竞人，BBO，BCHO，CCHO老登\n没闯出名堂的家伙\nUofTSG G2 LifeSci（药学支系） 在读\n政治取向 人权/进步/生产",
+        "id": "1962556266196418560",
+        "name": "HCl_HClO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000629619783872521/Q3L3wRRQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 146,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 815
+        },
+        "url": "",
+        "username": "HCl_Chen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-25T07:18:54.000Z",
+        "description": "يا أبناء القسام اضربوا صواريخكم على تل أبيب",
+        "id": "1794266757995343872",
+        "name": "霍尔木兹海峡冲浪里",
+        "pinned_tweet_id": "2040833905667006896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079968839543267328/dw_UCYg7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 1659,
+          "like_count": 316609,
+          "listed_count": 2,
+          "media_count": 2873,
+          "tweet_count": 60626
+        },
+        "url": "",
+        "username": "miyuki_114",
+        "verified": false
+      }
+    ]
+  }
+}

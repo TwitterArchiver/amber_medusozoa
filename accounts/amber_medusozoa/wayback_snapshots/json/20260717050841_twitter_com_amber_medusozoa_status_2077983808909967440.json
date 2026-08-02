@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2077983808909967440",
+    "created_at": "2026-07-17T05:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T06:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077983808909967440"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wenzheng12_1/s…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/wenzheng12_1/status/2077949396713701702",
+          "start": 21,
+          "url": "https://t.co/KG231Rv8fj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077983808909967440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077949396713701702",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他祖宗说这简直太可恶了！怎么不把地址发我 https://t.co/KG231Rv8fj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2077983808909967440",
+        "created_at": "2026-07-17T05:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077983808909967440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wenzheng12_1/s…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/wenzheng12_1/status/2077949396713701702",
+              "start": 21,
+              "url": "https://t.co/KG231Rv8fj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077983808909967440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077949396713701702",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他祖宗说这简直太可恶了！怎么不把地址发我 https://t.co/KG231Rv8fj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1582014332820283392",
+        "conversation_id": "2077737766520299840",
+        "created_at": "2026-07-17T02:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077949396713701702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1448545153166180356",
+              "start": 0,
+              "username": "swyxy4484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077949396713701702",
+        "in_reply_to_user_id": "1448545153166180356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1741,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077737766520299840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@swyxy4484 一些个男人搞成这样，你说他祖宗会不会跳出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n💖@amber_digit\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "amber_digit"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 70,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 47,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6596,
+          "following_count": 1119,
+          "like_count": 6458,
+          "listed_count": 11,
+          "media_count": 320,
+          "tweet_count": 3683
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-17T14:23:26.000Z",
+        "description": "以“三民主义”为基，以法外不为人情为础！\n创华夏之幸，谋国人之福！",
+        "id": "1582014332820283392",
+        "name": "胖帅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944781201975181312/YkG7M6sz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 59,
+          "like_count": 1448,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 738
+        },
+        "url": "",
+        "username": "wenzheng12_1",
+        "verified": false
+      }
+    ]
+  }
+}

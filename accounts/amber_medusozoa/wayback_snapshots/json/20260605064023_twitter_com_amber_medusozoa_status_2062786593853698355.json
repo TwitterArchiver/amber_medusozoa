@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2061588005756838234",
+    "created_at": "2026-06-05T06:40:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T07:40:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062786593853698355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1523656934834204672",
+          "start": 0,
+          "username": "slz4de"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062786593853698355",
+    "in_reply_to_user_id": "1523656934834204672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062782051376595296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@slz4de 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2061588005756838234",
+        "created_at": "2026-06-05T06:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062786593853698355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1523656934834204672",
+              "start": 0,
+              "username": "slz4de"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062786593853698355",
+        "in_reply_to_user_id": "1523656934834204672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062782051376595296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@slz4de 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1523656934834204672",
+        "conversation_id": "2061588005756838234",
+        "created_at": "2026-06-05T06:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062782051376595296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062782051376595296",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061588005756838234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 我也是用了二甲双胍缓释片和替尔泊肽两个月瘦了10kg🤣🤣虽然有时候会有一点点干呕，不过确实有效"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya ⚜️@irisdesombres \n🏳️‍⚧️@amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 52,
+                "start": 39,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5512,
+          "following_count": 954,
+          "like_count": 4319,
+          "listed_count": 9,
+          "media_count": 119,
+          "tweet_count": 2032
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-09T13:32:01.000Z",
+        "description": "",
+        "id": "1523656934834204672",
+        "name": "朽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048035922986639360/7BittO_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 68,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "slz4de",
+        "verified": false
+      }
+    ]
+  }
+}

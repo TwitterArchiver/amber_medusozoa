@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2039912706673660334",
+    "created_at": "2026-04-03T03:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T04:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039912706673660334"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shen20020210/s…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/shen20020210/status/2039628187043602640",
+          "start": 14,
+          "url": "https://t.co/DMoBT9YvMR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039912706673660334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039628187043602640",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为你其实不真的信那些东西 https://t.co/DMoBT9YvMR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2039912706673660334",
+        "created_at": "2026-04-03T03:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T04:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039912706673660334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shen20020210/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/shen20020210/status/2039628187043602640",
+              "start": 14,
+              "url": "https://t.co/DMoBT9YvMR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039912706673660334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039628187043602640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为你其实不真的信那些东西 https://t.co/DMoBT9YvMR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897385240735240192",
+        "conversation_id": "2039628187043602640",
+        "created_at": "2026-04-02T08:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T09:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039628187043602640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039628187043602640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 19321,
+          "like_count": 510,
+          "quote_count": 8,
+          "reply_count": 42,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我特别反感男性谈论女性主义，然后用说教或提醒的方式去指责一个还没完全觉醒的女性，虽然他的意思确实对，但是总感觉怪怪的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2038459897726074909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 492,
+          "like_count": 912,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 580
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-05T20:34:49.000Z",
+        "description": "我真的不系拉拉呀…/ isfp/水瓶座 /我想像风一样自由 /喜欢画画听歌散步/分享我的日常和碎碎念/一些疑惑和自省/不约炮不聊骚不鉴鸡 / 内向但不社恐/给我发照片会被我锐评\n\n提问箱：https://t.co/nhgGIeVP69",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/s_far02",
+                "end": 117,
+                "expanded_url": "http://ngl.link/s_far02",
+                "start": 94,
+                "url": "https://t.co/nhgGIeVP69"
+              }
+            ]
+          }
+        },
+        "id": "1897385240735240192",
+        "location": "距离你1008km ",
+        "name": "懒大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004553048597880832/wF2u16g2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 551,
+          "like_count": 38919,
+          "listed_count": 0,
+          "media_count": 676,
+          "tweet_count": 5294
+        },
+        "username": "Shen20020210",
+        "verified": false
+      }
+    ]
+  }
+}

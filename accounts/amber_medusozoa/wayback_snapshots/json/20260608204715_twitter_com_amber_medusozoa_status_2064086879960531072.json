@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2064040272342798391",
+    "created_at": "2026-06-08T20:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T21:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064086879960531072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "704584768457822208",
+          "start": 0,
+          "username": "cz07752269"
+        },
+        {
+          "end": 21,
+          "id": "1540698144429596673",
+          "start": 12,
+          "username": "Y2D80355"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064086879960531072",
+    "in_reply_to_user_id": "704584768457822208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064085251203481846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cz07752269 @Y2D80355 很难想象拉个挂人小频道在何种程度上构成足够具备政治斗争属性的暴力形式"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2064085251203481846].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2064085251203481846",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2064085251203481846"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2064040272342798391",
+        "created_at": "2026-06-08T20:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T21:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064086879960531072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "704584768457822208",
+              "start": 0,
+              "username": "cz07752269"
+            },
+            {
+              "end": 21,
+              "id": "1540698144429596673",
+              "start": 12,
+              "username": "Y2D80355"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064086879960531072",
+        "in_reply_to_user_id": "704584768457822208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064085251203481846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cz07752269 @Y2D80355 很难想象拉个挂人小频道在何种程度上构成足够具备政治斗争属性的暴力形式"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya ⚜️@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5605,
+          "following_count": 973,
+          "like_count": 4514,
+          "listed_count": 10,
+          "media_count": 139,
+          "tweet_count": 2153
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-01T08:31:14.000Z",
+        "description": "Marxist-Leninist-Maoist\n\n#FreePalestine🇵🇸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 25,
+                "tag": "FreePalestine"
+              }
+            ]
+          }
+        },
+        "id": "704584768457822208",
+        "name": "akxkkwkxl",
+        "pinned_tweet_id": "1843706143711080834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1135936327327764481/9fsC6-UH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 211,
+          "like_count": 122514,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 8079
+        },
+        "username": "cz07752269",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T14:07:33.000Z",
+        "description": "",
+        "id": "1540698144429596673",
+        "name": "Erika Musterfrau",
+        "pinned_tweet_id": "2060594115331395863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053092410134003718/ZUPVBMsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 777,
+          "like_count": 6140,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 5920
+        },
+        "username": "Y2D80355",
+        "verified": false
+      }
+    ]
+  }
+}

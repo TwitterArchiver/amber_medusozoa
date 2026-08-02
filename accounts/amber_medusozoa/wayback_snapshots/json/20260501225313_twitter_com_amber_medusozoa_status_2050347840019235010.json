@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050347835728506880"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2050347840019235010",
+    "created_at": "2026-05-01T22:53:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T23:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050347840019235010"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bahfZlvMUi",
+          "end": 31,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2050347840019235010/photo/1",
+          "media_key": "3_2050347835728506880",
+          "start": 8,
+          "url": "https://t.co/bahfZlvMUi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050347840019235010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有人想被踹吗（ https://t.co/bahfZlvMUi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050347835728506880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHRMfk6WsAAixT8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050347835728506880"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2050347840019235010",
+        "created_at": "2026-05-01T22:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T23:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050347840019235010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bahfZlvMUi",
+              "end": 31,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2050347840019235010/photo/1",
+              "media_key": "3_2050347835728506880",
+              "start": 8,
+              "url": "https://t.co/bahfZlvMUi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050347840019235010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人想被踹吗（ https://t.co/bahfZlvMUi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "原主号 @amber_toffee\n🇨🇦 #多伦多 #药娘 #TS\n🚪 ¥150/240 ($30/50)\nnsfw only",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 21,
+                "tag": "多伦多"
+              },
+              {
+                "end": 29,
+                "start": 26,
+                "tag": "药娘"
+              },
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "TS"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "支持Zelle Venmo口令红包，其他付款方式请私信联系",
+        "name": "/",
+        "pinned_tweet_id": "2050188957724373239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049527897036328960/hshFuKwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3082,
+          "following_count": 794,
+          "like_count": 3264,
+          "listed_count": 6,
+          "media_count": 7,
+          "tweet_count": 1279
+        },
+        "username": "amber_medusozoa",
+        "verified": false
+      }
+    ]
+  }
+}

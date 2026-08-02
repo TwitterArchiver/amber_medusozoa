@@ -1,0 +1,520 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2043477558381973968",
+    "created_at": "2026-04-12T23:53:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T00:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043477558381973968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1455052587145723904",
+          "start": 3,
+          "username": "MizukiWorkshop"
+        },
+        {
+          "end": 33,
+          "id": "1279242635341729792",
+          "start": 20,
+          "username": "maigomaigoHH"
+        }
+      ],
+      "urls": [
+        {
+          "description": "为贯彻落实习近平总书记在哲学社会科学工作座谈会上的讲话精神，中国社会科学院牵头建设国家哲学社会科学文献中心。中心立足全国哲学社会科学领域，由国家投入和支持，开展哲学社会科学文献信息资源建设和服务。中心目前收录的文献类型包括中文期刊、外文期刊、集刊、古籍，并建设了优先发布栏目、习近平新时代中国特色社会主义思想专栏等。",
+          "display_url": "ncpssd.cn",
+          "end": 75,
+          "expanded_url": "http://ncpssd.cn",
+          "start": 52,
+          "status": 200,
+          "title": "国家哲学社会科学文献中心",
+          "unwound_url": "http://ncpssd.cn",
+          "url": "https://t.co/KOJQxhNCTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043477558381973968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043438254318317648",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MizukiWorkshop: @maigomaigoHH 如果是搞人文社科的，很多文献都能在 https://t.co/KOJQxhNCTF 找到（习近平让搞的为数不多的善政）。理工的话暂且只能自求多福……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2043477558381973968",
+        "created_at": "2026-04-12T23:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T00:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043477558381973968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1455052587145723904",
+              "start": 3,
+              "username": "MizukiWorkshop"
+            },
+            {
+              "end": 33,
+              "id": "1279242635341729792",
+              "start": 20,
+              "username": "maigomaigoHH"
+            }
+          ],
+          "urls": [
+            {
+              "description": "为贯彻落实习近平总书记在哲学社会科学工作座谈会上的讲话精神，中国社会科学院牵头建设国家哲学社会科学文献中心。中心立足全国哲学社会科学领域，由国家投入和支持，开展哲学社会科学文献信息资源建设和服务。中心目前收录的文献类型包括中文期刊、外文期刊、集刊、古籍，并建设了优先发布栏目、习近平新时代中国特色社会主义思想专栏等。",
+              "display_url": "ncpssd.cn",
+              "end": 75,
+              "expanded_url": "http://ncpssd.cn",
+              "start": 52,
+              "status": 200,
+              "title": "国家哲学社会科学文献中心",
+              "unwound_url": "http://ncpssd.cn",
+              "url": "https://t.co/KOJQxhNCTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043477558381973968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043438254318317648",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MizukiWorkshop: @maigomaigoHH 如果是搞人文社科的，很多文献都能在 https://t.co/KOJQxhNCTF 找到（习近平让搞的为数不多的善政）。理工的话暂且只能自求多福……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455052587145723904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2043384612098027822",
+        "created_at": "2026-04-12T21:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T22:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043438254318317648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1279242635341729792",
+              "start": 0,
+              "username": "maigomaigoHH"
+            }
+          ],
+          "urls": [
+            {
+              "description": "为贯彻落实习近平总书记在哲学社会科学工作座谈会上的讲话精神，中国社会科学院牵头建设国家哲学社会科学文献中心。中心立足全国哲学社会科学领域，由国家投入和支持，开展哲学社会科学文献信息资源建设和服务。中心目前收录的文献类型包括中文期刊、外文期刊、集刊、古籍，并建设了优先发布栏目、习近平新时代中国特色社会主义思想专栏等。",
+              "display_url": "ncpssd.cn",
+              "end": 55,
+              "expanded_url": "http://ncpssd.cn",
+              "start": 32,
+              "status": 200,
+              "title": "国家哲学社会科学文献中心",
+              "unwound_url": "http://ncpssd.cn",
+              "url": "https://t.co/KOJQxhNCTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043438254318317648",
+        "in_reply_to_user_id": "1279242635341729792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 522,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043384612098027822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maigomaigoHH 如果是搞人文社科的，很多文献都能在 https://t.co/KOJQxhNCTF 找到（习近平让搞的为数不多的善政）。理工的话暂且只能自求多福……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2053,
+          "following_count": 725,
+          "like_count": 2063,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 1452
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-01T06:02:30.000Z",
+        "description": "🫧 ⬩ ME JIANG ⬩ @ringochichidim ⬩ @stellachan0w0 ⬩ @NekoChan6684816",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ringochichidim"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "stellachan0w0"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "NekoChan6684816"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Muentzer",
+                "end": 23,
+                "expanded_url": "https://t.me/Muentzer",
+                "start": 0,
+                "url": "https://t.co/uom95KFHj4"
+              }
+            ]
+          }
+        },
+        "id": "1455052587145723904",
+        "location": "L'Internationale",
+        "name": "水月 遥 🪼🫧",
+        "pinned_tweet_id": "1865957499418951947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791874009308545025/7yD_VYMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1737,
+          "following_count": 1138,
+          "like_count": 113853,
+          "listed_count": 9,
+          "media_count": 1646,
+          "tweet_count": 22693
+        },
+        "url": "https://t.co/uom95KFHj4",
+        "username": "MizukiWorkshop",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-04T02:36:35.000Z",
+        "description": "倒霉蛋",
+        "id": "1279242635341729792",
+        "location": "你身后",
+        "name": "コガ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040711973831368704/4hKq15Da_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6409,
+          "following_count": 953,
+          "like_count": 24597,
+          "listed_count": 35,
+          "media_count": 1563,
+          "tweet_count": 21357
+        },
+        "username": "maigomaigoHH",
+        "verified": true
+      }
+    ]
+  }
+}

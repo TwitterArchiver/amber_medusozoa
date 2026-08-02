@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Toronto",
+          "id": "861961494438662144",
+          "name": "Toronto"
+        }
+      }
+    ],
+    "conversation_id": "2040263782023258246",
+    "created_at": "2026-04-04T03:02:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T04:02:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040263782023258246"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/policingblack/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/policingblack/status/2039683719993188383",
+          "start": 14,
+          "url": "https://t.co/wLJlRYm0sf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040263782023258246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039683719993188383",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇这是我这学期一门课的教授 https://t.co/wLJlRYm0sf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Toronto",
+              "id": "861961494438662144",
+              "name": "Toronto"
+            }
+          }
+        ],
+        "conversation_id": "2040263782023258246",
+        "created_at": "2026-04-04T03:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T04:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040263782023258246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/policingblack/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/policingblack/status/2039683719993188383",
+              "start": 14,
+              "url": "https://t.co/wLJlRYm0sf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040263782023258246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039683719993188383",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇这是我这学期一门课的教授 https://t.co/wLJlRYm0sf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "744969334670434304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Toronto",
+              "id": "861961494438662144",
+              "name": "Toronto"
+            }
+          }
+        ],
+        "conversation_id": "2039683719993188383",
+        "created_at": "2026-04-02T12:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T13:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039683719993188383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Excerpt from Policing Black Lives: Revised and Expanded – In a revised and expanded version of Policing Black Lives, Robyn Maynard documents how half a centre of police reforms, including community policing, have served to undermine Black freedom struggles while expanding the scope and scale of policing in Canadian society.",
+              "display_url": "briarpatchmagazine.com/articles/view/…",
+              "end": 274,
+              "expanded_url": "https://briarpatchmagazine.com/articles/view/community-policing-expanding-the-carceral-web",
+              "images": [
+                {
+                  "height": 1350,
+                  "url": "https://pbs.twimg.com/news_img/2039683773508325376/Ywq8sY4h?format=jpg&name=orig",
+                  "width": 900
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2039683773508325376/Ywq8sY4h?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 251,
+              "status": 200,
+              "title": "Community policing: expanding the carceral web",
+              "unwound_url": "https://briarpatchmagazine.com/articles/view/community-policing-expanding-the-carceral-web",
+              "url": "https://t.co/qoXpaz9e5X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039683719993188383",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 7629,
+          "like_count": 131,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "In Toronto, the first community policing model began in 1967, introduced in two neighborhoods with large Black communities. By 1970, it had expanded citywide, with a 1973 creation of the Ethnic Relations Unit, and a “Black section” in 1975.  from PBL https://t.co/qoXpaz9e5X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 532,
+          "like_count": 1026,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 657
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2016-06-20T19:05:05.000Z",
+        "description": "Policing Black Lives (Fernwood/Duke 2025) Rehearsals for Living (Knopf/Haymarket, 2022), Assistant Professor, University of Toronto",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "robynmaynard.com",
+                "end": 23,
+                "expanded_url": "http://www.robynmaynard.com",
+                "start": 0,
+                "url": "https://t.co/iY88A1GdoR"
+              }
+            ]
+          }
+        },
+        "id": "744969334670434304",
+        "location": "Toronto, Ontario",
+        "name": "Robyn Maynard",
+        "pinned_tweet_id": "1925181399692197939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/913204085314244608/ptWumgvL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31270,
+          "following_count": 2582,
+          "like_count": 6906,
+          "listed_count": 166,
+          "media_count": 403,
+          "tweet_count": 6943
+        },
+        "url": "https://t.co/iY88A1GdoR",
+        "username": "policingblack",
+        "verified": false
+      }
+    ]
+  }
+}

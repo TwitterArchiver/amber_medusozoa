@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064654917105766400",
+        "3_2064654923334377472"
+      ],
+      "media_source_tweet_id": [
+        "2064654926719111170",
+        "2064654926719111170"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2064700805374988765",
+    "created_at": "2026-06-10T13:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064700805374988765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1844926832967286785",
+          "start": 3,
+          "username": "ZX65535plus1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pR5ObpDrpB",
+          "end": 53,
+          "expanded_url": "https://x.com/ZX65535plus1/status/2064654926719111170/photo/1",
+          "media_key": "3_2064654917105766400",
+          "start": 30,
+          "url": "https://t.co/pR5ObpDrpB"
+        },
+        {
+          "display_url": "pic.x.com/pR5ObpDrpB",
+          "end": 53,
+          "expanded_url": "https://x.com/ZX65535plus1/status/2064654926719111170/photo/1",
+          "media_key": "3_2064654923334377472",
+          "start": 30,
+          "url": "https://t.co/pR5ObpDrpB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064700805374988765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064654926719111170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZX65535plus1: 挂个人，也是味大小孩哥 https://t.co/pR5ObpDrpB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064654917105766400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcgtUXaUAAL772.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064654923334377472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcgtrkbYAAIFXX.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064654917105766400",
+            "3_2064654923334377472"
+          ],
+          "media_source_tweet_id": [
+            "2064654926719111170",
+            "2064654926719111170"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064700805374988765",
+        "created_at": "2026-06-10T13:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064700805374988765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1844926832967286785",
+              "start": 3,
+              "username": "ZX65535plus1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pR5ObpDrpB",
+              "end": 53,
+              "expanded_url": "https://x.com/ZX65535plus1/status/2064654926719111170/photo/1",
+              "media_key": "3_2064654917105766400",
+              "start": 30,
+              "url": "https://t.co/pR5ObpDrpB"
+            },
+            {
+              "display_url": "pic.x.com/pR5ObpDrpB",
+              "end": 53,
+              "expanded_url": "https://x.com/ZX65535plus1/status/2064654926719111170/photo/1",
+              "media_key": "3_2064654923334377472",
+              "start": 30,
+              "url": "https://t.co/pR5ObpDrpB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064700805374988765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064654926719111170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZX65535plus1: 挂个人，也是味大小孩哥 https://t.co/pR5ObpDrpB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064654917105766400",
+            "3_2064654923334377472"
+          ]
+        },
+        "author_id": "1844926832967286785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064654926719111170",
+        "created_at": "2026-06-10T10:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064654926719111170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pR5ObpDrpB",
+              "end": 35,
+              "expanded_url": "https://x.com/ZX65535plus1/status/2064654926719111170/photo/1",
+              "media_key": "3_2064654917105766400",
+              "start": 12,
+              "url": "https://t.co/pR5ObpDrpB"
+            },
+            {
+              "display_url": "pic.x.com/pR5ObpDrpB",
+              "end": 35,
+              "expanded_url": "https://x.com/ZX65535plus1/status/2064654926719111170/photo/1",
+              "media_key": "3_2064654923334377472",
+              "start": 12,
+              "url": "https://t.co/pR5ObpDrpB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064654926719111170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1336,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "挂个人，也是味大小孩哥 https://t.co/pR5ObpDrpB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya ⚜️@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5709,
+          "following_count": 981,
+          "like_count": 4705,
+          "listed_count": 11,
+          "media_count": 150,
+          "tweet_count": 2265
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "挨揍不如嘴贱 brat统治世界  |  \n只要不去就诊我就是健全B  |  \n一直试图在没有血缘关系的人身上找到家 | \n非计算机专业 | \n或许是双性恋，不过只对男生有动情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2043367970999832925/7jUBUlO2qh",
+                "start": 0,
+                "url": "https://t.co/pdJCzdgssh"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "万达广场楼下",
+        "name": "小竹子一掰就断🏳️‍⚧️",
+        "pinned_tweet_id": "2062840887370281058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036702817168265216/LUEbpUzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4483,
+          "following_count": 1456,
+          "like_count": 79452,
+          "listed_count": 11,
+          "media_count": 1129,
+          "tweet_count": 22926
+        },
+        "url": "https://t.co/pdJCzdgssh",
+        "username": "ZX65535plus1",
+        "verified": false
+      }
+    ]
+  }
+}

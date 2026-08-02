@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040237591770152960",
+        "3_2040237591644024832"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2040237597440508410",
+    "created_at": "2026-04-04T01:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T02:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040237597440508410"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9HsKZqNrIZ",
+          "end": 55,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2040237597440508410/photo/1",
+          "media_key": "3_2040237591770152960",
+          "start": 32,
+          "url": "https://t.co/9HsKZqNrIZ"
+        },
+        {
+          "display_url": "pic.x.com/9HsKZqNrIZ",
+          "end": 55,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2040237597440508410/photo/1",
+          "media_key": "3_2040237591644024832",
+          "start": 32,
+          "url": "https://t.co/9HsKZqNrIZ"
+        },
+        {
+          "display_url": "x.com/xe1_n0n/status…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/xe1_n0n/status/2040093396421996882",
+          "start": 56,
+          "url": "https://t.co/Byq1c8HaVq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040237597440508410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040093396421996882",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就不自己写了 不过当时采访我的那些记者倒是可以再采访我一遍（ https://t.co/9HsKZqNrIZ https://t.co/Byq1c8HaVq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040237591770152960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFBhR7LbwAAheRl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2040237591644024832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFBhR6tXMAALDBT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040237591770152960",
+            "3_2040237591644024832"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2040237597440508410",
+        "created_at": "2026-04-04T01:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T02:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040237597440508410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9HsKZqNrIZ",
+              "end": 55,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2040237597440508410/photo/1",
+              "media_key": "3_2040237591770152960",
+              "start": 32,
+              "url": "https://t.co/9HsKZqNrIZ"
+            },
+            {
+              "display_url": "pic.x.com/9HsKZqNrIZ",
+              "end": 55,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2040237597440508410/photo/1",
+              "media_key": "3_2040237591644024832",
+              "start": 32,
+              "url": "https://t.co/9HsKZqNrIZ"
+            },
+            {
+              "display_url": "x.com/xe1_n0n/status…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/xe1_n0n/status/2040093396421996882",
+              "start": 56,
+              "url": "https://t.co/Byq1c8HaVq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040237597440508410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040093396421996882",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就不自己写了 不过当时采访我的那些记者倒是可以再采访我一遍（ https://t.co/9HsKZqNrIZ https://t.co/Byq1c8HaVq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567061441152450560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2040093396421996882",
+        "created_at": "2026-04-03T15:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T16:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040093396421996882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040093396421996882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4815,
+          "like_count": 86,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想写部自传 讲讲曾经的小镇做题家 中考659考入大连第二好的高中 化学竞赛选手\n\n 是如何变成了他们口中的死人妖😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 531,
+          "like_count": 1009,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 641
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-06T08:05:48.000Z",
+        "description": "A Chemistry Geek",
+        "id": "1567061441152450560",
+        "location": "CN",
+        "name": "Kenzaki_Kazuma🍥",
+        "pinned_tweet_id": "1834084114460189092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869176809121808384/wgakVqI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 677,
+          "like_count": 632,
+          "listed_count": 5,
+          "media_count": 130,
+          "tweet_count": 1745
+        },
+        "username": "Xe1_N0n",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2044627105711853904",
+    "created_at": "2026-04-16T04:01:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T05:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044627105711853904"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/suispasdavinci…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/suispasdavinci/status/2044275405704589381",
+          "start": 23,
+          "url": "https://t.co/eBEZiFllYt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044627105711853904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044275405704589381",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "错的，我们这边从来没人扶门，只有美国人干这个 https://t.co/eBEZiFllYt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2044627105711853904",
+        "created_at": "2026-04-16T04:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T05:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044627105711853904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suispasdavinci…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/suispasdavinci/status/2044275405704589381",
+              "start": 23,
+              "url": "https://t.co/eBEZiFllYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044627105711853904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044275405704589381",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "错的，我们这边从来没人扶门，只有美国人干这个 https://t.co/eBEZiFllYt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516975944484990977",
+        "conversation_id": "2044275405704589381",
+        "created_at": "2026-04-15T04:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T05:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044275405704589381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044275405704589381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2031,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个人什么样的行为一看就知道加拿大生活过？\n\nSorry挂嘴边，商场给后面人扶门半个小时那么久"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2282,
+          "following_count": 771,
+          "like_count": 2250,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1630
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-21T03:04:01.000Z",
+        "description": "Stanley社群主理人 | 加拿大🇨🇦10年老移民 | 英法双语| 出摊学坚定践行者 | 顶级游戏公司从业者 | Master of Engineering | 土木成功靠Excel转码 | Vibe Coding",
+        "id": "1516975944484990977",
+        "location": "CANADIAN TIRED",
+        "name": "达芬七",
+        "pinned_tweet_id": "2017777161340440688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022377311010471936/qiAJoIzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11540,
+          "following_count": 1447,
+          "like_count": 36763,
+          "listed_count": 33,
+          "media_count": 1553,
+          "tweet_count": 19177
+        },
+        "url": "",
+        "username": "SuisPasDaVinci",
+        "verified": true
+      }
+    ]
+  }
+}

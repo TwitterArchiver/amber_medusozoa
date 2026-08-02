@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2037239253906645033",
+    "created_at": "2026-03-26T18:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T19:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037239253906645033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "774312762071711744",
+          "start": 3,
+          "username": "Krungu5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037239253906645033",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036943757619179614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Krungu5: Transitioning while knowing you're never going to pass is kind of a weird situation because you have to put in all the effort…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2037239253906645033",
+        "created_at": "2026-03-26T18:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T19:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037239253906645033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "774312762071711744",
+              "start": 3,
+              "username": "Krungu5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037239253906645033",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036943757619179614",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Krungu5: Transitioning while knowing you're never going to pass is kind of a weird situation because you have to put in all the effort…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "774312762071711744",
+        "conversation_id": "2036943757619179614",
+        "created_at": "2026-03-25T23:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T00:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036943757619179614"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036943757619179614",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 9898,
+          "like_count": 487,
+          "quote_count": 7,
+          "reply_count": 12,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "Transitioning while knowing you're never going to pass is kind of a weird situation because you have to put in all the effort you can even though you know you'll never get where you want to be."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 351,
+          "like_count": 427,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 308
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2016-09-09T18:25:23.000Z",
+        "description": "Celeste | 22 | Male-To-Constructed-Female | 2025/10/15 💉\n\nPriv: @Estrogendered\n\nProfile picture by @Funy0nion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "Estrogendered"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "Funy0nion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@obscuregamess…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@obscuregamesshowcase",
+                "start": 0,
+                "url": "https://t.co/cjoAn3PAnT"
+              }
+            ]
+          }
+        },
+        "id": "774312762071711744",
+        "location": "Ao3: Krungu5; Discord: Krungu5",
+        "name": "Puppyfoid",
+        "pinned_tweet_id": "2019565820708524084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678740050253606912/YHsfySsC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 240,
+          "like_count": 83696,
+          "listed_count": 7,
+          "media_count": 902,
+          "tweet_count": 14243
+        },
+        "url": "https://t.co/cjoAn3PAnT",
+        "username": "Krungu5",
+        "verified": false
+      }
+    ]
+  }
+}

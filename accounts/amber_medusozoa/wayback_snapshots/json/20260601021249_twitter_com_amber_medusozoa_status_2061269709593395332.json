@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2061268117830164720",
+    "created_at": "2026-06-01T02:12:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T03:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061269709593395332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2035413632994193408",
+          "start": 0,
+          "username": "Yumesame10086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061269709593395332",
+    "in_reply_to_user_id": "2035413632994193408",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061268117830164720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yumesame10086 🩵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2061268117830164720",
+        "created_at": "2026-06-01T02:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061269709593395332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2035413632994193408",
+              "start": 0,
+              "username": "Yumesame10086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061269709593395332",
+        "in_reply_to_user_id": "2035413632994193408",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061268117830164720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumesame10086 🩵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035413632994193408",
+        "conversation_id": "2061268117830164720",
+        "created_at": "2026-06-01T02:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061268117830164720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit/st…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/amber_digit/status/2061262246852878683",
+              "start": 37,
+              "url": "https://t.co/ocBuuyhxyb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061268117830164720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061262246852878683",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "们水母就是这样的，来个dom直接抓走反铐蒙上眼堵上嘴扔后备厢就舒服了🥴🥴 https://t.co/ocBuuyhxyb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "☕️https://t.co/ifiQvlUJED\n❤️@noaayoyaoaya ⚜️@irisdesombres \n✨@amber_digit 🏳️‍⚧️@amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "amber_digit"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 25,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 2,
+                "url": "https://t.co/ifiQvlUJED"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5468,
+          "following_count": 947,
+          "like_count": 4215,
+          "listed_count": 10,
+          "media_count": 113,
+          "tweet_count": 1977
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-21T17:50:22.000Z",
+        "description": "「此水几时休，此恨何时已」\n\n  💕齿轮   宠物 @Mave_503    bdsm   switch  \n\n     和我讨厌的人互动过多会被mute😇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "Mave_503"
+              }
+            ]
+          }
+        },
+        "id": "2035413632994193408",
+        "name": "Koeno",
+        "pinned_tweet_id": "2049596929122939358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035414187921534977/WJ8XnsOJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 70,
+          "like_count": 606,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 430
+        },
+        "username": "Yumesame10086",
+        "verified": false
+      }
+    ]
+  }
+}

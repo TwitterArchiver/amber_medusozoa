@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2080801154435326152",
+    "created_at": "2026-07-26T04:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T05:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081241291585720544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1910008101371273225",
+          "start": 0,
+          "username": "paopao152025"
+        },
+        {
+          "end": 27,
+          "id": "2041159531657416704",
+          "start": 14,
+          "username": "amber_digit2"
+        },
+        {
+          "end": 40,
+          "id": "2040565175514779648",
+          "start": 28,
+          "username": "amber_digit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081241291585720544",
+    "in_reply_to_user_id": "1910008101371273225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081241209566351813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paopao152025 @amber_digit2 @amber_digit 别提了😭"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [amber_digit].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "amber_digit",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "amber_digit"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2080801154435326152",
+        "created_at": "2026-07-26T04:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081241291585720544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1910008101371273225",
+              "start": 0,
+              "username": "paopao152025"
+            },
+            {
+              "end": 27,
+              "id": "2041159531657416704",
+              "start": 14,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 40,
+              "id": "2040565175514779648",
+              "start": 28,
+              "username": "amber_digit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081241291585720544",
+        "in_reply_to_user_id": "1910008101371273225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081241209566351813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paopao152025 @amber_digit2 @amber_digit 别提了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910008101371273225",
+        "conversation_id": "2080801154435326152",
+        "created_at": "2026-07-26T04:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081241209566351813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 30,
+              "id": "2041159531657416704",
+              "start": 17,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 43,
+              "id": "2040565175514779648",
+              "start": 31,
+              "username": "amber_digit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081241209566351813",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080801154435326152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa @amber_digit2 @amber_digit 最后一个号咋又被封了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2080801154435326152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080483846097629184/ano5UN60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6977,
+          "following_count": 1184,
+          "like_count": 7174,
+          "listed_count": 10,
+          "media_count": 358,
+          "tweet_count": 4078
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-09T16:33:28.000Z",
+        "description": "我说的都是胡话瞎发的很多都是上句不接下句纯自己唠叨自言自语不要和我计较我是神经病🙏只是喜欢碎碎念分享生活碎片 不要无缘无故攻击我 我很脆弱😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%A1%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B3%A1%E6%B3%A133527",
+                "start": 0,
+                "url": "https://t.co/J2oUGc5Ac0"
+              }
+            ]
+          }
+        },
+        "id": "1910008101371273225",
+        "location": "闭关修仙中 淡推",
+        "name": "泡泡",
+        "pinned_tweet_id": "2076278190130217409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025885586859667456/5jfteWE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6769,
+          "following_count": 219,
+          "like_count": 10478,
+          "listed_count": 5,
+          "media_count": 82,
+          "tweet_count": 838
+        },
+        "url": "https://t.co/J2oUGc5Ac0",
+        "username": "paopao152025",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "#药娘 / phd @wgsi / 中文, en, fr / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 10,
+                "username": "wgsi"
+              },
+              {
+                "end": 52,
+                "start": 36,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3521,
+          "following_count": 584,
+          "like_count": 1624,
+          "listed_count": 3,
+          "media_count": 120,
+          "tweet_count": 1516
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2037410841356599306",
+    "created_at": "2026-03-27T06:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T07:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037410841356599306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1302303814679232512",
+          "start": 3,
+          "username": "left_plain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037410841356599306",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037391394021818406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @left_plain: we need a Lu Xun for the twenty-first century. merciless abolition of tradition and folklore. the village is evil, the fami…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2037410841356599306",
+        "created_at": "2026-03-27T06:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037410841356599306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1302303814679232512",
+              "start": 3,
+              "username": "left_plain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037410841356599306",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037391394021818406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @left_plain: we need a Lu Xun for the twenty-first century. merciless abolition of tradition and folklore. the village is evil, the fami…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1302303814679232512",
+        "conversation_id": "2037391394021818406",
+        "created_at": "2026-03-27T04:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T05:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037391394021818406"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037391394021818406",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 2284,
+          "like_count": 114,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "we need a Lu Xun for the twenty-first century. merciless abolition of tradition and folklore. the village is evil, the family is evil, the language is evil, they want to kill and eat you"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 364,
+          "like_count": 482,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 349
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-05T17:53:26.000Z",
+        "description": "Third World Fourier, Culture Worker, Scribe to the Asiatic Bolshevik Horde. PhD student interested in Marx, Mongols, Maoists, Manchuria, manga. 翻天覆地，唯铁与血",
+        "id": "1302303814679232512",
+        "name": "leftpain",
+        "pinned_tweet_id": "1315490137330114560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1322064233543147520/fqe2sv31_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8471,
+          "following_count": 1043,
+          "like_count": 114265,
+          "listed_count": 19,
+          "media_count": 87,
+          "tweet_count": 6920
+        },
+        "username": "left_plain",
+        "verified": false
+      }
+    ]
+  }
+}

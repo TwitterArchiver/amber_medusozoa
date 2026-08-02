@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050703334533672961",
+        "3_2050703334546247680"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2050703337859727364",
+    "created_at": "2026-05-02T22:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T23:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050703337859727364"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pU0c54VAPZ",
+          "end": 37,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2050703337859727364/photo/1",
+          "media_key": "3_2050703334533672961",
+          "start": 14,
+          "url": "https://t.co/pU0c54VAPZ"
+        },
+        {
+          "display_url": "pic.x.com/pU0c54VAPZ",
+          "end": 37,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2050703337859727364/photo/1",
+          "media_key": "3_2050703334546247680",
+          "start": 14,
+          "url": "https://t.co/pU0c54VAPZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050703337859727364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "胸前挂着这个在外面走了一天 https://t.co/pU0c54VAPZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2050703337859727364].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2050703337859727364",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2050703337859727364"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050703334533672961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHWP0VKWsAEcbYs.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050703334546247680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHWP0VNWkAAoWHE.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🇨🇦 #多伦多 #药娘 #TS #伪娘 \n💬 ¥150/240 ($30/50)\n🔞 nsfw only",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 3,
+                "tag": "多伦多"
+              },
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "药娘"
+              },
+              {
+                "end": 15,
+                "start": 12,
+                "tag": "TS"
+              },
+              {
+                "end": 19,
+                "start": 16,
+                "tag": "伪娘"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "/",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049527897036328960/hshFuKwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3293,
+          "following_count": 804,
+          "like_count": 3302,
+          "listed_count": 5,
+          "media_count": 21,
+          "tweet_count": 1316
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

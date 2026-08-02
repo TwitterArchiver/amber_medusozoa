@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2075666991352856961",
+    "created_at": "2026-07-10T19:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T20:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075666991352856961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1595655567623831552",
+          "start": 3,
+          "username": "aaaamingming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075666991352856961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075581920633913564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aaaamingming: 还有一点东西挺想和易性症小孩说也算是说给自己的，无论是两性畸形或者易性症，都会经历非常多坎坷，就像其他的盲人一样，人们会说可怜你，但是作为较弱势群体，不能沉溺于这份安慰，你的路是需要自己去铺，他人的加油声并不会帮你铺路，保持清醒才并活下去才是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2075666991352856961",
+        "created_at": "2026-07-10T19:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T20:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075666991352856961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1595655567623831552",
+              "start": 3,
+              "username": "aaaamingming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075666991352856961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075581920633913564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aaaamingming: 还有一点东西挺想和易性症小孩说也算是说给自己的，无论是两性畸形或者易性症，都会经历非常多坎坷，就像其他的盲人一样，人们会说可怜你，但是作为较弱势群体，不能沉溺于这份安慰，你的路是需要自己去铺，他人的加油声并不会帮你铺路，保持清醒才并活下去才是…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595655567623831552",
+        "conversation_id": "2075574155148472662",
+        "created_at": "2026-07-10T14:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075581920633913564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075581920633913564",
+        "in_reply_to_user_id": "1595655567623831552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 224,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075574155148472662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有一点东西挺想和易性症小孩说也算是说给自己的，无论是两性畸形或者易性症，都会经历非常多坎坷，就像其他的盲人一样，人们会说可怜你，但是作为较弱势群体，不能沉溺于这份安慰，你的路是需要自己去铺，他人的加油声并不会帮你铺路，保持清醒才并活下去才是人生最重要的事情。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya \n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059731443828310311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6472,
+          "following_count": 1058,
+          "like_count": 5951,
+          "listed_count": 10,
+          "media_count": 285,
+          "tweet_count": 3346
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-24T05:48:36.000Z",
+        "description": "intp 任务型理性（默认自己是顺女）不挂旗是我想专注自己 默默努力★ 我本是自由的风 永远在向前★明明会完成伟大的任务然后消失///逐渐rle ing 庆祝主播学会伪音/直接强制爱索要微信🚪99其他情况欢迎私信讨论/接瓦陪接瓦教学接伪音教学接嗓音训练接化妆接化妆教学接篮球陪打接篮球教学接初中高中数理化教学",
+        "id": "1595655567623831552",
+        "location": "武汉",
+        "name": "明明快要睡着了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960740118777749509/v1DRZq85_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5545,
+          "following_count": 224,
+          "like_count": 751,
+          "listed_count": 28,
+          "media_count": 128,
+          "tweet_count": 533
+        },
+        "url": "",
+        "username": "aaaamingming",
+        "verified": false
+      }
+    ]
+  }
+}

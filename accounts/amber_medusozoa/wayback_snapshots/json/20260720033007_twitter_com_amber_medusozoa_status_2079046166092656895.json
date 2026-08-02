@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2079005936367403315",
+    "created_at": "2026-07-20T03:30:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T04:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079046166092656895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1601549039287566336",
+          "start": 0,
+          "username": "mmmammm_a"
+        },
+        {
+          "end": 21,
+          "id": "1751171456741097472",
+          "start": 11,
+          "username": "haiyu3205"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079046166092656895",
+    "in_reply_to_user_id": "1601549039287566336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079010514907418829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmmammm_a @haiyu3205 如果没有直接过来质问你什么的就说明有概率成为家长不管党"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2079005936367403315",
+        "created_at": "2026-07-20T03:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079046166092656895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1601549039287566336",
+              "start": 0,
+              "username": "mmmammm_a"
+            },
+            {
+              "end": 21,
+              "id": "1751171456741097472",
+              "start": 11,
+              "username": "haiyu3205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079046166092656895",
+        "in_reply_to_user_id": "1601549039287566336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079010514907418829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmmammm_a @haiyu3205 如果没有直接过来质问你什么的就说明有概率成为家长不管党"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601549039287566336",
+        "conversation_id": "2079005936367403315",
+        "created_at": "2026-07-20T01:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T02:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079010514907418829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751171456741097472",
+              "start": 0,
+              "username": "haiyu3205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079010514907418829",
+        "in_reply_to_user_id": "1751171456741097472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079009109693841514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haiyu3205 希望不会有事吧……不知道她自己是不是也想装没看到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "前世 @amber_toffee\n🏳️‍⚧️☭ she/her #药娘\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 76,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 53,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6865,
+          "following_count": 1162,
+          "like_count": 6767,
+          "listed_count": 11,
+          "media_count": 337,
+          "tweet_count": 3858
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-10T12:07:11.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️She / They / Transfeminist",
+        "id": "1601549039287566336",
+        "name": "北雁沐风🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "2076655834193711354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072900186695987200/mkZMR6a3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 283,
+          "like_count": 14252,
+          "listed_count": 3,
+          "media_count": 228,
+          "tweet_count": 5353
+        },
+        "url": "",
+        "username": "mmmammm_a",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-27T09:13:16.000Z",
+        "description": "",
+        "id": "1751171456741097472",
+        "name": "竹林音韵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981326006532096000/K0yI_PAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 1241,
+          "like_count": 2309,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 309
+        },
+        "url": "",
+        "username": "haiyu3205",
+        "verified": false
+      }
+    ]
+  }
+}

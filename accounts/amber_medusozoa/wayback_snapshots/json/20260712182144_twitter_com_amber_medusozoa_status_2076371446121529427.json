@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2076356062475681850",
+    "created_at": "2026-07-12T18:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T19:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076371446121529427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "704584768457822208",
+          "start": 0,
+          "username": "cz07752269"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076371446121529427",
+    "in_reply_to_user_id": "704584768457822208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "拉康有一句古话叫做「即便一位丈夫有确凿的证据证明他妻子出轨，他的嫉妒仍然是病理性的。」所有人都知道我这里的「中产生活」只是语言效果而不是真正的经济处境，因为我如果真的不缺钱那我没有任何卖惨的必要性，但所有人又要故意装傻假装不知道这点：这里的装傻就是恶意的位置。我的罪恶在于没有正确的扮演好穷人或中产的位置，而对于这种表演的道德要求，正是一种资产阶级的剥夺式审判才得以允许的。这就是新自由主义对于可弃置性的道德正当化方式：穷人和婚驴永远都是因为自己的不努力和错误选择而咎由自取的（吸毒、懒惰、投资失败、消费过度等等），只有「纯洁」的穷人可以获得道德资本交换式的同情。你看到的这种遮掩就是暴力发生的地方，而所有人都对这一进程一清二楚，只是因为这种暴力的对象是我所以大家可以假装对此视而不见。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076365484279402603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cz07752269 拉康有一句古话叫做「即便一位丈夫有确凿的证据证明他妻子出轨，他的嫉妒仍然是病理性的。」所有人都知道我这里的「中产生活」只是语言效果而不是真正的经济处境，因为我如果真的不缺钱那我没有任何卖惨的必要性，但所有人又要故意装傻假装不知道这点：这里的装傻就是恶意的位置。我的罪恶在于没有正确"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2076365484279402603].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2076365484279402603",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2076365484279402603"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2076356062475681850",
+        "created_at": "2026-07-12T18:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T19:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076371446121529427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "704584768457822208",
+              "start": 0,
+              "username": "cz07752269"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076371446121529427",
+        "in_reply_to_user_id": "704584768457822208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "拉康有一句古话叫做「即便一位丈夫有确凿的证据证明他妻子出轨，他的嫉妒仍然是病理性的。」所有人都知道我这里的「中产生活」只是语言效果而不是真正的经济处境，因为我如果真的不缺钱那我没有任何卖惨的必要性，但所有人又要故意装傻假装不知道这点：这里的装傻就是恶意的位置。我的罪恶在于没有正确的扮演好穷人或中产的位置，而对于这种表演的道德要求，正是一种资产阶级的剥夺式审判才得以允许的。这就是新自由主义对于可弃置性的道德正当化方式：穷人和婚驴永远都是因为自己的不努力和错误选择而咎由自取的（吸毒、懒惰、投资失败、消费过度等等），只有「纯洁」的穷人可以获得道德资本交换式的同情。你看到的这种遮掩就是暴力发生的地方，而所有人都对这一进程一清二楚，只是因为这种暴力的对象是我所以大家可以假装对此视而不见。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076365484279402603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cz07752269 拉康有一句古话叫做「即便一位丈夫有确凿的证据证明他妻子出轨，他的嫉妒仍然是病理性的。」所有人都知道我这里的「中产生活」只是语言效果而不是真正的经济处境，因为我如果真的不缺钱那我没有任何卖惨的必要性，但所有人又要故意装傻假装不知道这点：这里的装傻就是恶意的位置。我的罪恶在于没有正确"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n💖@amber_digit\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "amber_digit"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 70,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 47,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6481,
+          "following_count": 1063,
+          "like_count": 6035,
+          "listed_count": 11,
+          "media_count": 291,
+          "tweet_count": 3423
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-01T08:31:14.000Z",
+        "description": "Marxist-Leninist-Maoist\n\n#FreePalestine🇵🇸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 25,
+                "tag": "FreePalestine"
+              }
+            ]
+          }
+        },
+        "id": "704584768457822208",
+        "name": "akxkkwkxl",
+        "pinned_tweet_id": "1843706143711080834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1135936327327764481/9fsC6-UH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 212,
+          "like_count": 125478,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 8159
+        },
+        "url": "",
+        "username": "cz07752269",
+        "verified": false
+      }
+    ]
+  }
+}
