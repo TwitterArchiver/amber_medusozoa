@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2084854476968460345",
+    "created_at": "2026-08-06T18:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T19:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085427839797502418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "822715997081583618",
+          "start": 0,
+          "username": "yinchao_qaq"
+        },
+        {
+          "end": 25,
+          "id": "1455723910574575622",
+          "start": 13,
+          "username": "xerecralina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085427839797502418",
+    "in_reply_to_user_id": "822715997081583618",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085427752602321387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yinchao_qaq @xerecralina 🪼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2084854476968460345",
+        "created_at": "2026-08-06T18:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085427839797502418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "822715997081583618",
+              "start": 0,
+              "username": "yinchao_qaq"
+            },
+            {
+              "end": 25,
+              "id": "1455723910574575622",
+              "start": 13,
+              "username": "xerecralina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085427839797502418",
+        "in_reply_to_user_id": "822715997081583618",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085427752602321387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinchao_qaq @xerecralina 🪼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "822715997081583618",
+        "conversation_id": "2084854476968460345",
+        "created_at": "2026-08-06T18:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085427752602321387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1455723910574575622",
+              "start": 0,
+              "username": "xerecralina"
+            },
+            {
+              "end": 29,
+              "id": "2035882965671215104",
+              "start": 13,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085427752602321387",
+        "in_reply_to_user_id": "1455723910574575622",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084854476968460345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xerecralina @amber_medusozoa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "❤️@noaayoyaoaya\n🚪¥150/240",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2080801154435326152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080483846097629184/ano5UN60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7559,
+          "following_count": 1201,
+          "like_count": 7374,
+          "listed_count": 12,
+          "media_count": 351,
+          "tweet_count": 4167
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-21T08:02:33.000Z",
+        "description": "杭州/不要键政/she/her/残忍变性女巫｜⚠️不是男娘伪娘CD⚠️讨厌露阴癖⚠️谁跟你是同好了？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ychqaq",
+                "end": 23,
+                "expanded_url": "https://t.me/ychqaq",
+                "start": 0,
+                "url": "https://t.co/PJk4FY9AJx"
+              }
+            ]
+          }
+        },
+        "id": "822715997081583618",
+        "name": "隐潮🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000589626520768512/XofHS_Xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4860,
+          "following_count": 1209,
+          "like_count": 10748,
+          "listed_count": 9,
+          "media_count": 1100,
+          "tweet_count": 7988
+        },
+        "url": "https://t.co/PJk4FY9AJx",
+        "username": "yinchao_qaq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T02:30:13.000Z",
+        "description": "she/her |  nerd only into music because academically dumber than a door|",
+        "id": "1455723910574575622",
+        "location": "itapesiririca da serra,brasil",
+        "name": "nini 🐍",
+        "pinned_tweet_id": "2022340444450173153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079706896466935808/SbzekqVN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 849,
+          "like_count": 36170,
+          "listed_count": 1,
+          "media_count": 1327,
+          "tweet_count": 17043
+        },
+        "url": "",
+        "username": "xerecralina",
+        "verified": false
+      }
+    ]
+  }
+}

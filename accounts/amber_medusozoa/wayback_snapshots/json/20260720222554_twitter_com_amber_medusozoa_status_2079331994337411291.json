@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2079287214694113572",
+    "created_at": "2026-07-20T22:25:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T23:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079331994337411291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1572428489290305536",
+          "start": 0,
+          "username": "mikufam_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079331994337411291",
+    "in_reply_to_user_id": "1572428489290305536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079287214694113572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikufam_ 我脑子太笨了学不会理工科"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2079287214694113572",
+        "created_at": "2026-07-20T22:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T23:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079331994337411291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1572428489290305536",
+              "start": 0,
+              "username": "mikufam_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079331994337411291",
+        "in_reply_to_user_id": "1572428489290305536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079287214694113572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikufam_ 我脑子太笨了学不会理工科"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572428489290305536",
+        "conversation_id": "2079287214694113572",
+        "created_at": "2026-07-20T19:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T20:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079287214694113572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2079275481648525574",
+              "start": 12,
+              "url": "https://t.co/5O2ze7IdZI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079287214694113572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079275481648525574",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后悔了，早知道工科到底 https://t.co/5O2ze7IdZI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "前世 @amber_toffee\n🏳️‍⚧️☭ she/her #药娘\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 76,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 53,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6877,
+          "following_count": 1164,
+          "like_count": 6812,
+          "listed_count": 11,
+          "media_count": 341,
+          "tweet_count": 3897
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-21T03:32:31.000Z",
+        "description": "遵从自己内心的活下去\n虽然很明显，但，以防万一  MTFです",
+        "id": "1572428489290305536",
+        "location": "TOKYO",
+        "name": "mikufam 氢元素魔法使（临界聚变版）",
+        "pinned_tweet_id": "2077459272116654461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028033505960341504/PfVgE-XW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 1146,
+          "like_count": 5739,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 486
+        },
+        "url": "",
+        "username": "mikufam_",
+        "verified": true
+      }
+    ]
+  }
+}

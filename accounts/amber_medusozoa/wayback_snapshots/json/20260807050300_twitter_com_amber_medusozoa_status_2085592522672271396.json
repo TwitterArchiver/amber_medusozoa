@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2085591593705181375",
+    "created_at": "2026-08-07T05:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T06:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085592522672271396"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085592522672271396",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085591593705181375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "比较好看所以发这边存一下档 也顺便测试shadowban有没有解除"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085591590827921408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGCgH3XEAAUIVS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085591590882430976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGCgIEW0AA8XCa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2085591593705181375",
+        "created_at": "2026-08-07T05:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T06:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085592522672271396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085592522672271396",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085591593705181375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "比较好看所以发这边存一下档 也顺便测试shadowban有没有解除"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085591590827921408",
+            "3_2085591590882430976"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2085591593705181375",
+        "created_at": "2026-08-07T04:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085591593705181375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1362497240682483716",
+              "start": 10,
+              "username": "ZhaoXi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6wsR2KejJJ",
+              "end": 42,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2085591593705181375/photo/1",
+              "media_key": "3_2085591590827921408",
+              "start": 19,
+              "url": "https://t.co/6wsR2KejJJ"
+            },
+            {
+              "display_url": "pic.x.com/6wsR2KejJJ",
+              "end": 42,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2085591593705181375/photo/1",
+              "media_key": "3_2085591590882430976",
+              "start": 19,
+              "url": "https://t.co/6wsR2KejJJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085591593705181375",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "空中芭蕾\n\n🏠📷🪢 @ZhaoXi_ https://t.co/6wsR2KejJJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "❤️@noaayoyaoaya\n🚪¥150/240",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2080801154435326152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080483846097629184/ano5UN60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7559,
+          "following_count": 1201,
+          "like_count": 7373,
+          "listed_count": 12,
+          "media_count": 352,
+          "tweet_count": 4169
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}
