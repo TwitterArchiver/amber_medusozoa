@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096385725273165824",
+        "3_2096385725226958848"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1807920199409991680",
+          "name": "Aritzia"
+        }
+      }
+    ],
+    "conversation_id": "2096385731010654387",
+    "created_at": "2026-09-05T23:51:21.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T00:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096385731010654387"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z0ST0q9deR",
+          "end": 54,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2096385731010654387/photo/1",
+          "media_key": "3_2096385725273165824",
+          "start": 31,
+          "url": "https://t.co/z0ST0q9deR"
+        },
+        {
+          "display_url": "pic.x.com/z0ST0q9deR",
+          "end": 54,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2096385731010654387/photo/1",
+          "media_key": "3_2096385725226958848",
+          "start": 31,
+          "url": "https://t.co/z0ST0q9deR"
+        },
+        {
+          "display_url": "x.com/killthebadbloo…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/killthebadblood/status/2096372259107610989",
+          "start": 55,
+          "url": "https://t.co/ezlvB9xGxZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096385731010654387",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096385725273165824"
+      },
+      {
+        "media_key": "3_2096385725226958848"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096372259107610989",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之前穿过同款的红色版本，感想是这种东西还是得有曲线穿着才好看 https://t.co/z0ST0q9deR https://t.co/ezlvB9xGxZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096385725273165824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRfbtcMbUAABeFK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096385725226958848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRfbtcBaQAAwNB-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096372253713666054",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRfPdSuWkAYqFVy.jpg",
+        "width": 1546
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096385725273165824",
+            "3_2096385725226958848"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1807920199409991680",
+              "name": "Aritzia"
+            }
+          }
+        ],
+        "conversation_id": "2096385731010654387",
+        "created_at": "2026-09-05T23:51:21.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T00:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096385731010654387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z0ST0q9deR",
+              "end": 54,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2096385731010654387/photo/1",
+              "media_key": "3_2096385725273165824",
+              "start": 31,
+              "url": "https://t.co/z0ST0q9deR"
+            },
+            {
+              "display_url": "pic.x.com/z0ST0q9deR",
+              "end": 54,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2096385731010654387/photo/1",
+              "media_key": "3_2096385725226958848",
+              "start": 31,
+              "url": "https://t.co/z0ST0q9deR"
+            },
+            {
+              "display_url": "x.com/killthebadbloo…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/killthebadblood/status/2096372259107610989",
+              "start": 55,
+              "url": "https://t.co/ezlvB9xGxZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096385731010654387",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096385725273165824"
+          },
+          {
+            "media_key": "3_2096385725226958848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096372259107610989",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前穿过同款的红色版本，感想是这种东西还是得有曲线穿着才好看 https://t.co/z0ST0q9deR https://t.co/ezlvB9xGxZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096372253713666054"
+          ]
+        },
+        "author_id": "1448103761407217669",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1807920199409991680",
+              "name": "Aritzia"
+            }
+          }
+        ],
+        "conversation_id": "2096372259107610989",
+        "created_at": "2026-09-05T22:57:49.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T23:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096372259107610989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bK6NluEHsJ",
+              "end": 121,
+              "expanded_url": "https://x.com/killthebadblood/status/2096372259107610989/photo/1",
+              "media_key": "3_2096372253713666054",
+              "start": 98,
+              "url": "https://t.co/bK6NluEHsJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096372259107610989",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096372253713666054"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 120,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Aritzia 这条小高领挂脖裙真挺好看的\n打破了我对该品牌社畜通勤服的刻板印象\n颜色也很微妙，在棕色和黑色之间的一个冷灰棕\n就是上肢体脂高穿挂脖还是太虐了\n手臂和副乳都是要P图才敢发出来的程度 https://t.co/bK6NluEHsJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya / ✦ @amber_toffee\n❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 33,
+                "start": 20,
+                "username": "amber_toffee"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 59,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 36,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2096385731010654387",
+        "name": "amber 水母",
+        "pinned_tweet_id": "2087096982267432968",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8304,
+          "following_count": 1168,
+          "like_count": 8477,
+          "listed_count": 12,
+          "media_count": 417,
+          "tweet_count": 4928
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-13T01:50:33.000Z",
+        "description": "Iris ｜ Open relationship💞/left-lib/粉红和约炮请退散，此账号没有你们感兴趣的内容",
+        "id": "1448103761407217669",
+        "is_identity_verified": false,
+        "location": "Toronto, Ontario",
+        "most_recent_tweet_id": "2096375112651964832",
+        "name": "槍 擊 落 日",
+        "pinned_tweet_id": "2081801905513398766",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1448103761407217669/1641898695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584856223337263104/Dhk4r7cO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1633,
+          "following_count": 763,
+          "like_count": 39902,
+          "listed_count": 4,
+          "media_count": 1858,
+          "tweet_count": 6166
+        },
+        "url": "",
+        "username": "killthebadblood",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

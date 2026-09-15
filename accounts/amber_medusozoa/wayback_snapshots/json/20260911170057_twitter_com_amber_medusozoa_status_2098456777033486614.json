@@ -1,0 +1,487 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098295208786202624",
+        "3_2098295208794628096",
+        "3_2098295208790372352"
+      ],
+      "media_source_tweet_id": [
+        "2098295214247170391",
+        "2098295214247170391",
+        "2098295214247170391"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098456777033486614",
+    "created_at": "2026-09-11T17:00:57.000Z",
+    "display_text_range": [
+      0,
+      113
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T18:00:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098456777033486614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2230701480",
+          "start": 3,
+          "username": "amiedeluciole"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XEo2E3LXX9",
+          "end": 113,
+          "expanded_url": "https://x.com/amiedeluciole/status/2098295214247170391/photo/1",
+          "media_key": "3_2098295208786202624",
+          "start": 90,
+          "url": "https://t.co/XEo2E3LXX9"
+        },
+        {
+          "display_url": "pic.x.com/XEo2E3LXX9",
+          "end": 113,
+          "expanded_url": "https://x.com/amiedeluciole/status/2098295214247170391/photo/1",
+          "media_key": "3_2098295208794628096",
+          "start": 90,
+          "url": "https://t.co/XEo2E3LXX9"
+        },
+        {
+          "display_url": "pic.x.com/XEo2E3LXX9",
+          "end": 113,
+          "expanded_url": "https://x.com/amiedeluciole/status/2098295214247170391/photo/1",
+          "media_key": "3_2098295208790372352",
+          "start": 90,
+          "url": "https://t.co/XEo2E3LXX9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098456777033486614",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "3_2098295208786202624"
+      },
+      {
+        "media_key": "3_2098295208794628096"
+      },
+      {
+        "media_key": "3_2098295208790372352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098295214247170391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amiedeluciole: 인용은 «끔찍한 우리»의 원서 표지예요. 최근에 한국어판이 출간됐고(호영 옮김) 형광펜 부분은 한국어판으로 18~19쪽입니다! https://t.co/XEo2E3LXX9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098295208786202624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR6kYAmbEAA4CZ-.jpg",
+        "width": 1346
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098295208794628096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR6kYAoboAAZgay.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098295208790372352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR6kYAnasAAe0tI.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098295208786202624",
+            "3_2098295208794628096",
+            "3_2098295208790372352"
+          ],
+          "media_source_tweet_id": [
+            "2098295214247170391",
+            "2098295214247170391",
+            "2098295214247170391"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098456777033486614",
+        "created_at": "2026-09-11T17:00:57.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T18:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098456777033486614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2230701480",
+              "start": 3,
+              "username": "amiedeluciole"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XEo2E3LXX9",
+              "end": 113,
+              "expanded_url": "https://x.com/amiedeluciole/status/2098295214247170391/photo/1",
+              "media_key": "3_2098295208786202624",
+              "start": 90,
+              "url": "https://t.co/XEo2E3LXX9"
+            },
+            {
+              "display_url": "pic.x.com/XEo2E3LXX9",
+              "end": 113,
+              "expanded_url": "https://x.com/amiedeluciole/status/2098295214247170391/photo/1",
+              "media_key": "3_2098295208794628096",
+              "start": 90,
+              "url": "https://t.co/XEo2E3LXX9"
+            },
+            {
+              "display_url": "pic.x.com/XEo2E3LXX9",
+              "end": 113,
+              "expanded_url": "https://x.com/amiedeluciole/status/2098295214247170391/photo/1",
+              "media_key": "3_2098295208790372352",
+              "start": 90,
+              "url": "https://t.co/XEo2E3LXX9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098456777033486614",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2098295208786202624"
+          },
+          {
+            "media_key": "3_2098295208794628096"
+          },
+          {
+            "media_key": "3_2098295208790372352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098295214247170391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amiedeluciole: 인용은 «끔찍한 우리»의 원서 표지예요. 최근에 한국어판이 출간됐고(호영 옮김) 형광펜 부분은 한국어판으로 18~19쪽입니다! https://t.co/XEo2E3LXX9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098295208786202624",
+            "3_2098295208794628096",
+            "3_2098295208790372352"
+          ]
+        },
+        "author_id": "2230701480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098295214247170391",
+        "created_at": "2026-09-11T06:18:58.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T07:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098295214247170391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XEo2E3LXX9",
+              "end": 94,
+              "expanded_url": "https://x.com/amiedeluciole/status/2098295214247170391/photo/1",
+              "media_key": "3_2098295208786202624",
+              "start": 71,
+              "url": "https://t.co/XEo2E3LXX9"
+            },
+            {
+              "display_url": "pic.x.com/XEo2E3LXX9",
+              "end": 94,
+              "expanded_url": "https://x.com/amiedeluciole/status/2098295214247170391/photo/1",
+              "media_key": "3_2098295208794628096",
+              "start": 71,
+              "url": "https://t.co/XEo2E3LXX9"
+            },
+            {
+              "display_url": "pic.x.com/XEo2E3LXX9",
+              "end": 94,
+              "expanded_url": "https://x.com/amiedeluciole/status/2098295214247170391/photo/1",
+              "media_key": "3_2098295208790372352",
+              "start": 71,
+              "url": "https://t.co/XEo2E3LXX9"
+            },
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2098285977139581244",
+              "start": 95,
+              "url": "https://t.co/6NaSrLaebT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098295214247170391",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2098295208786202624"
+          },
+          {
+            "media_key": "3_2098295208794628096"
+          },
+          {
+            "media_key": "3_2098295208790372352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1532,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098285977139581244",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "인용은 «끔찍한 우리»의 원서 표지예요. 최근에 한국어판이 출간됐고(호영 옮김) 형광펜 부분은 한국어판으로 18~19쪽입니다! https://t.co/XEo2E3LXX9 https://t.co/6NaSrLaebT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2098456777033486614",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10716,
+          "following_count": 1278,
+          "like_count": 9522,
+          "listed_count": 14,
+          "media_count": 453,
+          "tweet_count": 5619
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-12-05T01:04:47.000Z",
+        "description": "출판사 리시올/플레이타임@luciolesptime 의 디자이너. 쓸데없는 얘기만 합니다..^_^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "luciolesptime"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/amiedeluciole/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/amiedeluciole/",
+                "start": 0,
+                "url": "https://t.co/Se5X5k6ELv"
+              }
+            ]
+          }
+        },
+        "id": "2230701480",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098417852076392784",
+        "name": "타르",
+        "pinned_tweet_id": "1949724108574605483",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2230701480/1704729207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096129708354326528/tZgGhxn0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2170,
+          "following_count": 578,
+          "like_count": 47780,
+          "listed_count": 10,
+          "media_count": 3813,
+          "tweet_count": 23456
+        },
+        "url": "https://t.co/Se5X5k6ELv",
+        "username": "amiedeluciole",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

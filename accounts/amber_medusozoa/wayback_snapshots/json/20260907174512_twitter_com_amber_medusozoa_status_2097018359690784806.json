@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2096995482492932582",
+    "created_at": "2026-09-07T17:45:12.000Z",
+    "display_text_range": [
+      8,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T18:45:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097018359690784806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1557801202280042498",
+          "start": 0,
+          "username": "wguyn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097018359690784806",
+    "in_reply_to_user_id": "1557801202280042498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097002709899686165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wguyn1 我知道 所以也只是针对少部分人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2096995482492932582",
+        "created_at": "2026-09-07T17:45:12.000Z",
+        "display_text_range": [
+          8,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T18:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097018359690784806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1557801202280042498",
+              "start": 0,
+              "username": "wguyn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097018359690784806",
+        "in_reply_to_user_id": "1557801202280042498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097002709899686165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wguyn1 我知道 所以也只是针对少部分人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557801202280042498",
+        "conversation_id": "2096995482492932582",
+        "created_at": "2026-09-07T16:43:01.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T17:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097002709899686165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097002709899686165",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096995482492932582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 其实没有这么差劲的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya / ✦ @amber_toffee / ✒︎ @wgsi\n✮ @transinacademia / ❀ https://t.co/2xzS4y8edG\n❖ https://t.co/oAFbVJY3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 33,
+                "start": 20,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 44,
+                "start": 39,
+                "username": "wgsi"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 91,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 68,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "github.com/amber-jellyfish",
+                "end": 117,
+                "expanded_url": "http://github.com/amber-jellyfish",
+                "start": 94,
+                "url": "https://t.co/oAFbVJY3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2097018359690784806",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2096766200336322974",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9380,
+          "following_count": 1204,
+          "like_count": 8874,
+          "listed_count": 11,
+          "media_count": 431,
+          "tweet_count": 5171
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T18:48:57.000Z",
+        "description": "大号：@GiYn18（1w+粉，暂被冻结，从今天开始每天申诉求解封）\n常驻：广东广西0755、077",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "GiYn18"
+              }
+            ]
+          }
+        },
+        "id": "1557801202280042498",
+        "is_identity_verified": false,
+        "location": "🚪188",
+        "most_recent_tweet_id": "2097018243747836387",
+        "name": "Yan",
+        "pinned_tweet_id": "2093261222162706595",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557801202280042498/1660244661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093730609386672128/ucpPF47R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1651,
+          "following_count": 0,
+          "like_count": 811,
+          "listed_count": 4,
+          "media_count": 93,
+          "tweet_count": 647
+        },
+        "url": "",
+        "username": "wguyn1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

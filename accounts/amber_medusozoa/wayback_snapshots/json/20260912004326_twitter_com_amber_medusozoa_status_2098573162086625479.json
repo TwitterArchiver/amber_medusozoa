@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098573162086625479",
+    "created_at": "2026-09-12T00:43:26.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T01:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098573162086625479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "9449612",
+          "start": 3,
+          "username": "hazuma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098573162086625479",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 970
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069275164978933986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hazuma: なんとCLANNADの研究書がフランスで出版されたらしい！\nタイトルは「鍵盤と涙」\n著者の一人のジュリアン・ブヴァールさんから連絡をいただきました。フランスの学術書のなかに美少女ゲームの画面引用があるのはちょっと感動。最初の図は風子でした。そうか、きみた…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098573162086625479",
+        "created_at": "2026-09-12T00:43:26.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T01:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098573162086625479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "9449612",
+              "start": 3,
+              "username": "hazuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098573162086625479",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 970
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069275164978933986",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hazuma: なんとCLANNADの研究書がフランスで出版されたらしい！\nタイトルは「鍵盤と涙」\n著者の一人のジュリアン・ブヴァールさんから連絡をいただきました。フランスの学術書のなかに美少女ゲームの画面引用があるのはちょっと感動。最初の図は風子でした。そうか、きみた…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "9449612",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069275164978933986",
+        "created_at": "2026-06-23T04:23:39.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:15:59.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069273235427090577",
+          "2069273312967221751",
+          "2069275164978933986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069275164978933986",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "presses.uliege.be/produit/le-cla…",
+                "end": 166,
+                "expanded_url": "https://presses.uliege.be/produit/le-clavier-et-les-larmes/",
+                "start": 143,
+                "url": "https://t.co/wJhXWMo1US"
+              }
+            ]
+          },
+          "text": "なんとCLANNADの研究書がフランスで出版されたらしい！\nタイトルは「鍵盤と涙」\n著者の一人のジュリアン・ブヴァールさんから連絡をいただきました。フランスの学術書のなかに美少女ゲームの画面引用があるのはちょっと感動。最初の図は風子でした。そうか、きみたちもひとでが好きだったか・・・\nhttps://t.co/wJhXWMo1US"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 754,
+          "impression_count": 377401,
+          "like_count": 2548,
+          "quote_count": 36,
+          "reply_count": 10,
+          "retweet_count": 970
+        },
+        "reply_settings": "everyone",
+        "text": "なんとCLANNADの研究書がフランスで出版されたらしい！\nタイトルは「鍵盤と涙」\n著者の一人のジュリアン・ブヴァールさんから連絡をいただきました。フランスの学術書のなかに美少女ゲームの画面引用があるのはちょっと感動。最初の図は風子でした。そうか、きみたちもひとでが好きだったか・・・"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2098573162086625479",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10740,
+          "following_count": 1279,
+          "like_count": 9582,
+          "listed_count": 14,
+          "media_count": 455,
+          "tweet_count": 5649
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2007-10-15T06:00:32.000Z",
+        "description": "哲学者。ゲンロン創業者。ZEN大学教授。読書記録、政治的な話題や炎上しそうなコメントはサブスクに書いています。\nゲンロンへの寄付も随時求めてます。https://t.co/npZNh33uRG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "genron.co.jp/#donations",
+                "end": 96,
+                "expanded_url": "https://genron.co.jp/#donations",
+                "start": 73,
+                "url": "https://t.co/npZNh33uRG"
+              }
+            ]
+          }
+        },
+        "id": "9449612",
+        "is_identity_verified": false,
+        "location": "東京、五反田",
+        "most_recent_tweet_id": "2098499270626402516",
+        "name": "東浩紀 Hiroki Azuma",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9449612/1769579848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831850656572821504/hKv-zVm0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250900,
+          "following_count": 29,
+          "like_count": 696,
+          "listed_count": 8885,
+          "media_count": 4054,
+          "tweet_count": 176357
+        },
+        "url": "",
+        "username": "hazuma",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

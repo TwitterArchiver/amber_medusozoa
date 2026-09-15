@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2097249588985897199",
+    "created_at": "2026-09-08T09:04:01.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T10:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097249588985897199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2093759887071391744",
+          "start": 3,
+          "username": "TiluTiluTilu49"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097249588985897199",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096549206072979839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TiluTiluTilu49: Hot take: cis women will never fully understand womanhood like trans women do and it’s not misogynistic to say that"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2097249588985897199",
+        "created_at": "2026-09-08T09:04:01.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T10:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097249588985897199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2093759887071391744",
+              "start": 3,
+              "username": "TiluTiluTilu49"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097249588985897199",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096549206072979839",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TiluTiluTilu49: Hot take: cis women will never fully understand womanhood like trans women do and it’s not misogynistic to say that"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093759887071391744",
+        "conversation_id": "2096549206072979839",
+        "created_at": "2026-09-06T10:40:57.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096549206072979839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096549206072979839",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 163,
+          "impression_count": 435629,
+          "like_count": 545,
+          "quote_count": 259,
+          "reply_count": 243,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "Hot take: cis women will never fully understand womanhood like trans women do and it’s not misogynistic to say that"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia @wgsi ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              },
+              {
+                "end": 56,
+                "start": 51,
+                "username": "wgsi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 82,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 59,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2097249588985897199",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2096766200336322974",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9820,
+          "following_count": 1223,
+          "like_count": 9076,
+          "listed_count": 12,
+          "media_count": 433,
+          "tweet_count": 5282
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-29T17:58:14.000Z",
+        "description": "priv: @Izzonii_is_on_E , Chinese trans woman from shanghai , not something you could kill, Marxism with bæddelist characteristics, God tier transsexual",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 6,
+                "username": "Izzonii_is_on_E"
+              }
+            ]
+          }
+        },
+        "id": "2093759887071391744",
+        "is_identity_verified": false,
+        "location": "Hrt /24/10/1 🇨🇳",
+        "most_recent_tweet_id": "2097249516575694930",
+        "name": "Reine, unlimited transfeminization",
+        "pinned_tweet_id": "2094131355210907933",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093759887071391744/1788291646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093760406351495168/z6BJjJM7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 238,
+          "like_count": 1324,
+          "listed_count": 3,
+          "media_count": 15,
+          "tweet_count": 275
+        },
+        "url": "",
+        "username": "TiluTiluTilu49",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

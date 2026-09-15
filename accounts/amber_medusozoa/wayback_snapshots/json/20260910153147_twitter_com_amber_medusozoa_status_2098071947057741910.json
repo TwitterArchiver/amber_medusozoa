@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097701799775838208",
+        "3_2097701808369967104"
+      ],
+      "media_source_tweet_id": [
+        "2097701815626133906",
+        "2097701815626133906"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2098071947057741910",
+    "created_at": "2026-09-10T15:31:47.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T16:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098071947057741910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1677732423667445760",
+          "start": 3,
+          "username": "wuerbangbang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZNX9TPlKHZ",
+          "end": 81,
+          "expanded_url": "https://x.com/wuerbangbang/status/2097701815626133906/photo/1",
+          "media_key": "3_2097701799775838208",
+          "start": 58,
+          "url": "https://t.co/ZNX9TPlKHZ"
+        },
+        {
+          "display_url": "pic.x.com/ZNX9TPlKHZ",
+          "end": 81,
+          "expanded_url": "https://x.com/wuerbangbang/status/2097701815626133906/photo/1",
+          "media_key": "3_2097701808369967104",
+          "start": 58,
+          "url": "https://t.co/ZNX9TPlKHZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098071947057741910",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097701799775838208"
+      },
+      {
+        "media_key": "3_2097701808369967104"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 234
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097701815626133906",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wuerbangbang: 新中国成立后的佤族砍头祭祀实录。我也不知道作者怎么把田野调查写得这么冷静的…… https://t.co/ZNX9TPlKHZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 546,
+        "media_key": "3_2097701799775838208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyIrDxWIAABXi9.jpg",
+        "width": 752
+      },
+      {
+        "height": 730,
+        "media_key": "3_2097701808369967104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyIrjyWIAAHim4.jpg",
+        "width": 752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097701799775838208",
+            "3_2097701808369967104"
+          ],
+          "media_source_tweet_id": [
+            "2097701815626133906",
+            "2097701815626133906"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2098071947057741910",
+        "created_at": "2026-09-10T15:31:47.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T16:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098071947057741910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1677732423667445760",
+              "start": 3,
+              "username": "wuerbangbang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZNX9TPlKHZ",
+              "end": 81,
+              "expanded_url": "https://x.com/wuerbangbang/status/2097701815626133906/photo/1",
+              "media_key": "3_2097701799775838208",
+              "start": 58,
+              "url": "https://t.co/ZNX9TPlKHZ"
+            },
+            {
+              "display_url": "pic.x.com/ZNX9TPlKHZ",
+              "end": 81,
+              "expanded_url": "https://x.com/wuerbangbang/status/2097701815626133906/photo/1",
+              "media_key": "3_2097701808369967104",
+              "start": 58,
+              "url": "https://t.co/ZNX9TPlKHZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098071947057741910",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097701799775838208"
+          },
+          {
+            "media_key": "3_2097701808369967104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 234
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097701815626133906",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wuerbangbang: 新中国成立后的佤族砍头祭祀实录。我也不知道作者怎么把田野调查写得这么冷静的…… https://t.co/ZNX9TPlKHZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097701799775838208",
+            "3_2097701808369967104"
+          ]
+        },
+        "author_id": "1677732423667445760",
+        "conversation_id": "2097701815626133906",
+        "created_at": "2026-09-09T15:01:00.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T16:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097701815626133906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZNX9TPlKHZ",
+              "end": 63,
+              "expanded_url": "https://x.com/wuerbangbang/status/2097701815626133906/photo/1",
+              "media_key": "3_2097701799775838208",
+              "start": 40,
+              "url": "https://t.co/ZNX9TPlKHZ"
+            },
+            {
+              "display_url": "pic.x.com/ZNX9TPlKHZ",
+              "end": 63,
+              "expanded_url": "https://x.com/wuerbangbang/status/2097701815626133906/photo/1",
+              "media_key": "3_2097701808369967104",
+              "start": 40,
+              "url": "https://t.co/ZNX9TPlKHZ"
+            },
+            {
+              "display_url": "x.com/JiGuang_Lab/st…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/JiGuang_Lab/status/2097516765299540284",
+              "start": 64,
+              "url": "https://t.co/aZ995GStqt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097701815626133906",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097701799775838208"
+          },
+          {
+            "media_key": "3_2097701808369967104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1047,
+          "impression_count": 361037,
+          "like_count": 1928,
+          "quote_count": 17,
+          "reply_count": 335,
+          "retweet_count": 234
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097516765299540284",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新中国成立后的佤族砍头祭祀实录。我也不知道作者怎么把田野调查写得这么冷静的…… https://t.co/ZNX9TPlKHZ https://t.co/aZ995GStqt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia @wgsi ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              },
+              {
+                "end": 56,
+                "start": 51,
+                "username": "wgsi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 82,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 59,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2098071947057741910",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10520,
+          "following_count": 1254,
+          "like_count": 9396,
+          "listed_count": 14,
+          "media_count": 450,
+          "tweet_count": 5513
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-08T17:32:43.000Z",
+        "description": "北大中文本硕，苗族，民俗学博士，国博前馆员。文史艺术、书画篆刻、三俗烂梗、旅游爱好者。对世界有旺盛的探索欲，想多认识有趣的人🤒PhDing of folklore, graduated from @PKU1898, Miao,  lover of history, heritage, art & tour🪭🐾🏺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 98,
+                "username": "PKU1898"
+              }
+            ]
+          }
+        },
+        "id": "1677732423667445760",
+        "is_identity_verified": false,
+        "location": "跳回三界内，待在五行中。",
+        "most_recent_tweet_id": "2097883661374718454",
+        "name": "吴二棒",
+        "pinned_tweet_id": "2081742878100140191",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1677732423667445760/1761447059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010919161988595713/rE9mkr0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12808,
+          "following_count": 982,
+          "like_count": 26853,
+          "listed_count": 63,
+          "media_count": 3534,
+          "tweet_count": 11779
+        },
+        "url": "",
+        "username": "wuerbangbang",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

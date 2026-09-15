@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2097984007430660194",
+    "created_at": "2026-09-10T18:08:31.000Z",
+    "display_text_range": [
+      29,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T19:08:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098111393287320017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1873256634002427904",
+          "start": 0,
+          "username": "BlueJam_8123"
+        },
+        {
+          "end": 28,
+          "id": "1350698971996381191",
+          "start": 14,
+          "username": "ashinakei1203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098111393287320017",
+    "in_reply_to_user_id": "1873256634002427904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097991331218145786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlueJam_8123 @ashinakei1203 这种人应该给那些死去的孩子们偿命"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3073,
+        "media_key": "3_2097991321919381504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2P_dzbYAAGmb0.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2097984007430660194",
+        "created_at": "2026-09-10T18:08:31.000Z",
+        "display_text_range": [
+          29,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T19:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098111393287320017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1873256634002427904",
+              "start": 0,
+              "username": "BlueJam_8123"
+            },
+            {
+              "end": 28,
+              "id": "1350698971996381191",
+              "start": 14,
+              "username": "ashinakei1203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098111393287320017",
+        "in_reply_to_user_id": "1873256634002427904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097991331218145786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlueJam_8123 @ashinakei1203 这种人应该给那些死去的孩子们偿命"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097991321919381504"
+          ]
+        },
+        "author_id": "1873256634002427904",
+        "conversation_id": "2097984007430660194",
+        "created_at": "2026-09-10T10:11:26.000Z",
+        "display_text_range": [
+          15,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T11:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097991331218145786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1350698971996381191",
+              "start": 0,
+              "username": "ashinakei1203"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PxvNfcU4ft",
+              "end": 76,
+              "expanded_url": "https://x.com/BlueJam_8123/status/2097991331218145786/photo/1",
+              "media_key": "3_2097991321919381504",
+              "start": 53,
+              "url": "https://t.co/PxvNfcU4ft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097991331218145786",
+        "in_reply_to_user_id": "1350698971996381191",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097991321919381504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 463,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097984007430660194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashinakei1203 看着像串子但介于我昨天真的在MtF社群里看到了相似程度的坏人所以我愿意憎恨 https://t.co/PxvNfcU4ft"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2098111393287320017",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10560,
+          "following_count": 1258,
+          "like_count": 9416,
+          "listed_count": 15,
+          "media_count": 452,
+          "tweet_count": 5524
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-29T06:36:31.000Z",
+        "description": "我想把整片天空打开",
+        "id": "1873256634002427904",
+        "is_identity_verified": false,
+        "location": "在你脑子里面。。。",
+        "most_recent_tweet_id": "2097991331218145786",
+        "name": "伊洛娜Bard",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1873256634002427904/1764854761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088842855964196864/bWMxz1P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 281,
+          "like_count": 875,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 226
+        },
+        "url": "",
+        "username": "BlueJam_8123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-17T06:58:33.000Z",
+        "description": "可以叫我顺/阿顺💛🖤💜，用了十几年的网名了，我不是顺直，一帆风顺喵\nhe/him/ftmtx/demiboy/transfemboy\n出厂2004.12/♐/xntx/ADHD/泛性恋/开放式关系\n喜欢画点画，打点游戏，术力口，摇滚\n爱你老己🥰🥰🥰/预计2028年年初px\n本人bmi21.5减肥中/想染发纹身穿孔",
+        "id": "1350698971996381191",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098072253925933404",
+        "name": "asn顺🏳‍⚧",
+        "pinned_tweet_id": "2087769889348174095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1350698971996381191/1786206306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080674355571470336/CROcXLZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 247,
+          "like_count": 15896,
+          "listed_count": 6,
+          "media_count": 83,
+          "tweet_count": 4359
+        },
+        "url": "",
+        "username": "ashinakei1203",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

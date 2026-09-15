@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099004860385644544",
+        "3_2099004860389847040",
+        "3_2099004860393988096"
+      ],
+      "media_source_tweet_id": [
+        "2099004871538331963",
+        "2099004871538331963",
+        "2099004871538331963"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2099113970544017505",
+    "created_at": "2026-09-13T12:32:24.000Z",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T13:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099113970544017505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1995690021521948674",
+          "start": 3,
+          "username": "LZRationalnvest"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JwNQXuSvXC",
+          "end": 92,
+          "expanded_url": "https://x.com/LZRationalnvest/status/2099004871538331963/photo/1",
+          "media_key": "3_2099004860385644544",
+          "start": 69,
+          "url": "https://t.co/JwNQXuSvXC"
+        },
+        {
+          "display_url": "pic.x.com/JwNQXuSvXC",
+          "end": 92,
+          "expanded_url": "https://x.com/LZRationalnvest/status/2099004871538331963/photo/1",
+          "media_key": "3_2099004860389847040",
+          "start": 69,
+          "url": "https://t.co/JwNQXuSvXC"
+        },
+        {
+          "display_url": "pic.x.com/JwNQXuSvXC",
+          "end": 92,
+          "expanded_url": "https://x.com/LZRationalnvest/status/2099004871538331963/photo/1",
+          "media_key": "3_2099004860393988096",
+          "start": 69,
+          "url": "https://t.co/JwNQXuSvXC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099113970544017505",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099004860385644544"
+      },
+      {
+        "media_key": "3_2099004860389847040"
+      },
+      {
+        "media_key": "3_2099004860393988096"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099004871538331963",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LZRationalnvest: 北京全面清退无人机，11月14日前必须全部处理完毕，自行带出北京、邮寄出京、官方回收自己选吧😂 https://t.co/JwNQXuSvXC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2099004860385644544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSEpzK0a0AA09q4.jpg",
+        "width": 1088
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099004860389847040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSEpzK1a8AA9eUv.jpg",
+        "width": 1114
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099004860393988096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSEpzK2aIAAG-T6.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099004860385644544",
+            "3_2099004860389847040",
+            "3_2099004860393988096"
+          ],
+          "media_source_tweet_id": [
+            "2099004871538331963",
+            "2099004871538331963",
+            "2099004871538331963"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2099113970544017505",
+        "created_at": "2026-09-13T12:32:24.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T13:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099113970544017505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1995690021521948674",
+              "start": 3,
+              "username": "LZRationalnvest"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JwNQXuSvXC",
+              "end": 92,
+              "expanded_url": "https://x.com/LZRationalnvest/status/2099004871538331963/photo/1",
+              "media_key": "3_2099004860385644544",
+              "start": 69,
+              "url": "https://t.co/JwNQXuSvXC"
+            },
+            {
+              "display_url": "pic.x.com/JwNQXuSvXC",
+              "end": 92,
+              "expanded_url": "https://x.com/LZRationalnvest/status/2099004871538331963/photo/1",
+              "media_key": "3_2099004860389847040",
+              "start": 69,
+              "url": "https://t.co/JwNQXuSvXC"
+            },
+            {
+              "display_url": "pic.x.com/JwNQXuSvXC",
+              "end": 92,
+              "expanded_url": "https://x.com/LZRationalnvest/status/2099004871538331963/photo/1",
+              "media_key": "3_2099004860393988096",
+              "start": 69,
+              "url": "https://t.co/JwNQXuSvXC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099113970544017505",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099004860385644544"
+          },
+          {
+            "media_key": "3_2099004860389847040"
+          },
+          {
+            "media_key": "3_2099004860393988096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099004871538331963",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LZRationalnvest: 北京全面清退无人机，11月14日前必须全部处理完毕，自行带出北京、邮寄出京、官方回收自己选吧😂 https://t.co/JwNQXuSvXC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099004860385644544",
+            "3_2099004860389847040",
+            "3_2099004860393988096"
+          ]
+        },
+        "author_id": "1995690021521948674",
+        "conversation_id": "2099004871538331963",
+        "created_at": "2026-09-13T05:18:53.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T06:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099004871538331963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JwNQXuSvXC",
+              "end": 71,
+              "expanded_url": "https://x.com/LZRationalnvest/status/2099004871538331963/photo/1",
+              "media_key": "3_2099004860385644544",
+              "start": 48,
+              "url": "https://t.co/JwNQXuSvXC"
+            },
+            {
+              "display_url": "pic.x.com/JwNQXuSvXC",
+              "end": 71,
+              "expanded_url": "https://x.com/LZRationalnvest/status/2099004871538331963/photo/1",
+              "media_key": "3_2099004860389847040",
+              "start": 48,
+              "url": "https://t.co/JwNQXuSvXC"
+            },
+            {
+              "display_url": "pic.x.com/JwNQXuSvXC",
+              "end": 71,
+              "expanded_url": "https://x.com/LZRationalnvest/status/2099004871538331963/photo/1",
+              "media_key": "3_2099004860393988096",
+              "start": 48,
+              "url": "https://t.co/JwNQXuSvXC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099004871538331963",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099004860385644544"
+          },
+          {
+            "media_key": "3_2099004860389847040"
+          },
+          {
+            "media_key": "3_2099004860393988096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 98473,
+          "like_count": 329,
+          "quote_count": 9,
+          "reply_count": 75,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "北京全面清退无人机，11月14日前必须全部处理完毕，自行带出北京、邮寄出京、官方回收自己选吧😂 https://t.co/JwNQXuSvXC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2099113970544017505",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10823,
+          "following_count": 1293,
+          "like_count": 9756,
+          "listed_count": 14,
+          "media_count": 462,
+          "tweet_count": 5797
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-02T03:03:01.000Z",
+        "description": "🐶金融行业底层人士。\n📈美股行情观察 & 数字游民分享 & 出海探索。\n🏃‍♂️ 严肃的跑者 (全马350、半马150)。\n👆关注我，摆脱焦虑，我们一起慢慢变富。",
+        "id": "1995690021521948674",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2099004871538331963",
+        "name": "李志 | Rational Investing",
+        "pinned_tweet_id": "2012123884523315518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1995690021521948674/1765262460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997202949228187648/ZeHhM7f4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26823,
+          "following_count": 765,
+          "like_count": 7484,
+          "listed_count": 272,
+          "media_count": 2852,
+          "tweet_count": 11999
+        },
+        "url": "",
+        "username": "LZRationalnvest",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

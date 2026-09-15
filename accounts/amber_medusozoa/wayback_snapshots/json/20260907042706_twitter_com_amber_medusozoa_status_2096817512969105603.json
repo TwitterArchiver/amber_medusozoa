@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2096810937483145316",
+    "created_at": "2026-09-07T04:27:06.000Z",
+    "display_text_range": [
+      14,
+      117
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T05:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096817512969105603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "759889140519411712",
+          "start": 0,
+          "username": "bloomfilters"
+        },
+        {
+          "end": 37,
+          "id": "1542581410762227712",
+          "start": 25,
+          "username": "StepUp25min"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/stepup25min/st…",
+          "end": 117,
+          "expanded_url": "https://x.com/stepup25min/status/2095879239275090121",
+          "start": 94,
+          "url": "https://t.co/dIMep8q0GL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096817512969105603",
+    "in_reply_to_user_id": "759889140519411712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095879239275090121",
+        "type": "quoted"
+      },
+      {
+        "id": "2096810937483145316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bloomfilters 宝你也可以多转发一下 @StepUp25min 这位的推，她是很好的ally，之前和我有很多交流也一直很关心国内跨女社群的状况，这次被转发出圈的文案就是她写的\nhttps://t.co/dIMep8q0GL"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2096810937483145316].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2096810937483145316",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2096810937483145316"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2096810937483145316",
+        "created_at": "2026-09-07T04:27:06.000Z",
+        "display_text_range": [
+          14,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096817512969105603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "759889140519411712",
+              "start": 0,
+              "username": "bloomfilters"
+            },
+            {
+              "end": 37,
+              "id": "1542581410762227712",
+              "start": 25,
+              "username": "StepUp25min"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/stepup25min/st…",
+              "end": 117,
+              "expanded_url": "https://x.com/stepup25min/status/2095879239275090121",
+              "start": 94,
+              "url": "https://t.co/dIMep8q0GL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096817512969105603",
+        "in_reply_to_user_id": "759889140519411712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095879239275090121",
+            "type": "quoted"
+          },
+          {
+            "id": "2096810937483145316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bloomfilters 宝你也可以多转发一下 @StepUp25min 这位的推，她是很好的ally，之前和我有很多交流也一直很关心国内跨女社群的状况，这次被转发出圈的文案就是她写的\nhttps://t.co/dIMep8q0GL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542581410762227712",
+        "conversation_id": "2095879239275090121",
+        "created_at": "2026-09-04T14:18:44.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T15:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095879239275090121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095879239275090121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30979,
+          "impression_count": 10690315,
+          "like_count": 128221,
+          "quote_count": 3485,
+          "reply_count": 1085,
+          "retweet_count": 6158
+        },
+        "reply_settings": "everyone",
+        "text": "有一次做爱是憋着尿做的，我说想去上厕所，但她不放我，在地上铺满吸水垫后让我坐她身上，边操我边压我小腹，我快哭了，她还给我喂水和继续操我。然后我就控制不住的流了满地透明液体...我尿的时候对方很兴奋，继续上下其手直到我求饶，因为第一次那么玩太羞耻了就一直抱着对方，把头埋在她颈窝叫姐姐"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @wgsi @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 39,
+                "start": 34,
+                "username": "wgsi"
+              },
+              {
+                "end": 56,
+                "start": 40,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 82,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 59,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2096817512969105603",
+        "name": "amber 水母🏳️‍⚧️",
+        "pinned_tweet_id": "2096766200336322974",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8484,
+          "following_count": 1183,
+          "like_count": 8629,
+          "listed_count": 12,
+          "media_count": 426,
+          "tweet_count": 5055
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-07-31T23:11:03.000Z",
+        "description": "✨☁️ they/she lesbian 29 ☁️ 𑂦𑂷𑂔𑂣𑂳𑂩𑂱𑂨𑂰 s. asian diaspora en/fr ☁️ edit @negationmag ✨️ public 🦋➡️ bloomfilters . plus",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "negationmag"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bloomfilters.neocities.org",
+                "end": 23,
+                "expanded_url": "https://bloomfilters.neocities.org/",
+                "start": 0,
+                "url": "https://t.co/IJNFSNAjYB"
+              }
+            ]
+          }
+        },
+        "id": "759889140519411712",
+        "is_identity_verified": false,
+        "location": "toronto anishinaabewaki ",
+        "most_recent_tweet_id": "1915216407043703092",
+        "name": "🪸🍄👁 @ on bsky ➡️🦋",
+        "pinned_tweet_id": "1960491965230797162",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/759889140519411712/1648866115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510080057611587586/kMhuBUmp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 29495,
+          "following_count": 3984,
+          "like_count": 174201,
+          "listed_count": 107,
+          "media_count": 6235,
+          "tweet_count": 153485
+        },
+        "url": "https://t.co/IJNFSNAjYB",
+        "username": "bloomfilters",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-30T18:50:53.000Z",
+        "description": "想用文字为你编织一个梦（本人女同性恋🌈）\n在推除了写性幻想，也会说些不会在墙内说的话，你爱我，我也爱你。你骂我，我就骂你。\n想尝试把我关于性爱的历史推文总结成网文《小白的性爱纪事》发布（因为我之前推特名叫白首莫离）（正在思考以什么形式连载网文🤔）\nhttps://t.co/khe28WRcj6欢迎匿名留言",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/song50181",
+                "end": 147,
+                "expanded_url": "http://ngl.link/song50181",
+                "start": 124,
+                "url": "https://t.co/khe28WRcj6"
+              }
+            ]
+          }
+        },
+        "id": "1542581410762227712",
+        "is_identity_verified": false,
+        "location": "一个人待在路边纸壳箱子里",
+        "most_recent_tweet_id": "2096815949454376993",
+        "name": "茫茫云海间",
+        "pinned_tweet_id": "2074189778829091243",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1542581410762227712/1671132293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592428269860945920/1jnxiiYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18471,
+          "following_count": 834,
+          "like_count": 17768,
+          "listed_count": 18,
+          "media_count": 178,
+          "tweet_count": 2348
+        },
+        "url": "",
+        "username": "StepUp25min",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2095001817256010009",
+    "created_at": "2026-09-03T02:46:08.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T03:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095342552543006948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2004818926027653120",
+          "start": 0,
+          "username": "Yxen2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095342552543006948",
+    "in_reply_to_user_id": "2004818926027653120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095340810296512721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yxen2026 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2095001817256010009",
+        "created_at": "2026-09-03T02:46:08.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T03:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095342552543006948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2004818926027653120",
+              "start": 0,
+              "username": "Yxen2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095342552543006948",
+        "in_reply_to_user_id": "2004818926027653120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095340810296512721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yxen2026 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004818926027653120",
+        "conversation_id": "2095001817256010009",
+        "created_at": "2026-09-03T02:39:13.000Z",
+        "display_text_range": [
+          17,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T03:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095340810296512721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095340810296512721",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095001817256010009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 好可爱，好像intp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya / ✦ @amber_toffee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 33,
+                "start": 20,
+                "username": "amber_toffee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭・🇨🇦 ᴛʀᴛ・ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2095342552543006948",
+        "name": "amber水母",
+        "pinned_tweet_id": "2059795253410885885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095287135397974019/rTcsEoij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8263,
+          "following_count": 1176,
+          "like_count": 8205,
+          "listed_count": 12,
+          "media_count": 401,
+          "tweet_count": 4743
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-27T07:37:43.000Z",
+        "description": "焦虑症｜元认知｜不够激进的女权｜不知道写什么欢迎聊天｜我是忠实不移的地球监狱论教徒",
+        "id": "2004818926027653120",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095340810296512721",
+        "name": "yxen",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031366912114896897/3AfwZy_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 26,
+          "like_count": 320,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 469
+        },
+        "url": "",
+        "username": "Yxen2026",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

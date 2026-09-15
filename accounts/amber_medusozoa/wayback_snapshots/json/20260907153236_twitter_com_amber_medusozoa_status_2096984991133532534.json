@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Exercises",
+          "id": "872554146750017536",
+          "name": "Exercises"
+        }
+      }
+    ],
+    "conversation_id": "2096984991133532534",
+    "created_at": "2026-09-07T15:32:36.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T16:32:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096984991133532534"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/reallandsend/s…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/reallandsend/status/2096613592233570725",
+          "start": 27,
+          "url": "https://t.co/t88xueKG0s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096984991133532534",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096613592233570725",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "you are absolutely correct https://t.co/t88xueKG0s"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2096984991133532534",
+        "created_at": "2026-09-07T15:32:36.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096984991133532534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/reallandsend/s…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/reallandsend/status/2096613592233570725",
+              "start": 27,
+              "url": "https://t.co/t88xueKG0s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096984991133532534",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096613592233570725",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "you are absolutely correct https://t.co/t88xueKG0s"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "15950692",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2096613592233570725",
+        "created_at": "2026-09-06T14:56:48.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096613592233570725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096613592233570725",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 118376,
+          "like_count": 1502,
+          "quote_count": 73,
+          "reply_count": 217,
+          "retweet_count": 225
+        },
+        "reply_settings": "everyone",
+        "text": "everyone taking the bait from right wing troll accounts to lean in to “fitness is a virtue” is just proving my point btw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya / ✦ @amber_toffee / ✒︎ @wgsi\n✮ @transinacademia / ❀ https://t.co/2xzS4y8edG\n❖ https://t.co/oAFbVJY3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 33,
+                "start": 20,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 44,
+                "start": 39,
+                "username": "wgsi"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 91,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 68,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "github.com/amber-jellyfish",
+                "end": 117,
+                "expanded_url": "http://github.com/amber-jellyfish",
+                "start": 94,
+                "url": "https://t.co/oAFbVJY3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2096984991133532534",
+        "name": "amber 水母🏳️‍⚧️",
+        "pinned_tweet_id": "2096766200336322974",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9253,
+          "following_count": 1202,
+          "like_count": 8816,
+          "listed_count": 11,
+          "media_count": 430,
+          "tweet_count": 5146
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-08-22T21:46:58.000Z",
+        "description": "cohost @deathpanel_ | coauthor Health Communism (Verso); All Care For All People  (forthcoming Haymarket) | health, debility, class struggle & the state",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "deathpanel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/deathpanelpod",
+                "end": 23,
+                "expanded_url": "http://www.patreon.com/deathpanelpod",
+                "start": 0,
+                "url": "https://t.co/MpW6bDtPyT"
+              }
+            ]
+          }
+        },
+        "id": "15950692",
+        "is_identity_verified": false,
+        "location": "Minneapolis, MN",
+        "most_recent_tweet_id": "2096663595232686367",
+        "name": "Beatrice Adler-Bolton",
+        "pinned_tweet_id": "2014005272931336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15950692/1581815689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1250247004745236480/6MIbV-lQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15910,
+          "following_count": 1731,
+          "like_count": 50113,
+          "listed_count": 119,
+          "media_count": 840,
+          "tweet_count": 16876
+        },
+        "url": "https://t.co/MpW6bDtPyT",
+        "username": "realLandsEnd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

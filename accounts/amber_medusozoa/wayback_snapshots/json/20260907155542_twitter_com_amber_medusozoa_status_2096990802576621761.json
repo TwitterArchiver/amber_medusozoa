@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2096981266331730202",
+    "created_at": "2026-09-07T15:55:42.000Z",
+    "display_text_range": [
+      13,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T16:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096990802576621761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2071227667354140672",
+          "start": 0,
+          "username": "tkk27bb6967"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096990802576621761",
+    "in_reply_to_user_id": "2071227667354140672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096981266331730202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tkk27bb6967 我觉得某些“跨女”确实该被贴上theymab标签"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2096981266331730202].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2096981266331730202",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2096981266331730202"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2096981266331730202",
+        "created_at": "2026-09-07T15:55:42.000Z",
+        "display_text_range": [
+          13,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096990802576621761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2071227667354140672",
+              "start": 0,
+              "username": "tkk27bb6967"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096990802576621761",
+        "in_reply_to_user_id": "2071227667354140672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096981266331730202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tkk27bb6967 我觉得某些“跨女”确实该被贴上theymab标签"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya / ✦ @amber_toffee / ✒︎ @wgsi\n✮ @transinacademia / ❀ https://t.co/2xzS4y8edG\n❖ https://t.co/oAFbVJY3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 33,
+                "start": 20,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 44,
+                "start": 39,
+                "username": "wgsi"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 91,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 68,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "github.com/amber-jellyfish",
+                "end": 117,
+                "expanded_url": "http://github.com/amber-jellyfish",
+                "start": 94,
+                "url": "https://t.co/oAFbVJY3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2096990802576621761",
+        "name": "amber 水母🏳️‍⚧️",
+        "pinned_tweet_id": "2096766200336322974",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9284,
+          "following_count": 1203,
+          "like_count": 8822,
+          "listed_count": 11,
+          "media_count": 430,
+          "tweet_count": 5150
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-28T13:45:28.000Z",
+        "description": "🏳️‍⚧️transfemboy🏳️‍⚧️\n❤️🧡💛💚💙💜🩵🩷🤍🩷🩵\n\n（femboy指的是立场fem和性别表达无关）\n（性别表达偏向世俗意义的男性化）\n\ncn娇娇，he or she/audhd/纯血直男/非单意识体，成员共用账号所以存在左右脑互搏的情况\n\n杨响是我最爱的女儿（我的tulpa），她的小名是锵锵",
+        "id": "2071227667354140672",
+        "is_identity_verified": false,
+        "location": "淘坤坤de梦幻之逼",
+        "most_recent_tweet_id": "2096173530513608829",
+        "name": "沉睡小男仆",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071227667354140672/1785226715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093322876145569792/99aIfYfN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 170,
+          "like_count": 2346,
+          "listed_count": 0,
+          "media_count": 326,
+          "tweet_count": 2772
+        },
+        "url": "",
+        "username": "tkk27bb6967",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

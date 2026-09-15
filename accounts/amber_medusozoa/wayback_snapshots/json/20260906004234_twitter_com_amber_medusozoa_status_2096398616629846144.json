@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2096386048687321339",
+    "created_at": "2026-09-06T00:42:34.000Z",
+    "display_text_range": [
+      13,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T01:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096398616629846144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3428345293",
+          "start": 0,
+          "username": "Human_Dregs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096398616629846144",
+    "in_reply_to_user_id": "3428345293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096396710289285373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Human_Dregs 我长了肉就有一堆别的衣服穿不进去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2096386048687321339",
+        "created_at": "2026-09-06T00:42:34.000Z",
+        "display_text_range": [
+          13,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T01:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096398616629846144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3428345293",
+              "start": 0,
+              "username": "Human_Dregs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096398616629846144",
+        "in_reply_to_user_id": "3428345293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096396710289285373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Human_Dregs 我长了肉就有一堆别的衣服穿不进去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3428345293",
+        "conversation_id": "2096386048687321339",
+        "created_at": "2026-09-06T00:34:59.000Z",
+        "display_text_range": [
+          17,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T01:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096396710289285373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096396710289285373",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096386048687321339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 那你什么时候多吃点多长点肉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya / ✦ @amber_toffee\n❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 33,
+                "start": 20,
+                "username": "amber_toffee"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 59,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 36,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2096398616629846144",
+        "name": "amber 水母",
+        "pinned_tweet_id": "2087096982267432968",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8305,
+          "following_count": 1168,
+          "like_count": 8477,
+          "listed_count": 12,
+          "media_count": 417,
+          "tweet_count": 4930
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-09-02T18:00:23.000Z",
+        "description": "Toronto-🇨🇦 | MtF | HRT 5.23 2023 | 高P | 想变得更好看 | 喜欢猫🐈‍⬛ | @LightQuantumhah",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "LightQuantumhah"
+              }
+            ]
+          }
+        },
+        "id": "3428345293",
+        "is_identity_verified": false,
+        "location": "Toronto, Ontario",
+        "most_recent_tweet_id": "2096396710289285373",
+        "name": "人心沉淀物",
+        "pinned_tweet_id": "1934844514361069746",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3428345293/1566973197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660189972438175744/rOdngCe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1649,
+          "following_count": 991,
+          "like_count": 8609,
+          "listed_count": 11,
+          "media_count": 250,
+          "tweet_count": 1822
+        },
+        "url": "",
+        "username": "Human_Dregs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

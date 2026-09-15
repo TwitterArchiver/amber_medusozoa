@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099110507198476289"
+      ],
+      "media_source_tweet_id": [
+        "2099110513557086353"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2099226011636265268",
+    "created_at": "2026-09-13T19:57:37.000Z",
+    "display_text_range": [
+      0,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T20:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099226011636265268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "17757389",
+          "start": 3,
+          "username": "linfavourite"
+        },
+        {
+          "end": 29,
+          "id": "1419269834311815168",
+          "start": 18,
+          "username": "A2yun052tu"
+        },
+        {
+          "end": 43,
+          "id": "1195358772836724736",
+          "start": 30,
+          "username": "rinnnna_peko"
+        }
+      ],
+      "urls": [
+        {
+          "description": "这件事中国舆论是厌女还是保护男童，其实很好区分。 还记得当年大兴男子当街摔死婴儿的案子么，男的嫌婴儿车挡道，殴打母亲摔死婴儿。舆论怎么讲？“你一个妈妈带着孩子有什么不能忍的为什么要去吵架？“ [contains quote post or other embedded content]",
+          "display_url": "bsky.app/profile/lulugo…",
+          "end": 87,
+          "expanded_url": "https://bsky.app/profile/lulugou.bsky.social/post/3mvemi4q6rc2u",
+          "start": 64,
+          "status": 200,
+          "title": "是好噜噜狗 (@lulugou.bsky.social)",
+          "unwound_url": "https://bsky.app/profile/lulugou.bsky.social/post/3mvemi4q6rc2u",
+          "url": "https://t.co/tul0LhX2Uk"
+        },
+        {
+          "display_url": "pic.x.com/1EF0gV3345",
+          "end": 111,
+          "expanded_url": "https://x.com/linfavourite/status/2099110513557086353/photo/1",
+          "media_key": "3_2099110507198476289",
+          "start": 88,
+          "url": "https://t.co/1EF0gV3345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099226011636265268",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099110507198476289"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099110513557086353",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @linfavourite: @A2yun052tu @rinnnna_peko 藍天這位說了，性別對調後大概就這樣。\n\nhttps://t.co/tul0LhX2Uk https://t.co/1EF0gV3345"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 539,
+        "media_key": "3_2099110507198476289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGJ4n3a8AEw7-R.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099110507198476289"
+          ],
+          "media_source_tweet_id": [
+            "2099110513557086353"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2099226011636265268",
+        "created_at": "2026-09-13T19:57:37.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T20:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099226011636265268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "17757389",
+              "start": 3,
+              "username": "linfavourite"
+            },
+            {
+              "end": 29,
+              "id": "1419269834311815168",
+              "start": 18,
+              "username": "A2yun052tu"
+            },
+            {
+              "end": 43,
+              "id": "1195358772836724736",
+              "start": 30,
+              "username": "rinnnna_peko"
+            }
+          ],
+          "urls": [
+            {
+              "description": "这件事中国舆论是厌女还是保护男童，其实很好区分。 还记得当年大兴男子当街摔死婴儿的案子么，男的嫌婴儿车挡道，殴打母亲摔死婴儿。舆论怎么讲？“你一个妈妈带着孩子有什么不能忍的为什么要去吵架？“ [contains quote post or other embedded content]",
+              "display_url": "bsky.app/profile/lulugo…",
+              "end": 87,
+              "expanded_url": "https://bsky.app/profile/lulugou.bsky.social/post/3mvemi4q6rc2u",
+              "start": 64,
+              "status": 200,
+              "title": "是好噜噜狗 (@lulugou.bsky.social)",
+              "unwound_url": "https://bsky.app/profile/lulugou.bsky.social/post/3mvemi4q6rc2u",
+              "url": "https://t.co/tul0LhX2Uk"
+            },
+            {
+              "display_url": "pic.x.com/1EF0gV3345",
+              "end": 111,
+              "expanded_url": "https://x.com/linfavourite/status/2099110513557086353/photo/1",
+              "media_key": "3_2099110507198476289",
+              "start": 88,
+              "url": "https://t.co/1EF0gV3345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099226011636265268",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099110507198476289"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099110513557086353",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @linfavourite: @A2yun052tu @rinnnna_peko 藍天這位說了，性別對調後大概就這樣。\n\nhttps://t.co/tul0LhX2Uk https://t.co/1EF0gV3345"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099110507198476289"
+          ]
+        },
+        "author_id": "17757389",
+        "conversation_id": "2098833433334358258",
+        "created_at": "2026-09-13T12:18:40.000Z",
+        "display_text_range": [
+          26,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T13:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099110513557086353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1419269834311815168",
+              "start": 0,
+              "username": "A2yun052tu"
+            },
+            {
+              "end": 25,
+              "id": "1195358772836724736",
+              "start": 12,
+              "username": "rinnnna_peko"
+            }
+          ],
+          "urls": [
+            {
+              "description": "这件事中国舆论是厌女还是保护男童，其实很好区分。 还记得当年大兴男子当街摔死婴儿的案子么，男的嫌婴儿车挡道，殴打母亲摔死婴儿。舆论怎么讲？“你一个妈妈带着孩子有什么不能忍的为什么要去吵架？“ [contains quote post or other embedded content]",
+              "display_url": "bsky.app/profile/lulugo…",
+              "end": 69,
+              "expanded_url": "https://bsky.app/profile/lulugou.bsky.social/post/3mvemi4q6rc2u",
+              "start": 46,
+              "status": 200,
+              "title": "是好噜噜狗 (@lulugou.bsky.social)",
+              "unwound_url": "https://bsky.app/profile/lulugou.bsky.social/post/3mvemi4q6rc2u",
+              "url": "https://t.co/tul0LhX2Uk"
+            },
+            {
+              "display_url": "pic.x.com/1EF0gV3345",
+              "end": 93,
+              "expanded_url": "https://x.com/linfavourite/status/2099110513557086353/photo/1",
+              "media_key": "3_2099110507198476289",
+              "start": 70,
+              "url": "https://t.co/1EF0gV3345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099110513557086353",
+        "in_reply_to_user_id": "1419269834311815168",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099110507198476289"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 762,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099090228510388336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@A2yun052tu @rinnnna_peko 藍天這位說了，性別對調後大概就這樣。\n\nhttps://t.co/tul0LhX2Uk https://t.co/1EF0gV3345"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2099226011636265268",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10827,
+          "following_count": 1298,
+          "like_count": 9815,
+          "listed_count": 14,
+          "media_count": 463,
+          "tweet_count": 5819
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-11-30T16:56:52.000Z",
+        "description": "支持人權、民主、自由。 支持LGBTQIA+社群。 鋼鐵反共主義。 自由女性主義。 無神論。 極其離地。 雲吸貓。 肉食動物。 甜食黨。 境外勢力。 性別認同：男。談書帳：@LinFavBooks",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 86,
+                "username": "LinFavBooks"
+              }
+            ]
+          }
+        },
+        "id": "17757389",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099159859275153608",
+        "name": "忙著吃腳腳的小貓咪",
+        "pinned_tweet_id": "1458075494956421129",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17757389/1776759869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046505165461880832/CFIaLuob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3001,
+          "following_count": 1932,
+          "like_count": 449781,
+          "listed_count": 16,
+          "media_count": 3526,
+          "tweet_count": 260681
+        },
+        "url": "",
+        "username": "linfavourite",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-25T12:14:42.000Z",
+        "description": "罵(男)人帳",
+        "id": "1419269834311815168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099090228510388336",
+        "name": "醬油烏冬🍜",
+        "pinned_tweet_id": "1549667233563279360",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1419269834311815168/1685416266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660189821372076032/NbiyI-QC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 151,
+          "like_count": 13125,
+          "listed_count": 11,
+          "media_count": 965,
+          "tweet_count": 12446
+        },
+        "url": "",
+        "username": "A2yun052tu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-11-15T15:12:08.000Z",
+        "description": "狗派人士｜不負責陌生人的喜怒哀樂 請自己調適｜The 兇｜為什麼我需要錢還得要去上班？•ࡇ•｜我會常開限制回覆 我的版面不需要太多笨蛋的意見",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rinnnn…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rinnnna.bsky.social",
+                "start": 0,
+                "url": "https://t.co/EIYLAXG45S"
+              }
+            ]
+          }
+        },
+        "id": "1195358772836724736",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2099185706845515825",
+        "name": "Rina💫會飛的老鼠是蝙蝠",
+        "pinned_tweet_id": "2081813687837643072",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1195358772836724736/1772078333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095126997047648256/J2igP4Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 140,
+          "like_count": 10795,
+          "listed_count": 4,
+          "media_count": 560,
+          "tweet_count": 14265
+        },
+        "url": "https://t.co/EIYLAXG45S",
+        "username": "rinnnna_peko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

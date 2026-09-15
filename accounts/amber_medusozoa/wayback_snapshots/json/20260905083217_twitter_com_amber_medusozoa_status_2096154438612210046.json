@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096154433864241153",
+        "3_2096154433864224773"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2096154438612210046",
+    "created_at": "2026-09-05T08:32:17.000Z",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T09:32:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096154438612210046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 37,
+          "id": "1467726470533754880",
+          "start": 30,
+          "username": "nextjs"
+        }
+      ],
+      "urls": [
+        {
+          "description": "跨儿学术小组资料库",
+          "display_url": "lib.transinacademia.org",
+          "end": 116,
+          "expanded_url": "https://lib.transinacademia.org",
+          "start": 93,
+          "status": 200,
+          "title": "Trans in Academia! Library",
+          "unwound_url": "https://lib.transinacademia.org",
+          "url": "https://t.co/h6Xlrs7XoU"
+        },
+        {
+          "display_url": "pic.x.com/ZQbeyqg3er",
+          "end": 140,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2096154438612210046/photo/1",
+          "media_key": "3_2096154433864241153",
+          "start": 117,
+          "url": "https://t.co/ZQbeyqg3er"
+        },
+        {
+          "display_url": "pic.x.com/ZQbeyqg3er",
+          "end": 140,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2096154438612210046/photo/1",
+          "media_key": "3_2096154433864224773",
+          "start": 117,
+          "url": "https://t.co/ZQbeyqg3er"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096154438612210046",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096154433864241153"
+      },
+      {
+        "media_key": "3_2096154433864224773"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "各位好，TiA! 资料库刚刚进行了更新，将网站全盘迁移至了 @nextjs 平台，从而完全重构了网站的视觉设计。目前网站还有一些小错误，欢迎大家在 GitHub 上和我们一起将其完善。\nhttps://t.co/h6Xlrs7XoU https://t.co/ZQbeyqg3er"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1714,
+        "media_key": "3_2096154433864241153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcJWgjWkAEPWNC.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096154433864224773",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcJWgjWUAUh2ko.jpg",
+        "width": 1026
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096154433864241153",
+            "3_2096154433864224773"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2096154438612210046",
+        "created_at": "2026-09-05T08:32:17.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T09:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096154438612210046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1467726470533754880",
+              "start": 30,
+              "username": "nextjs"
+            }
+          ],
+          "urls": [
+            {
+              "description": "跨儿学术小组资料库",
+              "display_url": "lib.transinacademia.org",
+              "end": 116,
+              "expanded_url": "https://lib.transinacademia.org",
+              "start": 93,
+              "status": 200,
+              "title": "Trans in Academia! Library",
+              "unwound_url": "https://lib.transinacademia.org",
+              "url": "https://t.co/h6Xlrs7XoU"
+            },
+            {
+              "display_url": "pic.x.com/ZQbeyqg3er",
+              "end": 140,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2096154438612210046/photo/1",
+              "media_key": "3_2096154433864241153",
+              "start": 117,
+              "url": "https://t.co/ZQbeyqg3er"
+            },
+            {
+              "display_url": "pic.x.com/ZQbeyqg3er",
+              "end": 140,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2096154438612210046/photo/1",
+              "media_key": "3_2096154433864224773",
+              "start": 117,
+              "url": "https://t.co/ZQbeyqg3er"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096154438612210046",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096154433864241153"
+          },
+          {
+            "media_key": "3_2096154433864224773"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位好，TiA! 资料库刚刚进行了更新，将网站全盘迁移至了 @nextjs 平台，从而完全重构了网站的视觉设计。目前网站还有一些小错误，欢迎大家在 GitHub 上和我们一起将其完善。\nhttps://t.co/h6Xlrs7XoU https://t.co/ZQbeyqg3er"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦@noaayoyaoaya / ✦@amber_toffee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2096154438612210046",
+        "name": "amber水母",
+        "pinned_tweet_id": "2087096982267432968",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095287135397974019/rTcsEoij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8278,
+          "following_count": 1162,
+          "like_count": 8393,
+          "listed_count": 12,
+          "media_count": 406,
+          "tweet_count": 4861
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1767351110228918272/3Pndc5OT_bigger.png",
+          "description": "Vercel",
+          "url": "https://twitter.com/vercel",
+          "user_id": [
+            "4686835494"
+          ]
+        },
+        "created_at": "2021-12-06T05:24:11.000Z",
+        "description": "The React Framework – created and maintained by @vercel.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 48,
+                "username": "vercel"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nextjs.org",
+                "end": 23,
+                "expanded_url": "http://nextjs.org/",
+                "start": 0,
+                "url": "https://t.co/rCHzJ27rrl"
+              }
+            ]
+          }
+        },
+        "id": "1467726470533754880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095925628679884833",
+        "name": "Next.js",
+        "pinned_tweet_id": "2084399799642841419",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1467726470533754880/1763754717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291684,
+          "following_count": 15,
+          "like_count": 215,
+          "listed_count": 1554,
+          "media_count": 92,
+          "tweet_count": 366
+        },
+        "url": "https://t.co/rCHzJ27rrl",
+        "username": "nextjs",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2098042264412905581",
+    "created_at": "2026-09-10T18:21:32.000Z",
+    "display_text_range": [
+      11,
+      195
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T19:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098114666471837842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1643720317725024258",
+          "start": 0,
+          "username": "aloodonut"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/yanzhenzhen21/…",
+          "end": 219,
+          "expanded_url": "https://twitter.com/yanzhenzhen21/status/2034661177373196540",
+          "start": 196,
+          "url": "https://t.co/317x3CzfAj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098114666471837842",
+    "in_reply_to_user_id": "1643720317725024258",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034661177373196540",
+        "type": "quoted"
+      },
+      {
+        "id": "2098073055872319797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aloodonut yes this is the exact type of institution i was referring to. a trans girl already took her life earlier this year after she was incarcerated in one of such facilities for three months https://t.co/317x3CzfAj"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2098073055872319797].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2098073055872319797",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2098073055872319797"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2098042264412905581",
+        "created_at": "2026-09-10T18:21:32.000Z",
+        "display_text_range": [
+          11,
+          195
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T19:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098114666471837842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1643720317725024258",
+              "start": 0,
+              "username": "aloodonut"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/yanzhenzhen21/…",
+              "end": 219,
+              "expanded_url": "https://twitter.com/yanzhenzhen21/status/2034661177373196540",
+              "start": 196,
+              "url": "https://t.co/317x3CzfAj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098114666471837842",
+        "in_reply_to_user_id": "1643720317725024258",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034661177373196540",
+            "type": "quoted"
+          },
+          {
+            "id": "2098073055872319797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aloodonut yes this is the exact type of institution i was referring to. a trans girl already took her life earlier this year after she was incarcerated in one of such facilities for three months https://t.co/317x3CzfAj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872130736872144897",
+        "conversation_id": "2034661177373196540",
+        "created_at": "2026-03-19T16:00:01.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-03-19T17:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034661177373196540"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034661177373196540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 245,
+          "impression_count": 665854,
+          "like_count": 1510,
+          "quote_count": 61,
+          "reply_count": 461,
+          "retweet_count": 105
+        },
+        "reply_settings": "everyone",
+        "text": "这是一条定时推文，你们好我是小言，本人于2026年3月18日晚服用亚硝酸钠s亡，我的死是由我的家庭与严重的心理疾病造成的，对不起狐狐、陈依雨，生前给你们带来了部分麻烦，对不起我的所有朋友们，我很开心可以和你们做朋友请不要忘记我。希望世上再无扭转机构希望坏人得到应有的惩罚\n下个世界会好的😇"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2098114666471837842",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10563,
+          "following_count": 1258,
+          "like_count": 9419,
+          "listed_count": 15,
+          "media_count": 452,
+          "tweet_count": 5527
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-05T21:00:57.000Z",
+        "description": "she/any 21 demi aroace girlflux desi 💓 #AuADHD #rafayearning married to rafayel my mermaid wifey | pfp cr: @pe4rl08  | bg cr: rednote ID 558316777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 39,
+                "tag": "AuADHD"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "tag": "rafayearning"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 115,
+                "start": 107,
+                "username": "pe4rl08"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/TalkAboutSudan…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/TalkAboutSudan?utm_source=linktree_profile_share&ltsid=0a1d42f9-9262-4267-a076-c29",
+                "start": 0,
+                "url": "https://t.co/PMpHiXRkLw"
+              }
+            ]
+          }
+        },
+        "id": "1643720317725024258",
+        "is_identity_verified": false,
+        "location": "DNI TRANSMISOGYNISTS, PROSHIP",
+        "most_recent_tweet_id": "2098084903933878687",
+        "name": "amna 🫧 IA!",
+        "pinned_tweet_id": "1964279756876054976",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643720317725024258/1754245618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070530560439861248/rRnmJaR2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3717,
+          "following_count": 5070,
+          "like_count": 435377,
+          "listed_count": 12,
+          "media_count": 1666,
+          "tweet_count": 252703
+        },
+        "url": "https://t.co/PMpHiXRkLw",
+        "username": "aloodonut",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-26T04:02:16.000Z",
+        "description": "世界好温柔我爱这个世界，世界支离破碎抱抱我     姐姐@SnowFoxSama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "SnowFoxSama"
+              }
+            ]
+          }
+        },
+        "id": "1872130736872144897",
+        "is_identity_verified": false,
+        "location": "=ᗜωᗜ=",
+        "most_recent_tweet_id": "2034661177373196540",
+        "name": "言箴甄🍥",
+        "pinned_tweet_id": "2032459781785424374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1872130736872144897/1773711403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985476488385458176/j0Tc333U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 864,
+          "like_count": 25430,
+          "listed_count": 6,
+          "media_count": 43,
+          "tweet_count": 1192
+        },
+        "url": "",
+        "username": "yanzhenzhen21",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

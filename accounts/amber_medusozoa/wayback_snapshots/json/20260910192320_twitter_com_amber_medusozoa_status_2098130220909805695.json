@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098104867386765312",
+        "3_2098104887863373824",
+        "3_2098104915965227008",
+        "3_2098104953139273728"
+      ],
+      "media_source_tweet_id": [
+        "2098104983984247140",
+        "2098104983984247140",
+        "2098104983984247140",
+        "2098104983984247140"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2098130220909805695",
+    "created_at": "2026-09-10T19:23:20.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T20:23:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098130220909805695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1280001743162609664",
+          "start": 3,
+          "username": "Poca2381"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/maaabO5eoD",
+          "end": 46,
+          "expanded_url": "https://x.com/Poca2381/status/2098104983984247140/photo/1",
+          "media_key": "3_2098104867386765312",
+          "start": 23,
+          "url": "https://t.co/maaabO5eoD"
+        },
+        {
+          "display_url": "pic.x.com/maaabO5eoD",
+          "end": 46,
+          "expanded_url": "https://x.com/Poca2381/status/2098104983984247140/photo/1",
+          "media_key": "3_2098104887863373824",
+          "start": 23,
+          "url": "https://t.co/maaabO5eoD"
+        },
+        {
+          "display_url": "pic.x.com/maaabO5eoD",
+          "end": 46,
+          "expanded_url": "https://x.com/Poca2381/status/2098104983984247140/photo/1",
+          "media_key": "3_2098104915965227008",
+          "start": 23,
+          "url": "https://t.co/maaabO5eoD"
+        },
+        {
+          "display_url": "pic.x.com/maaabO5eoD",
+          "end": 46,
+          "expanded_url": "https://x.com/Poca2381/status/2098104983984247140/photo/1",
+          "media_key": "3_2098104953139273728",
+          "start": 23,
+          "url": "https://t.co/maaabO5eoD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098130220909805695",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098104867386765312"
+      },
+      {
+        "media_key": "3_2098104887863373824"
+      },
+      {
+        "media_key": "3_2098104915965227008"
+      },
+      {
+        "media_key": "3_2098104953139273728"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098104983984247140",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Poca2381: 开屏广告在杀人。 https://t.co/maaabO5eoD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2098104867386765312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR33QrobMAA-hAP.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2098104887863373824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR33R36bcAAK3L1.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1781,
+        "media_key": "3_2098104915965227008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR33TgmbsAASGXt.jpg",
+        "width": 1169
+      },
+      {
+        "height": 1872,
+        "media_key": "3_2098104953139273728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR33VrFaoAAU_RI.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098104867386765312",
+            "3_2098104887863373824",
+            "3_2098104915965227008",
+            "3_2098104953139273728"
+          ],
+          "media_source_tweet_id": [
+            "2098104983984247140",
+            "2098104983984247140",
+            "2098104983984247140",
+            "2098104983984247140"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2098130220909805695",
+        "created_at": "2026-09-10T19:23:20.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T20:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098130220909805695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1280001743162609664",
+              "start": 3,
+              "username": "Poca2381"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/maaabO5eoD",
+              "end": 46,
+              "expanded_url": "https://x.com/Poca2381/status/2098104983984247140/photo/1",
+              "media_key": "3_2098104867386765312",
+              "start": 23,
+              "url": "https://t.co/maaabO5eoD"
+            },
+            {
+              "display_url": "pic.x.com/maaabO5eoD",
+              "end": 46,
+              "expanded_url": "https://x.com/Poca2381/status/2098104983984247140/photo/1",
+              "media_key": "3_2098104887863373824",
+              "start": 23,
+              "url": "https://t.co/maaabO5eoD"
+            },
+            {
+              "display_url": "pic.x.com/maaabO5eoD",
+              "end": 46,
+              "expanded_url": "https://x.com/Poca2381/status/2098104983984247140/photo/1",
+              "media_key": "3_2098104915965227008",
+              "start": 23,
+              "url": "https://t.co/maaabO5eoD"
+            },
+            {
+              "display_url": "pic.x.com/maaabO5eoD",
+              "end": 46,
+              "expanded_url": "https://x.com/Poca2381/status/2098104983984247140/photo/1",
+              "media_key": "3_2098104953139273728",
+              "start": 23,
+              "url": "https://t.co/maaabO5eoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098130220909805695",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098104867386765312"
+          },
+          {
+            "media_key": "3_2098104887863373824"
+          },
+          {
+            "media_key": "3_2098104915965227008"
+          },
+          {
+            "media_key": "3_2098104953139273728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098104983984247140",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Poca2381: 开屏广告在杀人。 https://t.co/maaabO5eoD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098104867386765312",
+            "3_2098104887863373824",
+            "3_2098104915965227008",
+            "3_2098104953139273728"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2098104983984247140",
+        "created_at": "2026-09-10T17:43:03.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T18:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098104983984247140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/maaabO5eoD",
+              "end": 32,
+              "expanded_url": "https://x.com/Poca2381/status/2098104983984247140/photo/1",
+              "media_key": "3_2098104867386765312",
+              "start": 9,
+              "url": "https://t.co/maaabO5eoD"
+            },
+            {
+              "display_url": "pic.x.com/maaabO5eoD",
+              "end": 32,
+              "expanded_url": "https://x.com/Poca2381/status/2098104983984247140/photo/1",
+              "media_key": "3_2098104887863373824",
+              "start": 9,
+              "url": "https://t.co/maaabO5eoD"
+            },
+            {
+              "display_url": "pic.x.com/maaabO5eoD",
+              "end": 32,
+              "expanded_url": "https://x.com/Poca2381/status/2098104983984247140/photo/1",
+              "media_key": "3_2098104915965227008",
+              "start": 9,
+              "url": "https://t.co/maaabO5eoD"
+            },
+            {
+              "display_url": "pic.x.com/maaabO5eoD",
+              "end": 32,
+              "expanded_url": "https://x.com/Poca2381/status/2098104983984247140/photo/1",
+              "media_key": "3_2098104953139273728",
+              "start": 9,
+              "url": "https://t.co/maaabO5eoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098104983984247140",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098104867386765312"
+          },
+          {
+            "media_key": "3_2098104887863373824"
+          },
+          {
+            "media_key": "3_2098104915965227008"
+          },
+          {
+            "media_key": "3_2098104953139273728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 957,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "开屏广告在杀人。 https://t.co/maaabO5eoD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2098130220909805695",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10574,
+          "following_count": 1261,
+          "like_count": 9426,
+          "listed_count": 15,
+          "media_count": 452,
+          "tweet_count": 5538
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2098128411797708846",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25076,
+          "following_count": 11114,
+          "like_count": 156764,
+          "listed_count": 53,
+          "media_count": 6788,
+          "tweet_count": 59778
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

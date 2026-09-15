@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2096694300645961994",
+    "created_at": "2026-09-06T20:25:55.000Z",
+    "display_text_range": [
+      10,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T21:25:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096696417850978573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1388165242740371457",
+          "start": 0,
+          "username": "Lee65535"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096696417850978573",
+    "in_reply_to_user_id": "1388165242740371457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096695840727605748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lee65535 不是 这种人永远不敢的 估计是为了羞辱别人从什么地方偷的图"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2096694300645961994",
+        "created_at": "2026-09-06T20:25:55.000Z",
+        "display_text_range": [
+          10,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T21:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096696417850978573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1388165242740371457",
+              "start": 0,
+              "username": "Lee65535"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096696417850978573",
+        "in_reply_to_user_id": "1388165242740371457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096695840727605748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lee65535 不是 这种人永远不敢的 估计是为了羞辱别人从什么地方偷的图"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1388165242740371457",
+        "conversation_id": "2096694300645961994",
+        "created_at": "2026-09-06T20:23:37.000Z",
+        "display_text_range": [
+          17,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T21:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096695840727605748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096695840727605748",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096694300645961994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 好像刚发了一条自拍 不知道是不是本人 如果是这个人也太搞笑了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2096696417850978573",
+        "name": "amber 水母",
+        "pinned_tweet_id": "2087096982267432968",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8378,
+          "following_count": 1179,
+          "like_count": 8564,
+          "listed_count": 12,
+          "media_count": 418,
+          "tweet_count": 5006
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-30T16:16:05.000Z",
+        "description": "中文/English | 🏳️‍⚧️🏳️‍🌈 | she/her | Proud owner of Blåhaj | 你觉得我是什么成分我就是什么成分🤗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lee65536",
+                "end": 23,
+                "expanded_url": "https://t.me/lee65536",
+                "start": 0,
+                "url": "https://t.co/MYXiDVxB7g"
+              }
+            ]
+          }
+        },
+        "id": "1388165242740371457",
+        "is_identity_verified": false,
+        "location": "Santa Clara, CA",
+        "most_recent_tweet_id": "2096695840727605748",
+        "name": "Lee",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1388165242740371457/1666329263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583326483300306947/YpbDhzim_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4135,
+          "following_count": 596,
+          "like_count": 175569,
+          "listed_count": 2,
+          "media_count": 763,
+          "tweet_count": 11163
+        },
+        "url": "https://t.co/MYXiDVxB7g",
+        "username": "Lee65535",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

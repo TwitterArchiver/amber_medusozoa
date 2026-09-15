@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2097876432697639354",
+    "created_at": "2026-09-10T02:42:06.000Z",
+    "display_text_range": [
+      17,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T03:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097878253188899054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1313383273079345152",
+          "start": 0,
+          "username": "ValeriaEulabeia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097878253188899054",
+    "in_reply_to_user_id": "1313383273079345152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097876432697639354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ValeriaEulabeia 你猜为什么我故意让这片“应许之地”不在任何特定的土地上"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2097876415307997184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR0nfBUaYAAwNTx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2097876432697639354",
+        "created_at": "2026-09-10T02:42:06.000Z",
+        "display_text_range": [
+          17,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T03:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097878253188899054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1313383273079345152",
+              "start": 0,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097878253188899054",
+        "in_reply_to_user_id": "1313383273079345152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097876432697639354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ValeriaEulabeia 你猜为什么我故意让这片“应许之地”不在任何特定的土地上"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097876415307997184"
+          ]
+        },
+        "author_id": "1313383273079345152",
+        "conversation_id": "2097876432697639354",
+        "created_at": "2026-09-10T02:34:52.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T03:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097876432697639354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NYX8MwtyO7",
+              "end": 92,
+              "expanded_url": "https://x.com/ValeriaEulabeia/status/2097876432697639354/photo/1",
+              "media_key": "3_2097876415307997184",
+              "start": 69,
+              "url": "https://t.co/NYX8MwtyO7"
+            },
+            {
+              "display_url": "x.com/Kitsu_Maru/sta…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/Kitsu_Maru/status/2097822071464010181",
+              "start": 93,
+              "url": "https://t.co/uA1XN7D1Oi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097876432697639354",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097876415307997184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097822071464010181",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa You genius, you just reinvented the Book of Exodus. https://t.co/NYX8MwtyO7 https://t.co/uA1XN7D1Oi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia @wgsi ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              },
+              {
+                "end": 56,
+                "start": 51,
+                "username": "wgsi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 82,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 59,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2097878253188899054",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10324,
+          "following_count": 1244,
+          "like_count": 9306,
+          "listed_count": 15,
+          "media_count": 445,
+          "tweet_count": 5448
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "È la vita una battaglia,\ne il cammino irto d'inganni,\nma siam forti: abbiam vent'anni,\nl'avvenire non temiam...\n🗡️💣🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ValeriaEulabeia",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ValeriaEulabeia",
+                "start": 0,
+                "url": "https://t.co/nm8Jkm6pxW"
+              }
+            ]
+          }
+        },
+        "id": "1313383273079345152",
+        "is_identity_verified": false,
+        "location": "Queensland, Australia",
+        "most_recent_tweet_id": "2097876432697639354",
+        "name": "🏴‍☠️Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "2028669028810838138",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1313383273079345152/1776957256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082274819450732544/2k3gw41X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7118,
+          "following_count": 4299,
+          "like_count": 178509,
+          "listed_count": 21,
+          "media_count": 2992,
+          "tweet_count": 29322
+        },
+        "url": "https://t.co/nm8Jkm6pxW",
+        "username": "ValeriaEulabeia",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

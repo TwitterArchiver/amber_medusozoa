@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1676746772255850496",
+          "name": "Threads (Meta)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453808088054525953",
+          "name": "Meta"
+        }
+      }
+    ],
+    "conversation_id": "2098578610294563163",
+    "created_at": "2026-09-12T01:05:05.000Z",
+    "display_text_range": [
+      0,
+      278
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T02:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098578610294563163"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_medusozo…",
+          "end": 302,
+          "expanded_url": "https://twitter.com/amber_medusozoa/status/2097770631366328653",
+          "start": 279,
+          "url": "https://t.co/0oKlTLvxjJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098578610294563163",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097770631366328653",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "shared this article on threads and immediately received DM from a gender studies phd researching on “chinese queer women” accusing my framing of trans misogyny of obscuring “sex-based oppression” experienced by “biological women.” when can we abolish this discipline im so tired https://t.co/0oKlTLvxjJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2098578610294563163",
+        "created_at": "2026-09-12T01:05:05.000Z",
+        "display_text_range": [
+          0,
+          278
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T02:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098578610294563163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 302,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2097770631366328653",
+              "start": 279,
+              "url": "https://t.co/0oKlTLvxjJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098578610294563163",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097770631366328653",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "shared this article on threads and immediately received DM from a gender studies phd researching on “chinese queer women” accusing my framing of trans misogyny of obscuring “sex-based oppression” experienced by “biological women.” when can we abolish this discipline im so tired https://t.co/0oKlTLvxjJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2097770631366328653",
+        "created_at": "2026-09-09T19:34:27.000Z",
+        "display_text_range": [
+          0,
+          276
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T20:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097770631366328653"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097770631366328653",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 645,
+                "id": "20007447",
+                "start": 640,
+                "username": "wgsi"
+              }
+            ]
+          },
+          "text": "[Long Thread] Hello everyone. Recent controversies over transphobia among Chinese lesbians have drawn international attention, and I’ve received numerous messages from people who are curious/concerned about the current living conditions of trans women in China. I wish to take this opportunity to explain the structural oppression and struggles for survival that trans women in China currently face. The target audience of this thread includes fellow trans people and allies around the world and to cis people who view us with skepticism or outright hostility. My name is amber. I am a trans woman who grew up in China and a PhD student at @wgsi. My research focuses on transfem community history in China since 1980. This is a long thread. Please feel free to repost, bookmark, save, and share it on other platforms. I will also update it in response to feedback.\n各位好。近期，中国女同的恐跨争议在推特上引起了国际关注，有许多人都对中国跨性别女性的生存状况感到好奇和担忧，也有部分人对我们受到的压迫嗤之以鼻。因此，我希望借此机会介绍中国跨性别女性目前面临的结构性压迫和生存困境。本帖的目标受众既包括来自世界各地的同类和友跨人士，也包括那些对我们心生怀疑乃至抱着明确敌意的顺性别者们。我是amber，是一名在中国长大的跨性别女性，也是多伦多大学性别研究系（WGSI）的博士生；我的研究方向是1980年之后的中国跨性别女性社群历史。本贴较长，大家可以任意转发收藏保存并传播，我也会基于后续反馈对此贴进行更新。1/10"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2158,
+          "impression_count": 130892,
+          "like_count": 3265,
+          "quote_count": 47,
+          "reply_count": 22,
+          "retweet_count": 865
+        },
+        "reply_settings": "everyone",
+        "text": "[Long Thread] Hello everyone. Recent controversies over transphobia among Chinese lesbians have drawn international attention, and I’ve received numerous messages from people who are curious/concerned about the current living conditions of trans women in China. I wish to take"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2098578610294563163",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10741,
+          "following_count": 1279,
+          "like_count": 9582,
+          "listed_count": 14,
+          "media_count": 455,
+          "tweet_count": 5650
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

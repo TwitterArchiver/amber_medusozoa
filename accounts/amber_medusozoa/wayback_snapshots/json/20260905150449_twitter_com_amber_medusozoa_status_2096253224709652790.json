@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2096253224709652790",
+    "created_at": "2026-09-05T15:04:49.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T16:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096253224709652790"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liu_nan_nan/st…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/liu_nan_nan/status/2096131645808210375",
+          "start": 30,
+          "url": "https://t.co/gYuptZfSpr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096253224709652790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096131645808210375",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是会吃的，直接变成 salted caramel，香晕了 https://t.co/gYuptZfSpr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2096253224709652790",
+        "created_at": "2026-09-05T15:04:49.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096253224709652790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liu_nan_nan/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/liu_nan_nan/status/2096131645808210375",
+              "start": 30,
+              "url": "https://t.co/gYuptZfSpr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096253224709652790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096131645808210375",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是会吃的，直接变成 salted caramel，香晕了 https://t.co/gYuptZfSpr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961425958277373952",
+        "conversation_id": "2096131645808210375",
+        "created_at": "2026-09-05T07:01:43.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T08:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096131645808210375"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096131645808210375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5094,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在萨利亚\n邻桌的日本人女性往布丁上撒盐\n大受震撼🫪🫪🫪🫪"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya / ✦ @amber_toffee\n❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 33,
+                "start": 20,
+                "username": "amber_toffee"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 59,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 36,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2096253224709652790",
+        "name": "amber水母",
+        "pinned_tweet_id": "2087096982267432968",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095287135397974019/rTcsEoij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8286,
+          "following_count": 1163,
+          "like_count": 8423,
+          "listed_count": 12,
+          "media_count": 407,
+          "tweet_count": 4881
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-29T13:49:33.000Z",
+        "description": "上赶着不是买卖",
+        "id": "1961425958277373952",
+        "is_identity_verified": false,
+        "location": "埼玉の山奥",
+        "most_recent_tweet_id": "2096222559549468811",
+        "name": "劉喃喃",
+        "pinned_tweet_id": "2009230579519422718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1961425958277373952/1771258365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006409337653309443/x4oV5msk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 222,
+          "like_count": 9753,
+          "listed_count": 9,
+          "media_count": 23,
+          "tweet_count": 319
+        },
+        "url": "",
+        "username": "Liu_nan_nan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

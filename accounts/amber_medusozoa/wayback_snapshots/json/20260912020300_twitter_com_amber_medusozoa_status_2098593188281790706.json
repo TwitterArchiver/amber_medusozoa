@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "2098593188281790706",
+    "created_at": "2026-09-12T02:03:00.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T03:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098593188281790706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "25572966",
+          "start": 3,
+          "username": "i_am_remy_bot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098593188281790706",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 119
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098488512404463679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @i_am_remy_bot: do cis people know or care that trans people in prison are being forcibly detransitioned and put into conversion therapy…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2098593188281790706",
+        "created_at": "2026-09-12T02:03:00.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T03:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098593188281790706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "25572966",
+              "start": 3,
+              "username": "i_am_remy_bot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098593188281790706",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098488512404463679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @i_am_remy_bot: do cis people know or care that trans people in prison are being forcibly detransitioned and put into conversion therapy…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "25572966",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2098488512404463679",
+        "created_at": "2026-09-11T19:07:04.000Z",
+        "display_text_range": [
+          0,
+          259
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T20:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098488512404463679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "On February 19, 2026, the Federal Bureau of Prisons issued a new policy on the “Management of Inmates with Gender Dysphoria.” The title sounds clinical. The reality is brutal: the federal government has now officially placed itself in the business of punishing transgender people for being who they are — by withdrawing their medical care, confiscating their […]",
+              "display_url": "nclrights.org/the-federal-bu…",
+              "end": 234,
+              "expanded_url": "https://www.nclrights.org/the-federal-bureau-of-prisons-is-running-a-conversion-therapy-program-we-must-not-let-it-stand/",
+              "images": [
+                {
+                  "height": 807,
+                  "url": "https://pbs.twimg.com/news_img/2098488520574976000/z_AzzkCL?format=jpg&name=orig",
+                  "width": 1074
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2098488520574976000/z_AzzkCL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 211,
+              "status": 200,
+              "title": "The Federal Bureau of Prisons Is Running a Conversion Therapy Program. We Must Not Let It Stand. ",
+              "unwound_url": "https://www.nclrights.org/the-federal-bureau-of-prisons-is-running-a-conversion-therapy-program-we-must-not-let-it-stand/",
+              "url": "https://t.co/JaisDO4eUf"
+            },
+            {
+              "description": "‘People will die,’ an advocate warns, as standard treatments for gender dysphoria are replaced with therapy and antidepressants after Trump’s order.",
+              "display_url": "themarshallproject.org/2026/02/19/tra…",
+              "end": 259,
+              "expanded_url": "https://www.themarshallproject.org/2026/02/19/transgender-federal-prisons-care-ban-policy",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/2098488517773193216/tkyJIOQu?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2098488517773193216/tkyJIOQu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 236,
+              "status": 200,
+              "title": "Federal Prisons Bar Gender-Affirming Care for Trans People",
+              "unwound_url": "https://www.themarshallproject.org/2026/02/19/transgender-federal-prisons-care-ban-policy",
+              "url": "https://t.co/2IcL3d1eOa"
+            },
+            {
+              "display_url": "x.com/canteverdie/st…",
+              "end": 283,
+              "expanded_url": "https://twitter.com/canteverdie/status/2098441105180135581",
+              "start": 260,
+              "url": "https://t.co/WD8kl9AGMC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098488512404463679",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 5372,
+          "like_count": 464,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 119
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098441105180135581",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "do cis people know or care that trans people in prison are being forcibly detransitioned and put into conversion therapy? trans girls in sports and “children surgeries” are the trojan horse for these policies.\n\nhttps://t.co/JaisDO4eUf\n\nhttps://t.co/2IcL3d1eOa https://t.co/WD8kl9AGMC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2098593188281790706",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10746,
+          "following_count": 1281,
+          "like_count": 9597,
+          "listed_count": 14,
+          "media_count": 455,
+          "tweet_count": 5660
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-03-20T20:46:42.000Z",
+        "description": "pro-Anarchy, pro-Palestine, anti-Flock 🏴🏳️‍⚧️ 🇵🇸🔻",
+        "id": "25572966",
+        "is_identity_verified": false,
+        "location": "he/they",
+        "most_recent_tweet_id": "2098558840279347404",
+        "name": "possum faerie",
+        "pinned_tweet_id": "1827396393297965215",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25572966/1610597116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087306266783911936/UwYWa-Na_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1803,
+          "following_count": 1873,
+          "like_count": 198012,
+          "listed_count": 35,
+          "media_count": 1029,
+          "tweet_count": 37206
+        },
+        "url": "",
+        "username": "i_am_remy_bot",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

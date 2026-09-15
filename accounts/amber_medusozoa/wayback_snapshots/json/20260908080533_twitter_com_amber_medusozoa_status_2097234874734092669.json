@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096869642765799424",
+        "3_2096869649392779264"
+      ],
+      "media_source_tweet_id": [
+        "2096869656254693765",
+        "2096869656254693765"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2097234874734092669",
+    "created_at": "2026-09-08T08:05:33.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T09:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097234874734092669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1589809419822329857",
+          "start": 3,
+          "username": "jianlvup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YlYFoOkYFl",
+          "end": 44,
+          "expanded_url": "https://x.com/jianlvup/status/2096869656254693765/photo/1",
+          "media_key": "3_2096869642765799424",
+          "start": 21,
+          "url": "https://t.co/YlYFoOkYFl"
+        },
+        {
+          "display_url": "pic.x.com/YlYFoOkYFl",
+          "end": 44,
+          "expanded_url": "https://x.com/jianlvup/status/2096869656254693765/photo/1",
+          "media_key": "3_2096869649392779264",
+          "start": 21,
+          "url": "https://t.co/YlYFoOkYFl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097234874734092669",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096869642765799424"
+      },
+      {
+        "media_key": "3_2096869649392779264"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096869656254693765",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jianlvup: 这是中式恐怖 https://t.co/YlYFoOkYFl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2096869642765799424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRmT1JVbEAA4Fqg.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2096869649392779264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRmT1iBawAAdrWP.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096869642765799424",
+            "3_2096869649392779264"
+          ],
+          "media_source_tweet_id": [
+            "2096869656254693765",
+            "2096869656254693765"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2097234874734092669",
+        "created_at": "2026-09-08T08:05:33.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T09:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097234874734092669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1589809419822329857",
+              "start": 3,
+              "username": "jianlvup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YlYFoOkYFl",
+              "end": 44,
+              "expanded_url": "https://x.com/jianlvup/status/2096869656254693765/photo/1",
+              "media_key": "3_2096869642765799424",
+              "start": 21,
+              "url": "https://t.co/YlYFoOkYFl"
+            },
+            {
+              "display_url": "pic.x.com/YlYFoOkYFl",
+              "end": 44,
+              "expanded_url": "https://x.com/jianlvup/status/2096869656254693765/photo/1",
+              "media_key": "3_2096869649392779264",
+              "start": 21,
+              "url": "https://t.co/YlYFoOkYFl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097234874734092669",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096869642765799424"
+          },
+          {
+            "media_key": "3_2096869649392779264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096869656254693765",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jianlvup: 这是中式恐怖 https://t.co/YlYFoOkYFl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096869642765799424",
+            "3_2096869649392779264"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "2096869656254693765",
+        "created_at": "2026-09-07T07:54:18.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T08:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096869656254693765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YlYFoOkYFl",
+              "end": 30,
+              "expanded_url": "https://x.com/jianlvup/status/2096869656254693765/photo/1",
+              "media_key": "3_2096869642765799424",
+              "start": 7,
+              "url": "https://t.co/YlYFoOkYFl"
+            },
+            {
+              "display_url": "pic.x.com/YlYFoOkYFl",
+              "end": 30,
+              "expanded_url": "https://x.com/jianlvup/status/2096869656254693765/photo/1",
+              "media_key": "3_2096869649392779264",
+              "start": 7,
+              "url": "https://t.co/YlYFoOkYFl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096869656254693765",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096869642765799424"
+          },
+          {
+            "media_key": "3_2096869649392779264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 52448,
+          "like_count": 230,
+          "quote_count": 0,
+          "reply_count": 67,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "这是中式恐怖 https://t.co/YlYFoOkYFl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia @wgsi ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              },
+              {
+                "end": 56,
+                "start": 51,
+                "username": "wgsi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 82,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 59,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2097234874734092669",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2096766200336322974",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9811,
+          "following_count": 1220,
+          "like_count": 9051,
+          "listed_count": 12,
+          "media_count": 432,
+          "tweet_count": 5269
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "小号：@jianlvya\n搭档:@KawawaDiana8964\n奇怪的人  INTJ 欢迎交流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jianlvya"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "is_identity_verified": false,
+        "location": "为爱发电",
+        "most_recent_tweet_id": "2097229851577209032",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "2096747506185236796",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1589809419822329857/1744989387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004901762986389504/M3hchdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20861,
+          "following_count": 1631,
+          "like_count": 92810,
+          "listed_count": 71,
+          "media_count": 4363,
+          "tweet_count": 8286
+        },
+        "url": "",
+        "username": "jianlvup",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

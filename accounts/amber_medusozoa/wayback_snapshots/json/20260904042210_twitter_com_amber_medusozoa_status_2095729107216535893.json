@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2095685985845879156",
+    "created_at": "2026-09-04T04:22:10.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T05:22:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095729107216535893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1095642193031684098",
+          "start": 0,
+          "username": "Jumina_V_F_de_T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095729107216535893",
+    "in_reply_to_user_id": "1095642193031684098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095685985845879156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jumina_V_F_de_T 生日快乐"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2095685985845879156].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2095685985845879156",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2095685985845879156"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2095685985845879156",
+        "created_at": "2026-09-04T04:22:10.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T05:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095729107216535893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1095642193031684098",
+              "start": 0,
+              "username": "Jumina_V_F_de_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095729107216535893",
+        "in_reply_to_user_id": "1095642193031684098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095685985845879156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jumina_V_F_de_T 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦@noaayoyaoaya / ✦@amber_toffee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2095729107216535893",
+        "name": "amber水母",
+        "pinned_tweet_id": "2059795253410885885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095287135397974019/rTcsEoij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8268,
+          "following_count": 1162,
+          "like_count": 8282,
+          "listed_count": 12,
+          "media_count": 403,
+          "tweet_count": 4799
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-02-13T11:13:49.000Z",
+        "description": "可以叫我「ゆみな」或「ミナ」|| INTP-T ( Ti-Te 雙高型 ) || Asperger + ADHD + 焦慮障礙 || 寵物是一輛Trail型登山車 || 語音学&音系学愛好者 || 每天都要吃很多藥物的呆小寶🫨 || 超級豆糕宝 @RedBeanu_hong 🍰✨☀️\\(ᗜ ̬ᗜ)/💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 123,
+                "username": "RedBeanu_hong"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jumina_v_f_de_t",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jumina_v_f_de_t",
+                "start": 0,
+                "url": "https://t.co/FuHivBxq0X"
+              }
+            ]
+          }
+        },
+        "id": "1095642193031684098",
+        "is_identity_verified": false,
+        "location": "Teslurbega, Juminuja",
+        "most_recent_tweet_id": "2083782823929098631",
+        "name": "Jumina V. F. de Tokiĉi 🌅 ( ⦁ ̬⦁ )",
+        "pinned_tweet_id": "2001158126175969365",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1095642193031684098/1550203499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026823850391121922/L50ffL--_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 991,
+          "like_count": 42389,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 777
+        },
+        "url": "https://t.co/FuHivBxq0X",
+        "username": "Jumina_V_F_de_T",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

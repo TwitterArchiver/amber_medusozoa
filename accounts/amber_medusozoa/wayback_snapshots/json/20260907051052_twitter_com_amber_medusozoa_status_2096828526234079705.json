@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2096705153919312000",
+    "created_at": "2026-09-07T05:10:52.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T06:10:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096828526234079705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1223056130223378432",
+          "start": 0,
+          "username": "c1oudtide"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096828526234079705",
+    "in_reply_to_user_id": "1223056130223378432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096822293813239997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c1oudtide 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2096705153919312000",
+        "created_at": "2026-09-07T05:10:52.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T06:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096828526234079705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1223056130223378432",
+              "start": 0,
+              "username": "c1oudtide"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096828526234079705",
+        "in_reply_to_user_id": "1223056130223378432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096822293813239997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c1oudtide 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223056130223378432",
+        "conversation_id": "2096705153919312000",
+        "created_at": "2026-09-07T04:46:06.000Z",
+        "display_text_range": [
+          17,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096822293813239997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096822293813239997",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096705153919312000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa amber老师这么喜欢都市ol风么"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @wgsi @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 39,
+                "start": 34,
+                "username": "wgsi"
+              },
+              {
+                "end": 56,
+                "start": 40,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 82,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 59,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2096828526234079705",
+        "name": "amber 水母🏳️‍⚧️",
+        "pinned_tweet_id": "2096766200336322974",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8537,
+          "following_count": 1183,
+          "like_count": 8642,
+          "listed_count": 12,
+          "media_count": 427,
+          "tweet_count": 5065
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-01-31T01:31:30.000Z",
+        "description": "杜野凛世／Computer Science／地雷系爱好者\n扩列可以tg：https://t.co/uMPoz9f3Yg\n现生朋友看到此号请忽略🥺",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/c1oudtide",
+                "end": 59,
+                "expanded_url": "http://t.me/c1oudtide",
+                "start": 36,
+                "url": "https://t.co/uMPoz9f3Yg"
+              }
+            ]
+          }
+        },
+        "id": "1223056130223378432",
+        "is_identity_verified": false,
+        "location": "月球",
+        "most_recent_tweet_id": "2096827390135808498",
+        "name": "汐",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1223056130223378432/1580650652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041413356092076032/8HseRy_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 575,
+          "like_count": 6398,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 606
+        },
+        "url": "",
+        "username": "c1oudtide",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2098111020220711102",
+    "created_at": "2026-09-10T18:53:52.000Z",
+    "display_text_range": [
+      13,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T19:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098122806189801868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1617419399572643840",
+          "start": 0,
+          "username": "jingqngrng1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098122806189801868",
+    "in_reply_to_user_id": "1617419399572643840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098118599437332876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingqngrng1 我知道 我借题发挥而已 且骂我的人显然也不关心视频内容是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2098111020220711102",
+        "created_at": "2026-09-10T18:53:52.000Z",
+        "display_text_range": [
+          13,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T19:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098122806189801868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1617419399572643840",
+              "start": 0,
+              "username": "jingqngrng1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098122806189801868",
+        "in_reply_to_user_id": "1617419399572643840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098118599437332876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingqngrng1 我知道 我借题发挥而已 且骂我的人显然也不关心视频内容是什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617419399572643840",
+        "conversation_id": "2098111020220711102",
+        "created_at": "2026-09-10T18:37:09.000Z",
+        "display_text_range": [
+          17,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T19:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098118599437332876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098118599437332876",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098111020220711102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 啊...但是當時源視頻根本不是你說的那樣的啊..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2098122806189801868",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10573,
+          "following_count": 1260,
+          "like_count": 9423,
+          "listed_count": 15,
+          "media_count": 452,
+          "tweet_count": 5532
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-23T07:10:21.000Z",
+        "description": "（読みは\nちなせ　あきみなみ）\n民俗文化/手工藝/畫畫/古今語言/很難學會事情的幼稚推主\n邮箱:  hanamiwosuru@gmail.com\njingqngrng1@outlook.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/benxnqueut",
+                "end": 23,
+                "expanded_url": "http://t.me/benxnqueut",
+                "start": 0,
+                "url": "https://t.co/5NB3MZvRml"
+              }
+            ]
+          }
+        },
+        "id": "1617419399572643840",
+        "is_identity_verified": false,
+        "location": "Middangeard",
+        "most_recent_tweet_id": "2098118599437332876",
+        "name": "千名瀬　秋南",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1617419399572643840/1678195321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842834580916813824/g8ZJVpeO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1504,
+          "following_count": 1658,
+          "like_count": 195635,
+          "listed_count": 2,
+          "media_count": 520,
+          "tweet_count": 5770
+        },
+        "url": "https://t.co/5NB3MZvRml",
+        "username": "jingqngrng1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

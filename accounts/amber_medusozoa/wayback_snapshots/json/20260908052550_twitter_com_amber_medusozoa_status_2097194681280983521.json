@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Page for Global Pride Month for all years",
+          "id": "1275153105659650048",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      }
+    ],
+    "conversation_id": "2097194681280983521",
+    "created_at": "2026-09-08T05:25:50.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T06:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097194681280983521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2188315118",
+          "start": 3,
+          "username": "va_layla"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097194681280983521",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096905695639769253",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @va_layla: Do keep in mind that Shanghai pride was banned in 2021 they shut down lgbt organisations in 2023 and they recently shut down…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          }
+        ],
+        "conversation_id": "2097194681280983521",
+        "created_at": "2026-09-08T05:25:50.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097194681280983521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2188315118",
+              "start": 3,
+              "username": "va_layla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097194681280983521",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096905695639769253",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @va_layla: Do keep in mind that Shanghai pride was banned in 2021 they shut down lgbt organisations in 2023 and they recently shut down…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2188315118",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1433125517692002306",
+              "name": "Dating Apps"
+            }
+          }
+        ],
+        "conversation_id": "2096905695639769253",
+        "created_at": "2026-09-07T10:17:31.000Z",
+        "display_text_range": [
+          0,
+          241
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096905695639769253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 265,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2096791824585175070",
+              "start": 242,
+              "url": "https://t.co/BKkJeHpgCQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096905695639769253",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 9199,
+          "like_count": 652,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096791824585175070",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Do keep in mind that Shanghai pride was banned in 2021 they shut down lgbt organisations in 2023 and they recently shut down lgbt dating apps ❤️ queer solidarity IS oppressed in China ,, a baihe event was literally just banned months ago too https://t.co/BKkJeHpgCQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia @wgsi ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              },
+              {
+                "end": 56,
+                "start": 51,
+                "username": "wgsi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 82,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 59,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2097194681280983521",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2096766200336322974",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9756,
+          "following_count": 1218,
+          "like_count": 9003,
+          "listed_count": 12,
+          "media_count": 432,
+          "tweet_count": 5248
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-11-11T12:42:20.000Z",
+        "description": "Wanna-be-voice-actor, Brony, Kind-of-an-artist, Possible-fanfic-writer, All-time shipper, Applejack lover, 방탄소년단, ARMY A BTS STAN ONLY, Live Laugh love Hualian",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laylacrazor.carrd.co",
+                "end": 23,
+                "expanded_url": "https://laylacrazor.carrd.co",
+                "start": 0,
+                "url": "https://t.co/cCMcspdhXn"
+              }
+            ]
+          }
+        },
+        "id": "2188315118",
+        "is_identity_verified": false,
+        "location": "Somewhere, PalmNueng",
+        "most_recent_tweet_id": "2097170777015808507",
+        "name": "Layla C #7 📖 cr: q/jj, sv",
+        "pinned_tweet_id": "1721389994047402112",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2188315118/1585469804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756573120738312192/i-rz0Bd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 249,
+          "like_count": 221718,
+          "listed_count": 3,
+          "media_count": 1423,
+          "tweet_count": 142787
+        },
+        "url": "https://t.co/cCMcspdhXn",
+        "username": "va_layla",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

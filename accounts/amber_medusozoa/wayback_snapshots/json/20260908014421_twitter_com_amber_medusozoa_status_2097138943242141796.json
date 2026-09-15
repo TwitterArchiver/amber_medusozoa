@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2097076873155203351",
+    "created_at": "2026-09-08T01:44:21.000Z",
+    "display_text_range": [
+      13,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T02:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097138943242141796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2055205435011936256",
+          "start": 0,
+          "username": "Amin1650752"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097138943242141796",
+    "in_reply_to_user_id": "2055205435011936256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097076873155203351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amin1650752 宝宝你做的对！请务必多发"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2097076870768726016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRpQTZzbkAAP_Yz.jpg",
+        "width": 768
+      },
+      {
+        "height": 2133,
+        "media_key": "3_2097075520324423680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRpPEzAa0AAgbjU.jpg",
+        "width": 1600
+      },
+      {
+        "duration_ms": 10193,
+        "height": 1920,
+        "media_key": "7_2097075527551246336",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2097075527551246336/pu/img/3Y1jh6ol-HQLrVMZ.jpg",
+        "public_metrics": {
+          "view_count": 526
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2097075527551246336/pu/vid/avc1/320x568/Q0_nkQCRZq-Up1VQ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2097075527551246336/pu/vid/avc1/1080x1920/83LJ_sPVMqrp67Vm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2097075527551246336/pu/pl/0h5qfnJ3On2x5mXG.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2097075527551246336/pu/vid/avc1/480x852/NGPEOxWalt0F6d1z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2097075527551246336/pu/vid/avc1/720x1280/pDHN0iNMziFCU-3u.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2097076873155203351",
+        "created_at": "2026-09-08T01:44:21.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T02:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097138943242141796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2055205435011936256",
+              "start": 0,
+              "username": "Amin1650752"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097138943242141796",
+        "in_reply_to_user_id": "2055205435011936256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097076873155203351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amin1650752 宝宝你做的对！请务必多发"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097076870768726016",
+            "3_2097075520324423680",
+            "7_2097075527551246336"
+          ]
+        },
+        "author_id": "2055205435011936256",
+        "conversation_id": "2097076873155203351",
+        "created_at": "2026-09-07T21:37:43.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T22:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097076873155203351"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "wlw"
+            },
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "les"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "女同性恋"
+            },
+            {
+              "end": 38,
+              "start": 28,
+              "tag": "transbian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gAfugZQxD6",
+              "end": 62,
+              "expanded_url": "https://x.com/Amin1650752/status/2097076873155203351/video/1",
+              "media_key": "3_2097076870768726016",
+              "start": 39,
+              "url": "https://t.co/gAfugZQxD6"
+            },
+            {
+              "display_url": "pic.x.com/gAfugZQxD6",
+              "end": 62,
+              "expanded_url": "https://x.com/Amin1650752/status/2097076873155203351/video/1",
+              "media_key": "3_2097075520324423680",
+              "start": 39,
+              "url": "https://t.co/gAfugZQxD6"
+            },
+            {
+              "display_url": "pic.x.com/gAfugZQxD6",
+              "end": 62,
+              "expanded_url": "https://x.com/Amin1650752/status/2097076873155203351/video/1",
+              "media_key": "7_2097075527551246336",
+              "start": 39,
+              "url": "https://t.co/gAfugZQxD6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097076873155203351",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097076870768726016"
+          },
+          {
+            "media_key": "3_2097075520324423680"
+          },
+          {
+            "media_key": "7_2097075527551246336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 2338,
+          "like_count": 323,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "多说无益那发点跨女同吧\n#wlw #les #女同性恋 #transbian https://t.co/gAfugZQxD6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia @wgsi ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              },
+              {
+                "end": 56,
+                "start": 51,
+                "username": "wgsi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 82,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 59,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2097138943242141796",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2096766200336322974",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9683,
+          "following_count": 1213,
+          "like_count": 8976,
+          "listed_count": 13,
+          "media_count": 432,
+          "tweet_count": 5230
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T08:35:42.000Z",
+        "description": "姛/mtf/HRT 24.9.21/同类互fo/不鉴证&不o不割/大概同人游戏女（？）/q2418203817（猫の箱）",
+        "id": "2055205435011936256",
+        "is_identity_verified": false,
+        "location": "RiNG",
+        "most_recent_tweet_id": "2097126472125497802",
+        "name": "-Amin🐱",
+        "pinned_tweet_id": "2095712124458995938",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055205435011936256/1788541715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096133941447299072/quH4TbTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 1106,
+          "like_count": 15544,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 1221
+        },
+        "url": "",
+        "username": "Amin1650752",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

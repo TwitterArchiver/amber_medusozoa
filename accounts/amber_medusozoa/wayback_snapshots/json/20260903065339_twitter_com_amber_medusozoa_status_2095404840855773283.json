@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2095404840855773283",
+    "created_at": "2026-09-03T06:53:39.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T07:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095404840855773283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_toffee/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/amber_toffee/status/2095365662956757000",
+          "start": 9,
+          "url": "https://t.co/k6ZMnOve6I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095404840855773283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095365662956757000",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个结果很奇怪吗 https://t.co/k6ZMnOve6I"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2095404840855773283",
+        "created_at": "2026-09-03T06:53:39.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T07:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095404840855773283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/amber_toffee/status/2095365662956757000",
+              "start": 9,
+              "url": "https://t.co/k6ZMnOve6I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095404840855773283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095365662956757000",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个结果很奇怪吗 https://t.co/k6ZMnOve6I"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "2095365662956757000",
+        "created_at": "2026-09-03T04:17:58.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T05:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095365662956757000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1arabella_/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/1arabella_/status/2095032587928441197",
+              "start": 9,
+              "url": "https://t.co/c5Tu9z6Vnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095365662956757000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 882,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095032587928441197",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "9-12都可以😋 https://t.co/c5Tu9z6Vnu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦@noaayoyaoaya / ✦@amber_toffee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭・🇨🇦 ᴛʀᴛ・ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2095404840855773283",
+        "name": "amber水母",
+        "pinned_tweet_id": "2059795253410885885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095287135397974019/rTcsEoij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8264,
+          "following_count": 1179,
+          "like_count": 8228,
+          "listed_count": 12,
+          "media_count": 402,
+          "tweet_count": 4760
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❦@noaayoyaoaya / ✦@amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 18,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/C8ujXiqImv"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2095402386894307810",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2043740939890360359",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1424779836938022913/1769711229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26400,
+          "following_count": 2763,
+          "like_count": 41137,
+          "listed_count": 0,
+          "media_count": 669,
+          "tweet_count": 22471
+        },
+        "url": "https://t.co/C8ujXiqImv",
+        "username": "amber_toffee",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2097109386304844057",
+    "created_at": "2026-09-07T23:46:54.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T00:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097109386304844057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2918315616",
+          "start": 3,
+          "username": "bognamk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097109386304844057",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096843818951684325",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bognamk: reading Kant’s Critique of Judgment is like confusedly following an autistic man carrying a small candle through a dark labyri…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2097109386304844057",
+        "created_at": "2026-09-07T23:46:54.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T00:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097109386304844057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2918315616",
+              "start": 3,
+              "username": "bognamk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097109386304844057",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096843818951684325",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bognamk: reading Kant’s Critique of Judgment is like confusedly following an autistic man carrying a small candle through a dark labyri…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2918315616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2096843818951684325",
+        "created_at": "2026-09-07T06:11:38.000Z",
+        "display_text_range": [
+          0,
+          284
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T07:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096843818951684325"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096843818951684325",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 341,
+          "impression_count": 33186,
+          "like_count": 1273,
+          "quote_count": 18,
+          "reply_count": 23,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "reading Kant’s Critique of Judgment is like confusedly following an autistic man carrying a small candle through a dark labyrinth, constantly saying, “it will all come together after this turn.” then eternity passes, it actually comes together &amp; you undergo a mystical experience."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia @wgsi ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              },
+              {
+                "end": 56,
+                "start": 51,
+                "username": "wgsi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 82,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 59,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2097109386304844057",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2096766200336322974",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9623,
+          "following_count": 1211,
+          "like_count": 8958,
+          "listed_count": 11,
+          "media_count": 432,
+          "tweet_count": 5216
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-12-04T08:23:46.000Z",
+        "description": "🥷 prof of new tech @ nyush. now book on ai + nonhuman minds + east europe. strategy on tech futures & post-war transitions. fem2angel. kyiv/shanghai.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bognamk.com",
+                "end": 23,
+                "expanded_url": "http://www.bognamk.com",
+                "start": 0,
+                "url": "https://t.co/zi9rwsZ3wa"
+              }
+            ]
+          }
+        },
+        "id": "2918315616",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096874910077374566",
+        "name": "bogna",
+        "pinned_tweet_id": "2080344003199811883",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2918315616/1776415082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075294955770195968/OXdHk309_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7829,
+          "following_count": 524,
+          "like_count": 24257,
+          "listed_count": 56,
+          "media_count": 386,
+          "tweet_count": 2512
+        },
+        "url": "https://t.co/zi9rwsZ3wa",
+        "username": "bognamk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

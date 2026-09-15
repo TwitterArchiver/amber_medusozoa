@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2088105844017705282",
+    "created_at": "2026-08-14T15:10:27.000Z",
+    "display_text_range": [
+      11,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T16:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088282109500649513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1083359594095640576",
+          "start": 0,
+          "username": "jimpangzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088282109500649513",
+    "in_reply_to_user_id": "1083359594095640576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088127457400627527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jimpangzi 玩绳而已 不是当m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2088105844017705282",
+        "created_at": "2026-08-14T15:10:27.000Z",
+        "display_text_range": [
+          11,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088282109500649513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1083359594095640576",
+              "start": 0,
+              "username": "jimpangzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088282109500649513",
+        "in_reply_to_user_id": "1083359594095640576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088127457400627527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jimpangzi 玩绳而已 不是当m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1083359594095640576",
+        "conversation_id": "2088105844017705282",
+        "created_at": "2026-08-14T04:55:56.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088127457400627527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088127457400627527",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088105844017705282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 做M还是要严肃点吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088282109500649513",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2080801154435326152",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080483846097629184/ano5UN60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8110,
+          "following_count": 1199,
+          "like_count": 7508,
+          "listed_count": 12,
+          "media_count": 359,
+          "tweet_count": 4214
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-10T13:47:09.000Z",
+        "description": "医师 ｜商人｜作家 \n \n《深圳来信》、《深圳共和国》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCs5V3…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCs5V3qiVL9BjF0BfGB7Rq8w",
+                "start": 0,
+                "url": "https://t.co/QU14vJBADT"
+              }
+            ]
+          }
+        },
+        "id": "1083359594095640576",
+        "is_identity_verified": false,
+        "location": "Sternberg, Deutschland",
+        "most_recent_tweet_id": "2088265923862077908",
+        "name": "老K",
+        "pinned_tweet_id": "2079507493173289341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1083359594095640576/1785684450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060325807176978433/GTr33ew8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5060,
+          "following_count": 1174,
+          "like_count": 11427,
+          "listed_count": 33,
+          "media_count": 6286,
+          "tweet_count": 61108
+        },
+        "url": "https://t.co/QU14vJBADT",
+        "username": "jimpangzi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

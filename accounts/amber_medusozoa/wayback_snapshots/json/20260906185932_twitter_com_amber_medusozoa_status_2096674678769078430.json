@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096604370469367808"
+      ],
+      "media_source_tweet_id": [
+        "2096604375154401384"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2096674678769078430",
+    "created_at": "2026-09-06T18:59:32.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T19:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096674678769078430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2087962408530894848",
+          "start": 3,
+          "username": "5x5_Lehane"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7qhBzSftdi",
+          "end": 46,
+          "expanded_url": "https://x.com/5x5_Lehane/status/2096604375154401384/photo/1",
+          "media_key": "3_2096604370469367808",
+          "start": 23,
+          "url": "https://t.co/7qhBzSftdi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096674678769078430",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "3_2096604370469367808"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096604375154401384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5x5_Lehane: Bingo. https://t.co/7qhBzSftdi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1654,
+        "media_key": "3_2096604370469367808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiikRBbsAAJPgS.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096604370469367808"
+          ],
+          "media_source_tweet_id": [
+            "2096604375154401384"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2096674678769078430",
+        "created_at": "2026-09-06T18:59:32.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T19:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096674678769078430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2087962408530894848",
+              "start": 3,
+              "username": "5x5_Lehane"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7qhBzSftdi",
+              "end": 46,
+              "expanded_url": "https://x.com/5x5_Lehane/status/2096604375154401384/photo/1",
+              "media_key": "3_2096604370469367808",
+              "start": 23,
+              "url": "https://t.co/7qhBzSftdi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096674678769078430",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2096604370469367808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096604375154401384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5x5_Lehane: Bingo. https://t.co/7qhBzSftdi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096604370469367808"
+          ]
+        },
+        "author_id": "2087962408530894848",
+        "conversation_id": "2096604375154401384",
+        "created_at": "2026-09-06T14:20:10.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096604375154401384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7qhBzSftdi",
+              "end": 30,
+              "expanded_url": "https://x.com/5x5_Lehane/status/2096604375154401384/photo/1",
+              "media_key": "3_2096604370469367808",
+              "start": 7,
+              "url": "https://t.co/7qhBzSftdi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096604375154401384",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2096604370469367808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 1339,
+          "like_count": 177,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "Bingo. https://t.co/7qhBzSftdi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2096674678769078430",
+        "name": "amber 水母",
+        "pinned_tweet_id": "2087096982267432968",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8376,
+          "following_count": 1176,
+          "like_count": 8542,
+          "listed_count": 12,
+          "media_count": 418,
+          "tweet_count": 4982
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-13T18:00:05.000Z",
+        "description": "cis tme lesbian, transfeminist, terfs and transandrodorks DNI \n20 years old in college\nused to be on here but twitter suspended my account",
+        "id": "2087962408530894848",
+        "is_identity_verified": false,
+        "location": "she / her it/its",
+        "most_recent_tweet_id": "2096628253629067750",
+        "name": "Vee",
+        "pinned_tweet_id": "2087963794903552205",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087962408530894848/1788287985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094857713398460416/t8KEKC4P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 223,
+          "like_count": 4418,
+          "listed_count": 3,
+          "media_count": 24,
+          "tweet_count": 3393
+        },
+        "url": "",
+        "username": "5x5_Lehane",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

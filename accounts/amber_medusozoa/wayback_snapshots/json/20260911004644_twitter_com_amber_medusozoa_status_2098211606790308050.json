@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2098208972406702275",
+    "created_at": "2026-09-11T00:46:44.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T01:46:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098211606790308050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1352291322191863809",
+          "start": 0,
+          "username": "WeiWangPKU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098211606790308050",
+    "in_reply_to_user_id": "1352291322191863809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098208972406702275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WeiWangPKU 你认真的吗"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2098208972406702275].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2098208972406702275",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2098208972406702275"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2098208972406702275",
+        "created_at": "2026-09-11T00:46:44.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T01:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098211606790308050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1352291322191863809",
+              "start": 0,
+              "username": "WeiWangPKU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098211606790308050",
+        "in_reply_to_user_id": "1352291322191863809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098208972406702275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WeiWangPKU 你认真的吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2098211606790308050",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10608,
+          "following_count": 1264,
+          "like_count": 9447,
+          "listed_count": 16,
+          "media_count": 452,
+          "tweet_count": 5549
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-21T16:26:01.000Z",
+        "description": "@PKU1898🩰@UHHilo🩰 Ψ@IUBloomingtonψPhD𝛙 PhysOrgChem @EinsteinMed🧬@YUNews @StonyBrookChem🧫 @ZZU_China @NJU1902 #BeijingDanceAcademy #BLM #RadicalFeminism",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 109,
+                "tag": "BeijingDanceAcademy"
+              },
+              {
+                "end": 134,
+                "start": 130,
+                "tag": "BLM"
+              },
+              {
+                "end": 151,
+                "start": 135,
+                "tag": "RadicalFeminism"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "PKU1898"
+              },
+              {
+                "end": 16,
+                "start": 9,
+                "username": "UHHilo"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "IUBloomington"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "EinsteinMed"
+              },
+              {
+                "end": 71,
+                "start": 64,
+                "username": "YUNews"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "StonyBrookChem"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "ZZU_China"
+              },
+              {
+                "end": 108,
+                "start": 100,
+                "username": "NJU1902"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wwiub.…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/wwiub.bsky.social",
+                "start": 0,
+                "url": "https://t.co/17RQekanE4"
+              }
+            ]
+          }
+        },
+        "id": "1352291322191863809",
+        "is_identity_verified": false,
+        "location": "DC/NYC/དགའ་ལྡན་བྱིན་ཆགས་གླིང་།",
+        "most_recent_tweet_id": "1738262205563367553",
+        "name": "Dr. Wei Wang རྒྱལ་པོ།🍍",
+        "pinned_tweet_id": "2063048224407958001",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1352291322191863809/1739010696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088338379427516416/lId7WYrI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 6897,
+          "like_count": 394836,
+          "listed_count": 4,
+          "media_count": 4046,
+          "tweet_count": 163891
+        },
+        "url": "https://t.co/17RQekanE4",
+        "username": "WeiWangPKU",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

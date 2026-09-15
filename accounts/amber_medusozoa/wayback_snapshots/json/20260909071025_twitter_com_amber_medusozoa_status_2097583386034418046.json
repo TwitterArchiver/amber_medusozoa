@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2097583386034418046",
+    "created_at": "2026-09-09T07:10:25.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T08:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097583386034418046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1297573208833458176",
+          "start": 3,
+          "username": "EntertainersAce"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/isE9",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/isE9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097583386034418046",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 795
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097366103312015365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EntertainersAce: Good to see more Trans representation in anime 🏳️‍⚧️\nGreat scene to show how to honestly treat them. https://t.co/isE9…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 90634,
+        "height": 720,
+        "media_key": "13_2097366053315911682",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097366053315911682/img/mesoE1sOJZcTFC89.jpg",
+        "public_metrics": {
+          "view_count": 168479
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097366053315911682/vid/avc1/480x270/HoWOEO1JaeYPukZr.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097366053315911682/vid/avc1/640x360/rF_9PyCP6b-tlJ6t.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097366053315911682/vid/avc1/1280x720/UGgHnESMergL5Ojk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097366053315911682/pl/KoOBzhHNIpFP4euM.m3u8?v=84a"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2097583386034418046",
+        "created_at": "2026-09-09T07:10:25.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T08:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097583386034418046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1297573208833458176",
+              "start": 3,
+              "username": "EntertainersAce"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/isE9",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/isE9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097583386034418046",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 795
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097366103312015365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EntertainersAce: Good to see more Trans representation in anime 🏳️‍⚧️\nGreat scene to show how to honestly treat them. https://t.co/isE9…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097366053315911682"
+          ]
+        },
+        "author_id": "1297573208833458176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2097366103312015365",
+        "created_at": "2026-09-08T16:47:00.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T17:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097366103312015365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/isE9SY1fiJ",
+              "end": 124,
+              "expanded_url": "https://x.com/EntertainersAce/status/2097366103312015365/video/1",
+              "media_key": "13_2097366053315911682",
+              "start": 101,
+              "url": "https://t.co/isE9SY1fiJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097366103312015365",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2097366053315911682"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2897,
+          "impression_count": 285228,
+          "like_count": 11490,
+          "quote_count": 67,
+          "reply_count": 53,
+          "retweet_count": 795
+        },
+        "reply_settings": "everyone",
+        "text": "Good to see more Trans representation in anime 🏳️‍⚧️\nGreat scene to show how to honestly treat them. https://t.co/isE9SY1fiJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia @wgsi ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              },
+              {
+                "end": 56,
+                "start": 51,
+                "username": "wgsi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 82,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 59,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2097583386034418046",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2096766200336322974",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10026,
+          "following_count": 1225,
+          "like_count": 9164,
+          "listed_count": 13,
+          "media_count": 437,
+          "tweet_count": 5335
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-23T16:36:17.000Z",
+        "description": "Favorite anime: Violet Evergarden | Steins Gate | Hibike!Euphonium | Bloom Into You | Fruits Basket\nYuri/SOL Fan 🏳️‍⚧️🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Ace_Entertaine…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Ace_Entertainers",
+                "start": 0,
+                "url": "https://t.co/e5XN1ypF4X"
+              }
+            ]
+          }
+        },
+        "id": "1297573208833458176",
+        "is_identity_verified": false,
+        "location": "Yuri & SOL Heaven",
+        "most_recent_tweet_id": "2097583317176705305",
+        "name": "Ace",
+        "pinned_tweet_id": "2065928380143559056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1297573208833458176/1788202305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094498393167204352/SQ9VoUqG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4519,
+          "following_count": 3054,
+          "like_count": 195410,
+          "listed_count": 23,
+          "media_count": 22758,
+          "tweet_count": 120132
+        },
+        "url": "https://t.co/e5XN1ypF4X",
+        "username": "EntertainersAce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

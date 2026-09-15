@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2095232230893223975",
+    "created_at": "2026-09-03T05:22:30.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T06:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095381900416192833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1802736351793807360",
+          "start": 0,
+          "username": "untilltheend39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095381900416192833",
+    "in_reply_to_user_id": "1802736351793807360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095296748508020910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@untilltheend39 石墨文档"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2095232230893223975",
+        "created_at": "2026-09-03T05:22:30.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T06:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095381900416192833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1802736351793807360",
+              "start": 0,
+              "username": "untilltheend39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095381900416192833",
+        "in_reply_to_user_id": "1802736351793807360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095296748508020910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@untilltheend39 石墨文档"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802736351793807360",
+        "conversation_id": "2095232230893223975",
+        "created_at": "2026-09-02T23:44:08.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T00:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095296748508020910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095296748508020910",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095232230893223975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 想问下这是什么软件"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya / ✦ @amber_toffee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 33,
+                "start": 20,
+                "username": "amber_toffee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭・🇨🇦 ᴛʀᴛ・ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2095381900416192833",
+        "name": "amber水母",
+        "pinned_tweet_id": "2059795253410885885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095287135397974019/rTcsEoij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8264,
+          "following_count": 1179,
+          "like_count": 8213,
+          "listed_count": 12,
+          "media_count": 402,
+          "tweet_count": 4758
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-17T16:13:47.000Z",
+        "description": "『殘忍是美人的天性、習慣和宗教。』 /女Top pansexual/ 開放關係 自愿知情同意/不要過分好奇我/在和我對話之前 先擺正你的態度/𝕾𝖍𝖊'𝖘 𝖘𝖔 𝖑𝖔𝖞𝖆𝖑.",
+        "id": "1802736351793807360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095296748508020910",
+        "name": "將你連同人間浸沒",
+        "pinned_tweet_id": "1862774301902217242",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1802736351793807360/1721891754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901409066590879744/NAhYkSGx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 368,
+          "like_count": 10816,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1741
+        },
+        "url": "",
+        "username": "untilltheend39",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

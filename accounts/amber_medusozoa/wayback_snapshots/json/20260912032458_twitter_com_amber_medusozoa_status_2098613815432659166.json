@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2098613815432659166",
+    "created_at": "2026-09-12T03:24:58.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T04:24:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098613815432659166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1167211366761009152",
+          "start": 3,
+          "username": "M2ziyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098613815432659166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098571438613733502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @M2ziyao: 我想趁着这个空窗期多和你们玩\n大家能不能转发一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2098613815432659166",
+        "created_at": "2026-09-12T03:24:58.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T04:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098613815432659166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1167211366761009152",
+              "start": 3,
+              "username": "M2ziyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098613815432659166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098571438613733502",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @M2ziyao: 我想趁着这个空窗期多和你们玩\n大家能不能转发一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1167211366761009152",
+        "conversation_id": "2098571438613733502",
+        "created_at": "2026-09-12T00:36:35.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T01:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098571438613733502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/M2ziyao/status…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/M2ziyao/status/2098288006771921289",
+              "start": 25,
+              "url": "https://t.co/6yfJ3YzIGV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098571438613733502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1253,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098288006771921289",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想趁着这个空窗期多和你们玩\n大家能不能转发一下 https://t.co/6yfJ3YzIGV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2098613815432659166",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10755,
+          "following_count": 1280,
+          "like_count": 9620,
+          "listed_count": 14,
+          "media_count": 455,
+          "tweet_count": 5675
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-29T23:04:28.000Z",
+        "description": "生活推，此亦拙者之为政也\nshe/they/他她伊\n@ziyaoM2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "ziyaoM2"
+              }
+            ]
+          }
+        },
+        "id": "1167211366761009152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098596583902441898",
+        "name": "水抱屈原是我",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1167211366761009152/1777125272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093596507199221760/LV2rQj5U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 282,
+          "like_count": 16779,
+          "listed_count": 1,
+          "media_count": 675,
+          "tweet_count": 6203
+        },
+        "url": "",
+        "username": "M2ziyao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2096723251380494579",
+    "created_at": "2026-09-06T22:56:24.000Z",
+    "display_text_range": [
+      30,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T23:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096734287269663020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1534773109940789248",
+          "start": 0,
+          "username": "rainchngshainn"
+        },
+        {
+          "end": 29,
+          "id": "1553377337902714881",
+          "start": 16,
+          "username": "ChiangCChing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096734287269663020",
+    "in_reply_to_user_id": "1534773109940789248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096728591237066975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rainchngshainn @ChiangCChing 没她是我高中的 来多伦多找我玩而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2096723251380494579",
+        "created_at": "2026-09-06T22:56:24.000Z",
+        "display_text_range": [
+          30,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T23:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096734287269663020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1534773109940789248",
+              "start": 0,
+              "username": "rainchngshainn"
+            },
+            {
+              "end": 29,
+              "id": "1553377337902714881",
+              "start": 16,
+              "username": "ChiangCChing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096734287269663020",
+        "in_reply_to_user_id": "1534773109940789248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096728591237066975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainchngshainn @ChiangCChing 没她是我高中的 来多伦多找我玩而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534773109940789248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304078935932592131",
+              "name": "University of Toronto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1304078935932592131",
+              "name": "University of Toronto"
+            }
+          }
+        ],
+        "conversation_id": "2096723251380494579",
+        "created_at": "2026-09-06T22:33:46.000Z",
+        "display_text_range": [
+          31,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T23:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096728591237066975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 30,
+              "id": "1553377337902714881",
+              "start": 17,
+              "username": "ChiangCChing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096728591237066975",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096723251380494579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa @ChiangCChing 诶我们uoft又多一位同类吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2096734287269663020",
+        "name": "amber 水母",
+        "pinned_tweet_id": "2087096982267432968",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8381,
+          "following_count": 1180,
+          "like_count": 8573,
+          "listed_count": 12,
+          "media_count": 421,
+          "tweet_count": 5012
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-09T05:43:39.000Z",
+        "description": "一位神秘又可爱的女生 ≽^•⩊•^≼  🇨🇦 大二生物在读，分享一些日常, 中/Eng/日, 欢迎同类互fo， よろしくお願い！\n可爱黑猫卷🐈‍⬛ @CatherinaMeow\n布林喵✨ @blingbling712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "CatherinaMeow"
+              },
+              {
+                "end": 108,
+                "start": 94,
+                "username": "blingbling712"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+vxf3S4VFb-4xN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+vxf3S4VFb-4xNDE1",
+                "start": 0,
+                "url": "https://t.co/2mjyszXyeP"
+              }
+            ]
+          }
+        },
+        "id": "1534773109940789248",
+        "is_identity_verified": false,
+        "location": "Toronto, Ontario",
+        "most_recent_tweet_id": "2096728591237066975",
+        "name": "云欣 Akina",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1534773109940789248/1774681460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059852851132702725/8t0iRaSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 759,
+          "like_count": 12331,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1443
+        },
+        "url": "https://t.co/2mjyszXyeP",
+        "username": "rainchngshainn",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-30T13:50:04.000Z",
+        "description": "因此不常作文者须记忆特强，不常讨论者须天生聪颖，不常读书者须欺世有术，始能无知而显有知。——弗朗西斯•培根《谈读书》",
+        "id": "1553377337902714881",
+        "is_identity_verified": false,
+        "location": "阿蒙森-斯科特南极站",
+        "most_recent_tweet_id": "2096054257007083637",
+        "name": "蒋净",
+        "pinned_tweet_id": "2061689583738482893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1553377337902714881/1672626733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592002828876206080/ThUQWM3z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 128,
+          "like_count": 2122,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 323
+        },
+        "url": "",
+        "username": "ChiangCChing",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

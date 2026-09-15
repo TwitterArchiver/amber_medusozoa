@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095776277311709184",
+        "3_2095776277307547648"
+      ],
+      "media_source_tweet_id": [
+        "2095776294785204291",
+        "2095776294785204291"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2095791021753798888",
+    "created_at": "2026-09-04T08:28:12.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T09:28:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095791021753798888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2032516808951902208",
+          "start": 3,
+          "username": "Jeffrey20011221"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iOGtnLMxVm",
+          "end": 52,
+          "expanded_url": "https://x.com/Jeffrey20011221/status/2095776294785204291/photo/1",
+          "media_key": "3_2095776277311709184",
+          "start": 29,
+          "url": "https://t.co/iOGtnLMxVm"
+        },
+        {
+          "display_url": "pic.x.com/iOGtnLMxVm",
+          "end": 52,
+          "expanded_url": "https://x.com/Jeffrey20011221/status/2095776294785204291/photo/1",
+          "media_key": "3_2095776277307547648",
+          "start": 29,
+          "url": "https://t.co/iOGtnLMxVm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095791021753798888",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095776277311709184"
+      },
+      {
+        "media_key": "3_2095776277307547648"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095776294785204291",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jeffrey20011221: 是amber～ https://t.co/iOGtnLMxVm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095776277311709184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWxa5na4AA5qhO.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095776277307547648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWxa5mbYAA3Rh4.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095776277311709184",
+            "3_2095776277307547648"
+          ],
+          "media_source_tweet_id": [
+            "2095776294785204291",
+            "2095776294785204291"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2095791021753798888",
+        "created_at": "2026-09-04T08:28:12.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T09:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095791021753798888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2032516808951902208",
+              "start": 3,
+              "username": "Jeffrey20011221"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iOGtnLMxVm",
+              "end": 52,
+              "expanded_url": "https://x.com/Jeffrey20011221/status/2095776294785204291/photo/1",
+              "media_key": "3_2095776277311709184",
+              "start": 29,
+              "url": "https://t.co/iOGtnLMxVm"
+            },
+            {
+              "display_url": "pic.x.com/iOGtnLMxVm",
+              "end": 52,
+              "expanded_url": "https://x.com/Jeffrey20011221/status/2095776294785204291/photo/1",
+              "media_key": "3_2095776277307547648",
+              "start": 29,
+              "url": "https://t.co/iOGtnLMxVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095791021753798888",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095776277311709184"
+          },
+          {
+            "media_key": "3_2095776277307547648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095776294785204291",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jeffrey20011221: 是amber～ https://t.co/iOGtnLMxVm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095776277311709184",
+            "3_2095776277307547648"
+          ]
+        },
+        "author_id": "2032516808951902208",
+        "conversation_id": "2095776294785204291",
+        "created_at": "2026-09-04T07:29:40.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T08:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095776294785204291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iOGtnLMxVm",
+              "end": 31,
+              "expanded_url": "https://x.com/Jeffrey20011221/status/2095776294785204291/photo/1",
+              "media_key": "3_2095776277311709184",
+              "start": 8,
+              "url": "https://t.co/iOGtnLMxVm"
+            },
+            {
+              "display_url": "pic.x.com/iOGtnLMxVm",
+              "end": 31,
+              "expanded_url": "https://x.com/Jeffrey20011221/status/2095776294785204291/photo/1",
+              "media_key": "3_2095776277307547648",
+              "start": 8,
+              "url": "https://t.co/iOGtnLMxVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095776294785204291",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095776277311709184"
+          },
+          {
+            "media_key": "3_2095776277307547648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "是amber～ https://t.co/iOGtnLMxVm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦@noaayoyaoaya / ✦@amber_toffee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2095791036643553788",
+        "name": "amber水母",
+        "pinned_tweet_id": "2087096982267432968",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095287135397974019/rTcsEoij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8272,
+          "following_count": 1161,
+          "like_count": 8303,
+          "listed_count": 12,
+          "media_count": 402,
+          "tweet_count": 4807
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-13T18:00:14.000Z",
+        "description": "@Jeff12212001 转生\nMTF in progress 🏳️‍⚧️\nCollecting fountain pens 🖋️\n持证含糖/速通大证🫣",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "Jeff12212001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rheafeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rheafeng",
+                "start": 0,
+                "url": "https://t.co/UHHpuDduP5"
+              }
+            ]
+          }
+        },
+        "id": "2032516808951902208",
+        "is_identity_verified": false,
+        "location": "Birmingham, England",
+        "most_recent_tweet_id": "2095776294785204291",
+        "name": "Jeff姐夫 (Rhea)",
+        "pinned_tweet_id": "2053223857318764933",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032516808951902208/1775574040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052498282249650180/swsCu4G1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 782,
+          "like_count": 3957,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1142
+        },
+        "url": "https://t.co/UHHpuDduP5",
+        "username": "Jeffrey20011221",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

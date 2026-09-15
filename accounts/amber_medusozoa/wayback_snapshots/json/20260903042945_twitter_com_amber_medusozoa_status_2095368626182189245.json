@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2095238480095805472",
+    "created_at": "2026-09-03T04:29:45.000Z",
+    "display_text_range": [
+      13,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T05:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095368626182189245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790385184397029376",
+          "start": 0,
+          "username": "pyyun189492"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/amber_toffee/s…",
+          "end": 43,
+          "expanded_url": "https://x.com/amber_toffee/status/1839831157627617658",
+          "start": 20,
+          "url": "https://t.co/OX8c8cTSDR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095368626182189245",
+    "in_reply_to_user_id": "1790385184397029376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839831157627617658",
+        "type": "quoted"
+      },
+      {
+        "id": "2095367502658404698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyyun189492 之前就讲过了\nhttps://t.co/OX8c8cTSDR"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1839831157627617658].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1839831157627617658",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1839831157627617658"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2095367502658404698].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2095367502658404698",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2095367502658404698"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2095238480095805472",
+        "created_at": "2026-09-03T04:29:45.000Z",
+        "display_text_range": [
+          13,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T05:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095368626182189245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1790385184397029376",
+              "start": 0,
+              "username": "pyyun189492"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 43,
+              "expanded_url": "https://x.com/amber_toffee/status/1839831157627617658",
+              "start": 20,
+              "url": "https://t.co/OX8c8cTSDR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095368626182189245",
+        "in_reply_to_user_id": "1790385184397029376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839831157627617658",
+            "type": "quoted"
+          },
+          {
+            "id": "2095367502658404698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyyun189492 之前就讲过了\nhttps://t.co/OX8c8cTSDR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya / ✦ @amber_toffee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 33,
+                "start": 20,
+                "username": "amber_toffee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭・🇨🇦 ᴛʀᴛ・ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2095368626182189245",
+        "name": "amber水母",
+        "pinned_tweet_id": "2059795253410885885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095287135397974019/rTcsEoij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8263,
+          "following_count": 1177,
+          "like_count": 8212,
+          "listed_count": 12,
+          "media_count": 402,
+          "tweet_count": 4755
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-14T14:14:42.000Z",
+        "description": "Vanitas vanitatum et omnia vanitas\n你说得对，嗝命之后杀你全家，但是什么时候嗝命？",
+        "id": "1790385184397029376",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093974620747829336",
+        "name": "王美咲",
+        "pinned_tweet_id": "1986875796116689248",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1790385184397029376/1763436646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019765883137413120/5TDhtFxq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 5464,
+          "like_count": 110013,
+          "listed_count": 0,
+          "media_count": 406,
+          "tweet_count": 20169
+        },
+        "url": "",
+        "username": "pyyun189492",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

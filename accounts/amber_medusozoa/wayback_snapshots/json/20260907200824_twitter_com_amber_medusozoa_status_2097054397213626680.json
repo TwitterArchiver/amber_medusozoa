@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "pixiv",
+          "id": "1038127846168780800",
+          "name": "pixiv (ピクシブ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "pixiv",
+          "id": "1038127846168780800",
+          "name": "pixiv (ピクシブ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2097054397213626680",
+    "created_at": "2026-09-07T20:08:24.000Z",
+    "display_text_range": [
+      0,
+      273
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T21:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097054397213626680"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/a823149315/sta…",
+          "end": 297,
+          "expanded_url": "https://twitter.com/a823149315/status/1984077641243357597",
+          "start": 274,
+          "url": "https://t.co/0euRQ8esyZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097054397213626680",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {},
+      "text": "i am hereby reposting an amazing detective novel written by 王安黛 (Wang Andai), a prominent activist and suicide intervention worker in the chinese transfem community. her works draw from her years of community work experience and offer unique insights into the many forms of trans misogynistic violence and social exclusion we face as trans women in contemporary china.\n\nplease repost and save this thread! i’ll keep adding more Chinese transfem and transbian creators in the comments."
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984077641243357597",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "i am hereby reposting an amazing detective novel written by 王安黛 (Wang Andai), a prominent activist and suicide intervention worker in the chinese transfem community. her works draw from her years of community work experience and offer unique insights into the many forms of https://t.co/0euRQ8esyZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2097054397213626680",
+        "created_at": "2026-09-07T20:08:24.000Z",
+        "display_text_range": [
+          0,
+          273
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T21:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097054397213626680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/a823149315/sta…",
+              "end": 297,
+              "expanded_url": "https://twitter.com/a823149315/status/1984077641243357597",
+              "start": 274,
+              "url": "https://t.co/0euRQ8esyZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097054397213626680",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "i am hereby reposting an amazing detective novel written by 王安黛 (Wang Andai), a prominent activist and suicide intervention worker in the chinese transfem community. her works draw from her years of community work experience and offer unique insights into the many forms of trans misogynistic violence and social exclusion we face as trans women in contemporary china.\n\nplease repost and save this thread! i’ll keep adding more Chinese transfem and transbian creators in the comments."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984077641243357597",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "i am hereby reposting an amazing detective novel written by 王安黛 (Wang Andai), a prominent activist and suicide intervention worker in the chinese transfem community. her works draw from her years of community work experience and offer unique insights into the many forms of https://t.co/0euRQ8esyZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596473224711151618",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1984077641243357597",
+        "created_at": "2025-10-31T01:59:06.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2025-10-31T02:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984077641243357597"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "pixiv"
+            }
+          ],
+          "urls": [
+            {
+              "description": "就读m大学研一的乔然在替同学参加课题组会时偶然遇到了跨性别圈子里颇有名望的“白樱”，为追寻多年前“龙宇案”的真相，乔然以助手身份参与到白樱正在进行的跨性别公益救助中。 另一边，因家庭暴力逃出来的19岁跨性别女孩“碎橘子”居住在白樱建立的跨性别庇护所内，她希望自己摆脱精神疾病缠身和",
+              "display_url": "pixiv.net/novel/series/1…",
+              "end": 47,
+              "expanded_url": "https://www.pixiv.net/novel/series/11521492",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2037794657879638016/JIhkpUGO?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2037794657879638016/JIhkpUGO?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "社会垃圾收容所历险记",
+              "unwound_url": "https://www.pixiv.net/novel/series/11521492",
+              "url": "https://t.co/FD3hvmB6FN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984077641243357597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 173286,
+          "like_count": 83,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "社会垃圾收容所历险记 | 王安黛 #pixiv https://t.co/FD3hvmB6FN \n\n跨性别危机干预（自杀救助）主题中篇悬疑小说，完本，欢迎观看转发！\n\n之前链接找不到了，重新发一个"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya / ✦ @amber_toffee / ✒︎ @wgsi\n✮ @transinacademia / ❀ https://t.co/2xzS4y8edG\n❖ https://t.co/oAFbVJY3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 33,
+                "start": 20,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 44,
+                "start": 39,
+                "username": "wgsi"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 91,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 68,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "github.com/amber-jellyfish",
+                "end": 117,
+                "expanded_url": "http://github.com/amber-jellyfish",
+                "start": 94,
+                "url": "https://t.co/oAFbVJY3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2097054397213626680",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2096766200336322974",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9484,
+          "following_count": 1207,
+          "like_count": 8905,
+          "listed_count": 11,
+          "media_count": 431,
+          "tweet_count": 5182
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T11:57:39.000Z",
+        "description": "曾用笔名苦樱/术后三度返厂mtf/13年经验的百合推理作者/小说置顶可看/持证助理社工师/社工本科毕业/4年机构社工经验/前机构司法社工项目主管",
+        "id": "1596473224711151618",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096127603795243061",
+        "name": "王安黛（悬疑推理小说《失业互助小队》p站绝赞连载中）",
+        "pinned_tweet_id": "1984077641243357597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596473224711151618/1706874301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079909061844516864/18EGThZg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34231,
+          "following_count": 157,
+          "like_count": 2536,
+          "listed_count": 94,
+          "media_count": 2384,
+          "tweet_count": 11849
+        },
+        "url": "",
+        "username": "a823149315",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

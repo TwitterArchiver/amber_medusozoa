@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095969571488288773"
+      ],
+      "media_source_tweet_id": [
+        "2095969599095267526"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2096446760944116082",
+    "created_at": "2026-09-06T03:53:52.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T04:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096446760944116082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1974148813481738242",
+          "start": 3,
+          "username": "Erisalyoshy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X0ugKxI0yV",
+          "end": 40,
+          "expanded_url": "https://x.com/Erisalyoshy/status/2095969599095267526/photo/1",
+          "media_key": "3_2095969571488288773",
+          "start": 17,
+          "url": "https://t.co/X0ugKxI0yV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096446760944116082",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2095969571488288773"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 198
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095969599095267526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Erisalyoshy: https://t.co/X0ugKxI0yV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 904,
+        "media_key": "3_2095969571488288773",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZhOGiWUAUEbIo.jpg",
+        "width": 889
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095969571488288773"
+          ],
+          "media_source_tweet_id": [
+            "2095969599095267526"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2096446760944116082",
+        "created_at": "2026-09-06T03:53:52.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T04:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096446760944116082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1974148813481738242",
+              "start": 3,
+              "username": "Erisalyoshy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X0ugKxI0yV",
+              "end": 40,
+              "expanded_url": "https://x.com/Erisalyoshy/status/2095969599095267526/photo/1",
+              "media_key": "3_2095969571488288773",
+              "start": 17,
+              "url": "https://t.co/X0ugKxI0yV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096446760944116082",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095969571488288773"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 198
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095969599095267526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Erisalyoshy: https://t.co/X0ugKxI0yV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095969571488288773"
+          ]
+        },
+        "author_id": "1974148813481738242",
+        "conversation_id": "2095969599095267526",
+        "created_at": "2026-09-04T20:17:48.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T21:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095969599095267526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X0ugKxI0yV",
+              "end": 23,
+              "expanded_url": "https://x.com/Erisalyoshy/status/2095969599095267526/photo/1",
+              "media_key": "3_2095969571488288773",
+              "start": 0,
+              "url": "https://t.co/X0ugKxI0yV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095969599095267526",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095969571488288773"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 22376,
+          "like_count": 2633,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 198
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/X0ugKxI0yV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya  ✦ @amber_toffee\n☻ @transinacademia  ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 19,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 51,
+                "start": 35,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 78,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 55,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2096446760944116082",
+        "name": "amber 水母",
+        "pinned_tweet_id": "2087096982267432968",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8311,
+          "following_count": 1170,
+          "like_count": 8493,
+          "listed_count": 12,
+          "media_count": 418,
+          "tweet_count": 4946
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-03T16:25:37.000Z",
+        "description": "20-year-old intersex girl from Norway 🇳🇴. Student. DMs open. Minors DNI. Priv: @ErikaPriv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "ErikaPriv"
+              }
+            ]
+          }
+        },
+        "id": "1974148813481738242",
+        "is_identity_verified": false,
+        "location": "she/her",
+        "most_recent_tweet_id": "2096445899471720891",
+        "name": "Erika 🇳🇴",
+        "pinned_tweet_id": "2093710358674276388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974148813481738242/1784700259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060290757643104257/MkRLul7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2880,
+          "following_count": 563,
+          "like_count": 54460,
+          "listed_count": 5,
+          "media_count": 451,
+          "tweet_count": 16499
+        },
+        "url": "",
+        "username": "Erisalyoshy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

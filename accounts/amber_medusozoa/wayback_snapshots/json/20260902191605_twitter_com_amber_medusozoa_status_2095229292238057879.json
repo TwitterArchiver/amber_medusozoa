@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2095229292238057879",
+    "created_at": "2026-09-02T19:16:05.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T20:16:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095229292238057879"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eliserette/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/eliserette/status/2095151149997555736",
+          "start": 5,
+          "url": "https://t.co/eShlmDeIy3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095229292238057879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095151149997555736",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太可爱了 https://t.co/eShlmDeIy3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2095229292238057879",
+        "created_at": "2026-09-02T19:16:05.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T20:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095229292238057879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eliserette/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/eliserette/status/2095151149997555736",
+              "start": 5,
+              "url": "https://t.co/eShlmDeIy3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095229292238057879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095151149997555736",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太可爱了 https://t.co/eShlmDeIy3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056547558462480384",
+        "conversation_id": "2094390975238132189",
+        "created_at": "2026-09-02T14:05:34.000Z",
+        "display_text_range": [
+          42,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095151149997555736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1884745808605818880",
+              "start": 0,
+              "username": "Bunbohue40037"
+            },
+            {
+              "end": 28,
+              "id": "2090691594127343616",
+              "start": 15,
+              "username": "lysander1359"
+            },
+            {
+              "end": 41,
+              "id": "2062190491991744512",
+              "start": 29,
+              "username": "Sypshenlipu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095151149997555736",
+        "in_reply_to_user_id": "1884745808605818880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095145833347858641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bunbohue40037 @lysander1359 @Sypshenlipu 我有说过我有停药吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095229292238057879",
+        "name": "amber水母",
+        "pinned_tweet_id": "2059795253410885885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095047642631786497/k8o0pFpt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8257,
+          "following_count": 1180,
+          "like_count": 8175,
+          "listed_count": 12,
+          "media_count": 395,
+          "tweet_count": 4705
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T01:28:57.000Z",
+        "description": "地狱的烈焰不熄，因至高的审判从未止息",
+        "id": "2056547558462480384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095225096126500880",
+        "name": "𝓐𝓵𝓲𝓮𝓼",
+        "pinned_tweet_id": "2094063202460197093",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056547558462480384/1787512800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091616501157826560/wMTCN7UW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 21,
+          "like_count": 97,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "Eliserette",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-29T23:30:05.000Z",
+        "description": "she/they",
+        "id": "1884745808605818880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095228404924891493",
+        "name": "Bún bò Huế 🍥",
+        "pinned_tweet_id": "1967610162459623452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884745808605818880/1759586488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993755498269581312/BXnTU-n5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 596,
+          "like_count": 202431,
+          "listed_count": 6,
+          "media_count": 1592,
+          "tweet_count": 22626
+        },
+        "url": "",
+        "username": "Bunbohue40037",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

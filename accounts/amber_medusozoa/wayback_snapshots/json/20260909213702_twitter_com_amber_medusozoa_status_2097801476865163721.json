@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097801470720524289"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Moms",
+          "id": "847545709800767488",
+          "name": "Motherhood"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Moms",
+          "id": "847545709800767488",
+          "name": "Motherhood"
+        }
+      }
+    ],
+    "conversation_id": "2097801476865163721",
+    "created_at": "2026-09-09T21:37:02.000Z",
+    "display_text_range": [
+      0,
+      278
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T22:37:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097801476865163721"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LPo41RV1cg",
+          "end": 302,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2097801476865163721/photo/1",
+          "media_key": "3_2097801470720524289",
+          "start": 279,
+          "url": "https://t.co/LPo41RV1cg"
+        },
+        {
+          "display_url": "x.com/unknownmerc/st…",
+          "end": 326,
+          "expanded_url": "https://twitter.com/unknownmerc/status/2097799431940907022",
+          "start": 303,
+          "url": "https://t.co/HqlbxEo5nO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097801476865163721",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2097801470720524289"
+      }
+    ],
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "en.wikipedia.org/wiki/Violence_…",
+            "end": 545,
+            "expanded_url": "https://en.wikipedia.org/wiki/Violence_against_doctors_in_China",
+            "start": 522,
+            "url": "https://t.co/s2Hg3egBrV"
+          },
+          {
+            "display_url": "sciencedirect.com/science/articl…",
+            "end": 569,
+            "expanded_url": "https://www.sciencedirect.com/science/article/pii/S0277953624001023?via%3Dihub",
+            "start": 546,
+            "url": "https://t.co/V6Sq1oqiq0"
+          }
+        ]
+      },
+      "text": "this is an act of risk management because chinese parents will physically assault or murder doctors when they feel that the doctor has been irresponsible in any way. one doctor who provides gender affirming care in china called Di Xiaolan was beaten by a mother of a 14 year old trans girl just a few months ago. violence against doctors is a serious issue in china and most parents do not care about the legal repercussions of their actions because they can claim that they are doing it out of their love for their child\nhttps://t.co/s2Hg3egBrV\nhttps://t.co/V6Sq1oqiq0"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097799431940907022",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "this is an act of risk management because chinese parents will physically assault or murder doctors when they feel that the doctor has been irresponsible in any way. one doctor who provides gender affirming care in china called Di Xiaolan was beaten by a mother of a 14 year old https://t.co/LPo41RV1cg https://t.co/HqlbxEo5nO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_2097801470720524289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRzjUq-WwAELdXB.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097801470720524289"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Moms",
+              "id": "847545709800767488",
+              "name": "Motherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Moms",
+              "id": "847545709800767488",
+              "name": "Motherhood"
+            }
+          }
+        ],
+        "conversation_id": "2097801476865163721",
+        "created_at": "2026-09-09T21:37:02.000Z",
+        "display_text_range": [
+          0,
+          278
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T22:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097801476865163721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LPo41RV1cg",
+              "end": 302,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2097801476865163721/photo/1",
+              "media_key": "3_2097801470720524289",
+              "start": 279,
+              "url": "https://t.co/LPo41RV1cg"
+            },
+            {
+              "display_url": "x.com/unknownmerc/st…",
+              "end": 326,
+              "expanded_url": "https://twitter.com/unknownmerc/status/2097799431940907022",
+              "start": 303,
+              "url": "https://t.co/HqlbxEo5nO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097801476865163721",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097801470720524289"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "en.wikipedia.org/wiki/Violence_…",
+                "end": 545,
+                "expanded_url": "https://en.wikipedia.org/wiki/Violence_against_doctors_in_China",
+                "start": 522,
+                "url": "https://t.co/s2Hg3egBrV"
+              },
+              {
+                "display_url": "sciencedirect.com/science/articl…",
+                "end": 569,
+                "expanded_url": "https://www.sciencedirect.com/science/article/pii/S0277953624001023?via%3Dihub",
+                "start": 546,
+                "url": "https://t.co/V6Sq1oqiq0"
+              }
+            ]
+          },
+          "text": "this is an act of risk management because chinese parents will physically assault or murder doctors when they feel that the doctor has been irresponsible in any way. one doctor who provides gender affirming care in china called Di Xiaolan was beaten by a mother of a 14 year old trans girl just a few months ago. violence against doctors is a serious issue in china and most parents do not care about the legal repercussions of their actions because they can claim that they are doing it out of their love for their child\nhttps://t.co/s2Hg3egBrV\nhttps://t.co/V6Sq1oqiq0"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097799431940907022",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "this is an act of risk management because chinese parents will physically assault or murder doctors when they feel that the doctor has been irresponsible in any way. one doctor who provides gender affirming care in china called Di Xiaolan was beaten by a mother of a 14 year old https://t.co/LPo41RV1cg https://t.co/HqlbxEo5nO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "117720252",
+        "conversation_id": "2097795724511531321",
+        "created_at": "2026-09-09T21:28:54.000Z",
+        "display_text_range": [
+          17,
+          204
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T22:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097799431940907022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097799431940907022",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097795724511531321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa It is so crazy to me that no matter your age you need family permission to transition. Maybe it's not right for me to say it as diaspora but this feels like filial piety taken too extreme"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia @wgsi ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              },
+              {
+                "end": 56,
+                "start": 51,
+                "username": "wgsi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 82,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 59,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2097801476865163721",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10200,
+          "following_count": 1235,
+          "like_count": 9251,
+          "listed_count": 14,
+          "media_count": 442,
+          "tweet_count": 5402
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-02-26T11:39:26.000Z",
+        "description": "Unfuckable, unlovable, unlistenable, unwatchable. 30s. MDNI. She/her. Priv for moots: @transgenderkimk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 86,
+                "username": "transgenderkimk"
+              }
+            ]
+          }
+        },
+        "id": "117720252",
+        "is_identity_verified": false,
+        "location": "Greater Toronto Area, Ontario",
+        "most_recent_tweet_id": "2097800830770442430",
+        "name": "Tracy",
+        "pinned_tweet_id": "1872295074635330002",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/117720252/1737540600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965492930161913856/0yMoPLiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 7504,
+          "like_count": 738590,
+          "listed_count": 4,
+          "media_count": 1107,
+          "tweet_count": 95425
+        },
+        "url": "",
+        "username": "unknownmerc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

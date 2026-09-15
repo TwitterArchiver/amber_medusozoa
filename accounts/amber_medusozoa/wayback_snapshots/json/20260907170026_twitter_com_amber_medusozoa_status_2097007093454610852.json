@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097007088916680704"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2096845213478097059",
+    "created_at": "2026-09-07T17:00:26.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T18:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097007093454610852"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h7RMMg72F9",
+          "end": 74,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2097007093454610852/photo/1",
+          "media_key": "3_2097007088916680704",
+          "start": 51,
+          "url": "https://t.co/h7RMMg72F9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097007093454610852",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2097007088916680704"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096845213478097059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "evil grok translated “trans” to “crossdresser” btw https://t.co/h7RMMg72F9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1136,
+        "media_key": "3_2097007088916680704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRoQ1kJa0AA0lAw.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1206,
+        "media_key": "3_2096845209011433472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRl9m6gbMAAr7zi.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097007088916680704"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2096845213478097059",
+        "created_at": "2026-09-07T17:00:26.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T18:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097007093454610852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h7RMMg72F9",
+              "end": 74,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2097007093454610852/photo/1",
+              "media_key": "3_2097007088916680704",
+              "start": 51,
+              "url": "https://t.co/h7RMMg72F9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097007093454610852",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097007088916680704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096845213478097059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "evil grok translated “trans” to “crossdresser” btw https://t.co/h7RMMg72F9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096845209011433472"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Toronto",
+              "id": "861961494438662144",
+              "name": "Toronto"
+            }
+          }
+        ],
+        "conversation_id": "2096845213478097059",
+        "created_at": "2026-09-07T06:17:11.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T07:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096845213478097059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "361 Spadina Ave., Toronto, ON M5T 2G3, Canada",
+              "display_url": "maps.app.goo.gl/ZfXv1RezCGG74E…",
+              "end": 92,
+              "expanded_url": "https://maps.app.goo.gl/ZfXv1RezCGG74Eu26?g_st=ic",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/2096845217202577408/Bq_4oLrC?format=jpg&name=orig",
+                  "width": 900
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2096845217202577408/Bq_4oLrC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 69,
+              "status": 200,
+              "title": "California Beef Noodle King U.S.A · 4.6★(122) · Chinese restaurant",
+              "unwound_url": "https://www.google.com/maps?q=California+Beef+Noodle+King+U.S.A,+361+Spadina+Ave.,+Toronto,+ON+M5T+2G3,+Canada&ftid=0x882b35cc6dd9e869:0xe3ef91c39ec7bd77&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,47071704,94218641,94282134,94286869,100820247,100822504&g_ep=CAISEjI2LjMzLjEuOTYxODkxNDMyMBgAIIgnKlMsOTQyOTc2OTksOTQyMzExODgsOTQyODA1NjgsNDcwNzE3MDQsOTQyMTg2NDEsOTQyODIxMzQsOTQyODY4NjksMTAwODIwMjQ3LDEwMDgyMjUwNEICVVM%3D&skid=1932a9e2-262f-4720-b4df-0a620fb1520e&g_st=ic",
+              "url": "https://t.co/1fjECypcJP"
+            },
+            {
+              "display_url": "pic.x.com/5c138jKPdw",
+              "end": 116,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2096845213478097059/photo/1",
+              "media_key": "3_2096845209011433472",
+              "start": 93,
+              "url": "https://t.co/5c138jKPdw"
+            },
+            {
+              "display_url": "x.com/mirro_zinuo/st…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/mirro_zinuo/status/2096511367838576829",
+              "start": 117,
+              "url": "https://t.co/a3U6z7Hu0Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096845213478097059",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096845209011433472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 9917,
+          "like_count": 181,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096511367838576829",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "to my oomfs in toronto please avoid this trans misogynist restaurant\nhttps://t.co/1fjECypcJP https://t.co/5c138jKPdw https://t.co/a3U6z7Hu0Y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya / ✦ @amber_toffee / ✒︎ @wgsi\n✮ @transinacademia / ❀ https://t.co/2xzS4y8edG\n❖ https://t.co/oAFbVJY3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 33,
+                "start": 20,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 44,
+                "start": 39,
+                "username": "wgsi"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 91,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 68,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "github.com/amber-jellyfish",
+                "end": 117,
+                "expanded_url": "http://github.com/amber-jellyfish",
+                "start": 94,
+                "url": "https://t.co/oAFbVJY3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2097007093454610852",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2096766200336322974",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9340,
+          "following_count": 1203,
+          "like_count": 8845,
+          "listed_count": 12,
+          "media_count": 431,
+          "tweet_count": 5161
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

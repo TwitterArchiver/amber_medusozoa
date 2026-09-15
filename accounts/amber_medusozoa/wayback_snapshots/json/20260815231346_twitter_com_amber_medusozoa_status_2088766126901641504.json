@@ -1,0 +1,553 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088209165655089152"
+      ],
+      "media_source_tweet_id": [
+        "2088209249255964942"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "933033311844286464",
+          "name": "Harry Potter"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "933033311844286464",
+          "name": "Harry Potter"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2088766126901641504",
+    "created_at": "2026-08-15T23:13:46.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T00:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088766126901641504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1620522636131422208",
+          "start": 3,
+          "username": "whateve44073653"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9Vupt5fNcB",
+          "end": 106,
+          "expanded_url": "https://x.com/whateve44073653/status/2088209249255964942/video/1",
+          "media_key": "13_2088209165655089152",
+          "start": 83,
+          "url": "https://t.co/9Vupt5fNcB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088766126901641504",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2088209165655089152"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3867
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088209249255964942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whateve44073653: I never realized how hilarious and based this video truly was https://t.co/9Vupt5fNcB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 93301,
+        "height": 590,
+        "media_key": "13_2088209165655089152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088209165655089152/img/UAE5xP5qer-XJeLs.jpg",
+        "public_metrics": {
+          "view_count": 334186
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088209165655089152/vid/avc1/584x270/-jx8ag281FP84skm.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088209165655089152/vid/avc1/780x360/Eta3CUAE1bnrcmzU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088209165655089152/vid/avc1/1280x590/ShL-0E_hIQ0pyXbr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088209165655089152/pl/ndKs9idYBK19ZHeV.m3u8?v=0a4"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088209165655089152"
+          ],
+          "media_source_tweet_id": [
+            "2088209249255964942"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "933033311844286464",
+              "name": "Harry Potter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "933033311844286464",
+              "name": "Harry Potter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2088766126901641504",
+        "created_at": "2026-08-15T23:13:46.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T00:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088766126901641504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1620522636131422208",
+              "start": 3,
+              "username": "whateve44073653"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Vupt5fNcB",
+              "end": 106,
+              "expanded_url": "https://x.com/whateve44073653/status/2088209249255964942/video/1",
+              "media_key": "13_2088209165655089152",
+              "start": 83,
+              "url": "https://t.co/9Vupt5fNcB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088766126901641504",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2088209165655089152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3867
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088209249255964942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whateve44073653: I never realized how hilarious and based this video truly was https://t.co/9Vupt5fNcB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088209165655089152"
+          ]
+        },
+        "author_id": "1620522636131422208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "933033311844286464",
+              "name": "Harry Potter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "933033311844286464",
+              "name": "Harry Potter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2088209249255964942",
+        "created_at": "2026-08-14T10:20:56.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088209249255964942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Vupt5fNcB",
+              "end": 85,
+              "expanded_url": "https://x.com/whateve44073653/status/2088209249255964942/video/1",
+              "media_key": "13_2088209165655089152",
+              "start": 62,
+              "url": "https://t.co/9Vupt5fNcB"
+            },
+            {
+              "display_url": "x.com/symbiotegrrrl/…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/symbiotegrrrl/status/2088083914199843291",
+              "start": 86,
+              "url": "https://t.co/8bDmYoZUyP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088209249255964942",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2088209165655089152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6318,
+          "impression_count": 857558,
+          "like_count": 39204,
+          "quote_count": 54,
+          "reply_count": 33,
+          "retweet_count": 3867
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088083914199843291",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I never realized how hilarious and based this video truly was https://t.co/9Vupt5fNcB https://t.co/8bDmYoZUyP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088766126901641504",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2080801154435326152",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080483846097629184/ano5UN60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8116,
+          "following_count": 1201,
+          "like_count": 7578,
+          "listed_count": 12,
+          "media_count": 361,
+          "tweet_count": 4234
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T20:44:20.000Z",
+        "description": "Call me Alexis. Girl who coined the term “Kodakaverse”. Number 1 Persona Q fan. I’ll try to only retweet GFMs and activism tweets for now. 🇮🇶 ☪️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lexis-cave.straw.page",
+                "end": 23,
+                "expanded_url": "https://lexis-cave.straw.page/",
+                "start": 0,
+                "url": "https://t.co/4l2hXV9zep"
+              }
+            ]
+          }
+        },
+        "id": "1620522636131422208",
+        "is_identity_verified": false,
+        "location": "She/her",
+        "most_recent_tweet_id": "2088761351841681867",
+        "name": "Alexis (24/100) 🇵🇸",
+        "pinned_tweet_id": "2084222764811206825",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620522636131422208/1725978537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088589568320643072/qLjcwx8R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3780,
+          "following_count": 1341,
+          "like_count": 594884,
+          "listed_count": 5,
+          "media_count": 12500,
+          "tweet_count": 234239
+        },
+        "url": "https://t.co/4l2hXV9zep",
+        "username": "whateve44073653",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,508 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Marine Le Pen",
+          "id": "822153193526169600",
+          "name": "Marine Le Pen"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Marine Le Pen",
+          "id": "822153193526169600",
+          "name": "Marine Le Pen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Marine Le Pen",
+          "id": "822153193526169600",
+          "name": "Marine Le Pen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1483822657963397121",
+          "name": "France politics"
+        }
+      }
+    ],
+    "conversation_id": "2096867660055138613",
+    "created_at": "2026-09-07T07:46:22.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T08:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096867660055138613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "429076223",
+          "start": 3,
+          "username": "nsamimi9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096867660055138613",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 389
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096760043559329922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nsamimi9: As a woman who grew up in Iran, I understand why many Iranian women react so vehemently and viscerally to this gesture of sol…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Marine Le Pen",
+              "id": "822153193526169600",
+              "name": "Marine Le Pen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Marine Le Pen",
+              "id": "822153193526169600",
+              "name": "Marine Le Pen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Marine Le Pen",
+              "id": "822153193526169600",
+              "name": "Marine Le Pen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1483822657963397121",
+              "name": "France politics"
+            }
+          }
+        ],
+        "conversation_id": "2096867660055138613",
+        "created_at": "2026-09-07T07:46:22.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T08:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096867660055138613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "429076223",
+              "start": 3,
+              "username": "nsamimi9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096867660055138613",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 389
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096760043559329922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nsamimi9: As a woman who grew up in Iran, I understand why many Iranian women react so vehemently and viscerally to this gesture of sol…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "429076223",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Marine Le Pen",
+              "id": "822153193526169600",
+              "name": "Marine Le Pen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Marine Le Pen",
+              "id": "822153193526169600",
+              "name": "Marine Le Pen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Marine Le Pen",
+              "id": "822153193526169600",
+              "name": "Marine Le Pen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1483822657963397121",
+              "name": "France politics"
+            }
+          }
+        ],
+        "conversation_id": "2096760043559329922",
+        "created_at": "2026-09-07T00:38:44.000Z",
+        "display_text_range": [
+          0,
+          280
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T01:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096760043559329922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/olilondontv/st…",
+              "end": 304,
+              "expanded_url": "https://twitter.com/olilondontv/status/2095470925957435395",
+              "start": 281,
+              "url": "https://t.co/6wvDiHA1gn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096760043559329922",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "As a woman who grew up in Iran, I understand why many Iranian women react so vehemently and viscerally to this gesture of solidarity. Encounters with the morality police were (and probably still are) an all-consuming part of women’s everyday lives in Iran. I completely understand their experience of the hijab as an instrument of state coercion and gendered restriction.\n\nBut as an anthropologist of the United States, I also understand the danger of importing that experience into Western contexts uncritically; without reckoning with what the same sign signifies in a different context. In the West, the hijab often indexes membership in marginalized Muslim minorities. Therefore, uncritical, universal anti-hijab critiques can easily reinforce Islamophobic and racist discourses.\n\nThe problem is not that Iranian women’s experience of the hijab is false. It is that the hijab’s meaning is neither portable nor universal: its social and political meaning changes with context. \n\nAs for this particular gesture of solidarity, these French women are correctly recognizing that the policing of women’s bodies takes different forms. Forcing a woman to wear the hijab and forcing her to remove it are different expressions of the same underlying claim: that others may decide what she can or cannot do with her body. A woman’s attire is hers to choose and so are all her other decisions concerning her bodily autonomy."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 550,
+          "impression_count": 262914,
+          "like_count": 3006,
+          "quote_count": 22,
+          "reply_count": 24,
+          "retweet_count": 389
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095470925957435395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "As a woman who grew up in Iran, I understand why many Iranian women react so vehemently and viscerally to this gesture of solidarity. Encounters with the morality police were (and probably still are) an all-consuming part of women’s everyday lives in Iran. I completely understand https://t.co/6wvDiHA1gn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya / ✦ @amber_toffee / ✒︎ @wgsi\n✮ @transinacademia / ❀ https://t.co/2xzS4y8edG\n❖ https://t.co/oAFbVJY3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 33,
+                "start": 20,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 44,
+                "start": 39,
+                "username": "wgsi"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 91,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 68,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "github.com/amber-jellyfish",
+                "end": 117,
+                "expanded_url": "http://github.com/amber-jellyfish",
+                "start": 94,
+                "url": "https://t.co/oAFbVJY3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2096867660055138613",
+        "name": "amber 水母🏳️‍⚧️",
+        "pinned_tweet_id": "2096766200336322974",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8753,
+          "following_count": 1194,
+          "like_count": 8720,
+          "listed_count": 12,
+          "media_count": 430,
+          "tweet_count": 5111
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-12-05T14:46:39.000Z",
+        "description": "From Iran (not an Iran expert) | Anthropologist studying democracy and political discourse in the United States | Formerly @UPennAnth | Currently @CUSystem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "UPennAnth"
+              },
+              {
+                "end": 155,
+                "start": 146,
+                "username": "CUSystem"
+              }
+            ]
+          }
+        },
+        "id": "429076223",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096766624543990192",
+        "name": "Nooshin Samimi نوشین صمیمی",
+        "pinned_tweet_id": "1198348584019800064",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/429076223/1649903726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842714904303669248/Bh7c4vly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5577,
+          "following_count": 2398,
+          "like_count": 27749,
+          "listed_count": 49,
+          "media_count": 684,
+          "tweet_count": 9732
+        },
+        "url": "",
+        "username": "nsamimi9",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

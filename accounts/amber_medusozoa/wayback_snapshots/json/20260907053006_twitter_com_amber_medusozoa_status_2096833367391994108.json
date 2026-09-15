@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096774811754352640",
+        "3_2096774826233135104"
+      ],
+      "media_source_tweet_id": [
+        "2096774835825459651",
+        "2096774835825459651"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2096833367391994108",
+    "created_at": "2026-09-07T05:30:06.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T06:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096833367391994108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2035413632994193408",
+          "start": 3,
+          "username": "Yumesame10086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tGqpxdNG0q",
+          "end": 42,
+          "expanded_url": "https://x.com/Yumesame10086/status/2096774835825459651/photo/1",
+          "media_key": "3_2096774811754352640",
+          "start": 19,
+          "url": "https://t.co/tGqpxdNG0q"
+        },
+        {
+          "display_url": "pic.x.com/tGqpxdNG0q",
+          "end": 42,
+          "expanded_url": "https://x.com/Yumesame10086/status/2096774835825459651/photo/1",
+          "media_key": "3_2096774826233135104",
+          "start": 19,
+          "url": "https://t.co/tGqpxdNG0q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096833367391994108",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2096774811754352640"
+      },
+      {
+        "media_key": "3_2096774826233135104"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096774835825459651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yumesame10086: https://t.co/tGqpxdNG0q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2096774811754352640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRk9lQSa0AAhiUo.jpg",
+        "width": 1919
+      },
+      {
+        "height": 2424,
+        "media_key": "3_2096774826233135104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRk9mGObgAAi_Go.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096774811754352640",
+            "3_2096774826233135104"
+          ],
+          "media_source_tweet_id": [
+            "2096774835825459651",
+            "2096774835825459651"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2096833367391994108",
+        "created_at": "2026-09-07T05:30:06.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T06:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096833367391994108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2035413632994193408",
+              "start": 3,
+              "username": "Yumesame10086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tGqpxdNG0q",
+              "end": 42,
+              "expanded_url": "https://x.com/Yumesame10086/status/2096774835825459651/photo/1",
+              "media_key": "3_2096774811754352640",
+              "start": 19,
+              "url": "https://t.co/tGqpxdNG0q"
+            },
+            {
+              "display_url": "pic.x.com/tGqpxdNG0q",
+              "end": 42,
+              "expanded_url": "https://x.com/Yumesame10086/status/2096774835825459651/photo/1",
+              "media_key": "3_2096774826233135104",
+              "start": 19,
+              "url": "https://t.co/tGqpxdNG0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096833367391994108",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2096774811754352640"
+          },
+          {
+            "media_key": "3_2096774826233135104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096774835825459651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yumesame10086: https://t.co/tGqpxdNG0q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096774811754352640",
+            "3_2096774826233135104"
+          ]
+        },
+        "author_id": "2035413632994193408",
+        "conversation_id": "2096774835825459651",
+        "created_at": "2026-09-07T01:37:31.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T02:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096774835825459651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tGqpxdNG0q",
+              "end": 23,
+              "expanded_url": "https://x.com/Yumesame10086/status/2096774835825459651/photo/1",
+              "media_key": "3_2096774811754352640",
+              "start": 0,
+              "url": "https://t.co/tGqpxdNG0q"
+            },
+            {
+              "display_url": "pic.x.com/tGqpxdNG0q",
+              "end": 23,
+              "expanded_url": "https://x.com/Yumesame10086/status/2096774835825459651/photo/1",
+              "media_key": "3_2096774826233135104",
+              "start": 0,
+              "url": "https://t.co/tGqpxdNG0q"
+            },
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2096737841820635371",
+              "start": 24,
+              "url": "https://t.co/wBkm0UoYH6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096774835825459651",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2096774811754352640"
+          },
+          {
+            "media_key": "3_2096774826233135104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 347,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096737841820635371",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/tGqpxdNG0q https://t.co/wBkm0UoYH6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @wgsi @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 39,
+                "start": 34,
+                "username": "wgsi"
+              },
+              {
+                "end": 56,
+                "start": 40,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 82,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 59,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2096833367391994108",
+        "name": "amber 水母🏳️‍⚧️",
+        "pinned_tweet_id": "2096766200336322974",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8573,
+          "following_count": 1186,
+          "like_count": 8673,
+          "listed_count": 12,
+          "media_count": 427,
+          "tweet_count": 5081
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-21T17:50:22.000Z",
+        "description": "「此水几时休，此恨何时已」   『此恨烈烈無絕期』\n\n  💕齿轮   宠物 @Mave_503    sm双属性 poly   偏攻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "Mave_503"
+              }
+            ]
+          }
+        },
+        "id": "2035413632994193408",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096775283617742961",
+        "name": "Koeno🏳️‍⚧️",
+        "pinned_tweet_id": "2092018162619596858",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035413632994193408/1774117138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035414187921534977/WJ8XnsOJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 88,
+          "like_count": 1434,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 1185
+        },
+        "url": "",
+        "username": "Yumesame10086",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

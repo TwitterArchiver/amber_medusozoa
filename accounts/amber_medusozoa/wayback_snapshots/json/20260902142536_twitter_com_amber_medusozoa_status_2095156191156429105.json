@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1488899086925242369",
+          "name": "Hunter Schafer"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "id": "1488899086925242369",
+          "name": "Hunter Schafer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1488899086925242369",
+          "name": "Hunter Schafer"
+        }
+      }
+    ],
+    "conversation_id": "2095156191156429105",
+    "created_at": "2026-09-02T14:25:36.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T15:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095156191156429105"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/stagepopbr/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/stagepopbr/status/2094798918391333319",
+          "start": 13,
+          "url": "https://t.co/k42DasrIO9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095156191156429105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094798918391333319",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还是个bpd地雷妹 好吃 https://t.co/k42DasrIO9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1755,
+        "media_key": "3_2094798911441432576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRI4guBXcAAFUb1.jpg",
+        "width": 1199
+      },
+      {
+        "height": 1669,
+        "media_key": "3_2094798911504338944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRI4guQXUAAXCnS.jpg",
+        "width": 1173
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1488899086925242369",
+              "name": "Hunter Schafer"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1488899086925242369",
+              "name": "Hunter Schafer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1488899086925242369",
+              "name": "Hunter Schafer"
+            }
+          }
+        ],
+        "conversation_id": "2095156191156429105",
+        "created_at": "2026-09-02T14:25:36.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095156191156429105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/stagepopbr/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/stagepopbr/status/2094798918391333319",
+              "start": 13,
+              "url": "https://t.co/k42DasrIO9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095156191156429105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094798918391333319",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还是个bpd地雷妹 好吃 https://t.co/k42DasrIO9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094798911441432576",
+            "3_2094798911504338944"
+          ]
+        },
+        "author_id": "2056920457090125824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1488899086925242369",
+              "name": "Hunter Schafer"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1488899086925242369",
+              "name": "Hunter Schafer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1488899086925242369",
+              "name": "Hunter Schafer"
+            }
+          }
+        ],
+        "conversation_id": "2094798918391333319",
+        "created_at": "2026-09-01T14:45:56.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T15:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094798918391333319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r9OvaqPqkD",
+              "end": 168,
+              "expanded_url": "https://x.com/stagepopbr/status/2094798918391333319/photo/1",
+              "media_key": "3_2094798911441432576",
+              "start": 145,
+              "url": "https://t.co/r9OvaqPqkD"
+            },
+            {
+              "display_url": "pic.x.com/r9OvaqPqkD",
+              "end": 168,
+              "expanded_url": "https://x.com/stagepopbr/status/2094798918391333319/photo/1",
+              "media_key": "3_2094798911504338944",
+              "start": 145,
+              "url": "https://t.co/r9OvaqPqkD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094798918391333319",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2094798911441432576"
+          },
+          {
+            "media_key": "3_2094798911504338944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1674,
+          "impression_count": 2419807,
+          "like_count": 35781,
+          "quote_count": 3450,
+          "reply_count": 713,
+          "retweet_count": 706
+        },
+        "reply_settings": "everyone",
+        "text": "TRAÍDA 16 VEZES! Hunter Schafer e Dominic Fike estão novamente em um relacionamento, após o ator tê-la traído, segundo fontes próximas ao casal. https://t.co/r9OvaqPqkD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095156191156429105",
+        "name": "amber水母",
+        "pinned_tweet_id": "2087096982267432968",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095047642631786497/k8o0pFpt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8247,
+          "following_count": 1176,
+          "like_count": 8153,
+          "listed_count": 12,
+          "media_count": 398,
+          "tweet_count": 4690
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-20T02:11:11.000Z",
+        "description": "Sua principal fonte de informação sobre cultura pop, música, filmes, política, entretenimento e muito mais. \n📧: contato@stagepop.com.br",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/stagepopbr",
+                "end": 23,
+                "expanded_url": "http://instagram.com/stagepopbr",
+                "start": 0,
+                "url": "https://t.co/AT0VDp6UXa"
+              }
+            ]
+          }
+        },
+        "id": "2056920457090125824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095151005440655413",
+        "name": "StagePop",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056920457090125824/1786795873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085179979386531841/fJJdRm7J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51832,
+          "following_count": 494,
+          "like_count": 2102,
+          "listed_count": 11,
+          "media_count": 779,
+          "tweet_count": 868
+        },
+        "url": "https://t.co/AT0VDp6UXa",
+        "username": "stagepopbr",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

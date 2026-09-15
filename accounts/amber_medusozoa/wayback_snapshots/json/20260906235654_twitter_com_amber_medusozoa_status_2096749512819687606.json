@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2096345826394010037",
+    "created_at": "2026-09-06T23:56:54.000Z",
+    "display_text_range": [
+      12,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T00:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096749512819687606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1717173144639700992",
+          "start": 0,
+          "username": "Orion25_GD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096749512819687606",
+    "in_reply_to_user_id": "1717173144639700992",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096345826394010037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Orion25_GD she’s trans u dum dum"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2096345826394010037",
+        "created_at": "2026-09-06T23:56:54.000Z",
+        "display_text_range": [
+          12,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T00:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096749512819687606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1717173144639700992",
+              "start": 0,
+              "username": "Orion25_GD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096749512819687606",
+        "in_reply_to_user_id": "1717173144639700992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096345826394010037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orion25_GD she’s trans u dum dum"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717173144639700992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2096345826394010037",
+        "created_at": "2026-09-05T21:12:47.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T22:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096345826394010037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/janbomikan/sta…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/janbomikan/status/2096191623193379126",
+              "start": 92,
+              "url": "https://t.co/FNYED0r56S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096345826394010037",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 324,
+          "impression_count": 47889,
+          "like_count": 3598,
+          "quote_count": 8,
+          "reply_count": 19,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096191623193379126",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Notice how the chinese femboys have more drip, this is proof that america has fallen behind https://t.co/FNYED0r56S"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2096749512819687606",
+        "name": "amber 水母",
+        "pinned_tweet_id": "2087096982267432968",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8386,
+          "following_count": 1180,
+          "like_count": 8585,
+          "listed_count": 12,
+          "media_count": 422,
+          "tweet_count": 5021
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-25T13:36:09.000Z",
+        "description": "17, Girl, 21st century Spartacist, Young Hegelian, #1 Lassalle hater\n\nCo founder and Supreme commander of @free_andorra\n\nOwns @gdtwtconfess Priv: @sneakiestgorl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 106,
+                "username": "free_andorra"
+              },
+              {
+                "end": 139,
+                "start": 126,
+                "username": "gdtwtconfess"
+              },
+              {
+                "end": 160,
+                "start": 146,
+                "username": "sneakiestgorl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/CgKgHM9v3",
+                "end": 23,
+                "expanded_url": "https://discord.gg/CgKgHM9v3",
+                "start": 0,
+                "url": "https://t.co/5LCoNvz5Mf"
+              }
+            ]
+          }
+        },
+        "id": "1717173144639700992",
+        "is_identity_verified": false,
+        "location": "Boston, MA",
+        "most_recent_tweet_id": "2096749032940986767",
+        "name": "Orion 💖🚩⚙️",
+        "pinned_tweet_id": "2096682382120071382",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717173144639700992/1786471565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075927033641607168/PtxkLlsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 473,
+          "like_count": 5258,
+          "listed_count": 14,
+          "media_count": 2054,
+          "tweet_count": 10776
+        },
+        "url": "https://t.co/5LCoNvz5Mf",
+        "username": "Orion25_GD",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,546 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596710830081",
+          "name": "Candy/Gum - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10024011447",
+          "name": "Nestle"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10046158484",
+          "name": "Nestle USA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Babies and toddlers",
+          "id": "864925760624091136",
+          "name": "Babies and toddlers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Family and parenting",
+          "id": "847547282010497024",
+          "name": "Parenting"
+        }
+      }
+    ],
+    "conversation_id": "2098411307317772307",
+    "created_at": "2026-09-11T14:00:16.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T15:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098411307317772307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1692830259844960256",
+          "start": 3,
+          "username": "LilithBlack25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098411307317772307",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2670
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098198804595933341",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LilithBlack25: Speaking of Nestle, here's the difference in sugar potions on goods that come to Africa as compared to other places . No…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 938,
+        "media_key": "3_2098198796853465088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5MsGKaUAAQRqj.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596710830081",
+              "name": "Candy/Gum - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10024011447",
+              "name": "Nestle"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10046158484",
+              "name": "Nestle USA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Babies and toddlers",
+              "id": "864925760624091136",
+              "name": "Babies and toddlers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Family and parenting",
+              "id": "847547282010497024",
+              "name": "Parenting"
+            }
+          }
+        ],
+        "conversation_id": "2098411307317772307",
+        "created_at": "2026-09-11T14:00:16.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T15:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098411307317772307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1692830259844960256",
+              "start": 3,
+              "username": "LilithBlack25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098411307317772307",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2670
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098198804595933341",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LilithBlack25: Speaking of Nestle, here's the difference in sugar potions on goods that come to Africa as compared to other places . No…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098198796853465088"
+          ]
+        },
+        "author_id": "1692830259844960256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596710830081",
+              "name": "Candy/Gum - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10024011447",
+              "name": "Nestle"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10046158484",
+              "name": "Nestle USA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Babies and toddlers",
+              "id": "864925760624091136",
+              "name": "Babies and toddlers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Family and parenting",
+              "id": "847547282010497024",
+              "name": "Parenting"
+            }
+          }
+        ],
+        "conversation_id": "2098198804595933341",
+        "created_at": "2026-09-10T23:55:52.000Z",
+        "display_text_range": [
+          0,
+          208
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T00:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098198804595933341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sOJnzPdTvw",
+              "end": 232,
+              "expanded_url": "https://x.com/LilithBlack25/status/2098198804595933341/photo/1",
+              "media_key": "3_2098198796853465088",
+              "start": 209,
+              "url": "https://t.co/sOJnzPdTvw"
+            },
+            {
+              "display_url": "x.com/kamauwaruhiu/s…",
+              "end": 256,
+              "expanded_url": "https://twitter.com/kamauwaruhiu/status/2098007669772517468",
+              "start": 233,
+              "url": "https://t.co/zUc39blZi2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098198804595933341",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2098198796853465088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 712,
+          "impression_count": 134885,
+          "like_count": 7233,
+          "quote_count": 61,
+          "reply_count": 68,
+          "retweet_count": 2670
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098007669772517468",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Speaking of Nestle, here's the difference in sugar potions on goods that come to Africa as compared to other places . Notice the difference? Yeah they're so hellbent on making Africans babies very unhealthy.. https://t.co/sOJnzPdTvw https://t.co/zUc39blZi2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2098411307317772307",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10697,
+          "following_count": 1271,
+          "like_count": 9478,
+          "listed_count": 14,
+          "media_count": 453,
+          "tweet_count": 5590
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-19T09:26:15.000Z",
+        "description": "Live🌺🪷🏵️☘️",
+        "id": "1692830259844960256",
+        "is_identity_verified": false,
+        "location": "Black",
+        "most_recent_tweet_id": "2098378511803133969",
+        "name": "Black",
+        "pinned_tweet_id": "2069940609377280163",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692830259844960256/1773639309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993940711880675328/5n7ME_Xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33061,
+          "following_count": 7704,
+          "like_count": 119972,
+          "listed_count": 230,
+          "media_count": 4943,
+          "tweet_count": 129645
+        },
+        "url": "",
+        "username": "LilithBlack25",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
