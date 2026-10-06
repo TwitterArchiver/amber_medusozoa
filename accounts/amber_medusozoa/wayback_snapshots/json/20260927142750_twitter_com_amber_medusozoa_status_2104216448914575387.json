@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2104216448914575387",
+    "created_at": "2026-09-27T14:27:50.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T15:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104216448914575387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1087657375257944064",
+          "start": 3,
+          "username": "ShizukiMinori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104216448914575387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104147981742325819",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShizukiMinori: 经过和第一位小朋友的协商后，我和朋友们做出的初步的伦理判断如下：\n1) 我们的朋友在塔罗兰的自杀上没有任何道德责任。其自杀倾向一直长期存在，从 2025.12.4 塔罗兰首次尝试服碳酸钡自杀时我们五人将其送院并组织十几人轮流照看其三天，我们…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2104216448914575387",
+        "created_at": "2026-09-27T14:27:50.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104216448914575387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1087657375257944064",
+              "start": 3,
+              "username": "ShizukiMinori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104216448914575387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104147981742325819",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShizukiMinori: 经过和第一位小朋友的协商后，我和朋友们做出的初步的伦理判断如下：\n1) 我们的朋友在塔罗兰的自杀上没有任何道德责任。其自杀倾向一直长期存在，从 2025.12.4 塔罗兰首次尝试服碳酸钡自杀时我们五人将其送院并组织十几人轮流照看其三天，我们…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1087657375257944064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2104147981742325819",
+        "created_at": "2026-09-27T09:55:46.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T10:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104147981742325819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ShizukiMinori/…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/ShizukiMinori/status/2101464437031116872",
+              "start": 151,
+              "url": "https://t.co/Z7t4Kw3NUL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104147981742325819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1317,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101464437031116872",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "经过和第一位小朋友的协商后，我和朋友们做出的初步的伦理判断如下：\n1) 我们的朋友在塔罗兰的自杀上没有任何道德责任。其自杀倾向一直长期存在，从 2025.12.4 塔罗兰首次尝试服碳酸钡自杀时我们五人将其送院并组织十几人轮流照看其三天，我们的数次自杀干预都是出于“不想让人死”的朴素愿望。截至 9.6 https://t.co/Z7t4Kw3NUL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2104216448914575387",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11475,
+          "following_count": 1385,
+          "like_count": 11173,
+          "listed_count": 20,
+          "media_count": 526,
+          "tweet_count": 6872
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-22T10:25:00.000Z",
+        "description": "「人よ、幸福たれ！」\n| #eb695d\n| lenient and saucy “优雅而愉悦”\n| 谏言者人格：@zoya_genrikh\n| 生活在树上是妳的避难所、也是我的避难所",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 13,
+                "tag": "eb695d"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "zoya_genrikh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "labmikazu.dscf.one",
+                "end": 23,
+                "expanded_url": "http://labmikazu.dscf.one",
+                "start": 0,
+                "url": "https://t.co/j443RDrPzv"
+              }
+            ]
+          }
+        },
+        "id": "1087657375257944064",
+        "is_identity_verified": false,
+        "location": "opengl106.oikawa.moe",
+        "most_recent_tweet_id": "2104155700834488682",
+        "name": "梓月 Z. Λ. Shizuki",
+        "pinned_tweet_id": "1735317515297816948",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1087657375257944064/1747811767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925088190991593472/GtVAoOWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4071,
+          "following_count": 1568,
+          "like_count": 82552,
+          "listed_count": 22,
+          "media_count": 692,
+          "tweet_count": 5822
+        },
+        "url": "https://t.co/j443RDrPzv",
+        "username": "ShizukiMinori",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

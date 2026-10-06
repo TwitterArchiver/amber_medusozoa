@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2102830341920805305",
+    "created_at": "2026-09-23T18:39:56.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T19:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102830341920805305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tina63991073/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/tina63991073/status/2102787201218347340",
+          "start": 7,
+          "url": "https://t.co/SRK6R6KsI3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102830341920805305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102787201218347340",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原来是这样吗 https://t.co/SRK6R6KsI3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2102830341920805305",
+        "created_at": "2026-09-23T18:39:56.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T19:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102830341920805305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tina63991073/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/tina63991073/status/2102787201218347340",
+              "start": 7,
+              "url": "https://t.co/SRK6R6KsI3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102830341920805305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102787201218347340",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来是这样吗 https://t.co/SRK6R6KsI3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443444056701370371",
+        "conversation_id": "2102787201218347340",
+        "created_at": "2026-09-23T15:48:31.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T16:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102787201218347340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102787201218347340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4742,
+          "like_count": 70,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我发现就是得高p啊，网上的照片现在大家都默认高p，你不p人家还以为你p完就长这样呢，太吃亏了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2102830341920805305",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11433,
+          "following_count": 1378,
+          "like_count": 10874,
+          "listed_count": 18,
+          "media_count": 515,
+          "tweet_count": 6698
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-30T05:14:23.000Z",
+        "description": "只做自己喜欢的事，祝你天天开心^ ^ 上海/男娘",
+        "id": "1443444056701370371",
+        "is_identity_verified": true,
+        "location": "188（好友位  接接接",
+        "most_recent_tweet_id": "2102830150958370986",
+        "name": "富江江",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1443444056701370371/1780927147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102077005877612548/aFTl6p7j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90493,
+          "following_count": 614,
+          "like_count": 10856,
+          "listed_count": 272,
+          "media_count": 986,
+          "tweet_count": 8866
+        },
+        "url": "",
+        "username": "tina63991073",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

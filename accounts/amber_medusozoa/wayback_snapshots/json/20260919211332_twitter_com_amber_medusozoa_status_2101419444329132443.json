@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "RuPaul",
+          "id": "1011347478740754432",
+          "name": "RuPaul"
+        }
+      },
+      {
+        "domain": {
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+          "id": "58",
+          "name": "Entertainment Personality"
+        },
+        "entity": {
+          "description": "RuPaul",
+          "id": "1011347478740754432",
+          "name": "RuPaul"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "RuPaul",
+          "id": "1011347478740754432",
+          "name": "RuPaul"
+        }
+      }
+    ],
+    "conversation_id": "2101419444329132443",
+    "created_at": "2026-09-19T21:13:32.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T22:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101419444329132443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1759697340871372800",
+          "start": 3,
+          "username": "crowaltz1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101419444329132443",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101340418000531705",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crowaltz1: Rupaul had a “she-mail” mini game are you fucking kidding me \n\nAnd the game was clocking whether or not an image was a rando…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1214,
+        "media_key": "3_2101340409641242625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSl1-BzXEAE43Bh.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "RuPaul",
+              "id": "1011347478740754432",
+              "name": "RuPaul"
+            }
+          },
+          {
+            "domain": {
+              "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+              "id": "58",
+              "name": "Entertainment Personality"
+            },
+            "entity": {
+              "description": "RuPaul",
+              "id": "1011347478740754432",
+              "name": "RuPaul"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "RuPaul",
+              "id": "1011347478740754432",
+              "name": "RuPaul"
+            }
+          }
+        ],
+        "conversation_id": "2101419444329132443",
+        "created_at": "2026-09-19T21:13:32.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T22:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101419444329132443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1759697340871372800",
+              "start": 3,
+              "username": "crowaltz1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101419444329132443",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101340418000531705",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @crowaltz1: Rupaul had a “she-mail” mini game are you fucking kidding me \n\nAnd the game was clocking whether or not an image was a rando…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101340409641242625"
+          ]
+        },
+        "author_id": "1759697340871372800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "RuPaul",
+              "id": "1011347478740754432",
+              "name": "RuPaul"
+            }
+          },
+          {
+            "domain": {
+              "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+              "id": "58",
+              "name": "Entertainment Personality"
+            },
+            "entity": {
+              "description": "RuPaul",
+              "id": "1011347478740754432",
+              "name": "RuPaul"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "RuPaul",
+              "id": "1011347478740754432",
+              "name": "RuPaul"
+            }
+          }
+        ],
+        "conversation_id": "2101340418000531705",
+        "created_at": "2026-09-19T15:59:31.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T16:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101340418000531705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bepXbPg1xh",
+              "end": 171,
+              "expanded_url": "https://x.com/crowaltz1/status/2101340418000531705/photo/1",
+              "media_key": "3_2101340409641242625",
+              "start": 148,
+              "url": "https://t.co/bepXbPg1xh"
+            },
+            {
+              "display_url": "x.com/crowaltz1/stat…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/crowaltz1/status/2101326077847032060",
+              "start": 172,
+              "url": "https://t.co/hQ78wWFBux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101340418000531705",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2101340409641242625"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 29241,
+          "like_count": 1542,
+          "quote_count": 16,
+          "reply_count": 16,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101326077847032060",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Rupaul had a “she-mail” mini game are you fucking kidding me \n\nAnd the game was clocking whether or not an image was a random woman or a past queen https://t.co/bepXbPg1xh https://t.co/hQ78wWFBux"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️⚢☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2101419444329132443",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11078,
+          "following_count": 1362,
+          "like_count": 10493,
+          "listed_count": 16,
+          "media_count": 495,
+          "tweet_count": 6390
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-19T21:52:06.000Z",
+        "description": "18+, Adults Only, he/him, 20s, enjoyer of trans, transhet, transhomo, furries. wokemeister and political pornist. Professional chaser. Doomsayer. Live Lifer.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crowaltz.straw.page",
+                "end": 23,
+                "expanded_url": "http://crowaltz.straw.page",
+                "start": 0,
+                "url": "https://t.co/CqytHuNtn9"
+              }
+            ]
+          }
+        },
+        "id": "1759697340871372800",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101406645351764322",
+        "name": "Crowaltz the Mighty",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759697340871372800/1787001474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019469826696052736/b_NW2gOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3617,
+          "following_count": 323,
+          "like_count": 13241,
+          "listed_count": 2,
+          "media_count": 279,
+          "tweet_count": 1708
+        },
+        "url": "https://t.co/CqytHuNtn9",
+        "username": "crowaltz1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

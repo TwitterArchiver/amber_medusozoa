@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103882226970632193"
+      ],
+      "media_source_tweet_id": [
+        "2103882237443711071"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2104078414277652974",
+    "created_at": "2026-09-27T05:19:20.000Z",
+    "display_text_range": [
+      0,
+      117
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T06:19:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104078414277652974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1708421262941306880",
+          "start": 3,
+          "username": "yuriiosnake"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mxQyu9Mkd5",
+          "end": 117,
+          "expanded_url": "https://x.com/yuriiosnake/status/2103882237443711071/photo/1",
+          "media_key": "3_2103882226970632193",
+          "start": 94,
+          "url": "https://t.co/mxQyu9Mkd5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104078414277652974",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2103882226970632193"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3744
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103882237443711071",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuriiosnake: Please read this 🇧🇷 ‼️‼️ The US wants to interfere in my country's election. https://t.co/mxQyu9Mkd5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103882226970632193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJ9vRPXoAEY29h.jpg",
+        "width": 1515
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103882226970632193"
+          ],
+          "media_source_tweet_id": [
+            "2103882237443711071"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2104078414277652974",
+        "created_at": "2026-09-27T05:19:20.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T06:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104078414277652974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1708421262941306880",
+              "start": 3,
+              "username": "yuriiosnake"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mxQyu9Mkd5",
+              "end": 117,
+              "expanded_url": "https://x.com/yuriiosnake/status/2103882237443711071/photo/1",
+              "media_key": "3_2103882226970632193",
+              "start": 94,
+              "url": "https://t.co/mxQyu9Mkd5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104078414277652974",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2103882226970632193"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3744
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103882237443711071",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuriiosnake: Please read this 🇧🇷 ‼️‼️ The US wants to interfere in my country's election. https://t.co/mxQyu9Mkd5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103882226970632193"
+          ]
+        },
+        "author_id": "1708421262941306880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2103882237443711071",
+        "created_at": "2026-09-26T16:19:48.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103882237443711071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mxQyu9Mkd5",
+              "end": 100,
+              "expanded_url": "https://x.com/yuriiosnake/status/2103882237443711071/photo/1",
+              "media_key": "3_2103882226970632193",
+              "start": 77,
+              "url": "https://t.co/mxQyu9Mkd5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103882237443711071",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2103882226970632193"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 255,
+          "impression_count": 50253,
+          "like_count": 6759,
+          "quote_count": 56,
+          "reply_count": 13,
+          "retweet_count": 3744
+        },
+        "reply_settings": "everyone",
+        "text": "Please read this 🇧🇷 ‼️‼️ The US wants to interfere in my country's election. https://t.co/mxQyu9Mkd5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2104078414277652974",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11476,
+          "following_count": 1385,
+          "like_count": 11159,
+          "listed_count": 20,
+          "media_count": 525,
+          "tweet_count": 6863
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-01T09:59:21.000Z",
+        "description": "𝘥𝘰  𝘺𝘰𝘶  𝘸𝘢𝘯𝘵  𝘵𝘰  𝘬𝘯𝘰𝘸  𝘢  𝘴𝘦𝘤𝘳𝘦𝘵?  𓏲 ๋࣭ 🕸🎩 ࣪ ˖\n────୨ৎ────           𓏵 ꒰ + 16 ꒱ \n💍.ִֶָ  @channyhatter  ࣪ ִֶָ 𓂃",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 89,
+                "username": "channyhatter"
+              }
+            ]
+          }
+        },
+        "id": "1708421262941306880",
+        "is_identity_verified": false,
+        "location": "ִ 𝘩𝘦 / 𝘴𝘩𝘦 ִֶָ 🪽་༘",
+        "most_recent_tweet_id": "2104029417420820671",
+        "name": "𝓒llie 𓉸ྀི 🇧🇷",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1708421262941306880/1790374292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096959776794329088/HirnJIe8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 91,
+          "like_count": 7293,
+          "listed_count": 5,
+          "media_count": 50,
+          "tweet_count": 1745
+        },
+        "url": "",
+        "username": "yuriiosnake",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

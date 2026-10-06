@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2105346286555742609",
+    "created_at": "2026-09-30T17:17:24.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T18:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105346286555742609"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tongzikin/stat…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/tongzikin/status/2105334544354394113",
+          "start": 14,
+          "url": "https://t.co/vzzh3uwXf6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105346286555742609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105334544354394113",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为作品是chaser写的 https://t.co/vzzh3uwXf6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105334541271662597",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTemnFnbgAUOtSg.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2105346286555742609",
+        "created_at": "2026-09-30T17:17:24.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T18:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105346286555742609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tongzikin/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/tongzikin/status/2105334544354394113",
+              "start": 14,
+              "url": "https://t.co/vzzh3uwXf6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105346286555742609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105334544354394113",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为作品是chaser写的 https://t.co/vzzh3uwXf6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105334541271662597"
+          ]
+        },
+        "author_id": "1608684841729667073",
+        "conversation_id": "2105334544354394113",
+        "created_at": "2026-09-30T16:30:45.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T17:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105334544354394113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sMuAeglv7W",
+              "end": 39,
+              "expanded_url": "https://x.com/tongzikin/status/2105334544354394113/photo/1",
+              "media_key": "3_2105334541271662597",
+              "start": 16,
+              "url": "https://t.co/sMuAeglv7W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105334544354394113",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105334541271662597"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "为什么结局是主角提前离开了呢… https://t.co/sMuAeglv7W"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2105346286555742609",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11553,
+          "following_count": 1404,
+          "like_count": 11380,
+          "listed_count": 19,
+          "media_count": 529,
+          "tweet_count": 7010
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-30T04:42:50.000Z",
+        "description": "📪 hey@zikin.me / 🏳️‍⚧️ She|They / 臭学文科的\n🫶 好诡秘 🪭 @misaka1057 / ❄️ @mio_shirakawa / 🐧 @Silent121_5 / 🌸 @Miaaaaaaama\n💕 对象 @lowb_moe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "misaka1057"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "mio_shirakawa"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "Silent121_5"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Miaaaaaaama"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "lowb_moe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zikin.me",
+                "end": 23,
+                "expanded_url": "https://zikin.me/",
+                "start": 0,
+                "url": "https://t.co/JbvqgRyODw"
+              }
+            ]
+          }
+        },
+        "id": "1608684841729667073",
+        "is_identity_verified": false,
+        "location": "Edmonton / Vancouver",
+        "most_recent_tweet_id": "2105339938065842367",
+        "name": "Zikin 🍋",
+        "pinned_tweet_id": "2081796052462780489",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1608684841729667073/1675000942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080480264237842433/HA-o9WGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 2144,
+          "like_count": 32165,
+          "listed_count": 5,
+          "media_count": 1237,
+          "tweet_count": 4570
+        },
+        "url": "https://t.co/JbvqgRyODw",
+        "username": "tongzikin",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165570560",
+          "name": "Education Related - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Harvard University",
+          "id": "10047480136",
+          "name": "Harvard University"
+        }
+      }
+    ],
+    "conversation_id": "2102926509006590059",
+    "created_at": "2026-09-24T01:02:04.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T02:02:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102926509006590059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1012141971601743873",
+          "start": 3,
+          "username": "9mmballpoint"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102926509006590059",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 143
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102753247584776242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @9mmballpoint: Every time someone tries to blame this sort of thing on \"social media,\" I think back to Richard Wright's essay about tryi…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Harvard University",
+              "id": "10047480136",
+              "name": "Harvard University"
+            }
+          }
+        ],
+        "conversation_id": "2102926509006590059",
+        "created_at": "2026-09-24T01:02:04.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T02:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102926509006590059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1012141971601743873",
+              "start": 3,
+              "username": "9mmballpoint"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102926509006590059",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 143
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102753247584776242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @9mmballpoint: Every time someone tries to blame this sort of thing on \"social media,\" I think back to Richard Wright's essay about tryi…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1012141971601743873",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Chicago",
+              "id": "1012378946615181312",
+              "name": "Chicago"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Harvard University",
+              "id": "10047480136",
+              "name": "Harvard University"
+            }
+          }
+        ],
+        "conversation_id": "2102753247584776242",
+        "created_at": "2026-09-23T13:33:36.000Z",
+        "display_text_range": [
+          0,
+          274
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T14:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102753247584776242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/benryanwriter/…",
+              "end": 298,
+              "expanded_url": "https://twitter.com/benryanwriter/status/2102615549939155048",
+              "start": 275,
+              "url": "https://t.co/ZltJJb1qlV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102753247584776242",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 317,
+          "impression_count": 63016,
+          "like_count": 2411,
+          "quote_count": 8,
+          "reply_count": 25,
+          "retweet_count": 143
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102615549939155048",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Every time someone tries to blame this sort of thing on \"social media,\" I think back to Richard Wright's essay about trying to join the Chicago communist party in 1933 where all they did was sit around in a dingy basement accusing each other of being intellectuals and Trots https://t.co/ZltJJb1qlV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2102926509006590059",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11431,
+          "following_count": 1380,
+          "like_count": 10913,
+          "listed_count": 18,
+          "media_count": 517,
+          "tweet_count": 6729
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-06-28T01:13:45.000Z",
+        "description": "Visual Discourse Loudener, or \"political cartoonist\" in layman's terms.\nhttps://t.co/aB4mYGBG4m\nhttps://t.co/eoJHpMIHwm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/rednblacksalam…",
+                "end": 95,
+                "expanded_url": "http://instagram.com/rednblacksalamander",
+                "start": 72,
+                "url": "https://t.co/aB4mYGBG4m"
+              },
+              {
+                "display_url": "cara.app/9mmballpoint",
+                "end": 119,
+                "expanded_url": "https://cara.app/9mmballpoint",
+                "start": 96,
+                "url": "https://t.co/eoJHpMIHwm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/RnBScartoons",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/RnBScartoons",
+                "start": 0,
+                "url": "https://t.co/Za6hh10vyo"
+              }
+            ]
+          }
+        },
+        "id": "1012141971601743873",
+        "is_identity_verified": false,
+        "location": "a blue state",
+        "most_recent_tweet_id": "2102840523350303102",
+        "name": "RednBlackSalamander",
+        "pinned_tweet_id": "2014065339630240219",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1012141971601743873/1530150116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1350905071337435138/AVg-DV8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14938,
+          "following_count": 1325,
+          "like_count": 20953,
+          "listed_count": 142,
+          "media_count": 2420,
+          "tweet_count": 23625
+        },
+        "url": "https://t.co/Za6hh10vyo",
+        "username": "9mmballpoint",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

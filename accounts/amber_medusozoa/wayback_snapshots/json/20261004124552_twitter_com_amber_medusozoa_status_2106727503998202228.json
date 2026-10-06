@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Graphic Design",
+          "id": "1046580793848418305",
+          "name": "Graphic design"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Graphic Design",
+          "id": "1046580793848418305",
+          "name": "Graphic design"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "2106727503998202228",
+    "created_at": "2026-10-04T12:45:52.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T13:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106727503998202228"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/flp_books/stat…",
+          "end": 125,
+          "expanded_url": "https://twitter.com/flp_books/status/2106701973240029425",
+          "start": 102,
+          "url": "https://t.co/Z9SZ3cmagq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106727503998202228",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106701973240029425",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "maoism is when you can’t afford a real designer who can correctly set up bleed parameters on indesign https://t.co/Z9SZ3cmagq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2106727503998202228",
+        "created_at": "2026-10-04T12:45:52.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T13:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106727503998202228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/flp_books/stat…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/flp_books/status/2106701973240029425",
+              "start": 102,
+              "url": "https://t.co/Z9SZ3cmagq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106727503998202228",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106701973240029425",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "maoism is when you can’t afford a real designer who can correctly set up bleed parameters on indesign https://t.co/Z9SZ3cmagq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1296607623626797057",
+        "conversation_id": "2106701973240029425",
+        "created_at": "2026-10-04T11:04:25.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T12:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106701973240029425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sandshrewmaois…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/sandshrewmaoist/status/2106452365872353294",
+              "start": 48,
+              "url": "https://t.co/L1CeESbqec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106701973240029425",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 3835,
+          "like_count": 223,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106452365872353294",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Maoism is when you wanna keep books affordable. https://t.co/L1CeESbqec"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2106727503998202228",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11680,
+          "following_count": 1417,
+          "like_count": 11776,
+          "listed_count": 21,
+          "media_count": 533,
+          "tweet_count": 7197
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-21T00:39:24.000Z",
+        "description": "We publish books based on our understanding of the current needs and challenges that the ICM is facing.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "foreignlanguages.press",
+                "end": 23,
+                "expanded_url": "https://foreignlanguages.press",
+                "start": 0,
+                "url": "https://t.co/fnngFBc1yh"
+              }
+            ]
+          }
+        },
+        "id": "1296607623626797057",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106727519693021603",
+        "name": "Foreign Languages Press",
+        "pinned_tweet_id": "1671586344823398406",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1296607623626797057/1788262453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802286047461560320/expHRr9y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15799,
+          "following_count": 72,
+          "like_count": 3092,
+          "listed_count": 45,
+          "media_count": 1193,
+          "tweet_count": 3957
+        },
+        "url": "https://t.co/fnngFBc1yh",
+        "username": "FLP_books",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2106435910401232901",
+    "created_at": "2026-10-03T22:42:49.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T23:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106515343128895498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1548826131927044097",
+          "start": 0,
+          "username": "YukikuYumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106515343128895498",
+    "in_reply_to_user_id": "1548826131927044097",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106435910401232901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YukikuYumi 穹庐下的魔女"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2106435910401232901",
+        "created_at": "2026-10-03T22:42:49.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T23:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106515343128895498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1548826131927044097",
+              "start": 0,
+              "username": "YukikuYumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106515343128895498",
+        "in_reply_to_user_id": "1548826131927044097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106435910401232901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukikuYumi 穹庐下的魔女"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548826131927044097",
+        "conversation_id": "2106435910401232901",
+        "created_at": "2026-10-03T17:27:11.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T18:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106435910401232901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "清羽梦泠's Space · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1AJEm…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1AJEmvZlVvZJL",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2106435911701393408/w2uPjgol?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2106435911701393408/w2uPjgol?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 燃尽… / X",
+              "unwound_url": "https://x.com/i/spaces/1AJEmvZlVvZJL",
+              "url": "https://t.co/f5PAzxzTf4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106435910401232901",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/f5PAzxzTf4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2106515343128895498",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11638,
+          "following_count": 1415,
+          "like_count": 11734,
+          "listed_count": 20,
+          "media_count": 534,
+          "tweet_count": 7179
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-18T00:25:11.000Z",
+        "description": "01处女座🏳️‍⚧️｜178/65｜2024.08.18🍬｜le｜丹麦留子｜碎碎念：@YukikuYomi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "YukikuYomi"
+              }
+            ]
+          }
+        },
+        "id": "1548826131927044097",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106435910401232901",
+        "name": "清羽梦泠",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548826131927044097/1667356362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844385529502003209/wypDnx8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6239,
+          "following_count": 519,
+          "like_count": 2855,
+          "listed_count": 19,
+          "media_count": 276,
+          "tweet_count": 1599
+        },
+        "url": "",
+        "username": "YukikuYumi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

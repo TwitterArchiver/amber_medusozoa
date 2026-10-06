@@ -1,0 +1,684 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2099757179699855360"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      }
+    ],
+    "conversation_id": "2099757201900343370",
+    "created_at": "2026-09-15T07:08:23.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T08:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099757201900343370"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2RV4Pfy1iI",
+          "end": 31,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2099757201900343370/video/1",
+          "media_key": "13_2099757179699855360",
+          "start": 8,
+          "url": "https://t.co/2RV4Pfy1iI"
+        },
+        {
+          "display_url": "x.com/HarukawaSayaka…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/HarukawaSayaka/status/2099708360081961445",
+          "start": 32,
+          "url": "https://t.co/GLwL01GaH0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099757201900343370",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2099757179699855360"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099708360081961445",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "母公司技术下放 https://t.co/2RV4Pfy1iI https://t.co/GLwL01GaH0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9409,
+        "height": 2160,
+        "media_key": "13_2099757179699855360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099757179699855360/img/0COdpOI3ZefdwRaT.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099757179699855360/vid/avc1/1080x2160/mHcbJX4-EIKCjYoy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099757179699855360/pl/C0XlSNdzy4bReYbn.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099757179699855360/vid/avc1/320x640/sqPqnT773c6GFRpZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099757179699855360/vid/avc1/480x960/topIEDELT0Nl7IgX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099757179699855360/vid/avc1/720x1440/cZHaK3Kd8k1Hmph7.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 16753,
+        "height": 2622,
+        "media_key": "13_2099708265454305280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099708265454305280/img/fbOe_vGZuaxjTw5_.jpg",
+        "public_metrics": {
+          "view_count": 6623
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099708265454305280/pl/v7ml9J6E2V_YMxzb.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099708265454305280/vid/avc1/1206x2622/Qhrs-54XWg-9LDYS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099708265454305280/vid/avc1/480x1042/g8lNHlBitJIwhIgp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099708265454305280/vid/avc1/720x1564/zj6BxIHGvdNOGRRl.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099708265454305280/vid/avc1/320x694/Ly_4ry2vmyBcAMYa.mp4"
+          }
+        ],
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099757179699855360"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2099757201900343370",
+        "created_at": "2026-09-15T07:08:23.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T08:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099757201900343370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2RV4Pfy1iI",
+              "end": 31,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2099757201900343370/video/1",
+              "media_key": "13_2099757179699855360",
+              "start": 8,
+              "url": "https://t.co/2RV4Pfy1iI"
+            },
+            {
+              "display_url": "x.com/HarukawaSayaka…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/HarukawaSayaka/status/2099708360081961445",
+              "start": 32,
+              "url": "https://t.co/GLwL01GaH0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099757201900343370",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099757179699855360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099708360081961445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "母公司技术下放 https://t.co/2RV4Pfy1iI https://t.co/GLwL01GaH0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099708265454305280"
+          ]
+        },
+        "author_id": "850937205040087040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2099708360081961445",
+        "created_at": "2026-09-15T03:54:18.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T04:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099708360081961445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9u3ACGiXMh",
+              "end": 48,
+              "expanded_url": "https://x.com/HarukawaSayaka/status/2099708360081961445/video/1",
+              "media_key": "13_2099708265454305280",
+              "start": 25,
+              "url": "https://t.co/9u3ACGiXMh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099708360081961445",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099708265454305280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 14490,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "iOS 27 的预览 App 怎么有个雷霆大透镜 https://t.co/9u3ACGiXMh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2099757201900343370",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097770631366328653",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10903,
+          "following_count": 1325,
+          "like_count": 10070,
+          "listed_count": 14,
+          "media_count": 469,
+          "tweet_count": 5985
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-04-09T05:03:34.000Z",
+        "description": "e/acc | harukawa.eth | sayaka.sol | 東方好き @touhou_works | 🦋https://t.co/2AAZSRcbGd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "touhou_works"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "harukawasayaka.bsky.social",
+                "end": 81,
+                "expanded_url": "http://harukawasayaka.bsky.social",
+                "start": 58,
+                "url": "https://t.co/2AAZSRcbGd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "baka.studio",
+                "end": 23,
+                "expanded_url": "https://baka.studio",
+                "start": 0,
+                "url": "https://t.co/5cRUMpg22J"
+              }
+            ]
+          }
+        },
+        "id": "850937205040087040",
+        "is_identity_verified": true,
+        "location": "Machida-shi, Tokyo",
+        "most_recent_tweet_id": "2099755250974670980",
+        "name": "晴猫@幻夢結社",
+        "pinned_tweet_id": "1954584081175658619",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/850937205040087040/1740151173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004808436408832000/_O8KiHpR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21961,
+          "following_count": 11742,
+          "like_count": 50431,
+          "listed_count": 53,
+          "media_count": 2103,
+          "tweet_count": 14085
+        },
+        "url": "https://t.co/5cRUMpg22J",
+        "username": "HarukawaSayaka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

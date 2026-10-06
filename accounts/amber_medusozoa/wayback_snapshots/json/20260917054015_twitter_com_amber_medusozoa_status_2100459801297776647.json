@@ -1,0 +1,509 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100231857254043648",
+        "3_2100231893832577024"
+      ],
+      "media_source_tweet_id": [
+        "2100231901436907532",
+        "2100231901436907532"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2100459801297776647",
+    "created_at": "2026-09-17T05:40:15.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T06:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100459801297776647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1410646915390267392",
+          "start": 3,
+          "username": "burnthelilacs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DjVEZ8Vt3N",
+          "end": 42,
+          "expanded_url": "https://x.com/burnthelilacs/status/2100231901436907532/photo/1",
+          "media_key": "3_2100231857254043648",
+          "start": 19,
+          "url": "https://t.co/DjVEZ8Vt3N"
+        },
+        {
+          "display_url": "pic.x.com/DjVEZ8Vt3N",
+          "end": 42,
+          "expanded_url": "https://x.com/burnthelilacs/status/2100231901436907532/photo/1",
+          "media_key": "3_2100231893832577024",
+          "start": 19,
+          "url": "https://t.co/DjVEZ8Vt3N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100459801297776647",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2100231857254043648"
+      },
+      {
+        "media_key": "3_2100231893832577024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100231901436907532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @burnthelilacs: https://t.co/DjVEZ8Vt3N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 654,
+        "media_key": "3_2100231857254043648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWFvyWWEAAZx3d.png",
+        "width": 486
+      },
+      {
+        "height": 612,
+        "media_key": "3_2100231893832577024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWFx6nWMAAH3Tz.png",
+        "width": 463
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100231857254043648",
+            "3_2100231893832577024"
+          ],
+          "media_source_tweet_id": [
+            "2100231901436907532",
+            "2100231901436907532"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2100459801297776647",
+        "created_at": "2026-09-17T05:40:15.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T06:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100459801297776647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1410646915390267392",
+              "start": 3,
+              "username": "burnthelilacs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DjVEZ8Vt3N",
+              "end": 42,
+              "expanded_url": "https://x.com/burnthelilacs/status/2100231901436907532/photo/1",
+              "media_key": "3_2100231857254043648",
+              "start": 19,
+              "url": "https://t.co/DjVEZ8Vt3N"
+            },
+            {
+              "display_url": "pic.x.com/DjVEZ8Vt3N",
+              "end": 42,
+              "expanded_url": "https://x.com/burnthelilacs/status/2100231901436907532/photo/1",
+              "media_key": "3_2100231893832577024",
+              "start": 19,
+              "url": "https://t.co/DjVEZ8Vt3N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100459801297776647",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2100231857254043648"
+          },
+          {
+            "media_key": "3_2100231893832577024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100231901436907532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @burnthelilacs: https://t.co/DjVEZ8Vt3N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100231857254043648",
+            "3_2100231893832577024"
+          ]
+        },
+        "author_id": "1410646915390267392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2100231901436907532",
+        "created_at": "2026-09-16T14:34:40.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100231901436907532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DjVEZ8Vt3N",
+              "end": 23,
+              "expanded_url": "https://x.com/burnthelilacs/status/2100231901436907532/photo/1",
+              "media_key": "3_2100231857254043648",
+              "start": 0,
+              "url": "https://t.co/DjVEZ8Vt3N"
+            },
+            {
+              "display_url": "pic.x.com/DjVEZ8Vt3N",
+              "end": 23,
+              "expanded_url": "https://x.com/burnthelilacs/status/2100231901436907532/photo/1",
+              "media_key": "3_2100231893832577024",
+              "start": 0,
+              "url": "https://t.co/DjVEZ8Vt3N"
+            },
+            {
+              "display_url": "x.com/burnthelilacs/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/burnthelilacs/status/2100055523039003009",
+              "start": 24,
+              "url": "https://t.co/5VUrnvKuv1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100231901436907532",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2100231857254043648"
+          },
+          {
+            "media_key": "3_2100231893832577024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1084,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100055523039003009",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/DjVEZ8Vt3N https://t.co/5VUrnvKuv1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️⚢☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2100459801297776647",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2096241979889734088",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10985,
+          "following_count": 1344,
+          "like_count": 10290,
+          "listed_count": 15,
+          "media_count": 484,
+          "tweet_count": 6197
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-01T17:10:23.000Z",
+        "description": "22, autistic lesbian biohacker, LA𝛵𝛦𝛸 pronouncer, bad at quizzing, 'huge problem to a sane world'",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/amekyr…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/amekyras.bsky.social",
+                "start": 0,
+                "url": "https://t.co/5XQxTxPh75"
+              }
+            ]
+          }
+        },
+        "id": "1410646915390267392",
+        "is_identity_verified": false,
+        "location": "(she/her)",
+        "most_recent_tweet_id": "2100435050068103203",
+        "name": "Aisling",
+        "pinned_tweet_id": "2068142819827409007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1410646915390267392/1640635539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100350319246897153/QPcRM5LG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2778,
+          "following_count": 2106,
+          "like_count": 13470,
+          "listed_count": 20,
+          "media_count": 809,
+          "tweet_count": 24828
+        },
+        "url": "https://t.co/5XQxTxPh75",
+        "username": "burnthelilacs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

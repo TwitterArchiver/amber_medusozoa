@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2101142100486348991",
+    "created_at": "2026-09-19T15:31:17.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T16:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101333311901589545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1723047974677479424",
+          "start": 0,
+          "username": "ReedPascal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101333311901589545",
+    "in_reply_to_user_id": "1723047974677479424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101142100486348991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ReedPascal 车车好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3275,
+        "media_key": "3_2101142077191184384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSjBlj2bYAARHmR.jpg",
+        "width": 3275
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2101142077149253632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSjBljsbkAABdf5.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2101142100486348991",
+        "created_at": "2026-09-19T15:31:17.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T16:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101333311901589545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1723047974677479424",
+              "start": 0,
+              "username": "ReedPascal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101333311901589545",
+        "in_reply_to_user_id": "1723047974677479424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101142100486348991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ReedPascal 车车好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101142077191184384",
+            "3_2101142077149253632"
+          ]
+        },
+        "author_id": "1723047974677479424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2101142100486348991",
+        "created_at": "2026-09-19T02:51:28.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T03:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101142100486348991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bxp2eeE8xR",
+              "end": 96,
+              "expanded_url": "https://x.com/ReedPascal/status/2101142100486348991/photo/1",
+              "media_key": "3_2101142077191184384",
+              "start": 73,
+              "url": "https://t.co/Bxp2eeE8xR"
+            },
+            {
+              "display_url": "pic.x.com/Bxp2eeE8xR",
+              "end": 96,
+              "expanded_url": "https://x.com/ReedPascal/status/2101142100486348991/photo/1",
+              "media_key": "3_2101142077149253632",
+              "start": 73,
+              "url": "https://t.co/Bxp2eeE8xR"
+            },
+            {
+              "display_url": "x.com/momosereina/st…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/momosereina/status/2100916657124425775",
+              "start": 97,
+              "url": "https://t.co/U6wF5ISfdb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101142100486348991",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101142077191184384"
+          },
+          {
+            "media_key": "3_2101142077149253632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3537,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100916657124425775",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不知道，但是依旧没有颜色能超过13代的苍岭绿和远峰蓝\n\n太在意手机看起来是不是新的、太关注保值率本身就是一种虚荣的显象，自己喜欢的才是最好的🩵💚 https://t.co/Bxp2eeE8xR https://t.co/U6wF5ISfdb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️⚢☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2101333311901589545",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11071,
+          "following_count": 1359,
+          "like_count": 10466,
+          "listed_count": 16,
+          "media_count": 494,
+          "tweet_count": 6359
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-10T18:40:48.000Z",
+        "description": "和平，自由，勇气与爱.",
+        "id": "1723047974677479424",
+        "is_identity_verified": false,
+        "location": "Yamanashi-ken, Japan",
+        "most_recent_tweet_id": "2101220137680752700",
+        "name": "Pascal Reed🕊️",
+        "pinned_tweet_id": "2006756660673720629",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1723047974677479424/1788213749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083180889610330112/WpDqJRdN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2127,
+          "following_count": 101,
+          "like_count": 108224,
+          "listed_count": 2,
+          "media_count": 3045,
+          "tweet_count": 9728
+        },
+        "url": "",
+        "username": "ReedPascal",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

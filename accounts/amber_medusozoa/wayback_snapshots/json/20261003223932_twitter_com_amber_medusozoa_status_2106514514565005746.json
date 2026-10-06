@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2106375084151918669",
+    "created_at": "2026-10-03T22:39:32.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T23:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106514514565005746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1350698971996381191",
+          "start": 0,
+          "username": "ashinakei1203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106514514565005746",
+    "in_reply_to_user_id": "1350698971996381191",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106375084151918669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashinakei1203 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2106375084151918669",
+        "created_at": "2026-10-03T22:39:32.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T23:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106514514565005746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1350698971996381191",
+              "start": 0,
+              "username": "ashinakei1203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106514514565005746",
+        "in_reply_to_user_id": "1350698971996381191",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106375084151918669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashinakei1203 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1350698971996381191",
+        "conversation_id": "2106375084151918669",
+        "created_at": "2026-10-03T13:25:29.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T14:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106375084151918669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106375084151918669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 685,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "老天你为什么要这么对我，国庆还过不过放不放假了，让我最亲近的三个人一个做手术一个甲状腺4c一个突然进重症监护。。。。。。都给我好起来"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2106514514565005746",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11638,
+          "following_count": 1415,
+          "like_count": 11733,
+          "listed_count": 20,
+          "media_count": 534,
+          "tweet_count": 7177
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-17T06:58:33.000Z",
+        "description": "可以叫我顺/阿顺\nhe/him/ftmtx/demiboy/transfemboy\n出厂2004.12/♐/xntx/ADHD/泛性恋/回避型人格/家长党\n最爱的脑婆：@sil030922",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "sil030922"
+              }
+            ]
+          }
+        },
+        "id": "1350698971996381191",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106512931378880914",
+        "name": "asn顺🏳‍⚧",
+        "pinned_tweet_id": "2087769889348174095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1350698971996381191/1786206306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104587616800911360/Qp6OYBSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 331,
+          "like_count": 17812,
+          "listed_count": 6,
+          "media_count": 104,
+          "tweet_count": 5056
+        },
+        "url": "",
+        "username": "ashinakei1203",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

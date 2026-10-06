@@ -1,0 +1,503 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104323520809308160"
+      ],
+      "media_source_tweet_id": [
+        "2104323596038426946"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597109358593",
+          "name": "Insurance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026806645",
+          "name": "Blue Cross Blue Shield"
+        }
+      }
+    ],
+    "conversation_id": "2104405376791941333",
+    "created_at": "2026-09-28T02:58:34.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T03:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104405376791941333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "36667104",
+          "start": 3,
+          "username": "politicalmath"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R9zEkwrGDd",
+          "end": 65,
+          "expanded_url": "https://x.com/politicalmath/status/2104323596038426946/photo/1",
+          "media_key": "3_2104323520809308160",
+          "start": 42,
+          "url": "https://t.co/R9zEkwrGDd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104405376791941333",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2104323520809308160"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2752
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104323596038426946",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @politicalmath: This is extremely dark https://t.co/R9zEkwrGDd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 150,
+        "media_key": "3_2104323520809308160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTQPF85WkAAbkRq.png",
+        "width": 562
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104323520809308160"
+          ],
+          "media_source_tweet_id": [
+            "2104323596038426946"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597109358593",
+              "name": "Insurance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026806645",
+              "name": "Blue Cross Blue Shield"
+            }
+          }
+        ],
+        "conversation_id": "2104405376791941333",
+        "created_at": "2026-09-28T02:58:34.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T03:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104405376791941333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "36667104",
+              "start": 3,
+              "username": "politicalmath"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R9zEkwrGDd",
+              "end": 65,
+              "expanded_url": "https://x.com/politicalmath/status/2104323596038426946/photo/1",
+              "media_key": "3_2104323520809308160",
+              "start": 42,
+              "url": "https://t.co/R9zEkwrGDd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104405376791941333",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2104323520809308160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2752
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104323596038426946",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @politicalmath: This is extremely dark https://t.co/R9zEkwrGDd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104323520809308160"
+          ]
+        },
+        "author_id": "36667104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597109358593",
+              "name": "Insurance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026806645",
+              "name": "Blue Cross Blue Shield"
+            }
+          }
+        ],
+        "conversation_id": "2104323596038426946",
+        "created_at": "2026-09-27T21:33:36.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T22:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104323596038426946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R9zEkwrGDd",
+              "end": 46,
+              "expanded_url": "https://x.com/politicalmath/status/2104323596038426946/photo/1",
+              "media_key": "3_2104323520809308160",
+              "start": 23,
+              "url": "https://t.co/R9zEkwrGDd"
+            },
+            {
+              "display_url": "x.com/HedgieMarkets/…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/HedgieMarkets/status/2104266774766039301",
+              "start": 47,
+              "url": "https://t.co/oKZFWym3j3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104323596038426946",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2104323520809308160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2282,
+          "impression_count": 889289,
+          "like_count": 18253,
+          "quote_count": 55,
+          "reply_count": 103,
+          "retweet_count": 2752
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104266774766039301",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "This is extremely dark https://t.co/R9zEkwrGDd https://t.co/oKZFWym3j3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2104405376791941333",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11482,
+          "following_count": 1389,
+          "like_count": 11221,
+          "listed_count": 20,
+          "media_count": 528,
+          "tweet_count": 6908
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-04-30T13:56:54.000Z",
+        "description": "Author of A Misfit Highwire Act https://t.co/7SKdMoglRR\n\nMarginally compelling & occasionally accurate, sometime writer, engineer, cake-baker",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amzn.to/4uRgInh",
+                "end": 55,
+                "expanded_url": "https://amzn.to/4uRgInh",
+                "start": 32,
+                "url": "https://t.co/7SKdMoglRR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marginallycompelling.com",
+                "end": 23,
+                "expanded_url": "https://www.marginallycompelling.com/",
+                "start": 0,
+                "url": "https://t.co/bDYhTCgnsE"
+              }
+            ]
+          }
+        },
+        "id": "36667104",
+        "is_identity_verified": false,
+        "location": "Gulf of Guinea",
+        "most_recent_tweet_id": "2104393114278351213",
+        "name": "PoIiMath",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/36667104/1430417462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1349134376710279169/f5Vwu75D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132302,
+          "following_count": 1375,
+          "like_count": 126349,
+          "listed_count": 1779,
+          "media_count": 8399,
+          "tweet_count": 154496
+        },
+        "url": "https://t.co/bDYhTCgnsE",
+        "username": "politicalmath",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

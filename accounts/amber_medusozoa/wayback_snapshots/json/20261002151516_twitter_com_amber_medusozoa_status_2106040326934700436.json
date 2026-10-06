@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2106040326934700436",
+    "created_at": "2026-10-02T15:15:16.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T16:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106040326934700436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1473159080143376385",
+          "start": 3,
+          "username": "Jacque1ineWong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106040326934700436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105886231204856305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @Jacque1ineWong: 前面忘了后面忘了\n\n你双亲飞了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2106040326934700436",
+        "created_at": "2026-10-02T15:15:16.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T16:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106040326934700436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1473159080143376385",
+              "start": 3,
+              "username": "Jacque1ineWong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106040326934700436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105886231204856305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @Jacque1ineWong: 前面忘了后面忘了\n\n你双亲飞了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473159080143376385",
+        "conversation_id": "2105886231204856305",
+        "created_at": "2026-10-02T05:02:57.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T06:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105886231204856305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aoao960968/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/aoao960968/status/2105703908698214400",
+              "start": 16,
+              "url": "https://t.co/kmW8fT817e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105886231204856305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1618,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105703908698214400",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "前面忘了后面忘了\n\n你双亲飞了 https://t.co/kmW8fT817e"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2106040326934700436",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11585,
+          "following_count": 1410,
+          "like_count": 11620,
+          "listed_count": 20,
+          "media_count": 529,
+          "tweet_count": 7091
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-21T05:11:17.000Z",
+        "description": "👩‍❤️‍💋‍👨🏳️‍⚧️One day I’ll be free.",
+        "id": "1473159080143376385",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2106009183770509774",
+        "name": "茉莉奶绿黄奕缘",
+        "pinned_tweet_id": "1981532932574761001",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1473159080143376385/1774073789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035239048470732800/28ncdCFx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4449,
+          "following_count": 600,
+          "like_count": 45196,
+          "listed_count": 13,
+          "media_count": 737,
+          "tweet_count": 14571
+        },
+        "url": "",
+        "username": "Jacque1ineWong",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

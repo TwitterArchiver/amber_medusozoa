@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2098732758063534547",
+    "created_at": "2026-09-14T22:10:27.000Z",
+    "display_text_range": [
+      43,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T23:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099621827362369619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1048538509856919554",
+          "start": 0,
+          "username": "VuiRaTheLobster"
+        },
+        {
+          "end": 28,
+          "id": "1597468568290873344",
+          "start": 17,
+          "username": "jingzhny11"
+        },
+        {
+          "end": 42,
+          "id": "906829343480938496",
+          "start": 29,
+          "username": "Nevernessian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099621827362369619",
+    "in_reply_to_user_id": "1048538509856919554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099307369545220341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VuiRaTheLobster @jingzhny11 @Nevernessian 这都什么乱七八糟的问题根本不在这里好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2098732758063534547",
+        "created_at": "2026-09-14T22:10:27.000Z",
+        "display_text_range": [
+          43,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T23:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099621827362369619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1048538509856919554",
+              "start": 0,
+              "username": "VuiRaTheLobster"
+            },
+            {
+              "end": 28,
+              "id": "1597468568290873344",
+              "start": 17,
+              "username": "jingzhny11"
+            },
+            {
+              "end": 42,
+              "id": "906829343480938496",
+              "start": 29,
+              "username": "Nevernessian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099621827362369619",
+        "in_reply_to_user_id": "1048538509856919554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099307369545220341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VuiRaTheLobster @jingzhny11 @Nevernessian 这都什么乱七八糟的问题根本不在这里好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1048538509856919554",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1400885617467092992",
+              "name": "Jungle Kyona"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1400885617467092992",
+              "name": "Jungle Kyona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544341584474112",
+              "name": "Wrestling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fighting",
+              "id": "1047520229192912896",
+              "name": "Combat sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400512786493370368",
+              "name": "Japanese Women's professional wrestling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400885617467092992",
+              "name": "Jungle Kyona"
+            }
+          }
+        ],
+        "conversation_id": "2098732758063534547",
+        "created_at": "2026-09-14T01:20:54.000Z",
+        "display_text_range": [
+          26,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T02:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099307369545220341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597468568290873344",
+              "start": 0,
+              "username": "jingzhny11"
+            },
+            {
+              "end": 25,
+              "id": "906829343480938496",
+              "start": 12,
+              "username": "Nevernessian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099307369545220341",
+        "in_reply_to_user_id": "1597468568290873344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098906126784090420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzhny11 @Nevernessian 哪里客观事实了，能列举一个听听吗？如果你是说成年之后公司搬水叫男不叫女我还能接受，小学初中高中的劳动任务都是很平均地发给男的和女的的。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2099621827362369619",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097770631366328653",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10896,
+          "following_count": 1318,
+          "like_count": 9984,
+          "listed_count": 14,
+          "media_count": 467,
+          "tweet_count": 5934
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-10-06T11:40:36.000Z",
+        "description": "终有一日我们都将于海底相见。",
+        "id": "1048538509856919554",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099468781785620852",
+        "name": "河马",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1048538509856919554/1728148547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808044296333058049/ezRJl1Dv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 747,
+          "like_count": 28348,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 10103
+        },
+        "url": "",
+        "username": "VuiRaTheLobster",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "🍥​2023 srs2025 一米九超大只术娘老阿姨\n自由左翼的，混乱善良的，激跨的，支持精神活性物质的，ODer但水平很差的，想当黄推不过后来放弃的\n如果我放弃我的自由屈从于国家机器的规训我就已经死了",
+        "id": "1597468568290873344",
+        "is_identity_verified": false,
+        "location": "谁人的繁星之梦",
+        "most_recent_tweet_id": "2099499991119335436",
+        "name": "愿望天使DesireAngel",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597468568290873344/1771935753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462875855900673/BMWGdQhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5878,
+          "following_count": 1966,
+          "like_count": 130099,
+          "listed_count": 24,
+          "media_count": 271,
+          "tweet_count": 19814
+        },
+        "url": "",
+        "username": "jingzhny11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-09-10T10:38:58.000Z",
+        "description": "穷打工的👩‍💼不善良😈所以也不怎么焦虑🤷‍♀️没有社群联系🙅‍♀️性冷淡😐相关专业出身但不会coding⌨️掌勺但不懂美食🍚前电务但不懂铁路🚆更不懂民航✈️不懂数学🔢不懂语言学🔡不懂军武🔫也不会拍照📷不懂穿搭👗裤子比裙子多👖但是mtf🤔\n@nevernessian@m.cmx.im",
+        "id": "906829343480938496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099516419360924008",
+        "name": "魏淑淑淑芬芬芬",
+        "pinned_tweet_id": "2058549888393384391",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/906829343480938496/1510981599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486710720834117636/8z2GHsnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2878,
+          "following_count": 94,
+          "like_count": 6435,
+          "listed_count": 7,
+          "media_count": 1004,
+          "tweet_count": 7583
+        },
+        "url": "",
+        "username": "Nevernessian",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

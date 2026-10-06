@@ -1,0 +1,537 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2103514189088104721",
+    "created_at": "2026-09-25T15:57:18.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T16:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103514189088104721"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/voachinese/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/voachinese/status/2103251538135470180",
+          "start": 11,
+          "url": "https://t.co/qhrksRcvS8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103514189088104721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103251538135470180",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "除了甜点以外我都会做 https://t.co/qhrksRcvS8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51468,
+        "height": 1080,
+        "media_key": "13_2103251456740507648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103251456740507648/img/lr-d4hSOxmQZljMG.jpg",
+        "public_metrics": {
+          "view_count": 41417
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103251456740507648/vid/avc1/1920x1080/FE_d9-nAtkBAv_L5.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103251456740507648/vid/avc1/640x360/TzKzaHBXhwN7O_0N.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103251456740507648/vid/avc1/1280x720/-J2LjlfUMLYGC7Dg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103251456740507648/pl/LAhhBoIH4LOn1yev.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103251456740507648/vid/avc1/480x270/_ubHI68Z_ZGLWNU8.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2103514189088104721",
+        "created_at": "2026-09-25T15:57:18.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T16:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103514189088104721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/voachinese/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/voachinese/status/2103251538135470180",
+              "start": 11,
+              "url": "https://t.co/qhrksRcvS8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103514189088104721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103251538135470180",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "除了甜点以外我都会做 https://t.co/qhrksRcvS8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103251456740507648"
+          ]
+        },
+        "author_id": "8149482",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2103251538135470180",
+        "created_at": "2026-09-24T22:33:37.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T23:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103251538135470180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9M0lvy0xMj",
+              "end": 49,
+              "expanded_url": "https://x.com/VOAChinese/status/2103251538135470180/video/1",
+              "media_key": "13_2103251456740507648",
+              "start": 26,
+              "url": "https://t.co/9M0lvy0xMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103251538135470180",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2103251456740507648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 73362,
+          "like_count": 192,
+          "quote_count": 6,
+          "reply_count": 18,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "特朗普总统款待中国国家主席习近平的白宫国宴菜单预览 https://t.co/9M0lvy0xMj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2103514189088104721",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11456,
+          "following_count": 1376,
+          "like_count": 11067,
+          "listed_count": 19,
+          "media_count": 521,
+          "tweet_count": 6794
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2007-08-13T01:36:54.000Z",
+        "description": "美国之音中文网X@voachinese \n美国之音中文网 您可靠的信息来源-通晓美中大事 锁定美国之音\nhttps://t.co/XzB6iSefM5 | https://t.co/ua0xOdvNqA | https://t.co/F1VvKTIXD7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "YouTube.com/voachinese",
+                "end": 75,
+                "expanded_url": "http://YouTube.com/voachinese",
+                "start": 52,
+                "url": "https://t.co/XzB6iSefM5"
+              },
+              {
+                "display_url": "Facebook.com/voachinese",
+                "end": 101,
+                "expanded_url": "http://Facebook.com/voachinese",
+                "start": 78,
+                "url": "https://t.co/ua0xOdvNqA"
+              },
+              {
+                "display_url": "whatsapp.com/channel/0029Va…",
+                "end": 127,
+                "expanded_url": "https://www.whatsapp.com/channel/0029VasToscK0IBfPwWJIn3o",
+                "start": 104,
+                "url": "https://t.co/F1VvKTIXD7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "voachinese.com",
+                "end": 23,
+                "expanded_url": "http://www.voachinese.com",
+                "start": 0,
+                "url": "https://t.co/Yn8buu16GU"
+              }
+            ]
+          }
+        },
+        "id": "8149482",
+        "is_identity_verified": false,
+        "location": "Washington, DC",
+        "most_recent_tweet_id": "2103513473963401726",
+        "name": "美国之音中文网",
+        "pinned_tweet_id": "2103505237256380865",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/8149482/1715366990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643258528218349572/KyNj6ump_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2654185,
+          "following_count": 173,
+          "like_count": 965,
+          "listed_count": 8474,
+          "media_count": 85004,
+          "tweet_count": 272577
+        },
+        "url": "https://t.co/Yn8buu16GU",
+        "username": "VOAChinese",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2099365570449645811",
+    "created_at": "2026-09-14T05:12:10.000Z",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T06:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099365570449645811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "623965569",
+          "start": 3,
+          "username": "nothousand"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099365570449645811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099345232831893735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nothousand: 具体和仔细地去看了这份指南。感觉细化和严谨了很多办法和用词，规范了很多具体的操作，不能说更严格了吧但还是建议能做想做的尽快。宜早不宜晚。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2099365570449645811",
+        "created_at": "2026-09-14T05:12:10.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T06:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099365570449645811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "623965569",
+              "start": 3,
+              "username": "nothousand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099365570449645811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099345232831893735",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nothousand: 具体和仔细地去看了这份指南。感觉细化和严谨了很多办法和用词，规范了很多具体的操作，不能说更严格了吧但还是建议能做想做的尽快。宜早不宜晚。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "623965569",
+        "conversation_id": "2099345232831893735",
+        "created_at": "2026-09-14T03:51:22.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T04:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099345232831893735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LanziiLove/sta…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/LanziiLove/status/2099335042086629533",
+              "start": 69,
+              "url": "https://t.co/7FtRWOjMCG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099345232831893735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 383,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099335042086629533",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "具体和仔细地去看了这份指南。感觉细化和严谨了很多办法和用词，规范了很多具体的操作，不能说更严格了吧但还是建议能做想做的尽快。宜早不宜晚。 https://t.co/7FtRWOjMCG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2099365570449645811",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097770631366328653",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10840,
+          "following_count": 1305,
+          "like_count": 9872,
+          "listed_count": 14,
+          "media_count": 464,
+          "tweet_count": 5848
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "并非这个世界的生命体",
+        "id": "623965569",
+        "is_identity_verified": false,
+        "location": "earth",
+        "most_recent_tweet_id": "2099345404391563661",
+        "name": "菁芊镜華",
+        "pinned_tweet_id": "2067307566095556947",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/623965569/1748187103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079387399390695424/1IPeK7Oz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3458,
+          "following_count": 128,
+          "like_count": 10037,
+          "listed_count": 10,
+          "media_count": 617,
+          "tweet_count": 6161
+        },
+        "url": "",
+        "username": "nothousand",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2106147024890446150",
+    "created_at": "2026-10-02T22:57:27.000Z",
+    "display_text_range": [
+      26,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T23:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106156636721058012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2092667492531605504",
+          "start": 0,
+          "username": "aginlab1899"
+        },
+        {
+          "end": 25,
+          "id": "1736265610911428608",
+          "start": 13,
+          "username": "noname2095_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106156636721058012",
+    "in_reply_to_user_id": "2092667492531605504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106156530907431382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aginlab1899 @noname2095_ 对"
+  },
+  "errors": [
+    {
+      "detail": "User is unavailable: [noname2095_].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "noname2095_",
+      "resource_type": "user",
+      "title": "Resource Unavailable Error",
+      "type": "https://api.x.com/2/problems/resource-unavailable"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2106147024890446150",
+        "created_at": "2026-10-02T22:57:27.000Z",
+        "display_text_range": [
+          26,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T23:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106156636721058012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2092667492531605504",
+              "start": 0,
+              "username": "aginlab1899"
+            },
+            {
+              "end": 25,
+              "id": "1736265610911428608",
+              "start": 13,
+              "username": "noname2095_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106156636721058012",
+        "in_reply_to_user_id": "2092667492531605504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106156530907431382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aginlab1899 @noname2095_ 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092667492531605504",
+        "conversation_id": "2106147024890446150",
+        "created_at": "2026-10-02T22:57:02.000Z",
+        "display_text_range": [
+          30,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T23:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106156530907431382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 29,
+              "id": "1736265610911428608",
+              "start": 17,
+              "username": "noname2095_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106156530907431382",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106147024890446150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa @noname2095_ 号没了似乎"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2106156636721058012",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11595,
+          "following_count": 1414,
+          "like_count": 11667,
+          "listed_count": 20,
+          "media_count": 530,
+          "tweet_count": 7114
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T17:37:45.000Z",
+        "description": "May we meet again in the sunlight\nMtX/F•non-binary🍥｜泛性恋｜LGBTQIA➕｜民国99年出厂｜疑似asd adhd｜自由左｜交朋友\nshe/her｜想要互fo｜坐标沪上欢迎来找我玩｜天残也不算年龄党\n民社|卢森堡｜有限接纳毛左｜右逼劳保粉蛆滚远点\n容貌焦虑中😢",
+        "id": "2092667492531605504",
+        "is_identity_verified": false,
+        "location": "康米天国",
+        "most_recent_tweet_id": "2106156530907431382",
+        "name": "兰比密西西🏳️‍⚧️☭🏳️‍🌈",
+        "pinned_tweet_id": "2100987491260235954",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092667492531605504/1790880965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100603444621094912/gBFsVr6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 1045,
+          "like_count": 11798,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1560
+        },
+        "url": "",
+        "username": "aginlab1899",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

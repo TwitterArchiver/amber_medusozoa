@@ -1,0 +1,642 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "id": "1174045268733415424",
+          "name": "Egyptian music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "id": "1496566686073294849",
+          "name": "Music of India"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1174045268733415424",
+          "name": "Egyptian music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1292818305992949761",
+          "name": "Bollywood"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1360327768957804546",
+          "name": "Indian film industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1496566686073294849",
+          "name": "Music of India"
+        }
+      }
+    ],
+    "conversation_id": "2106517977440952418",
+    "created_at": "2026-10-03T22:53:17.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T23:53:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106517977440952418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1115902820203618304",
+          "start": 3,
+          "username": "aurorachaang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106517977440952418",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102661995430289861",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aurorachaang: if you're familiar with the chinese tourism industry this is not unbelievable at all, they've commodified the cultures of…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 569,
+        "media_key": "3_2102661990439100416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4n8J7WoAAgnE-.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1174045268733415424",
+              "name": "Egyptian music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1496566686073294849",
+              "name": "Music of India"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1174045268733415424",
+              "name": "Egyptian music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292818305992949761",
+              "name": "Bollywood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1360327768957804546",
+              "name": "Indian film industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1496566686073294849",
+              "name": "Music of India"
+            }
+          }
+        ],
+        "conversation_id": "2106517977440952418",
+        "created_at": "2026-10-03T22:53:17.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T23:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106517977440952418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1115902820203618304",
+              "start": 3,
+              "username": "aurorachaang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106517977440952418",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102661995430289861",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aurorachaang: if you're familiar with the chinese tourism industry this is not unbelievable at all, they've commodified the cultures of…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102661990439100416"
+          ]
+        },
+        "author_id": "1115902820203618304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1174045268733415424",
+              "name": "Egyptian music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1496566686073294849",
+              "name": "Music of India"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1174045268733415424",
+              "name": "Egyptian music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292818305992949761",
+              "name": "Bollywood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1360327768957804546",
+              "name": "Indian film industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1496566686073294849",
+              "name": "Music of India"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Travel novelty",
+              "id": "842061030951809024",
+              "name": "Travel novelty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity includes conversations about travel photography.",
+              "id": "842064906841026560",
+              "name": "Travel photography"
+            }
+          }
+        ],
+        "conversation_id": "2102661995430289861",
+        "created_at": "2026-09-23T07:30:59.000Z",
+        "display_text_range": [
+          0,
+          232
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T08:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102661995430289861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qyW9UzE94I",
+              "end": 256,
+              "expanded_url": "https://x.com/aurorachaang/status/2102661995430289861/photo/1",
+              "media_key": "3_2102661990439100416",
+              "start": 233,
+              "url": "https://t.co/qyW9UzE94I"
+            },
+            {
+              "display_url": "x.com/kittymerizatio…",
+              "end": 280,
+              "expanded_url": "https://twitter.com/kittymerization/status/2102324006720598483",
+              "start": 257,
+              "url": "https://t.co/KpO3j5BYkI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102661995430289861",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2102661990439100416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 31280,
+          "like_count": 402,
+          "quote_count": 21,
+          "reply_count": 30,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102324006720598483",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "if you're familiar with the chinese tourism industry this is not unbelievable at all, they've commodified the cultures of colonised indigenous nations and turned their traditional clothes into costumes for tacky tourist photo shoots https://t.co/qyW9UzE94I https://t.co/KpO3j5BYkI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2106517977440952418",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11639,
+          "following_count": 1415,
+          "like_count": 11736,
+          "listed_count": 20,
+          "media_count": 534,
+          "tweet_count": 7182
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-10T09:02:19.000Z",
+        "description": "(taiwanese) AI hater and neography lover • studying russia, china, and global capitalism • MSc @UofGlasgow • bi/pan, she/they, for trans liberation",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 95,
+                "username": "UofGlasgow"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chuffed.org/project/helpaf…",
+                "end": 23,
+                "expanded_url": "https://chuffed.org/project/helpafamilyescapethehorrorsofsudan",
+                "start": 0,
+                "url": "https://t.co/x2bJdFY9CR"
+              }
+            ]
+          }
+        },
+        "id": "1115902820203618304",
+        "is_identity_verified": false,
+        "location": "Glasgow, Scotland",
+        "most_recent_tweet_id": "2106332759975191033",
+        "name": "Aurora Chang 張瓊方 🌻🍉",
+        "pinned_tweet_id": "2105727982396424259",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1115902820203618304/1779995098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060069719000899584/lftj0CaM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15415,
+          "following_count": 1816,
+          "like_count": 136844,
+          "listed_count": 147,
+          "media_count": 1458,
+          "tweet_count": 12612
+        },
+        "url": "https://t.co/x2bJdFY9CR",
+        "username": "aurorachaang",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

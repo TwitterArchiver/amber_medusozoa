@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103647079000080384"
+      ],
+      "media_source_tweet_id": [
+        "2103647113687035937"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2103927398882275826",
+    "created_at": "2026-09-26T19:19:15.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T20:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103927398882275826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2053244925467099136",
+          "start": 3,
+          "username": "tricky2386"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OcTsWAfpIc",
+          "end": 64,
+          "expanded_url": "https://x.com/tricky2386/status/2103647113687035937/photo/1",
+          "media_key": "3_2103647079000080384",
+          "start": 41,
+          "url": "https://t.co/OcTsWAfpIc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103927398882275826",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2103647079000080384"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 91
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103647113687035937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tricky2386: genuinely so sad to read https://t.co/OcTsWAfpIc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 47,
+        "media_key": "3_2103647079000080384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTGn32yWgAAjCGs.png",
+        "width": 147
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103647079000080384"
+          ],
+          "media_source_tweet_id": [
+            "2103647113687035937"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2103927398882275826",
+        "created_at": "2026-09-26T19:19:15.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T20:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103927398882275826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2053244925467099136",
+              "start": 3,
+              "username": "tricky2386"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OcTsWAfpIc",
+              "end": 64,
+              "expanded_url": "https://x.com/tricky2386/status/2103647113687035937/photo/1",
+              "media_key": "3_2103647079000080384",
+              "start": 41,
+              "url": "https://t.co/OcTsWAfpIc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103927398882275826",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2103647079000080384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 91
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103647113687035937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tricky2386: genuinely so sad to read https://t.co/OcTsWAfpIc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103647079000080384"
+          ]
+        },
+        "author_id": "2053244925467099136",
+        "conversation_id": "2103647113687035937",
+        "created_at": "2026-09-26T00:45:30.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T01:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103647113687035937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OcTsWAfpIc",
+              "end": 48,
+              "expanded_url": "https://x.com/tricky2386/status/2103647113687035937/photo/1",
+              "media_key": "3_2103647079000080384",
+              "start": 25,
+              "url": "https://t.co/OcTsWAfpIc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103647113687035937",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2103647079000080384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 537,
+          "impression_count": 109270,
+          "like_count": 6543,
+          "quote_count": 9,
+          "reply_count": 27,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "genuinely so sad to read https://t.co/OcTsWAfpIc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2103927398882275826",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11477,
+          "following_count": 1383,
+          "like_count": 11126,
+          "listed_count": 20,
+          "media_count": 524,
+          "tweet_count": 6836
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T22:45:28.000Z",
+        "description": "politics nerd | socialist ☭🌹| 🏳️‍⚧️🇺🇦🇵🇸🇨🇺🇻🇪🇮🇪 | pfp by @proledevil | currently reading: collapse, the fall of the soviet union | priv: @tricky2387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "proledevil"
+              },
+              {
+                "end": 146,
+                "start": 135,
+                "username": "tricky2387"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dorothys.straw.page",
+                "end": 23,
+                "expanded_url": "https://dorothys.straw.page/",
+                "start": 0,
+                "url": "https://t.co/0AZraBkxPz"
+              }
+            ]
+          }
+        },
+        "id": "2053244925467099136",
+        "is_identity_verified": false,
+        "location": "North Carolina",
+        "most_recent_tweet_id": "2103915854794727721",
+        "name": "rosa 🇺🇳🚩",
+        "pinned_tweet_id": "2100354046439625071",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053244925467099136/1790105625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099266203927638022/b43tnKOc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617,
+          "following_count": 1637,
+          "like_count": 38253,
+          "listed_count": 4,
+          "media_count": 754,
+          "tweet_count": 6025
+        },
+        "url": "https://t.co/0AZraBkxPz",
+        "username": "tricky2386",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

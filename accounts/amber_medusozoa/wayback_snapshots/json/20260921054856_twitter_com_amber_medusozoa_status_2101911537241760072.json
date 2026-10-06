@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10043043106",
+          "name": "Microsoft - OneDrive"
+        }
+      }
+    ],
+    "conversation_id": "2101911537241760072",
+    "created_at": "2026-09-21T05:48:56.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T06:48:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101911537241760072"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yzmtsky6666/st…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/Yzmtsky6666/status/2101828735171428796",
+          "start": 20,
+          "url": "https://t.co/nPKzIzWUq3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101911537241760072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101828735171428796",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个邪修指南是真的很邪修但也真的很牛逼 https://t.co/nPKzIzWUq3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043043106",
+              "name": "Microsoft - OneDrive"
+            }
+          }
+        ],
+        "conversation_id": "2101911537241760072",
+        "created_at": "2026-09-21T05:48:56.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T06:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101911537241760072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yzmtsky6666/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Yzmtsky6666/status/2101828735171428796",
+              "start": 20,
+              "url": "https://t.co/nPKzIzWUq3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101911537241760072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101828735171428796",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个邪修指南是真的很邪修但也真的很牛逼 https://t.co/nPKzIzWUq3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007024792172699649",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043043106",
+              "name": "Microsoft - OneDrive"
+            }
+          }
+        ],
+        "conversation_id": "2101828735171428796",
+        "created_at": "2026-09-21T00:19:55.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T01:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101828735171428796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "1drv.ms/w/c/0597eec2cb…",
+              "end": 84,
+              "expanded_url": "https://1drv.ms/w/c/0597eec2cbb1b7c5/IQCmRBojLOMCT70hEX-peP3QAT_njNdoCa_AiD8noMkLxR0",
+              "start": 61,
+              "status": 403,
+              "unwound_url": "https://onedrive.live.com/:w:/g/personal/0597EEC2CBB1B7C5/IQCmRBojLOMCT70hEX-peP3QAT_njNdoCa_AiD8noMkLxR0?resid=0597EEC2CBB1B7C5!s231a44a6e32c4f02bd21117fa978fdd0&ithint=file%2cdocx&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3cvYy8wNTk3ZWVjMmNiYjFiN2M1L0lRQ21SQm9qTE9NQ1Q3MGhFWC1wZVAzUUFUX25qTmRvQ2FfQWlEOG5vTWtMeFIw",
+              "url": "https://t.co/Vnzi2DQphw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101828735171428796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 8970,
+          "like_count": 74,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别邪修生存指南，全是干货，使用价值高，也有很多新概念技术，希望能够帮到各位处于窘境的跨性别者们\nonedrive云盘\nhttps://t.co/Vnzi2DQphw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️⚢☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2101911537241760072",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11316,
+          "following_count": 1369,
+          "like_count": 10671,
+          "listed_count": 18,
+          "media_count": 508,
+          "tweet_count": 6518
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-02T09:43:04.000Z",
+        "description": "mtx？🏳️‍⚧️|在极致的理性与感性间反复横跳|进步主义者|高敏型|生物爱好者|不od，抽烟，喝酒，吃大果|无性别刻板，性取向立场|相信自由意志与个体的主观能动性|相信人造子宫是让全人类通向平等的希望。",
+        "id": "2007024792172699649",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101903939751014902",
+        "name": "Yzmt🏳️‍⚧️",
+        "pinned_tweet_id": "2101828735171428796",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090310882178011137/i-SL7hJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 247,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 106
+        },
+        "url": "",
+        "username": "Yzmtsky6666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

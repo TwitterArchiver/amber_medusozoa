@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103453132256935937",
+        "3_2103453132277854208"
+      ],
+      "media_source_tweet_id": [
+        "2103453423446499481",
+        "2103453423446499481"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2103577371702181893",
+    "created_at": "2026-09-25T20:08:22.000Z",
+    "display_text_range": [
+      0,
+      136
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T21:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103577371702181893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1805664483265986561",
+          "start": 3,
+          "username": "AAcer_Freilyns"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c32Zmto6xf",
+          "end": 136,
+          "expanded_url": "https://x.com/AAcer_Freilyns/status/2103453423446499481/photo/1",
+          "media_key": "3_2103453132256935937",
+          "start": 113,
+          "url": "https://t.co/c32Zmto6xf"
+        },
+        {
+          "display_url": "pic.x.com/c32Zmto6xf",
+          "end": 136,
+          "expanded_url": "https://x.com/AAcer_Freilyns/status/2103453423446499481/photo/1",
+          "media_key": "3_2103453132277854208",
+          "start": 113,
+          "url": "https://t.co/c32Zmto6xf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103577371702181893",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103453132256935937"
+      },
+      {
+        "media_key": "3_2103453132277854208"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103453423446499481",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AAcer_Freilyns: 旧人回归，误打误撞登上了自己真正意义上一代目推号。那么，请重新认识一下我吧，我叫艾丝尔娜·芙蕾琳，图二是我的旧号，目前已被冻结，所以互fo寻回一下，但这次不是二代目寻回，是一代目寻回。 https://t.co/c32Zmto6xf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2780,
+        "media_key": "3_2103453132256935937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTD3eq3bgAEekqO.jpg",
+        "width": 1264
+      },
+      {
+        "height": 2780,
+        "media_key": "3_2103453132277854208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTD3eq8asAAWeCO.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103453132256935937",
+            "3_2103453132277854208"
+          ],
+          "media_source_tweet_id": [
+            "2103453423446499481",
+            "2103453423446499481"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2103577371702181893",
+        "created_at": "2026-09-25T20:08:22.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T21:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103577371702181893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1805664483265986561",
+              "start": 3,
+              "username": "AAcer_Freilyns"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c32Zmto6xf",
+              "end": 136,
+              "expanded_url": "https://x.com/AAcer_Freilyns/status/2103453423446499481/photo/1",
+              "media_key": "3_2103453132256935937",
+              "start": 113,
+              "url": "https://t.co/c32Zmto6xf"
+            },
+            {
+              "display_url": "pic.x.com/c32Zmto6xf",
+              "end": 136,
+              "expanded_url": "https://x.com/AAcer_Freilyns/status/2103453423446499481/photo/1",
+              "media_key": "3_2103453132277854208",
+              "start": 113,
+              "url": "https://t.co/c32Zmto6xf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103577371702181893",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103453132256935937"
+          },
+          {
+            "media_key": "3_2103453132277854208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103453423446499481",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AAcer_Freilyns: 旧人回归，误打误撞登上了自己真正意义上一代目推号。那么，请重新认识一下我吧，我叫艾丝尔娜·芙蕾琳，图二是我的旧号，目前已被冻结，所以互fo寻回一下，但这次不是二代目寻回，是一代目寻回。 https://t.co/c32Zmto6xf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103453132256935937",
+            "3_2103453132277854208"
+          ]
+        },
+        "author_id": "1805664483265986561",
+        "conversation_id": "2103453423446499481",
+        "created_at": "2026-09-25T11:55:51.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T12:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103453423446499481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c32Zmto6xf",
+              "end": 116,
+              "expanded_url": "https://x.com/AAcer_Freilyns/status/2103453423446499481/photo/1",
+              "media_key": "3_2103453132256935937",
+              "start": 93,
+              "url": "https://t.co/c32Zmto6xf"
+            },
+            {
+              "display_url": "pic.x.com/c32Zmto6xf",
+              "end": 116,
+              "expanded_url": "https://x.com/AAcer_Freilyns/status/2103453423446499481/photo/1",
+              "media_key": "3_2103453132277854208",
+              "start": 93,
+              "url": "https://t.co/c32Zmto6xf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103453423446499481",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103453132256935937"
+          },
+          {
+            "media_key": "3_2103453132277854208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 621,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "旧人回归，误打误撞登上了自己真正意义上一代目推号。那么，请重新认识一下我吧，我叫艾丝尔娜·芙蕾琳，图二是我的旧号，目前已被冻结，所以互fo寻回一下，但这次不是二代目寻回，是一代目寻回。 https://t.co/c32Zmto6xf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2103577371702181893",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11458,
+          "following_count": 1378,
+          "like_count": 11087,
+          "listed_count": 19,
+          "media_count": 525,
+          "tweet_count": 6817
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-25T18:09:08.000Z",
+        "description": "前世：@AacerF59616｜成为女生：2008.4.15｜167cm 62～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期及成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒OD 戒自伤 极少见证｜可以叫咱小琳 琳琳 阿琳 琳酱 琳天王｜“循光而行，鏖战到底”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "AacerF59616"
+              }
+            ]
+          }
+        },
+        "id": "1805664483265986561",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103575129192337907",
+        "name": "☀️艾丝尔娜·芙蕾琳☀️ᴬˡᵗᵃⁱʳ⁻ᴱᵐᵇᵉʳ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805664483265986561/1790339394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103452347225849857/C63dcfcu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 99,
+          "like_count": 17,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "AAcer_Freilyns",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

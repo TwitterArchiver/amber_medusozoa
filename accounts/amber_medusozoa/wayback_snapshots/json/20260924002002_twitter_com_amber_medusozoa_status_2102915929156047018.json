@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2102915929156047018",
+    "created_at": "2026-09-24T00:20:02.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T01:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102915929156047018"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mongolmoid/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/mongolmoid/status/2102658398038966276",
+          "start": 3,
+          "url": "https://t.co/shla8hwQPk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102915929156047018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102658398038966276",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "确实 https://t.co/shla8hwQPk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2102915929156047018",
+        "created_at": "2026-09-24T00:20:02.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T01:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102915929156047018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mongolmoid/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/mongolmoid/status/2102658398038966276",
+              "start": 3,
+              "url": "https://t.co/shla8hwQPk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102915929156047018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102658398038966276",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "确实 https://t.co/shla8hwQPk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865357996647432192",
+        "conversation_id": "2102600731798970858",
+        "created_at": "2026-09-23T07:16:42.000Z",
+        "display_text_range": [
+          17,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T08:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102658398038966276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1644516671682408449",
+              "start": 0,
+              "username": "MommyMisatoStan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102658398038966276",
+        "in_reply_to_user_id": "1644516671682408449",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 25624,
+          "like_count": 454,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102651613311652031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MommyMisatoStan You won't be ready for what's coming when the Chinese enter the Western internet en masse."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2102915929156047018",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11430,
+          "following_count": 1380,
+          "like_count": 10908,
+          "listed_count": 18,
+          "media_count": 515,
+          "tweet_count": 6724
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-07T11:30:25.000Z",
+        "description": "The final boss of \"self-hating Asians\" | Southern Chinese | White Female Repellant | 6-ft 6-figure PhD Candidate | Blackpilled Transmaxxing Ricecel",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@GenderAryan",
+                "end": 23,
+                "expanded_url": "https://substack.com/@GenderAryan",
+                "start": 0,
+                "url": "https://t.co/bzFl10SIJn"
+              }
+            ]
+          }
+        },
+        "id": "1865357996647432192",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102913125943329197",
+        "name": "白人の犬",
+        "pinned_tweet_id": "2102885858491904386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1865357996647432192/1782650256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071209621755478016/FS4sMJB5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 167,
+          "like_count": 2524,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 1520
+        },
+        "url": "https://t.co/bzFl10SIJn",
+        "username": "Mongolmoid",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-08T01:45:15.000Z",
+        "description": "In my reply guy era, tweeting into the void. INTP. 🍉🐙☪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "letterboxd.com/yoroinokyojin/",
+                "end": 23,
+                "expanded_url": "https://letterboxd.com/yoroinokyojin/",
+                "start": 0,
+                "url": "https://t.co/MIsjsdt8xu"
+              }
+            ]
+          }
+        },
+        "id": "1644516671682408449",
+        "is_identity_verified": false,
+        "location": "The North",
+        "most_recent_tweet_id": "2102881092432724217",
+        "name": "délabré",
+        "pinned_tweet_id": "1834747721162375557",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1644516671682408449/1709184950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017317781327294464/d3tQlrmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 444,
+          "like_count": 166464,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 10970
+        },
+        "url": "https://t.co/MIsjsdt8xu",
+        "username": "MommyMisatoStan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

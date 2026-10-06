@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2106147024890446150",
+    "created_at": "2026-10-03T05:58:31.000Z",
+    "display_text_range": [
+      43,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T06:58:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106262600967172119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692511487531909120",
+          "start": 0,
+          "username": "CicadaSeventeen"
+        },
+        {
+          "end": 29,
+          "id": "2092667492531605504",
+          "start": 17,
+          "username": "aginlab1899"
+        },
+        {
+          "end": 42,
+          "id": "1736265610911428608",
+          "start": 30,
+          "username": "noname2095_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106262600967172119",
+    "in_reply_to_user_id": "1692511487531909120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106262536052265063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CicadaSeventeen @aginlab1899 @noname2095_ 安全"
+  },
+  "errors": [
+    {
+      "detail": "User is unavailable: [noname2095_].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "noname2095_",
+      "resource_type": "user",
+      "title": "Resource Unavailable Error",
+      "type": "https://api.x.com/2/problems/resource-unavailable"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2106147024890446150",
+        "created_at": "2026-10-03T05:58:31.000Z",
+        "display_text_range": [
+          43,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T06:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106262600967172119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692511487531909120",
+              "start": 0,
+              "username": "CicadaSeventeen"
+            },
+            {
+              "end": 29,
+              "id": "2092667492531605504",
+              "start": 17,
+              "username": "aginlab1899"
+            },
+            {
+              "end": 42,
+              "id": "1736265610911428608",
+              "start": 30,
+              "username": "noname2095_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106262600967172119",
+        "in_reply_to_user_id": "1692511487531909120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106262536052265063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CicadaSeventeen @aginlab1899 @noname2095_ 安全"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692511487531909120",
+        "conversation_id": "2106147024890446150",
+        "created_at": "2026-10-03T05:58:15.000Z",
+        "display_text_range": [
+          43,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T06:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106262536052265063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 29,
+              "id": "2092667492531605504",
+              "start": 17,
+              "username": "aginlab1899"
+            },
+            {
+              "end": 42,
+              "id": "1736265610911428608",
+              "start": 30,
+              "username": "noname2095_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106262536052265063",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106156636721058012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa @aginlab1899 @noname2095_ 现在你还有与她的联系吗？人本身怎么样"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2106262600967172119",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11609,
+          "following_count": 1413,
+          "like_count": 11679,
+          "listed_count": 20,
+          "media_count": 531,
+          "tweet_count": 7135
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-18T12:19:29.000Z",
+        "description": "名誉mtf，tg已复活\n拒绝谈论顺直的性别对立议题",
+        "id": "1692511487531909120",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2106262536052265063",
+        "name": "🌈 Cic17",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692511487531909120/1772115029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027023455598899200/imFQgBaO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 200,
+          "like_count": 1008,
+          "listed_count": 0,
+          "media_count": 360,
+          "tweet_count": 2803
+        },
+        "url": "",
+        "username": "CicadaSeventeen",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T17:37:45.000Z",
+        "description": "May we meet again in the sunlight\nMtX/F•non-binary🍥｜泛性恋｜LGBTQIA➕｜民国99年出厂｜疑似asd adhd｜自由左｜交朋友\nshe/her｜想要互fo｜坐标沪上欢迎来找我玩｜天残也不算年龄党\n民社|卢森堡｜有限接纳毛左｜右逼劳保粉蛆滚远点\n容貌焦虑中😢",
+        "id": "2092667492531605504",
+        "is_identity_verified": false,
+        "location": "康米天国",
+        "most_recent_tweet_id": "2106190861696659679",
+        "name": "兰比密西西🏳️‍⚧️☭🏳️‍🌈",
+        "pinned_tweet_id": "2100987491260235954",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092667492531605504/1790880965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100603444621094912/gBFsVr6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 1047,
+          "like_count": 11863,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1570
+        },
+        "url": "",
+        "username": "aginlab1899",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

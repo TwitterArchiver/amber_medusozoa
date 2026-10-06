@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2105450812923113685",
+    "created_at": "2026-10-01T00:12:45.000Z",
+    "display_text_range": [
+      0,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T01:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105450812923113685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "796103443295465472",
+          "start": 3,
+          "username": "denpanopticon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105450812923113685",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 116
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105046177095803087",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @denpanopticon: dysphoria makes people kill themselves i feel like it's very capable of making you miserable"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2105450812923113685",
+        "created_at": "2026-10-01T00:12:45.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T01:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105450812923113685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "796103443295465472",
+              "start": 3,
+              "username": "denpanopticon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105450812923113685",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 116
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105046177095803087",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @denpanopticon: dysphoria makes people kill themselves i feel like it's very capable of making you miserable"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "796103443295465472",
+        "conversation_id": "2105046177095803087",
+        "created_at": "2026-09-29T21:24:53.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T22:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105046177095803087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MothCathedral/…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/MothCathedral/status/2104643219619455105",
+              "start": 93,
+              "url": "https://t.co/bhoeCdJWMI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105046177095803087",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 16532,
+          "like_count": 1546,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 116
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104643219619455105",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "dysphoria makes people kill themselves i feel like it's very capable of making you miserable https://t.co/bhoeCdJWMI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2105450812923113685",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11554,
+          "following_count": 1405,
+          "like_count": 11405,
+          "listed_count": 19,
+          "media_count": 529,
+          "tweet_count": 7022
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-11-08T21:33:46.000Z",
+        "description": "I am happy because everyone loves me.\nTranssexual Communist.",
+        "id": "796103443295465472",
+        "is_identity_verified": false,
+        "location": "Chile 🇨🇱🇨🇱🇨🇱🇨🇱🇨🇱🇨🇱",
+        "most_recent_tweet_id": "2105440895822938375",
+        "name": "LUCIL∀",
+        "pinned_tweet_id": "2090212406261621132",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/796103443295465472/1691430559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689047851186184192/fq-1iiEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4471,
+          "following_count": 1517,
+          "like_count": 276844,
+          "listed_count": 19,
+          "media_count": 5925,
+          "tweet_count": 71491
+        },
+        "url": "",
+        "username": "denpanopticon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

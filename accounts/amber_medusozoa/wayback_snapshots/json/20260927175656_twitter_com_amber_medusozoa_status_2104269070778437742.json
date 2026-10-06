@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2104268841731993715",
+    "created_at": "2026-09-27T17:56:56.000Z",
+    "display_text_range": [
+      26,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T18:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104269070778437742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1171043978201878528",
+          "start": 0,
+          "username": "Claris7070"
+        },
+        {
+          "end": 25,
+          "id": "1424779836938022913",
+          "start": 12,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104269070778437742",
+    "in_reply_to_user_id": "1171043978201878528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104268841731993715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Claris7070 @amber_toffee 哇！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104268832923955200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTPdWspbsAAFA9u.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2104268841731993715",
+        "created_at": "2026-09-27T17:56:56.000Z",
+        "display_text_range": [
+          26,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T18:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104269070778437742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1171043978201878528",
+              "start": 0,
+              "username": "Claris7070"
+            },
+            {
+              "end": 25,
+              "id": "1424779836938022913",
+              "start": 12,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104269070778437742",
+        "in_reply_to_user_id": "1171043978201878528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104268841731993715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Claris7070 @amber_toffee 哇！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104268832923955200"
+          ]
+        },
+        "author_id": "1171043978201878528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2104268841731993715",
+        "created_at": "2026-09-27T17:56:01.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T18:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104268841731993715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "2035882965671215104",
+              "start": 6,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 36,
+              "id": "1424779836938022913",
+              "start": 23,
+              "username": "amber_toffee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Om0YTfpmu1",
+              "end": 60,
+              "expanded_url": "https://x.com/Claris7070/status/2104268841731993715/photo/1",
+              "media_key": "3_2104268832923955200",
+              "start": 37,
+              "url": "https://t.co/Om0YTfpmu1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104268841731993715",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104268832923955200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现神秘水母@amber_medusozoa @amber_toffee https://t.co/Om0YTfpmu1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2104269070778437742",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11478,
+          "following_count": 1385,
+          "like_count": 11179,
+          "listed_count": 20,
+          "media_count": 526,
+          "tweet_count": 6875
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-09T12:53:49.000Z",
+        "description": "mtf（？）\n可以叫我 绮绫/70  欢迎来戳☺️同类互fo喵",
+        "id": "1171043978201878528",
+        "is_identity_verified": false,
+        "location": "unknown",
+        "most_recent_tweet_id": "2104268841731993715",
+        "name": "Claris🍥",
+        "pinned_tweet_id": "2079267056227438963",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1171043978201878528/1786718213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920783097185923072/bUJzL9vB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 524,
+          "like_count": 1749,
+          "listed_count": 3,
+          "media_count": 241,
+          "tweet_count": 3353
+        },
+        "url": "",
+        "username": "Claris7070",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❦ @noaayoyaoaya / ✧ @amber_medusozoa\n⦿ https://t.co/Pm2EteqB8C\n❖ https://t.co/7eqB27X4Pj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 36,
+                "start": 20,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 62,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 39,
+                "url": "https://t.co/Pm2EteqB8C"
+              },
+              {
+                "display_url": "github.com/amber-jellyfish",
+                "end": 88,
+                "expanded_url": "http://github.com/amber-jellyfish",
+                "start": 65,
+                "url": "https://t.co/7eqB27X4Pj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/C8ujXiqImv"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2103483148457697565",
+        "name": "amber",
+        "pinned_tweet_id": "2022474832630448490",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1424779836938022913/1769711229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096262765795274752/mzmQ3xBe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26356,
+          "following_count": 2751,
+          "like_count": 41139,
+          "listed_count": 0,
+          "media_count": 665,
+          "tweet_count": 22495
+        },
+        "url": "https://t.co/C8ujXiqImv",
+        "username": "amber_toffee",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

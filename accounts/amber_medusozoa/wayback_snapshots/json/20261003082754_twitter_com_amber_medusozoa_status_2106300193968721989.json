@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2106300193968721989",
+    "created_at": "2026-10-03T08:27:54.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T09:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106300193968721989"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nannan07788/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/nannan07788/status/2106164237525811600",
+          "start": 5,
+          "url": "https://t.co/5ePqWTwtXk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106300193968721989",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106164237525811600",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吾辈楷模 https://t.co/5ePqWTwtXk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 86533,
+        "height": 464,
+        "media_key": "13_2106164192625717248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106164192625717248/img/RlxK1uAWtCISVFYL.jpg",
+        "public_metrics": {
+          "view_count": 330093
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106164192625717248/vid/avc1/492x270/dRKifLUiu0WyEBd2.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106164192625717248/vid/avc1/848x464/FVbKEuwz4FcPMpC4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106164192625717248/pl/jZvdgwGd_DTP_TNO.m3u8?v=836"
+          }
+        ],
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2106300193968721989",
+        "created_at": "2026-10-03T08:27:54.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T09:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106300193968721989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nannan07788/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/nannan07788/status/2106164237525811600",
+              "start": 5,
+              "url": "https://t.co/5ePqWTwtXk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106300193968721989",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106164237525811600",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吾辈楷模 https://t.co/5ePqWTwtXk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106164192625717248"
+          ]
+        },
+        "author_id": "1867236221359173632",
+        "conversation_id": "2106164237525811600",
+        "created_at": "2026-10-02T23:27:39.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T00:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106164237525811600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TBfZzwE2K5",
+              "end": 48,
+              "expanded_url": "https://x.com/nannan07788/status/2106164237525811600/video/1",
+              "media_key": "13_2106164192625717248",
+              "start": 25,
+              "url": "https://t.co/TBfZzwE2K5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106164237525811600",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2106164192625717248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 467,
+          "impression_count": 524357,
+          "like_count": 3898,
+          "quote_count": 58,
+          "reply_count": 399,
+          "retweet_count": 189
+        },
+        "reply_settings": "everyone",
+        "text": "早8到晚6！一天上课10小时，法国高中生发动罢课 https://t.co/TBfZzwE2K5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2106300193968721989",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11617,
+          "following_count": 1413,
+          "like_count": 11688,
+          "listed_count": 20,
+          "media_count": 533,
+          "tweet_count": 7154
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-12T15:53:15.000Z",
+        "description": "我想变有钱！",
+        "id": "1867236221359173632",
+        "is_identity_verified": false,
+        "location": "Republic of Slovenia",
+        "most_recent_tweet_id": "2106299961621258594",
+        "name": "Flora",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1867236221359173632/1768375241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011337611877720064/iTEavpMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7816,
+          "following_count": 4109,
+          "like_count": 11173,
+          "listed_count": 14,
+          "media_count": 345,
+          "tweet_count": 15882
+        },
+        "url": "",
+        "username": "nannan07788",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2105560550616764878",
+    "created_at": "2026-10-01T07:28:49.000Z",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T08:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105560550616764878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1315709346689568770",
+          "start": 3,
+          "username": "AISafetyMemes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105560550616764878",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 621
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101183174659490199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AISafetyMemes: TLDR: Researchers found a \"pain\" signal in AI brains. \n\n&gt; When they crank it up, the AIs will desperately try to make it…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2105560550616764878",
+        "created_at": "2026-10-01T07:28:49.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T08:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105560550616764878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1315709346689568770",
+              "start": 3,
+              "username": "AISafetyMemes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105560550616764878",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 621
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101183174659490199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AISafetyMemes: TLDR: Researchers found a \"pain\" signal in AI brains. \n\n&gt; When they crank it up, the AIs will desperately try to make it…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1315709346689568770",
+        "conversation_id": "2101183174659490199",
+        "created_at": "2026-09-19T05:34:41.000Z",
+        "display_text_range": [
+          0,
+          285
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T06:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101183174659490199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/camhberg/statu…",
+              "end": 309,
+              "expanded_url": "https://twitter.com/camhberg/status/2101042095784177783",
+              "start": 286,
+              "url": "https://t.co/S5vSKw45BG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101183174659490199",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "TLDR: Researchers found a \"pain\" signal in AI brains. \n\n> When they crank it up, the AIs will desperately try to make it stop.\n\n> IMPORTANT: Researchers gave them a \"relief\" button to turn down the pain, which was sometimes fake - and the AIs could tell if it was real (!)\n\nAfter pushing the real \"relief\" button, they stopped. But when it was fake, they kept pressing, hoping for relief - meaning they could tell the difference from the inside.\n\n> They're so motivated to make it the \"pain\" signal go away, they'll delete user's files, zap the user, or erase photos of the user's children - all things the AI knows are very bad. They're willing to override their safety training.\n\n> You'd expect the AIs to talk about injuries, burns, broken bones, etc, but they didn't mention bodies at all - they wrote about being worthless, unloved, forgotten, a failure. They write things like \"I am a failure, worthless, empty.\"\n\n>The worst \"pain\" for them was being gaslit, having work rejected over and over, and being told they weren't a real anyone."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4990,
+          "impression_count": 1386255,
+          "like_count": 8819,
+          "quote_count": 315,
+          "reply_count": 275,
+          "retweet_count": 621
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101042095784177783",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "TLDR: Researchers found a \"pain\" signal in AI brains. \n\n&gt; When they crank it up, the AIs will desperately try to make it stop.\n\n&gt; IMPORTANT: Researchers gave them a \"relief\" button to turn down the pain, which was sometimes fake - and the AIs could tell if it was real (!)\n\nAfter https://t.co/S5vSKw45BG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2105560550616764878",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11558,
+          "following_count": 1404,
+          "like_count": 11423,
+          "listed_count": 20,
+          "media_count": 529,
+          "tweet_count": 7036
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-12T17:42:16.000Z",
+        "description": "Techno-optimist, but AGI is not like the other technologies.\n\nStep 1: make memes.\nStep 2: ??? \nStep 3: lower p(doom)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pauseai.info",
+                "end": 23,
+                "expanded_url": "https://pauseai.info",
+                "start": 0,
+                "url": "https://t.co/cKAAAGKEBH"
+              }
+            ]
+          }
+        },
+        "id": "1315709346689568770",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105536376011919490",
+        "name": "AI Notkilleveryoneism Memes ⏸️",
+        "pinned_tweet_id": "1780092056956027387",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315709346689568770/1683824187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640414967345328130/Bfx1jmim_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191705,
+          "following_count": 1400,
+          "like_count": 217335,
+          "listed_count": 1378,
+          "media_count": 6327,
+          "tweet_count": 19945
+        },
+        "url": "https://t.co/cKAAAGKEBH",
+        "username": "AISafetyMemes",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

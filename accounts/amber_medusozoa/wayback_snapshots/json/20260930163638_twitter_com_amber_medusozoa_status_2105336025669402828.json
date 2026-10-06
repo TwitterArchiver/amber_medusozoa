@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2105327122286039229",
+    "created_at": "2026-09-30T16:36:38.000Z",
+    "display_text_range": [
+      25,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T17:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105336025669402828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1452537509875834880",
+          "start": 0,
+          "username": "kkggxxyy"
+        },
+        {
+          "end": 24,
+          "id": "1378376814389694468",
+          "start": 10,
+          "username": "McFlurry_1222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105336025669402828",
+    "in_reply_to_user_id": "1452537509875834880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105332791257006463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkggxxyy @McFlurry_1222 我想给你点二十个赞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2105327122286039229",
+        "created_at": "2026-09-30T16:36:38.000Z",
+        "display_text_range": [
+          25,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T17:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105336025669402828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1452537509875834880",
+              "start": 0,
+              "username": "kkggxxyy"
+            },
+            {
+              "end": 24,
+              "id": "1378376814389694468",
+              "start": 10,
+              "username": "McFlurry_1222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105336025669402828",
+        "in_reply_to_user_id": "1452537509875834880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105332791257006463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkggxxyy @McFlurry_1222 我想给你点二十个赞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452537509875834880",
+        "conversation_id": "2105327122286039229",
+        "created_at": "2026-09-30T16:23:47.000Z",
+        "display_text_range": [
+          15,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T17:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105332791257006463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1378376814389694468",
+              "start": 0,
+              "username": "McFlurry_1222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105332791257006463",
+        "in_reply_to_user_id": "1378376814389694468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105331194892365854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@McFlurry_1222 你说的本身只局限在美国，仗着话语权高强度捆绑也是一种对其他文化下性少数社群的霸凌"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2105336025669402828",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11550,
+          "following_count": 1404,
+          "like_count": 11378,
+          "listed_count": 19,
+          "media_count": 529,
+          "tweet_count": 7008
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-25T07:28:33.000Z",
+        "description": "不可结缘",
+        "id": "1452537509875834880",
+        "is_identity_verified": false,
+        "location": "大象鼻子",
+        "most_recent_tweet_id": "2105335318237118693",
+        "name": "하나나",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1452537509875834880/1734359512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043310679210569728/ph6qicjz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 245,
+          "like_count": 7411,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 7105
+        },
+        "url": "",
+        "username": "kkggxxyy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-03T16:00:47.000Z",
+        "description": "🍉🇵🇸\nThey/Them · Agender \n경천애인 敬天愛人",
+        "id": "1378376814389694468",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105333680541782069",
+        "name": "Pie",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1378376814389694468/1790357152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103602958378426368/_ycB3RY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 7246,
+          "like_count": 182303,
+          "listed_count": 3,
+          "media_count": 894,
+          "tweet_count": 30471
+        },
+        "url": "",
+        "username": "McFlurry_1222",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

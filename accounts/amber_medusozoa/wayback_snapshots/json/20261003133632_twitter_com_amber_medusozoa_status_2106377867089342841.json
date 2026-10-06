@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2106377867089342841",
+    "created_at": "2026-10-03T13:36:32.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T14:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106377867089342841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1692511487531909120",
+          "start": 3,
+          "username": "CicadaSeventeen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106377867089342841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106331379441283140",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CicadaSeventeen: 洛可可安全和自由了，虽然现在状态并不太好，但暂时问题不太大。\n不要炒冷饭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2106377867089342841",
+        "created_at": "2026-10-03T13:36:32.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T14:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106377867089342841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1692511487531909120",
+              "start": 3,
+              "username": "CicadaSeventeen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106377867089342841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106331379441283140",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CicadaSeventeen: 洛可可安全和自由了，虽然现在状态并不太好，但暂时问题不太大。\n不要炒冷饭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692511487531909120",
+        "conversation_id": "2106331379441283140",
+        "created_at": "2026-10-03T10:31:49.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T11:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106331379441283140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SNzhende2007/s…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/SNzhende2007/status/2106158477781745733",
+              "start": 37,
+              "url": "https://t.co/wL0YfLsTFR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106331379441283140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 312,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106158477781745733",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "洛可可安全和自由了，虽然现在状态并不太好，但暂时问题不太大。\n不要炒冷饭 https://t.co/wL0YfLsTFR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2106377867089342841",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11624,
+          "following_count": 1413,
+          "like_count": 11691,
+          "listed_count": 20,
+          "media_count": 533,
+          "tweet_count": 7154
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-18T12:19:29.000Z",
+        "description": "名誉mtf，tg已复活\n拒绝谈论顺直的性别对立议题",
+        "id": "1692511487531909120",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2106377439534584195",
+        "name": "🌈 Cic17",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692511487531909120/1772115029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027023455598899200/imFQgBaO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 202,
+          "like_count": 1014,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 2828
+        },
+        "url": "",
+        "username": "CicadaSeventeen",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

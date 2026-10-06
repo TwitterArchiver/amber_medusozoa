@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2105663055447330966",
+    "created_at": "2026-10-01T14:16:08.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T15:16:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105663055447330966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942907319450529792",
+          "start": 3,
+          "username": "autism_evil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105663055447330966",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105639553222500738",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @autism_evil: it took me like 4 dozen applications to realize that the only answer to this is “no”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2105663055447330966",
+        "created_at": "2026-10-01T14:16:08.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T15:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105663055447330966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942907319450529792",
+              "start": 3,
+              "username": "autism_evil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105663055447330966",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105639553222500738",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @autism_evil: it took me like 4 dozen applications to realize that the only answer to this is “no”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942907319450529792",
+        "conversation_id": "2105639553222500738",
+        "created_at": "2026-10-01T12:42:45.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T13:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105639553222500738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/will_selecta/s…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/will_selecta/status/2105385570365292569",
+              "start": 85,
+              "url": "https://t.co/erqMPZmR7Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105639553222500738",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 7157,
+          "like_count": 1020,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105385570365292569",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "it took me like 4 dozen applications to realize that the only answer to this is “no” https://t.co/erqMPZmR7Z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2105663055447330966",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11571,
+          "following_count": 1407,
+          "like_count": 11533,
+          "listed_count": 20,
+          "media_count": 529,
+          "tweet_count": 7074
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-09T11:23:05.000Z",
+        "description": "twitters most hated reply evil autistic girl | pfp and pinned by @Da_FishJJBA | banner by @slitkrisXD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 65,
+                "username": "Da_FishJJBA"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "slitkrisXD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "evilautismm1das.straw.page",
+                "end": 23,
+                "expanded_url": "https://evilautismm1das.straw.page",
+                "start": 0,
+                "url": "https://t.co/fZIDjxqpJo"
+              }
+            ]
+          }
+        },
+        "id": "1942907319450529792",
+        "is_identity_verified": false,
+        "location": "she/her",
+        "most_recent_tweet_id": "2105646991032439127",
+        "name": "evil autism m1das",
+        "pinned_tweet_id": "2098416270970347960",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1942907319450529792/1776630692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039504718884687872/H1zJq1DI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3337,
+          "following_count": 450,
+          "like_count": 236504,
+          "listed_count": 42,
+          "media_count": 4030,
+          "tweet_count": 32412
+        },
+        "url": "https://t.co/fZIDjxqpJo",
+        "username": "autism_evil",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

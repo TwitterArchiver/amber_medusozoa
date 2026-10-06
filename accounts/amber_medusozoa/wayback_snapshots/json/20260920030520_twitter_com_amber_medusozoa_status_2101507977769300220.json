@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2101507977769300220",
+    "created_at": "2026-09-20T03:05:20.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T04:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101507977769300220"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/makser1939/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/makser1939/status/2100996395742175473",
+          "start": 8,
+          "url": "https://t.co/nqZLZhYZ6G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101507977769300220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100996395742175473",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个超级好吃的 https://t.co/nqZLZhYZ6G"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2101507977769300220",
+        "created_at": "2026-09-20T03:05:20.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T04:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101507977769300220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/makser1939/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/makser1939/status/2100996395742175473",
+              "start": 8,
+              "url": "https://t.co/nqZLZhYZ6G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101507977769300220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100996395742175473",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个超级好吃的 https://t.co/nqZLZhYZ6G"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1344694571712860162",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1193991001892745216",
+              "name": "Cuisines"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1193991001892745216",
+              "name": "Cuisines"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359137684623556608",
+              "name": "European cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1564612577388158990",
+              "name": "Russian Cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1564612577388158990",
+              "name": "Russian Cuisine"
+            }
+          }
+        ],
+        "conversation_id": "2100996395742175473",
+        "created_at": "2026-09-18T17:12:30.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T18:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100996395742175473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tempund/status…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/tempund/status/2100964799186178250",
+              "start": 52,
+              "url": "https://t.co/FwGikIpMV9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100996395742175473",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 283,
+          "impression_count": 144421,
+          "like_count": 9313,
+          "quote_count": 17,
+          "reply_count": 89,
+          "retweet_count": 212
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100964799186178250",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "(it's present in most of eastern european cuisines) https://t.co/FwGikIpMV9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️⚢☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2101507977769300220",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11086,
+          "following_count": 1363,
+          "like_count": 10555,
+          "listed_count": 16,
+          "media_count": 504,
+          "tweet_count": 6441
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-31T17:19:18.000Z",
+        "description": "19| huge fan of girls with instruments ♨️🎸 | eastern polish maoist of lublin| @maksuu72 private account ↙️↙️↗️ | dating @sutiruinlove ciepły makser",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "maksuu72"
+              },
+              {
+                "end": 133,
+                "start": 120,
+                "username": "sutiruinlove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "makser1939.straw.page",
+                "end": 23,
+                "expanded_url": "https://makser1939.straw.page/",
+                "start": 0,
+                "url": "https://t.co/y71fqYqZ0j"
+              }
+            ]
+          }
+        },
+        "id": "1344694571712860162",
+        "is_identity_verified": false,
+        "location": "lublin secessionist movement",
+        "most_recent_tweet_id": "2101479405952380962",
+        "name": "d4makser",
+        "pinned_tweet_id": "1974808119411667056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344694571712860162/1782140652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080781354598285312/rDtgbW9M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3155,
+          "following_count": 3147,
+          "like_count": 384513,
+          "listed_count": 24,
+          "media_count": 6009,
+          "tweet_count": 52949
+        },
+        "url": "https://t.co/y71fqYqZ0j",
+        "username": "makser1939",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

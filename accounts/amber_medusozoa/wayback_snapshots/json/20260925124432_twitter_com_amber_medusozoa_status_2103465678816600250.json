@@ -1,0 +1,684 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Author\n",
+          "id": "808408440301232128",
+          "name": "JK Rowling"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Author\n",
+          "id": "808408440301232128",
+          "name": "JK Rowling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166408461485101056",
+          "name": "Authors"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Action and Adventure",
+          "id": "859530721588723713",
+          "name": "Action & adventure books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Action and Adventure",
+          "id": "859530721588723713",
+          "name": "Action & adventure books"
+        }
+      }
+    ],
+    "conversation_id": "2103465678816600250",
+    "created_at": "2026-09-25T12:44:32.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T13:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103465678816600250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "140119385",
+          "start": 3,
+          "username": "Shattubatu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103465678816600250",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101881317096870065",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shattubatu: So much misinformation in Rowling's tweet, in the QRT, in the article, and in the study itself! This BS has been floating a…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1012,
+        "media_key": "3_2101830358324932608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSszky4W8AAdU3G.jpg",
+        "width": 1800
+      },
+      {
+        "height": 1012,
+        "media_key": "3_2101832868578082816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSs126TWQAA3VyS.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Action and Adventure",
+              "id": "859530721588723713",
+              "name": "Action & adventure books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Action and Adventure",
+              "id": "859530721588723713",
+              "name": "Action & adventure books"
+            }
+          }
+        ],
+        "conversation_id": "2103465678816600250",
+        "created_at": "2026-09-25T12:44:32.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T13:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103465678816600250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "140119385",
+              "start": 3,
+              "username": "Shattubatu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103465678816600250",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101881317096870065",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shattubatu: So much misinformation in Rowling's tweet, in the QRT, in the article, and in the study itself! This BS has been floating a…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101830358324932608",
+            "3_2101832868578082816"
+          ]
+        },
+        "author_id": "140119385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Action and Adventure",
+              "id": "859530721588723713",
+              "name": "Action & adventure books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Action and Adventure",
+              "id": "859530721588723713",
+              "name": "Action & adventure books"
+            }
+          }
+        ],
+        "conversation_id": "2101881317096870065",
+        "created_at": "2026-09-21T03:48:51.000Z",
+        "display_text_range": [
+          0,
+          274
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T04:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101881317096870065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ydN5bbzMC7",
+              "end": 298,
+              "expanded_url": "https://x.com/Shattubatu/status/2101881317096870065/photo/1",
+              "media_key": "3_2101830358324932608",
+              "start": 275,
+              "url": "https://t.co/ydN5bbzMC7"
+            },
+            {
+              "display_url": "pic.x.com/ydN5bbzMC7",
+              "end": 298,
+              "expanded_url": "https://x.com/Shattubatu/status/2101881317096870065/photo/1",
+              "media_key": "3_2101832868578082816",
+              "start": 275,
+              "url": "https://t.co/ydN5bbzMC7"
+            },
+            {
+              "display_url": "x.com/jk_rowling/sta…",
+              "end": 322,
+              "expanded_url": "https://twitter.com/jk_rowling/status/2101623347675119953",
+              "start": 299,
+              "url": "https://t.co/2UTH0fvwtI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101881317096870065",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2101830358324932608"
+          },
+          {
+            "media_key": "3_2101832868578082816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "So much misinformation in Rowling's tweet, in the QRT, in the article, and in the study itself! This BS has been floating around since April, so I paid for twitter premium so I could write a post long enough to  go through and methodically tear every single misleading fact, baseless generalisation and bald-faced lie to shreds.  🧵\n\ntl;dr: The study Rowling is citing doesn't look at suicide at all, and its methods are rigged in ways that make treatment look bad. The same authors' actual suicide study, on the exact same 2,083 people, found treated trans youth statistically no different from cis controls, and untreated trans youth at 3.2 times the risk.\n\nLet's go:\n\nThe study claims that patients who undergo gender affirming care end up having a significantly higher rate of usage of psychiatric services than they did before. (see image #1)\n\nHowever, this study makes some HUGE methodological mistakes. The largest of which is that it defines psychiatric morbidity after treatment by checking if a patient has had a psychiatric appointment 2 or more years after their first contact seeking gender affirming care.\n\nThe process for getting gender affirming care in Finland requires psychiatric appointments every few months for around 2 years before a patient can be prescribed hormones. (Which is a disgustingly unjust system, by the way!) Patients can have to wait longer than 2 years from their first appointment until they receive their first dose of HRT. If that (mandatory!) process generates a psychiatric referral or monitoring appointment more than 2 years after their first contact, even before they have started treatment, it is counted as \"psychiatric morbidity after treatment\".\n\nThe Ruuska study counts the psychiatric contacts the pathway itself generates as \"proof\" that the treatment causes psychiatric morbidity!\n\nIt's hard to convey how absurd and circular this is. Imagine a bank that only gives you a mortgage after two years of meetings with a financial adviser, and only if the adviser certifies you've had no money worries for at least a year. Then a study starts counting at the two-year mark and announces: \"Mortgage holders see financial advisers far more often than renters do. Suspicious! Mortgages must cause money problems!\"\n\nThe paper does exclude the gender-assessment appointments themselves. But the assessment runs inside an adolescent psychiatry department, generates psychiatric referrals and monitoring as a matter of routine, and the study has no way to tell a routine pathway referral from a crisis. Kaltiala's own reply admits the data has \"A limitation of this study is that more detailed information on patients' reasons for using the psychiatric services could not be analysed.\". So any psychiatric contact after the 2-year mark, even before treatment starts, is counted as \"morbidity after treatment\".\n\nIt never checks actual rates of mental illness in the populations, or for what reason patients are getting psychiatric appointments. They didn't even factor in how many psychiatric appointments the patients had, even though the authors had that data (frequency of appointment) available, they chose to collapse it into a binary \"Did they have at least one appointment\" measure!\n\nNotice what's not measured: gender dysphoria, body congruence, quality of life, depression symptoms, anxiety symptoms. You know, the things the treatment is for? The study has no measure of any of them!\n\nThe  treated group started at 9.8% (trans fem)-21.6% (trans masc) needing psychiatric care, this is because Finland only treats people who've been psychiatrically stable for a year. This skews the \"starting percentage\" of patients low. There's a selection bias towards trans people who haven't had a psychiatric appointment before their first contact with the gender service being more likely to receive treatment. This is part of what makes the \"increase\" so dramatic. They're selecting for people who haven't needed psychiatric care, and then counting the appointments created as part of their gender pathway. \n\nAnd even if you do look at their numbers, the claim that hormones are harmful still doesn't hold up! Two-plus years on, every trans group sits at 55-67%, treated or not, and the treated trans-masc group ends LOWER than the untreated one. If hormones were harmful, that's the opposite of what you'd see! This study's own data (shamelessly biased as it is) shows no sign of harm: even on their own broken measure, the treated group ends no worse than the untreated one when compared to an appropriate control (ie. trans people not receiving treatment!)\n\nThe logic is so circular and so obviously wrong that I can't believe it was published!\nNeither can the 43 clinicians and researchers who wrote to the journal saying the same thing, or the eight US academics who called for the data to be reanalysed, or the Italian paediatric team whose letter is literally titled \"Psychiatric Contacts Are Not Outcomes\"!"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 6164,
+          "like_count": 109,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101623347675119953",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "So much misinformation in Rowling's tweet, in the QRT, in the article, and in the study itself! This BS has been floating around since April, so I paid for twitter premium so I could write a post long enough to  go through and methodically tear every single misleading fact, https://t.co/ydN5bbzMC7 https://t.co/2UTH0fvwtI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2103465678816600250",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11451,
+          "following_count": 1374,
+          "like_count": 11043,
+          "listed_count": 19,
+          "media_count": 520,
+          "tweet_count": 6784
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-05-04T16:52:36.000Z",
+        "description": "Freya  \nLeftist|Lesbian|Poly|Kobold-otter|She/Her|Uses 'Jinkies' un-ironically|🏳️‍⚧️\n\npfp by @SkyVixie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 93,
+                "username": "SkyVixie"
+              }
+            ]
+          }
+        },
+        "id": "140119385",
+        "is_identity_verified": false,
+        "location": "England",
+        "most_recent_tweet_id": "2103428804500750619",
+        "name": "Shattubatu",
+        "pinned_tweet_id": "1948795100626112906",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/140119385/1654222363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1459869673047175168/d6U_qHfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 1210,
+          "like_count": 149823,
+          "listed_count": 20,
+          "media_count": 2145,
+          "tweet_count": 13088
+        },
+        "url": "",
+        "username": "Shattubatu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

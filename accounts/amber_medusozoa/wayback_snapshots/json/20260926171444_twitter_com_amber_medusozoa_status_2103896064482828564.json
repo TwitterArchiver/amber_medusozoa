@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2103846377679946214",
+    "created_at": "2026-09-26T17:14:44.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T18:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103896064482828564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1553221917389516800",
+          "start": 0,
+          "username": "viietth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103896064482828564",
+    "in_reply_to_user_id": "1553221917389516800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103846377679946214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@viietth 中秋快乐"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2103846377679946214].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2103846377679946214",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2103846377679946214"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2103846377679946214",
+        "created_at": "2026-09-26T17:14:44.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T18:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103896064482828564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1553221917389516800",
+              "start": 0,
+              "username": "viietth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103896064482828564",
+        "in_reply_to_user_id": "1553221917389516800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103846377679946214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@viietth 中秋快乐"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2103896064482828564",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11477,
+          "following_count": 1381,
+          "like_count": 11114,
+          "listed_count": 20,
+          "media_count": 524,
+          "tweet_count": 6832
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-30T03:32:31.000Z",
+        "description": "药娘/不互关/不私信/不回复",
+        "id": "1553221917389516800",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092862907398652180",
+        "name": "呜噜噜",
+        "pinned_tweet_id": "1948042189789077751",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1553221917389516800/1753283597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083314295677579264/QjMUpZPj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 36,
+          "like_count": 6924,
+          "listed_count": 0,
+          "media_count": 379,
+          "tweet_count": 6057
+        },
+        "url": "",
+        "username": "viietth",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

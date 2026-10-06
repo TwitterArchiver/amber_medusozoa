@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Journalism",
+          "id": "1074755369530880001",
+          "name": "Journalists"
+        }
+      }
+    ],
+    "conversation_id": "2100216792249454844",
+    "created_at": "2026-09-16T13:34:38.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T14:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100216792249454844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3232393554",
+          "start": 3,
+          "username": "initiumnews"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100216792249454844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100193131031359506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @initiumnews: 9月14日傍晚，廣州大學城發生持刀砍人事件。然而，在官方 107 字的《警情通報》中，受害者的人數、性別、傷勢全被隱去。\n\n十多家有報道此事的媒體都僅轉載官方資訊，並無採訪到事發現場的學生。面對《瀟湘晨報》記者詢問，警方僅回覆「我這邊現場已經處…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2100193128074387457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSVihc6XIAEAAiE.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Journalism",
+              "id": "1074755369530880001",
+              "name": "Journalists"
+            }
+          }
+        ],
+        "conversation_id": "2100216792249454844",
+        "created_at": "2026-09-16T13:34:38.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T14:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100216792249454844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3232393554",
+              "start": 3,
+              "username": "initiumnews"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100216792249454844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100193131031359506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @initiumnews: 9月14日傍晚，廣州大學城發生持刀砍人事件。然而，在官方 107 字的《警情通報》中，受害者的人數、性別、傷勢全被隱去。\n\n十多家有報道此事的媒體都僅轉載官方資訊，並無採訪到事發現場的學生。面對《瀟湘晨報》記者詢問，警方僅回覆「我這邊現場已經處…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100193128074387457"
+          ]
+        },
+        "author_id": "3232393554",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Journalism",
+              "id": "1074755369530880001",
+              "name": "Journalists"
+            }
+          }
+        ],
+        "conversation_id": "2100193131031359506",
+        "created_at": "2026-09-16T12:00:36.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T13:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100193131031359506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DauGGKEwCc",
+              "end": 168,
+              "expanded_url": "https://x.com/initiumnews/status/2100193131031359506/photo/1",
+              "media_key": "3_2100193128074387457",
+              "start": 145,
+              "url": "https://t.co/DauGGKEwCc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100193131031359506",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100193128074387457"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "buff.ly/nMBAslC",
+                "end": 484,
+                "expanded_url": "https://buff.ly/nMBAslC",
+                "start": 461,
+                "url": "https://t.co/qDGAhFa2u8"
+              }
+            ]
+          },
+          "text": "9月14日傍晚，廣州大學城發生持刀砍人事件。然而，在官方 107 字的《警情通報》中，受害者的人數、性別、傷勢全被隱去。\n\n十多家有報道此事的媒體都僅轉載官方資訊，並無採訪到事發現場的學生。面對《瀟湘晨報》記者詢問，警方僅回覆「我這邊現場已經處置得很安全，你有什麼問題麻煩跟宣傳部聯繫」。\n\n當晚，一篇微信公眾號文章《廣州大學城目前傷者全是女性，刀全紮在臉上》開始傳播，文章指出，這並非網民以為的「無差別傷人」，而是明顯針對女性和瞄準臉部的攻擊，批評警方的通報故意隱瞞性別，文章目前已被刪除。\n\n事實上，這類隨機傷人事件並不少見。2024 年，中國至少發生 25 起無差別襲擊案，造成 86 死 181 傷，且大多發生在學校和商圈附近。而大部分的官方通報，同樣選擇隱去受害者的身份信息。\n\n面對頻發的社會暴力與戾氣，中國互聯網開始流行「幸福者退讓」原則——生活幸福的人遇到挑釁應主動迴避，以免刺激社會裡的「不幸者」。\n\n然而，如果一個人需要時刻提防「不幸者」出來行兇，這個人怎麼會是「幸福」的？\n\n👉點擊連結，閱讀全文： https://t.co/qDGAhFa2u8"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2223,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "9月14日傍晚，廣州大學城發生持刀砍人事件。然而，在官方 107 字的《警情通報》中，受害者的人數、性別、傷勢全被隱去。\n\n十多家有報道此事的媒體都僅轉載官方資訊，並無採訪到事發現場的學生。面對《瀟湘晨報》記者詢問，警方僅回覆「我這邊現場已經處置得很安全，你有什麼問題麻煩跟宣傳部聯繫」。 https://t.co/DauGGKEwCc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️⚢☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2100216792249454844",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2087096982267432968",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10970,
+          "following_count": 1333,
+          "like_count": 10235,
+          "listed_count": 15,
+          "media_count": 480,
+          "tweet_count": 6139
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-06-01T10:16:14.000Z",
+        "description": "端傳媒成立於2015年，專注原創深度報導，已獲得逾100項新聞及攝影大獎。端傳媒是靠會員付費訂閱維繫的獨立媒體機構，成為訂閱會員，支持華文世界不可或缺的深度報導和多元聲音。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "theinitium.com/?utm_source=tw…",
+                "end": 23,
+                "expanded_url": "http://theinitium.com/?utm_source=twitter&utm_medium=social&utm_campaign=tw_post",
+                "start": 0,
+                "url": "https://t.co/YjTSHovelF"
+              }
+            ]
+          }
+        },
+        "id": "3232393554",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100193131031359506",
+        "name": "端傳媒 Initium Media",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3232393554/1778756912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742186027173937152/Fjsm2UMj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248956,
+          "following_count": 623,
+          "like_count": 380,
+          "listed_count": 1912,
+          "media_count": 15172,
+          "tweet_count": 40468
+        },
+        "url": "https://t.co/YjTSHovelF",
+        "username": "initiumnews",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

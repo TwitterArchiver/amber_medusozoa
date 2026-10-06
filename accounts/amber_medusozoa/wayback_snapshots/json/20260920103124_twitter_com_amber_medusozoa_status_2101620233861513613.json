@@ -1,0 +1,606 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2101620233861513613",
+    "created_at": "2026-09-20T10:31:24.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T11:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101620233861513613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1650521797299953665",
+          "start": 3,
+          "username": "yorei_puewwoc"
+        },
+        {
+          "end": 61,
+          "id": "1999059927650930688",
+          "start": 47,
+          "username": "LightSTAR_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101620233861513613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101608451692757408",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yorei_puewwoc: 求扩散！\n谁有这位的信息请联系咱\n\n2008.11.8 @LightSTAR_qwq 不od\n当事人有一对象叫“毛豆”，、\n原神uid 240647300\n\n当事人可能实名的b站账号 苍星哒\n\n当事人b站账号 苍星哒哒哒\nb站ip广东省\n当…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101608389562552321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSppsgzbUAE8ivl.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2101608389625475072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSppshCbcAAkdNs.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2101608389575159808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSppsg2bsAAvD67.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2101608389554114561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSppsgxakAEM9wy.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2101620233861513613",
+        "created_at": "2026-09-20T10:31:24.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T11:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101620233861513613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1650521797299953665",
+              "start": 3,
+              "username": "yorei_puewwoc"
+            },
+            {
+              "end": 61,
+              "id": "1999059927650930688",
+              "start": 47,
+              "username": "LightSTAR_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101620233861513613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101608451692757408",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yorei_puewwoc: 求扩散！\n谁有这位的信息请联系咱\n\n2008.11.8 @LightSTAR_qwq 不od\n当事人有一对象叫“毛豆”，、\n原神uid 240647300\n\n当事人可能实名的b站账号 苍星哒\n\n当事人b站账号 苍星哒哒哒\nb站ip广东省\n当…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101608389562552321",
+            "3_2101608389625475072",
+            "3_2101608389575159808",
+            "3_2101608389554114561"
+          ]
+        },
+        "author_id": "1650521797299953665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2101608451692757408",
+        "created_at": "2026-09-20T09:44:35.000Z",
+        "display_text_range": [
+          0,
+          159
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T10:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101608451692757408"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 159,
+              "start": 154,
+              "tag": "自杀救助"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 42,
+              "id": "1999059927650930688",
+              "start": 28,
+              "username": "LightSTAR_qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8fmttezKR8",
+              "end": 183,
+              "expanded_url": "https://x.com/yorei_puewwoc/status/2101608451692757408/photo/1",
+              "media_key": "3_2101608389562552321",
+              "start": 160,
+              "url": "https://t.co/8fmttezKR8"
+            },
+            {
+              "display_url": "pic.x.com/8fmttezKR8",
+              "end": 183,
+              "expanded_url": "https://x.com/yorei_puewwoc/status/2101608451692757408/photo/1",
+              "media_key": "3_2101608389625475072",
+              "start": 160,
+              "url": "https://t.co/8fmttezKR8"
+            },
+            {
+              "display_url": "pic.x.com/8fmttezKR8",
+              "end": 183,
+              "expanded_url": "https://x.com/yorei_puewwoc/status/2101608451692757408/photo/1",
+              "media_key": "3_2101608389575159808",
+              "start": 160,
+              "url": "https://t.co/8fmttezKR8"
+            },
+            {
+              "display_url": "pic.x.com/8fmttezKR8",
+              "end": 183,
+              "expanded_url": "https://x.com/yorei_puewwoc/status/2101608451692757408/photo/1",
+              "media_key": "3_2101608389554114561",
+              "start": 160,
+              "url": "https://t.co/8fmttezKR8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101608451692757408",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101608389562552321"
+          },
+          {
+            "media_key": "3_2101608389625475072"
+          },
+          {
+            "media_key": "3_2101608389575159808"
+          },
+          {
+            "media_key": "3_2101608389554114561"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "求扩散！\n谁有这位的信息请联系咱\n\n2008.11.8 @LightSTAR_qwq 不od\n当事人有一对象叫“毛豆”，、\n原神uid 240647300\n\n当事人可能实名的b站账号 苍星哒\n\n当事人b站账号 苍星哒哒哒\nb站ip广东省\n当事人就读于阳江高级中学，高三年级\n\nQQ群 1104256636\n\n#自杀救助 https://t.co/8fmttezKR8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️⚢☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2101620233861513613",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11121,
+          "following_count": 1367,
+          "like_count": 10581,
+          "listed_count": 16,
+          "media_count": 506,
+          "tweet_count": 6457
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-24T15:27:27.000Z",
+        "description": "与岭 | 浮游于802.11ax之上的电子🐟｜呼唤我的名字吧 晚餐铃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yulingko.moe",
+                "end": 23,
+                "expanded_url": "https://yulingko.moe/",
+                "start": 0,
+                "url": "https://t.co/oQ3kpYTWi3"
+              }
+            ]
+          }
+        },
+        "id": "1650521797299953665",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101615034199912850",
+        "name": "Yorei \"Coroutine\" Puewwoc",
+        "pinned_tweet_id": "2098798337495630334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650521797299953665/1743597323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089626004994367489/cwYoHQg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 755,
+          "like_count": 85495,
+          "listed_count": 3,
+          "media_count": 1027,
+          "tweet_count": 16697
+        },
+        "url": "https://t.co/oQ3kpYTWi3",
+        "username": "yorei_puewwoc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-11T10:13:45.000Z",
+        "description": "音游人 | mtf🏳️‍⚧️ | 165cm | 57kg | 重焦重抑 | 无证含糖 | 生日2008.11.28 | B站up | VRchat重度依赖 | 不od | 不见证 | 不抽烟喝酒 | 有时会割手 |  对象@lovelymaodou | 门槛🚪70",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 112,
+                "username": "lovelymaodou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/bzfR3fN",
+                "end": 23,
+                "expanded_url": "https://b23.tv/bzfR3fN",
+                "start": 0,
+                "url": "https://t.co/ghmbUs7tgx"
+              }
+            ]
+          }
+        },
+        "id": "1999059927650930688",
+        "is_identity_verified": false,
+        "location": "广东",
+        "most_recent_tweet_id": "2101514568132608008",
+        "name": "苍星哒哒哒🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2096672818050322554",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1999059927650930688/1777743465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051718115445354496/zw7XNEkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 454,
+          "like_count": 2260,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 265
+        },
+        "url": "https://t.co/ghmbUs7tgx",
+        "username": "LightSTAR_qwq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

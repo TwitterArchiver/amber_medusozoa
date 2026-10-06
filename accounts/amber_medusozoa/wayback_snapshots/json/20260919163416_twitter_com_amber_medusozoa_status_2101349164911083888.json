@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2101230746308620290",
+    "created_at": "2026-09-19T16:34:16.000Z",
+    "display_text_range": [
+      14,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T17:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101349164911083888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1077035952655163392",
+          "start": 0,
+          "username": "sacrificeQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101349164911083888",
+    "in_reply_to_user_id": "1077035952655163392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101232864792887420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sacrificeQAQ 就是因为我把大家都当人看所以我才会发这些"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2101230746308620290",
+        "created_at": "2026-09-19T16:34:16.000Z",
+        "display_text_range": [
+          14,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T17:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101349164911083888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1077035952655163392",
+              "start": 0,
+              "username": "sacrificeQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101349164911083888",
+        "in_reply_to_user_id": "1077035952655163392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101232864792887420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sacrificeQAQ 就是因为我把大家都当人看所以我才会发这些"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1077035952655163392",
+        "conversation_id": "2101230746308620290",
+        "created_at": "2026-09-19T08:52:08.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T09:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101232864792887420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101232864792887420",
+        "in_reply_to_user_id": "1077035952655163392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101230746308620290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "算了，黑暗一点想可能原本也没把网上的粉丝当人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️⚢☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2101349164911083888",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11072,
+          "following_count": 1359,
+          "like_count": 10476,
+          "listed_count": 16,
+          "media_count": 494,
+          "tweet_count": 6370
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-24T02:59:16.000Z",
+        "description": "QT间期延长 室间隔缺损(已康复) 轻度肺阻塞 慢性肛裂 肝内胆管结石 肾结石 高度近视 散光 弱视 慢性扁桃体炎 髌骨软骨软化 慢性外耳道炎 感音神经性聋",
+        "id": "1077035952655163392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101275851707015574",
+        "name": "lastwidecat𓃠",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572636674668261378/Q2jPPA7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 1923,
+          "like_count": 225336,
+          "listed_count": 0,
+          "media_count": 403,
+          "tweet_count": 8180
+        },
+        "url": "",
+        "username": "sacrificeQAQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

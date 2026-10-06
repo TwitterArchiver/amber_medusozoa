@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103482669895933952"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Astrology",
+          "id": "1102600979491381248",
+          "name": "Astrology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Astrology",
+          "id": "1102600979491381248",
+          "name": "Astrology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1242542967522353152",
+          "name": "Tarot cards"
+        }
+      }
+    ],
+    "conversation_id": "2103482675642167670",
+    "created_at": "2026-09-25T13:52:05.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T14:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103482675642167670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2xkGk5liOr",
+          "end": 23,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2103482675642167670/photo/1",
+          "media_key": "3_2103482669895933952",
+          "start": 0,
+          "url": "https://t.co/2xkGk5liOr"
+        },
+        {
+          "display_url": "x.com/y40ifrqtting/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/y40ifrqtting/status/2103433182171558319",
+          "start": 24,
+          "url": "https://t.co/BHgZo04vfs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103482675642167670",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2103482669895933952"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103433182171558319",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/2xkGk5liOr https://t.co/BHgZo04vfs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103482669895933952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTESV_JWYAAME75.jpg",
+        "width": 958
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103482669895933952"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1242542967522353152",
+              "name": "Tarot cards"
+            }
+          }
+        ],
+        "conversation_id": "2103482675642167670",
+        "created_at": "2026-09-25T13:52:05.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T14:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103482675642167670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2xkGk5liOr",
+              "end": 23,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2103482675642167670/photo/1",
+              "media_key": "3_2103482669895933952",
+              "start": 0,
+              "url": "https://t.co/2xkGk5liOr"
+            },
+            {
+              "display_url": "x.com/y40ifrqtting/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/y40ifrqtting/status/2103433182171558319",
+              "start": 24,
+              "url": "https://t.co/BHgZo04vfs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103482675642167670",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2103482669895933952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103433182171558319",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/2xkGk5liOr https://t.co/BHgZo04vfs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1137852253170221058",
+        "conversation_id": "2103433182171558319",
+        "created_at": "2026-09-25T10:35:25.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T11:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103433182171558319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2102919464539099188",
+              "start": 140,
+              "url": "https://t.co/9lYsSXP5Ug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103433182171558319",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 829,
+          "like_count": 24,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102919464539099188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Posts like these are embarrassing because Communists ARE trying to abolish jobs so we can read tarot cards all day. Marxism DOES mean this. https://t.co/9lYsSXP5Ug"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2103482675642167670",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11454,
+          "following_count": 1374,
+          "like_count": 11050,
+          "listed_count": 19,
+          "media_count": 521,
+          "tweet_count": 6790
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-06-09T22:41:32.000Z",
+        "description": "You can contact me whenever you need to",
+        "id": "1137852253170221058",
+        "is_identity_verified": false,
+        "location": "The Netherlands",
+        "most_recent_tweet_id": "2103482149135364470",
+        "name": "(• ˕ •マ.ᐟ ★",
+        "pinned_tweet_id": "1874610158363668564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1137852253170221058/1630519839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080730537409343488/aVnQfp7X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5177,
+          "following_count": 1073,
+          "like_count": 83018,
+          "listed_count": 36,
+          "media_count": 1221,
+          "tweet_count": 30287
+        },
+        "url": "",
+        "username": "Y40IFRQTTING",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

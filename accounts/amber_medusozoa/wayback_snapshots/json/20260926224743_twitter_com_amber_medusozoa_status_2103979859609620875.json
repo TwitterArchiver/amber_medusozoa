@@ -1,0 +1,489 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103979854441943040"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "All conversation about the United States Federal Bureau of Investigation",
+          "id": "937710668706299904",
+          "name": "Federal Bureau of Investigation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "All conversation about the United States Federal Bureau of Investigation",
+          "id": "937710668706299904",
+          "name": "Federal Bureau of Investigation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "2103979859609620875",
+    "created_at": "2026-09-26T22:47:43.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T23:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103979859609620875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JB29FkQ0Hj",
+          "end": 56,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2103979859609620875/photo/1",
+          "media_key": "3_2103979854441943040",
+          "start": 33,
+          "url": "https://t.co/JB29FkQ0Hj"
+        },
+        {
+          "display_url": "x.com/zhina996/statu…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/zhina996/status/2103611422370398464",
+          "start": 57,
+          "url": "https://t.co/0rVLA7RcyT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103979859609620875",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103979854441943040"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103611422370398464",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种可信度和孙笑川撞断不周山一样的恶搞新闻到底是什么样的人才会信 https://t.co/JB29FkQ0Hj https://t.co/0rVLA7RcyT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1851,
+        "media_key": "3_2103979854441943040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTLWh76XEAA6MrC.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1796,
+        "media_key": "3_2103611417790177280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTGHcGbW4AAAhkG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103979854441943040"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "All conversation about the United States Federal Bureau of Investigation",
+              "id": "937710668706299904",
+              "name": "Federal Bureau of Investigation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "All conversation about the United States Federal Bureau of Investigation",
+              "id": "937710668706299904",
+              "name": "Federal Bureau of Investigation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2103979859609620875",
+        "created_at": "2026-09-26T22:47:43.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T23:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103979859609620875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JB29FkQ0Hj",
+              "end": 56,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2103979859609620875/photo/1",
+              "media_key": "3_2103979854441943040",
+              "start": 33,
+              "url": "https://t.co/JB29FkQ0Hj"
+            },
+            {
+              "display_url": "x.com/zhina996/statu…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/zhina996/status/2103611422370398464",
+              "start": 57,
+              "url": "https://t.co/0rVLA7RcyT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103979859609620875",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103979854441943040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103611422370398464",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种可信度和孙笑川撞断不周山一样的恶搞新闻到底是什么样的人才会信 https://t.co/JB29FkQ0Hj https://t.co/0rVLA7RcyT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103611417790177280"
+          ]
+        },
+        "author_id": "1351247152287256581",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "All conversation about the United States Federal Bureau of Investigation",
+              "id": "937710668706299904",
+              "name": "Federal Bureau of Investigation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "All conversation about the United States Federal Bureau of Investigation",
+              "id": "937710668706299904",
+              "name": "Federal Bureau of Investigation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2103611422370398464",
+        "created_at": "2026-09-25T22:23:40.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T23:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103611422370398464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BbTAhZDvKH",
+              "end": 169,
+              "expanded_url": "https://x.com/Zhina996/status/2103611422370398464/photo/1",
+              "media_key": "3_2103611417790177280",
+              "start": 146,
+              "url": "https://t.co/BbTAhZDvKH"
+            },
+            {
+              "display_url": "x.com/zhina996/statu…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/zhina996/status/2103607614240440420",
+              "start": 170,
+              "url": "https://t.co/DL7YrxbLp5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103611422370398464",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103611417790177280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 26194,
+          "like_count": 354,
+          "quote_count": 8,
+          "reply_count": 25,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103607614240440420",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "近日，华裔女权活动家张塑莱（祖籍广东）被纽约警方逮捕，FBI指控其创立的女权组织“女人世界”涉嫌两千多起跨国未成年女性贩运案，以及157起失踪案。张诱骗未成年女性前往美国，囚禁并强迫她们从事卖淫、代孕、电信诈骗等非法活动。为了让高价拍下少女初夜的“买家”放心，甚至租用飞机带到公海上进行交易 https://t.co/BbTAhZDvKH https://t.co/DL7YrxbLp5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2103979859609620875",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11479,
+          "following_count": 1383,
+          "like_count": 11143,
+          "listed_count": 20,
+          "media_count": 525,
+          "tweet_count": 6849
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-18T19:17:02.000Z",
+        "description": "支持王水牛",
+        "id": "1351247152287256581",
+        "is_identity_verified": false,
+        "location": "支那本部 江宁 临安",
+        "most_recent_tweet_id": "2103954056611807502",
+        "name": "996观察 Zhina Observer",
+        "pinned_tweet_id": "2040094633556918306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1351247152287256581/1781059649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103895040061788160/7aqzVLHJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 1551,
+          "like_count": 82829,
+          "listed_count": 20,
+          "media_count": 539,
+          "tweet_count": 33509
+        },
+        "url": "",
+        "username": "Zhina996",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

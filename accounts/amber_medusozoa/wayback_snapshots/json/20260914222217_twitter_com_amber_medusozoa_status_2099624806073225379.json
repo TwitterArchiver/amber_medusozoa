@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099550899169320960"
+      ],
+      "media_source_tweet_id": [
+        "2099550903355236689"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2099624806073225379",
+    "created_at": "2026-09-14T22:22:17.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T23:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099624806073225379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1198110364145246208",
+          "start": 3,
+          "username": "CoziEntropy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ey8TikgmWG",
+          "end": 58,
+          "expanded_url": "https://x.com/CoziEntropy/status/2099550903355236689/photo/1",
+          "media_key": "3_2099550899169320960",
+          "start": 35,
+          "url": "https://t.co/ey8TikgmWG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099624806073225379",
+    "lang": "hi",
+    "media_metadata": [
+      {
+        "media_key": "3_2099550899169320960"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1839
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099550903355236689",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CoziEntropy: RIP Sophie Lee 🕊️ https://t.co/ey8TikgmWG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1013,
+        "media_key": "3_2099550899169320960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSMaazzW4AAsL-W.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099550899169320960"
+          ],
+          "media_source_tweet_id": [
+            "2099550903355236689"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2099624806073225379",
+        "created_at": "2026-09-14T22:22:17.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T23:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099624806073225379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1198110364145246208",
+              "start": 3,
+              "username": "CoziEntropy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ey8TikgmWG",
+              "end": 58,
+              "expanded_url": "https://x.com/CoziEntropy/status/2099550903355236689/photo/1",
+              "media_key": "3_2099550899169320960",
+              "start": 35,
+              "url": "https://t.co/ey8TikgmWG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099624806073225379",
+        "lang": "hi",
+        "media_metadata": [
+          {
+            "media_key": "3_2099550899169320960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1839
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099550903355236689",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CoziEntropy: RIP Sophie Lee 🕊️ https://t.co/ey8TikgmWG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099550899169320960"
+          ]
+        },
+        "author_id": "1198110364145246208",
+        "conversation_id": "2099550903355236689",
+        "created_at": "2026-09-14T17:28:37.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T18:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099550903355236689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ey8TikgmWG",
+              "end": 41,
+              "expanded_url": "https://x.com/CoziEntropy/status/2099550903355236689/photo/1",
+              "media_key": "3_2099550899169320960",
+              "start": 18,
+              "url": "https://t.co/ey8TikgmWG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099550903355236689",
+        "lang": "hi",
+        "media_metadata": [
+          {
+            "media_key": "3_2099550899169320960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 42613,
+          "like_count": 7425,
+          "quote_count": 16,
+          "reply_count": 14,
+          "retweet_count": 1839
+        },
+        "reply_settings": "everyone",
+        "text": "RIP Sophie Lee 🕊️ https://t.co/ey8TikgmWG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2099624806073225379",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097770631366328653",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10896,
+          "following_count": 1318,
+          "like_count": 9987,
+          "listed_count": 14,
+          "media_count": 467,
+          "tweet_count": 5937
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-11-23T05:25:56.000Z",
+        "description": "26yo blk wandering enby transfemme 💜🔞| haze n mina fiend",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/CoziEntropy",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/CoziEntropy",
+                "start": 0,
+                "url": "https://t.co/WBm3edp8tL"
+              }
+            ]
+          }
+        },
+        "id": "1198110364145246208",
+        "is_identity_verified": false,
+        "location": "a liminal state of being ",
+        "most_recent_tweet_id": "2099584251859464471",
+        "name": "pronoun merchant 🇵🇸🏳️‍⚧️ she/they",
+        "pinned_tweet_id": "2098391951351439760",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1198110364145246208/1768681679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078978999036887041/Jrxi05xT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 399,
+          "like_count": 94053,
+          "listed_count": 6,
+          "media_count": 2463,
+          "tweet_count": 27025
+        },
+        "url": "https://t.co/WBm3edp8tL",
+        "username": "CoziEntropy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2099053150401704189",
+    "created_at": "2026-09-14T03:25:04.000Z",
+    "display_text_range": [
+      25,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T04:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099338616744939849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040798583440527360",
+          "start": 0,
+          "username": "longyvling"
+        },
+        {
+          "end": 24,
+          "id": "1747064134490066944",
+          "start": 12,
+          "username": "JiaRanToday"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099338616744939849",
+    "in_reply_to_user_id": "2040798583440527360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099337508509143113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@longyvling @JiaRanToday 女同反跨所以这位跨就要反女同，我是不知道这样冤冤相报互相切割下去能给谁带来什么好处"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2099337508509143113].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2099337508509143113",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2099337508509143113"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2099053150401704189",
+        "created_at": "2026-09-14T03:25:04.000Z",
+        "display_text_range": [
+          25,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T04:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099338616744939849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040798583440527360",
+              "start": 0,
+              "username": "longyvling"
+            },
+            {
+              "end": 24,
+              "id": "1747064134490066944",
+              "start": 12,
+              "username": "JiaRanToday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099338616744939849",
+        "in_reply_to_user_id": "2040798583440527360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099337508509143113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longyvling @JiaRanToday 女同反跨所以这位跨就要反女同，我是不知道这样冤冤相报互相切割下去能给谁带来什么好处"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2099338616744939849",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10832,
+          "following_count": 1303,
+          "like_count": 9853,
+          "listed_count": 14,
+          "media_count": 464,
+          "tweet_count": 5836
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-05T14:28:34.000Z",
+        "description": "“再怎么找也没有啦”“不行，还是忘不掉你们呀”",
+        "id": "2040798583440527360",
+        "is_identity_verified": false,
+        "location": "长夜无灯",
+        "most_recent_tweet_id": "2092158896647360844",
+        "name": "龙雨绫🍥",
+        "pinned_tweet_id": "2090816381012877501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040798583440527360/1775400213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040798876291215360/4qSE1Jh7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 327,
+          "like_count": 6567,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 1205
+        },
+        "url": "",
+        "username": "longyvling",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-16T01:12:21.000Z",
+        "description": "📦 𝙋𝙞𝙣𝙠𝙍𝙤𝙗𝙤𝙩\n\n┣ 👾 v2012s｜视觉系・挂壁 //初始化\n┣ 💊 v2018s｜不是MTF\n┣ 🌃 v2024s｜Linux・AI・赛博朋克\n┗ 🤖💗 v4.0｜粉色可爱机器人 //上线版本\n\n𝙎𝙩𝙚𝙖𝙢 常驻\n🏳️‍⚧️ 表达永续\n✨ 神经持续吧··",
+        "id": "1747064134490066944",
+        "is_identity_verified": false,
+        "location": "成都/🚪纯绿",
+        "most_recent_tweet_id": "2099110026891977015",
+        "name": "✟艾晚晴✟ 🍥PINK",
+        "pinned_tweet_id": "2074206446317879629",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1747064134490066944/1777476894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049503080597917697/69QkTC_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2526,
+          "following_count": 599,
+          "like_count": 1722,
+          "listed_count": 13,
+          "media_count": 151,
+          "tweet_count": 1876
+        },
+        "url": "",
+        "username": "JiaRanToday",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

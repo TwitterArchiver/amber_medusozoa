@@ -1,0 +1,550 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Three different fan favorites must give three different A-listers drag makeovers, and their queens battle it out in classic competitions for the title of America's Next Celebrity Drag Superstar and prize money for the charity of their choice.",
+          "id": "10000936267",
+          "name": "RuPaul's Drag Race"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "RuPaul",
+          "id": "1011347478740754432",
+          "name": "RuPaul"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+          "id": "58",
+          "name": "Entertainment Personality"
+        },
+        "entity": {
+          "description": "RuPaul",
+          "id": "1011347478740754432",
+          "name": "RuPaul"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "RuPaul",
+          "id": "1011347478740754432",
+          "name": "RuPaul"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1263210403007324160",
+          "name": "RuPaul’s Drag Race"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281297135971913728",
+          "name": "Competition shows"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281297404482838528",
+          "name": "Music competition"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281298037831135233",
+          "name": "Fashion competition"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1263210403007324160",
+          "name": "RuPaul’s Drag Race"
+        }
+      }
+    ],
+    "conversation_id": "2105286183890882780",
+    "created_at": "2026-09-30T17:59:35.000Z",
+    "display_text_range": [
+      26,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T18:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105356899457892452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1605471434163113984",
+          "start": 0,
+          "username": "roro89sha64kla"
+        },
+        {
+          "end": 25,
+          "id": "1452537509875834880",
+          "start": 16,
+          "username": "kkggxxyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105356899457892452",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105356718180085909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@roro89sha64kla @kkggxxyy 并且像rupaul drag race很长一段时间都是禁止跨女参加的呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Three different fan favorites must give three different A-listers drag makeovers, and their queens battle it out in classic competitions for the title of America's Next Celebrity Drag Superstar and prize money for the charity of their choice.",
+              "id": "10000936267",
+              "name": "RuPaul's Drag Race"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "RuPaul",
+              "id": "1011347478740754432",
+              "name": "RuPaul"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+              "id": "58",
+              "name": "Entertainment Personality"
+            },
+            "entity": {
+              "description": "RuPaul",
+              "id": "1011347478740754432",
+              "name": "RuPaul"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "RuPaul",
+              "id": "1011347478740754432",
+              "name": "RuPaul"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1263210403007324160",
+              "name": "RuPaul’s Drag Race"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281297135971913728",
+              "name": "Competition shows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281297404482838528",
+              "name": "Music competition"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281298037831135233",
+              "name": "Fashion competition"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1263210403007324160",
+              "name": "RuPaul’s Drag Race"
+            }
+          }
+        ],
+        "conversation_id": "2105286183890882780",
+        "created_at": "2026-09-30T17:59:35.000Z",
+        "display_text_range": [
+          26,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T18:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105356899457892452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1605471434163113984",
+              "start": 0,
+              "username": "roro89sha64kla"
+            },
+            {
+              "end": 25,
+              "id": "1452537509875834880",
+              "start": 16,
+              "username": "kkggxxyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105356899457892452",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105356718180085909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@roro89sha64kla @kkggxxyy 并且像rupaul drag race很长一段时间都是禁止跨女参加的呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2105286183890882780",
+        "created_at": "2026-09-30T17:58:51.000Z",
+        "display_text_range": [
+          26,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T18:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105356718180085909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1605471434163113984",
+              "start": 0,
+              "username": "roro89sha64kla"
+            },
+            {
+              "end": 25,
+              "id": "1452537509875834880",
+              "start": 16,
+              "username": "kkggxxyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105356718180085909",
+        "in_reply_to_user_id": "1605471434163113984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105336198495699457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@roro89sha64kla @kkggxxyy 并没有跨谢谢，当时的跨女street queens是被登台表演的drag queen集体排挤的，很多drag bar甚至不允许跨女入内"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2105356899457892452",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11552,
+          "following_count": 1404,
+          "like_count": 11381,
+          "listed_count": 19,
+          "media_count": 529,
+          "tweet_count": 7013
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-21T07:53:21.000Z",
+        "description": "⚧saphhic🏳️‍🌈 | she/her | 晕车晕血晕爹味 恐高恐育恐顺直 | 流行文化♡",
+        "id": "1605471434163113984",
+        "is_identity_verified": false,
+        "location": "哥谭市阿卡姆精神病院",
+        "most_recent_tweet_id": "2105336198495699457",
+        "name": "8⃣️9⃣️爆浆流心6⃣️4⃣️食人鱼Roro🏳️‍⚧️🦈（拖更中）",
+        "pinned_tweet_id": "2010728982778626212",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1605471434163113984/1671609895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029395295994568704/0FcbZOsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1127,
+          "following_count": 689,
+          "like_count": 50183,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 8035
+        },
+        "url": "",
+        "username": "roro89sha64kla",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-25T07:28:33.000Z",
+        "description": "不可结缘",
+        "id": "1452537509875834880",
+        "is_identity_verified": false,
+        "location": "大象鼻子",
+        "most_recent_tweet_id": "2105346217844875573",
+        "name": "하나나",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1452537509875834880/1734359512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043310679210569728/ph6qicjz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 245,
+          "like_count": 7413,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 7112
+        },
+        "url": "",
+        "username": "kkggxxyy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

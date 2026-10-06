@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100539516305985536",
+        "3_2100539522979115008"
+      ],
+      "media_source_tweet_id": [
+        "2100539529077612770",
+        "2100539529077612770"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2100775478323712348",
+    "created_at": "2026-09-18T02:34:39.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T03:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100775478323712348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2045368812225114112",
+          "start": 3,
+          "username": "ruurichan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n6a0DCtmwn",
+          "end": 59,
+          "expanded_url": "https://x.com/ruurichan/status/2100539529077612770/photo/1",
+          "media_key": "3_2100539516305985536",
+          "start": 36,
+          "url": "https://t.co/n6a0DCtmwn"
+        },
+        {
+          "display_url": "pic.x.com/n6a0DCtmwn",
+          "end": 59,
+          "expanded_url": "https://x.com/ruurichan/status/2100539529077612770/photo/1",
+          "media_key": "3_2100539522979115008",
+          "start": 36,
+          "url": "https://t.co/n6a0DCtmwn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100775478323712348",
+    "lang": "in",
+    "media_metadata": [
+      {
+        "media_key": "3_2100539516305985536"
+      },
+      {
+        "media_key": "3_2100539522979115008"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21426
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100539529077612770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ruurichan: Misandry VS misogyny https://t.co/n6a0DCtmwn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "3_2100539516305985536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSadj5oW0AAb9Ui.jpg",
+        "width": 370
+      },
+      {
+        "height": 320,
+        "media_key": "3_2100539522979115008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSadkSfWsAAMDUm.jpg",
+        "width": 370
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100539516305985536",
+            "3_2100539522979115008"
+          ],
+          "media_source_tweet_id": [
+            "2100539529077612770",
+            "2100539529077612770"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2100775478323712348",
+        "created_at": "2026-09-18T02:34:39.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T03:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100775478323712348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2045368812225114112",
+              "start": 3,
+              "username": "ruurichan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n6a0DCtmwn",
+              "end": 59,
+              "expanded_url": "https://x.com/ruurichan/status/2100539529077612770/photo/1",
+              "media_key": "3_2100539516305985536",
+              "start": 36,
+              "url": "https://t.co/n6a0DCtmwn"
+            },
+            {
+              "display_url": "pic.x.com/n6a0DCtmwn",
+              "end": 59,
+              "expanded_url": "https://x.com/ruurichan/status/2100539529077612770/photo/1",
+              "media_key": "3_2100539522979115008",
+              "start": 36,
+              "url": "https://t.co/n6a0DCtmwn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100775478323712348",
+        "lang": "in",
+        "media_metadata": [
+          {
+            "media_key": "3_2100539516305985536"
+          },
+          {
+            "media_key": "3_2100539522979115008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21426
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100539529077612770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ruurichan: Misandry VS misogyny https://t.co/n6a0DCtmwn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100539516305985536",
+            "3_2100539522979115008"
+          ]
+        },
+        "author_id": "2045368812225114112",
+        "conversation_id": "2100539529077612770",
+        "created_at": "2026-09-17T10:57:04.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T11:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100539529077612770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n6a0DCtmwn",
+              "end": 44,
+              "expanded_url": "https://x.com/ruurichan/status/2100539529077612770/photo/1",
+              "media_key": "3_2100539516305985536",
+              "start": 21,
+              "url": "https://t.co/n6a0DCtmwn"
+            },
+            {
+              "display_url": "pic.x.com/n6a0DCtmwn",
+              "end": 44,
+              "expanded_url": "https://x.com/ruurichan/status/2100539529077612770/photo/1",
+              "media_key": "3_2100539522979115008",
+              "start": 21,
+              "url": "https://t.co/n6a0DCtmwn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100539529077612770",
+        "lang": "in",
+        "media_metadata": [
+          {
+            "media_key": "3_2100539516305985536"
+          },
+          {
+            "media_key": "3_2100539522979115008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3830,
+          "impression_count": 1068915,
+          "like_count": 156740,
+          "quote_count": 295,
+          "reply_count": 417,
+          "retweet_count": 21431
+        },
+        "reply_settings": "everyone",
+        "text": "Misandry VS misogyny https://t.co/n6a0DCtmwn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️⚢☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2100775478323712348",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11031,
+          "following_count": 1349,
+          "like_count": 10376,
+          "listed_count": 17,
+          "media_count": 490,
+          "tweet_count": 6288
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T05:08:30.000Z",
+        "description": "ruuchan /18/ /fem/ /lesbian/ ⟦ empty lol :3 ⟧ //!avid larper/poser (TW): look at ur own risk !!! (DNI): ANTIS//TOXICITY//TERFS//FATPHOBES.",
+        "id": "2045368812225114112",
+        "is_identity_verified": false,
+        "location": "ur mom",
+        "most_recent_tweet_id": "2100775377282986354",
+        "name": "ruu~☆ ⚠︎SHEDtwt⚠︎",
+        "pinned_tweet_id": "2049709611943354822",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045368812225114112/1776491210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045378491705942016/sm9jjOWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 633,
+          "like_count": 8695,
+          "listed_count": 0,
+          "media_count": 380,
+          "tweet_count": 5627
+        },
+        "url": "",
+        "username": "ruurichan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

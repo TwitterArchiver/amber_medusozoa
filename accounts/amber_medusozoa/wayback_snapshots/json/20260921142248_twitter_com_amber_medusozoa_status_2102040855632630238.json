@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102040851673227264",
+        "3_2102040851690004480",
+        "3_2102040851694145536"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1676746772255850496",
+          "name": "Threads (Meta)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453808088054525953",
+          "name": "Meta"
+        }
+      }
+    ],
+    "conversation_id": "2102040855632630238",
+    "created_at": "2026-09-21T14:22:48.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T15:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102040855632630238"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/la7NbN7lCI",
+          "end": 130,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2102040855632630238/photo/1",
+          "media_key": "3_2102040851673227264",
+          "start": 107,
+          "url": "https://t.co/la7NbN7lCI"
+        },
+        {
+          "display_url": "pic.x.com/la7NbN7lCI",
+          "end": 130,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2102040855632630238/photo/1",
+          "media_key": "3_2102040851690004480",
+          "start": 107,
+          "url": "https://t.co/la7NbN7lCI"
+        },
+        {
+          "display_url": "pic.x.com/la7NbN7lCI",
+          "end": 130,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2102040855632630238/photo/1",
+          "media_key": "3_2102040851694145536",
+          "start": 107,
+          "url": "https://t.co/la7NbN7lCI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102040855632630238",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102040851673227264"
+      },
+      {
+        "media_key": "3_2102040851690004480"
+      },
+      {
+        "media_key": "3_2102040851694145536"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近刷threads，看到好几个博主分享自己曾经是激女/terf但后面读了更多科普以后成为ally的经历，之前评论区也有一位朋友表达过类似的经历，感觉好感动…原来我们做的事情是有意义的，原来她们真的是会发生改变的 https://t.co/la7NbN7lCI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1146,
+        "media_key": "3_2102040851673227264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSvzBHtXoAAf-t3.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1803,
+        "media_key": "3_2102040851690004480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSvzBHxXoAA7qc0.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1677,
+        "media_key": "3_2102040851694145536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSvzBHyW0AAyzez.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102040851673227264",
+            "3_2102040851690004480",
+            "3_2102040851694145536"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2102040855632630238",
+        "created_at": "2026-09-21T14:22:48.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T15:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102040855632630238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/la7NbN7lCI",
+              "end": 130,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2102040855632630238/photo/1",
+              "media_key": "3_2102040851673227264",
+              "start": 107,
+              "url": "https://t.co/la7NbN7lCI"
+            },
+            {
+              "display_url": "pic.x.com/la7NbN7lCI",
+              "end": 130,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2102040855632630238/photo/1",
+              "media_key": "3_2102040851690004480",
+              "start": 107,
+              "url": "https://t.co/la7NbN7lCI"
+            },
+            {
+              "display_url": "pic.x.com/la7NbN7lCI",
+              "end": 130,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2102040855632630238/photo/1",
+              "media_key": "3_2102040851694145536",
+              "start": 107,
+              "url": "https://t.co/la7NbN7lCI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102040855632630238",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102040851673227264"
+          },
+          {
+            "media_key": "3_2102040851690004480"
+          },
+          {
+            "media_key": "3_2102040851694145536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近刷threads，看到好几个博主分享自己曾经是激女/terf但后面读了更多科普以后成为ally的经历，之前评论区也有一位朋友表达过类似的经历，感觉好感动…原来我们做的事情是有意义的，原来她们真的是会发生改变的 https://t.co/la7NbN7lCI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️⚢☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2102040855632630238",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11334,
+          "following_count": 1370,
+          "like_count": 10696,
+          "listed_count": 18,
+          "media_count": 513,
+          "tweet_count": 6546
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

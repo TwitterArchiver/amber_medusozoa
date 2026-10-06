@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2103488008024404157",
+    "created_at": "2026-09-26T00:40:38.000Z",
+    "display_text_range": [
+      25,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T01:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103645889721983372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1724557026867781632",
+          "start": 0,
+          "username": "Peacock166"
+        },
+        {
+          "end": 24,
+          "id": "1736265610911428608",
+          "start": 12,
+          "username": "noname2095_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103645889721983372",
+    "in_reply_to_user_id": "1724557026867781632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103645806054257136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Peacock166 @noname2095_ 谢谢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 852,
+        "media_key": "3_2103645797950869504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTGmtSga0AAkfj7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2103488008024404157",
+        "created_at": "2026-09-26T00:40:38.000Z",
+        "display_text_range": [
+          25,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T01:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103645889721983372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1724557026867781632",
+              "start": 0,
+              "username": "Peacock166"
+            },
+            {
+              "end": 24,
+              "id": "1736265610911428608",
+              "start": 12,
+              "username": "noname2095_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103645889721983372",
+        "in_reply_to_user_id": "1724557026867781632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103645806054257136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Peacock166 @noname2095_ 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103645797950869504"
+          ]
+        },
+        "author_id": "1724557026867781632",
+        "conversation_id": "2103488008024404157",
+        "created_at": "2026-09-26T00:40:18.000Z",
+        "display_text_range": [
+          30,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T01:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103645806054257136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 29,
+              "id": "1736265610911428608",
+              "start": 17,
+              "username": "noname2095_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dVjQvwKWNc",
+              "end": 59,
+              "expanded_url": "https://x.com/Peacock166/status/2103645806054257136/photo/1",
+              "media_key": "3_2103645797950869504",
+              "start": 36,
+              "url": "https://t.co/dVjQvwKWNc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103645806054257136",
+        "in_reply_to_user_id": "1724557026867781632",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103645797950869504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103503261374484968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa @noname2095_ 我也是傻逼 https://t.co/dVjQvwKWNc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2103645889721983372",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11458,
+          "following_count": 1378,
+          "like_count": 11093,
+          "listed_count": 19,
+          "media_count": 524,
+          "tweet_count": 6818
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-14T22:37:16.000Z",
+        "description": "我很好骗 匿名箱：https://t.co/EiDnXoKo5k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/pdzr1cab0r2jen",
+                "end": 32,
+                "expanded_url": "https://marshmallow-qa.com/pdzr1cab0r2jen",
+                "start": 9,
+                "url": "https://t.co/EiDnXoKo5k"
+              }
+            ]
+          }
+        },
+        "id": "1724557026867781632",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103645806054257136",
+        "name": "你坐到我尾巴了",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1724557026867781632/1770945648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087082571519987712/mg4QcCLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 205,
+          "like_count": 28910,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1578
+        },
+        "url": "",
+        "username": "Peacock166",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-17T06:03:03.000Z",
+        "description": "29元包年千G流量VPN👉🏻：https://t.co/MVeoKpvKXj\n\n🧡🤍🩷🏳️‍⚧️\n我很穷啥也不会请给我钱\n那你能帮帮我吗\n我是跨女给我往包裹里倒塞两盒日雌\n个人账号：https://t.co/5wRZ4IDVG0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yy.tz69.vip/#/register?cod…",
+                "end": 38,
+                "expanded_url": "https://www.yy.tz69.vip/#/register?code=BkiKFzKe",
+                "start": 15,
+                "url": "https://t.co/MVeoKpvKXj"
+              },
+              {
+                "display_url": "noname2095.bsky.social",
+                "end": 114,
+                "expanded_url": "http://noname2095.bsky.social",
+                "start": 91,
+                "url": "https://t.co/5wRZ4IDVG0"
+              }
+            ]
+          }
+        },
+        "id": "1736265610911428608",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2102564720033333499",
+        "name": "noname",
+        "pinned_tweet_id": "1772656363941908692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1736265610911428608/1702793756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945223550417186816/HdhCpSMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3068,
+          "following_count": 478,
+          "like_count": 5576,
+          "listed_count": 9,
+          "media_count": 270,
+          "tweet_count": 13213
+        },
+        "url": "",
+        "username": "noname2095_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

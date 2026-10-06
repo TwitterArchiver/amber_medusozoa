@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2035882965671215104",
+    "conversation_id": "2099886444718539219",
+    "created_at": "2026-09-15T16:30:43.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T17:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099898719768314264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1656591376174415873",
+          "start": 0,
+          "username": "buwendingyinzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099898719768314264",
+    "in_reply_to_user_id": "1656591376174415873",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099886444718539219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buwendingyinzi 好完美的鼻子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2099886442189373440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSRLl-9bQAA4tj3.jpg",
+        "width": 1364
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2099886444718539219",
+        "created_at": "2026-09-15T16:30:43.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T17:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099898719768314264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1656591376174415873",
+              "start": 0,
+              "username": "buwendingyinzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099898719768314264",
+        "in_reply_to_user_id": "1656591376174415873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099886444718539219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buwendingyinzi 好完美的鼻子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099886442189373440"
+          ]
+        },
+        "author_id": "1656591376174415873",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Two of the best teams in the world will fight to become the 2023 VALORANT Champions. #VALORANTChampions",
+              "id": "1694474463650230272",
+              "name": "VALORANT Champions 2023"
+            }
+          }
+        ],
+        "conversation_id": "2099886444718539219",
+        "created_at": "2026-09-15T15:41:57.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T16:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099886444718539219"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "男の娘"
+            },
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "valorant"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e1oV4HqMf7",
+              "end": 53,
+              "expanded_url": "https://x.com/buwendingyinzi/status/2099886444718539219/photo/1",
+              "media_key": "3_2099886442189373440",
+              "start": 30,
+              "url": "https://t.co/e1oV4HqMf7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099886444718539219",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099886442189373440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像是那种会给队友回血和复活的\n#男の娘 #valorant https://t.co/e1oV4HqMf7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2099898719768314264",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097770631366328653",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10916,
+          "following_count": 1331,
+          "like_count": 10102,
+          "listed_count": 15,
+          "media_count": 470,
+          "tweet_count": 6011
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-11T09:25:43.000Z",
+        "description": "182cm 57kg 🇨🇳🇹🇭 女装 模特  B站:不稳定因子x 全网5.1w 偶尔cos同好互关互赞互转叫🐱❤️欢迎投喂感谢支持🚪52r 同好可直接扩好友加群 （目前备考ing）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/QEKp0GV",
+                "end": 23,
+                "expanded_url": "https://b23.tv/QEKp0GV",
+                "start": 0,
+                "url": "https://t.co/P3HSbnENZl"
+              }
+            ]
+          }
+        },
+        "id": "1656591376174415873",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2099886444718539219",
+        "name": "不稳定因子x",
+        "pinned_tweet_id": "2097537509320433835",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1656591376174415873/1788633874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047842450694340609/cdgg1XHJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4367,
+          "following_count": 1604,
+          "like_count": 31922,
+          "listed_count": 13,
+          "media_count": 715,
+          "tweet_count": 2183
+        },
+        "url": "https://t.co/P3HSbnENZl",
+        "username": "buwendingyinzi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

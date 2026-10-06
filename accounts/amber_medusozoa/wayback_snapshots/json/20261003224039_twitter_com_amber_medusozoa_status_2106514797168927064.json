@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106154198265929728",
+        "3_2106154201906573312"
+      ],
+      "media_source_tweet_id": [
+        "2106154204993597447",
+        "2106154204993597447"
+      ]
+    },
+    "author_id": "2035882965671215104",
+    "conversation_id": "2106514797168927064",
+    "created_at": "2026-10-03T22:40:39.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T23:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106514797168927064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1515863309504991247",
+          "start": 3,
+          "username": "Zeronelite"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dRpQE12krF",
+          "end": 109,
+          "expanded_url": "https://x.com/Zeronelite/status/2106154204993597447/photo/1",
+          "media_key": "3_2106154198265929728",
+          "start": 86,
+          "url": "https://t.co/dRpQE12krF"
+        },
+        {
+          "display_url": "pic.x.com/dRpQE12krF",
+          "end": 109,
+          "expanded_url": "https://x.com/Zeronelite/status/2106154204993597447/photo/1",
+          "media_key": "3_2106154201906573312",
+          "start": 86,
+          "url": "https://t.co/dRpQE12krF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106514797168927064",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2106154198265929728"
+      },
+      {
+        "media_key": "3_2106154201906573312"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 283
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106154204993597447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zeronelite: why are you lying? our textbooks engage in blatant genocide denialism https://t.co/dRpQE12krF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 658,
+        "media_key": "3_2106154198265929728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTqQFZ3WoAAK4Jr.jpg",
+        "width": 960
+      },
+      {
+        "height": 458,
+        "media_key": "3_2106154201906573312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTqQFnbWcAAihVe.jpg",
+        "width": 511
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106154198265929728",
+            "3_2106154201906573312"
+          ],
+          "media_source_tweet_id": [
+            "2106154204993597447",
+            "2106154204993597447"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2106514797168927064",
+        "created_at": "2026-10-03T22:40:39.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T23:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106514797168927064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1515863309504991247",
+              "start": 3,
+              "username": "Zeronelite"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dRpQE12krF",
+              "end": 109,
+              "expanded_url": "https://x.com/Zeronelite/status/2106154204993597447/photo/1",
+              "media_key": "3_2106154198265929728",
+              "start": 86,
+              "url": "https://t.co/dRpQE12krF"
+            },
+            {
+              "display_url": "pic.x.com/dRpQE12krF",
+              "end": 109,
+              "expanded_url": "https://x.com/Zeronelite/status/2106154204993597447/photo/1",
+              "media_key": "3_2106154201906573312",
+              "start": 86,
+              "url": "https://t.co/dRpQE12krF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106514797168927064",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2106154198265929728"
+          },
+          {
+            "media_key": "3_2106154201906573312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 283
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106154204993597447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zeronelite: why are you lying? our textbooks engage in blatant genocide denialism https://t.co/dRpQE12krF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106154198265929728",
+            "3_2106154201906573312"
+          ]
+        },
+        "author_id": "1515863309504991247",
+        "conversation_id": "2106154204993597447",
+        "created_at": "2026-10-02T22:47:47.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T23:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106154204993597447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dRpQE12krF",
+              "end": 93,
+              "expanded_url": "https://x.com/Zeronelite/status/2106154204993597447/photo/1",
+              "media_key": "3_2106154198265929728",
+              "start": 70,
+              "url": "https://t.co/dRpQE12krF"
+            },
+            {
+              "display_url": "pic.x.com/dRpQE12krF",
+              "end": 93,
+              "expanded_url": "https://x.com/Zeronelite/status/2106154204993597447/photo/1",
+              "media_key": "3_2106154201906573312",
+              "start": 70,
+              "url": "https://t.co/dRpQE12krF"
+            },
+            {
+              "display_url": "x.com/yfcherries/sta…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/yfcherries/status/2106090703290056843",
+              "start": 94,
+              "url": "https://t.co/4CM23KGfI3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106154204993597447",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2106154198265929728"
+          },
+          {
+            "media_key": "3_2106154201906573312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 32346,
+          "like_count": 2390,
+          "quote_count": 11,
+          "reply_count": 33,
+          "retweet_count": 283
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106090703290056843",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "why are you lying? our textbooks engage in blatant genocide denialism https://t.co/dRpQE12krF https://t.co/4CM23KGfI3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2106514797168927064",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11638,
+          "following_count": 1415,
+          "like_count": 11734,
+          "listed_count": 20,
+          "media_count": 534,
+          "tweet_count": 7178
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-18T01:22:47.000Z",
+        "description": "\"Welcome back, welcome back /\nA day or a lifetime stay /\nOur guests are revolting but never complain\"  🇵🇸 🇨🇺",
+        "id": "1515863309504991247",
+        "is_identity_verified": false,
+        "location": "they/them",
+        "most_recent_tweet_id": "2106512026839265310",
+        "name": "zero/n",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1515863309504991247/1789053669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098148870442082307/k47IntGB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6171,
+          "following_count": 4577,
+          "like_count": 106134,
+          "listed_count": 34,
+          "media_count": 5211,
+          "tweet_count": 33413
+        },
+        "url": "",
+        "username": "Zeronelite",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
